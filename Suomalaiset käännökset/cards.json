@@ -94,7 +94,7 @@
     "DESCRIPTION": "Aseta kortti käteesi poistopakasta. NL Poista taistelun ajaksi."
   },
   "Power Through": {
-    "NAME": "Vomaa Läpikotaisin",
+    "NAME": "Voimaa Läpikotaisin",
     "DESCRIPTION": "Lisää 2 Haavaa käteesi. NL Saa !B! Panssaria."
   },
   "Dual Wield": {
@@ -103,20 +103,20 @@
     "UPGRADE_DESCRIPTION": "Luo 2 kopiota Hyökkäys tai Kyky kortista."
   },
   "Deadly Poison": {
-    "NAME": "Tappava myrkky",
+    "NAME": "Tappava Myrkky",
     "DESCRIPTION": "Lisää !M! Myrkkyä."
   },
   "Leg Sweep": {
-    "NAME": "Leg Sweep",
-    "DESCRIPTION": "Apply !M! Weak. NL Gain !B! Block."
+    "NAME": "Taklaus",
+    "DESCRIPTION": "Lisää !M! Heikkoutta. NL Saa !B! Panssaria."
   },
   "Flex": {
     "NAME": "Flex",
-    "DESCRIPTION": "Gain !M! Strength. NL At the end of your turn, lose !M! Strength."
+    "DESCRIPTION": "Saa !M! Voimaa. NL Vuoron lopussa, menetä !M! Voimaa."
   },
   "Dagger Spray": {
-    "NAME": "Dagger Spray",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies twice."
+    "NAME": "Tikari Löylytys",
+    "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin kahdesti."
   },
   "Bullet Time": {
     "NAME": "Bullet Time",
