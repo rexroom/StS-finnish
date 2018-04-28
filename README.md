@@ -8,9 +8,8 @@ Ennen kuin voin lisätä sinut tämän repositoryn jäseneksi sinulla täytyy ol
 sähköposti.
 
 Kun olen lisännyt sinut niin ennen käännöstyön aloittamista lue TRANSLATOR_README ja sen jälkeen voit aloittaa
-kääntämisen. Olen lisännyt tänne kansion nimeltä Alkuperäiset ENG x.x.x, täältä voit ladata jsonin jonka käänöstyön
-haluaisit aloittaa. Kun olet kääntänyt jsonin kokonaan tai haluat pitää tauon/jättää käännöksen kesken lähetä työsi
-Suomalaiset käännökset kansioon.
+kääntämisen. Olen lisännyt tänne kansion nimeltä Alkuperäiset ENG x.x.x, täältä löytyvät alkuperäiset tekstit joita
+voi käyttää vertailuun ja käännösvirheiden löytämiseksi.
 
 Jos haluat kääntää samaa jsonia kun joku toinen niin teidät täytyy koordinoida työnne että käännöksistä tulee
 johdonmukaisia eikä kumpikaan käännä samoja kohtia. Jakakaa käännökset vaikka rivivälejä käyttäen.
