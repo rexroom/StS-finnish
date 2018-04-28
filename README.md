@@ -10,8 +10,7 @@ sähköposti.
 Kun olen lisännyt sinut niin ennen käännöstyön aloittamista lue TRANSLATOR_README ja sen jälkeen voit aloittaa
 kääntämisen. Olen lisännyt tänne kansion nimeltä Alkuperäiset ENG x.x.x, täältä voit ladata jsonin jonka käänöstyön
 haluaisit aloittaa. Kun olet kääntänyt jsonin kokonaan tai haluat pitää tauon/jättää käännöksen kesken lähetä työsi
-Suomalaiset käännökset kansioon. Merkitse tiedostonimen loppuun joku E joka tarkoittaa EI VALMIS tai V joka tarkoittaa
-VALMIS.
+Suomalaiset käännökset kansioon.
 
 Jos haluat kääntää samaa jsonia kun joku toinen niin teidät täytyy koordinoida työnne että käännöksistä tulee
 johdonmukaisia eikä kumpikaan käännä samoja kohtia. Jakakaa käännökset vaikka rivivälejä käyttäen.
