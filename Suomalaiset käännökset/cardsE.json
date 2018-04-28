@@ -6,15 +6,15 @@
   },
   "Immolate": {
     "NAME": "Uhraa",
-    "DESCRIPTION": "Tekee !D! vahinkoa KAIKKIIN vihollisiin. NL Lisää Palovamman pois heitettyyn pakkaan."
+    "DESCRIPTION": "Tekee !D! vahinkoa KAIKKIIN vihollisiin. NL Lisää Palovamman poistopakkaan."
   },
   "Regret": {
     "NAME": "Katumus",
-    "DESCRIPTION": "Ei voi pelata. NL Vuoron lopussa, menetä 1 HP jokaista korttia kohden kädessäsi."
+    "DESCRIPTION": "Ei voi pelata. NL Vuoron lopussa, menetä 1 HP jokaista korttia kohden jotka ovat kädessäsi."
   },
   "Crippling Poison": {
     "NAME": "Lamaannuttava Pilvi",
-    "DESCRIPTION": "Lisää !M! Myrkkyä ja 2 heikkoutta KAIKKIIN vihollisiin. NL Poista tämä kortti taistelun ajaksi."
+    "DESCRIPTION": "Lisää !M! Myrkkyä ja 2 Heikkoutta KAIKKIIN vihollisiin. NL Poista tämä kortti taistelun ajaksi."
   },
   "A Thousand Cuts": {
     "NAME": "Tuhat Viiltoa",
@@ -59,7 +59,7 @@
   "Storm of Steel": {
     "NAME": "Teräsmyrsky",
     "DESCRIPTION": "Heitä pois kätesi. NL Lisää 1 Puukko käteesi jokaista pois heitettyä korttia kohden.",
-    "UPGRADE_DESCRIPTION": "Heitä pois kätesi. NL Lisää 1 päivitetty Puukko jokaista pois heitettyä korttia varten."
+    "UPGRADE_DESCRIPTION": "Heitä pois kädessäsi olevat kortit. NL Lisää 1 päivitetty Puukko jokaista pois heitettyä korttia varten."
   },
   "Cleave": {
     "NAME": "Halkaise",
@@ -71,7 +71,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Wraith Muoto",
-    "DESCRIPTION": "Saa !M! haavoittumattomuus. NL Vuoron lopussa, menetä 1 näppäryys."
+    "DESCRIPTION": "Saa !M! haavoittumattomuutta. NL Vuoron lopussa, menetä 1 Näppäryys."
   },
   "Wraith Form": {
     "NAME": "Wraith Muoto",
@@ -87,11 +87,11 @@
   },
   "Offering": {
     "NAME": "Uhrilahja",
-    "DESCRIPTION": "Menetä 4 HP. NL Saa [R] [R]. NL Nosta !M! korttia. NL Poista pelin ajaksi."
+    "DESCRIPTION": "Menetä 4 HP. NL Saa [R] [R]. NL Nosta !M! korttia. NL Poista taistelun ajaksi."
   },
   "Exhume": {
     "NAME": "Kaiva haudasta",
-    "DESCRIPTION": "Aseta kortti käteesi poistettujen korttien pakasta. NL Poista taistelun ajaksi."
+    "DESCRIPTION": "Aseta kortti käteesi poistopakasta. NL Poista taistelun ajaksi."
   },
   "Power Through": {
     "NAME": "Vomaa Läpikotaisin",
