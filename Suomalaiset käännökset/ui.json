@@ -1,27 +1,27 @@
 {
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Card Removal Service",
-      "SALE",
-      "Not for Sale",
-      "Sold Out",
-      "Oh no!"
+      "Kortin poisto palvelu",
+      "TARJOUS",
+      "Ei myynnissä",
+      "Myyty loppuun",
+      "Voi ei!"
     ]
   },
   "Cancel Button": {
     "TEXT": [
-      "Delete Save"
+      "Poista tallennus"
     ]
   },
   "Confirm Button": {
     "TEXT": [
-      "Confirm"
+      "Vahvista"
     ]
   },
   "End Turn Button": {
     "TEXT": [
-      "End Turn",
-      "Enemy Turn"
+      "Lopeta vuoro",
+      "Vihollisen vuoro"
     ]
   },
   "RunHistoryScreen": {
@@ -29,10 +29,10 @@
       "The Ironclad",
       "The Silent",
       "The Defect",
-      "Return",
-      "No run histories found. NL Go Slay the Spire!",
+      "Palaa",
+      "Pelihistoriaa ei löydetty. NL Mene Slay the Spire!",
       "Ascension Level: ",
-      "Slain on Floor %1$d by %2$s",
+      "Kukistettu tasolla %1$d toimesta %2$s",
       "Abandoned Run on Floor %d",
       "Victory!",
       "Cards",
