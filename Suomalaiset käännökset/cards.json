@@ -42,8 +42,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "Viitta Ja Tikari",
-    "DESCRIPTION": "Saa !B! Panssaria. NL Lisää !M! Puukko käteesi.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Panssaria. NL Lisää !M! Puukkoa käteesi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! Puukko käteesi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! Puukkoa käteesi."
   },
   "Underhanded Strike": {
     "NAME": "Ovela Isku",
@@ -71,7 +71,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Wraith Muoto",
-    "DESCRIPTION": "Saa !M! haavoittumattomuutta. NL Vuoron lopussa, menetä 1 Näppäryys."
+    "DESCRIPTION": "Saa !M! haavoittumattomuutta. NL Vuoron lopussa, menetä 1 Taitavuus."
   },
   "Wraith Form": {
     "NAME": "Wraith Muoto",
@@ -79,7 +79,7 @@
   },
   "Sadistic Nature": {
     "NAME": "Sadistinen Luonto",
-    "DESCRIPTION": "Aina kun lisäät Debuffin viholliseen, he ottavat !M! vahinkoa."
+    "DESCRIPTION": "Aina kun lisäät Heikennyksen viholliseen, he ottavat !M! vahinkoa."
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
@@ -108,7 +108,7 @@
   },
   "Leg Sweep": {
     "NAME": "Taklaus",
-    "DESCRIPTION": "Lisää !M! Heikkoutta. NL Saa !B! Panssaria."
+    "DESCRIPTION": "Lisää !M! Heikkoutta. NL Saa !B! Suojaa."
   },
   "Flex": {
     "NAME": "Flex",
