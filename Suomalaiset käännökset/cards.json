@@ -30,7 +30,7 @@
   },
   "Writhe": {
     "NAME": "Nyrjähtänyt",
-    "DESCRIPTION": "Ei voi pelata. NL On kädessäsi joka vuoron alussa."
+    "DESCRIPTION": "Ei voi pelata. NL Luontainen."
   },
   "Dark Shackles": {
     "NAME": "Pimeät Kahleet",
@@ -95,7 +95,7 @@
   },
   "Power Through": {
     "NAME": "Voimaa Läpikotaisin",
-    "DESCRIPTION": "Lisää 2 Haavaa käteesi. NL Saa !B! Panssaria."
+    "DESCRIPTION": "Lisää 2 Haavaa käteesi. NL Saa !B! Suojaa."
   },
   "Dual Wield": {
     "NAME": "Kaksois Käyttö",
