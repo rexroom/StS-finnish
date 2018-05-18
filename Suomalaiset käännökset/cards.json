@@ -1,7 +1,7 @@
 {
   "Grand Finale": {
     "NAME": "Loppunäytös",
-    "DESCRIPTION": "Voi pelata vain jos sinulla ei ole kortteja nosto pakassasi. NL Tekee !D! vahinkoa KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Voi pelata vain jos sinulla ei ole kortteja nostopakassasi. NL Tekee !D! vahinkoa KAIKKIIN vihollisiin.",
     "UPGRADE_DESCRIPTION": "Minun nostopakkani NL täytyy olla #rTyhjä."
   },
   "Immolate": {
@@ -37,7 +37,7 @@
     "DESCRIPTION": "Vihollinen menettää !M! Voimaa loppu vuoron ajaksi. NL Poista tämä kortti taistelun ajaksi."
   },
   "Glass Knife": {
-    "NAME": "Lasi Veitsi",
+    "NAME": "Lasiveitsi",
     "DESCRIPTION": "Tee !D! vahnkoa kahdesti. Lasi Veitsen vahinko laskee 2 tämän taistelun ajaksi."
   },
   "Cloak And Dagger": {
@@ -94,11 +94,11 @@
     "DESCRIPTION": "Aseta kortti käteesi poistopakasta. NL Poista taistelun ajaksi."
   },
   "Power Through": {
-    "NAME": "Voimaa Läpikotaisin",
+    "NAME": "Hammasta Purren",
     "DESCRIPTION": "Lisää 2 Haavaa käteesi. NL Saa !B! Suojaa."
   },
   "Dual Wield": {
-    "NAME": "Kaksois Käyttö",
+    "NAME": "Kaksoiskäyttö",
     "DESCRIPTION": "Luo kopio Hyökkäys tai Kyky kortista.",
     "UPGRADE_DESCRIPTION": "Luo 2 kopiota Hyökkäys tai Kyky kortista."
   },
@@ -111,11 +111,11 @@
     "DESCRIPTION": "Lisää !M! Heikkoutta. NL Saa !B! Suojaa."
   },
   "Flex": {
-    "NAME": "Flex",
+    "NAME": "Pullistelu",
     "DESCRIPTION": "Saa !M! Voimaa. NL Vuoron lopussa, menetä !M! Voimaa."
   },
   "Dagger Spray": {
-    "NAME": "Tikari Löylytys",
+    "NAME": "Tikarisade",
     "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin kahdesti."
   },
   "Bullet Time": {
