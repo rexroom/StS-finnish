@@ -2,230 +2,239 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artifact"
+        "artifakti"
       ],
-      "DESCRIPTION": "Negates the next debuff."
+      "DESCRIPTION": "Estää seuraavan negatiivisen taikaefektin."
     },
     "BLOCK": {
       "NAMES": [
-        "block",
-        "blocks"
+        "torjunta",
+        "torjuntaa"
       ],
-      "DESCRIPTION": "Until next turn, prevents damage."
+      "DESCRIPTION": "Estää vauriota seuraavaan vuoroon asti."
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "loihdi",
+        "loihtinut",
+        "loihditaan"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Kuluttaa oikeanpuolimmaisimman taikakuulasi ja käyttää sen Loihtimisefektin."
     },
     "CURSE": {
       "NAMES": [
-        "curse"
+        "Kirous"
       ],
-      "DESCRIPTION": "Curse cards are negative cards that stay in your deck."
+      "DESCRIPTION": "Kirouskortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
     },
     "DEXTERITY": {
       "NAMES": [
-        "dexterity"
+        "Ketteryys"
       ],
-      "DESCRIPTION": "Dexterity improves Block gained from cards."
+      "DESCRIPTION": "Ketteryys tehostaa korteista saatua Torjuntaa."
     },
     "ETHEREAL": {
       "NAMES": [
-        "ethereal"
+        "varjomainen"
       ],
-      "DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
+      "DESCRIPTION": "Mikäli tämä kortti on kädessäsi vuorosi lopussa se Häipyy. Häipyneet kortit poistetaan pakastasi taistelun ajaksi."
     },
     "EXHAUST": {
       "NAMES": [
-        "exhaust",
-        "exhausted"
+        "häipyy",
+        "häipyvä",
+        "häivytä",
+        "häivytettyä"
       ],
-      "DESCRIPTION": "Removed until end of combat."
+      "DESCRIPTION": "Poistettu taistelun ajaksi."
     },
     "INNATE": {
       "NAMES": [
-        "innate"
+        "luontainen"
       ],
-      "DESCRIPTION": "Start each combat with this card in your hand."
+      "DESCRIPTION": "Tämä kortti aloittaa taistelun kädessäsi."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "kohdistus"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "Kohdistus lisää #yKanavoitujen taikakuulien tehoa."
     },
     "LOCKED": {
       "NAMES": [
-        "locked"
+        "lukittu"
       ],
-      "DESCRIPTION": "This card has yet to be unlocked."
+      "DESCRIPTION": "Tätä korttia ei ole vielä avattu."
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "avaus"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Avauskortit voidaan pelata vain kunkin vuoron ensimmäisenä korttina."
     },
     "POISON": {
       "NAMES": [
-        "poison",
-        "poisoned"
+        "myrkky",
+        "myrkytetty"
       ],
-      "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
+      "DESCRIPTION": "Myrkytetyt olennot menettävät HP:ta vuoronsa lopussa. Joka vuoro Myrkky vähenee #b1:llä."
     },
     "RETAIN": {
       "NAMES": [
-        "retain"
+        "säilytä"
       ],
-      "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+      "DESCRIPTION": "Säilytettyjä kortteja ei laiteta pois vuoron lopussa."
     },
     "SHIV": {
       "NAMES": [
-        "shiv",
-        "shivs"
+        "puukko",
+        "puukot"
       ],
-      "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+      "DESCRIPTION": "Puukot ovat #b0 maksavia hyökkäyskortteja jotka poistuvat taistelun ajaksi."
     },
     "STATUS": {
       "NAMES": [
-        "status"
+        "tilakortti",
+        "tilakortin"
       ],
-      "DESCRIPTION": "Status cards are removed at the end of combat."
+      "DESCRIPTION": "Tilakortit poistetaan pakasta taistelun lopuksi."
     },
     "STRENGTH": {
       "NAMES": [
-        "strength"
+        "voima"
       ],
-      "DESCRIPTION": "Strength adds additional damage to attacks."
+      "DESCRIPTION": "Voima lisää hyökkäysten tekemää vauriota."
     },
     "TRANSFORM": {
       "NAMES": [
-        "transform"
+        "muunna"
       ],
-      "DESCRIPTION": "Transformed cards become a random card of any rarity."
+      "DESCRIPTION": "Muunnetuista korteista tulee satunnaisia, minkä tahansa harvinaisuusasteen kortteja."
     },
     "UNKNOWN": {
       "NAMES": [
-        "unknown"
+        "tuntematon"
       ],
-      "DESCRIPTION": "This card has yet to be encountered."
+      "DESCRIPTION": "Et ole vielä kohdannut tätä korttia."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "unplayable"
+        "pelikelvoton"
       ],
-      "DESCRIPTION": "Unplayable cards cannot be played from your hand."
+      "DESCRIPTION": "Pelikelvottomia kortteja ei voi itse pelata."
     },
     "UPGRADE": {
       "NAMES": [
-        "upgrade",
-        "upgraded"
+        "parantele",
+        "paranneltu"
       ],
-      "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+      "DESCRIPTION": "Korttien paranteleminen tekee niistä vahvempia. Yhtä korttia voi yleensä parannella vain kerran."
     },
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "tyhjiö",
+        "tyhjiöt"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "Tyhjiöt ovat pelikelvottomia statuskortteja, jotka kuluttavat energiaa pakasta nostettaessa."
     },
     "VULNERABLE": {
       "NAMES": [
-        "vulnerable"
+        "haavoittuvuus",
+        "haavoittuvuutta",
+        "haavoittuvaa"
       ],
-      "DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
+      "DESCRIPTION": "Haavoittuvat olennot kärsivät #b50% enemmän hyökkäyksistä."
     },
     "WEAK": {
       "NAMES": [
-        "weak",
-        "weaken",
-        "weakened",
-        "weakens"
+        "heikennys",
+        "heikennystä",
+        "heikennetty",
+        "heikennetyt"
       ],
-      "DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
+      "DESCRIPTION": "Heikennetyt olennot tekevät hyökätessään #b25% vähemmän vauriota."
     },
     "WOUND": {
       "NAMES": [
-        "wound",
-        "wounds"
+        "haava",
+        "haavaa"
       ],
-      "DESCRIPTION": "Wounds are unplayable status cards."
+      "DESCRIPTION": "Haavat ovat pelikelvottomia tilakortteja."
     },
     "DAZED": {
       "NAMES": [
-        "dazed"
+        "tärähdys",
+        "tärähdystä"
       ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
+      "DESCRIPTION": "Tärähdys -kortit ovat pelikelvottomia tilakortteja."
     },
     "BURN": {
       "NAMES": [
-        "burn",
-        "burns"
+        "palovamma",
+        "palovammat"
       ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+      "DESCRIPTION": "Palovammat ovat pelikelvottomia tilakortteja, jotka aiheuttavat vauriota."
     },
     "FRAIL": {
       "NAMES": [
-        "frail"
+        "hauras",
+        "haurautta"
       ],
-      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+      "DESCRIPTION": "Pelaajan ollessa hauras hän saa #b25% vähemmän #yTorjuntaa korteista."
     },
     "STRIKE": {
       "NAMES": [
-        "strike"
+        "Isku"
       ],
-      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
+      "DESCRIPTION": "Mikä tahansa kortti jonka nimessä on \"Isku\"."
     },
     "CONFUSED": {
       "NAMES": [
-        "confused"
+        "sekaisin"
       ],
-      "DESCRIPTION": "Whenever you draw a card, randomize its cost."
+      "DESCRIPTION": "Aina kun nostat kortin sen hinta on satunnainen."
     },
     "INTANGIBLE": {
       "NAMES": [
-        "intangible"
+        "haavoittumattomuus",
+        "haavoittumattomuutta"
       ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+      "DESCRIPTION": "Jos kärsit vauriota, menettämäsi HP on korkeintaan #b1."
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "salama",
+        "salama+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "Taikakuula: Tekee vauriota satunnaisille vihollisille."
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "halla",
+        "halla+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Taikakuula: Saa #yTorjuntaa."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "pimeä",
+        "pimeä+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Taikakuula: Vaurio lisääntyy joka vuoro. Kun taikakuula #yLoihditaan tekee se vauriota viholliselle jolla on vähiten HP:ta."
     },
     "PLASMA": {
       "NAMES": [
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "Taikakuula: Saa lisäenergiaa."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "kanavoi",
+        "kanavoitu"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "Taikakuulan Kanavoiminen laittaa sen ensimmäiseen tyhjään lokoseesi. Jos sinulla ei ole tyhjiä lokosia ensimmäinen taikakuulasi #yLoihditaan automaattisesti, jotta uudelle taikakuulalle on tilaa."
     },
     "TODO": {
       "NAMES": [

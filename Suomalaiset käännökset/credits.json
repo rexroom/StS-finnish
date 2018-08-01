@@ -1,62 +1,62 @@
 {
   "DEV": {
-    "HEADER": "Development & Design",
+    "HEADER": "Kehitys ja suunnittelu",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
     ]
   },
   "OPS": {
-    "HEADER": "Operations & Metrics",
+    "HEADER": "Toiminnot ja metriikat",
     "NAMES": [
       "Danielle Jenkins",
       "Jake Rabinowitz"
     ]
   },
   "SOUND": {
-    "HEADER": "Music & Sounds",
+    "HEADER": "Musiikki ja äänet",
     "NAMES": [
       "Clark Aboud"
     ]
   },
   "VOICE": {
-    "HEADER": "Voice Talent",
+    "HEADER": "Ääninäyttelijät",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
+    "HEADER": "Korttien piirrokset ja tapahtumien taide",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "ANIMATION": {
-    "HEADER": "Character Animation",
+    "HEADER": "Hahmoanimaatiot",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Background Illustration",
+    "HEADER": "Promo- ja taustakuvitukset",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+    "HEADER": "Kiinan (yksinkertaistettu) lokalisaatio",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "Kiinan (perinteinen) lokalisaatio",
     "NAMES": []
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "Ranskan lokalisaatio",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -72,13 +72,13 @@
     ]
   },
   "LOC_DEU": {
-    "HEADER": "German Localization",
+    "HEADER": "Saksan lokalisaatio",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand "
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "Italian lokalisaatio",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -86,43 +86,43 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "Japanin lokalisaatio",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "Korean lokalisaatio",
     "NAMES": [
-      "Translation Manager:",
+      "Käännöspäällikkö:",
       "Eteriny",
-      "Translation:",
+      "Käännös:",
       "Simcoding",
       "DesFrog",
       "insight",
       "K4lium",
       "hina",
-      "Steam Page Translation:",
+      "Steam-sivun käännös:",
       "GyeRyak"
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Norwegian Localization",
+    "HEADER": "Norjan lokalisaatio",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "Puolan lokalisaatio",
     "NAMES": [
-      "Translation and Coordination:",
+      "Käännökset ja koordinointi:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
-      "Additional Translations:",
+      "Lisäkäännökset:",
       "Adrian \"xeros\" Rolka",
-      "Proofreading:",
+      "Oikoluku:",
       "Oskar \"volf3n\" Nowak",
-      "Suggestions and Feedback:",
+      "Ehdotukset ja palaute:",
       "Kasper \"Awokado\" Beræ",
       "Pawe³ \"BASTIL\" Kaleta",
       "Grzegorz \"GregPL\" Bogus³awski",
@@ -132,7 +132,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Brazilian-Portuguese Localization",
+    "HEADER": "Brasilianportugalin lokalisaatio",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -143,13 +143,13 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "Venäjän lokalisaatio",
     "NAMES": [
-      "Translation and Coordination:",
+      "Käännökset ja koordinointi:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Translation and Repository:",
+      "Käännökset ja repo:",
       "Vladislav \"Vlad-00003\" Bolshakov",
-      "Suggestions and Feedback:",
+      "Ehdotukset ja palaute:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -160,19 +160,19 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "Turkin lokalisaatio",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "Lisäkäännökset",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "Pelitestaajat",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -204,7 +204,7 @@
     ]
   },
   "SPECIAL": {
-    "HEADER": "Special Thanks",
+    "HEADER": "Erityiskiitokset",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -218,7 +218,7 @@
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "...ja kiitos SINULLE kun pelasit!",
     "NAMES": []
   }
 }
