@@ -23,7 +23,8 @@
     },
     "CURSE": {
       "NAMES": [
-        "Kirous"
+        "Kirous",
+        "Kirouskortit"
       ],
       "DESCRIPTION": "Kirouskortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
     },
@@ -95,7 +96,8 @@
     "STATUS": {
       "NAMES": [
         "tilakortti",
-        "tilakortin"
+        "tilakortin",
+        "tilakortit"
       ],
       "DESCRIPTION": "Tilakortit poistetaan pakasta taistelun lopuksi."
     },

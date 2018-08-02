@@ -1,38 +1,38 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#yPassiivivoima: Vuoron lopussa lisää tämän taikakuulan vauriota #b:lla",
+      ". NL #yLoihdi: Tee #b",
+      " vauriota viholliselle, jolla on alhaisin HP."
     ],
-    "NAME": "Dark"
+    "NAME": "Pimeä"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "Taikakuulia on mahdollista kanavoida näihin koloihin."
     ],
-    "NAME": "Orb Slot"
+    "NAME": "Kolo taikakuulalle"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#yPassiivivoima: Vuoron lopussa saa #b",
+      " #yTorjuntaa. NL #yLoihdi: Saa #b",
+      " #yTorjuntaa."
     ],
-    "NAME": "Frost"
+    "NAME": "Halla"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#yPassiivivoima: Vuoron lopussa tee #b",
+      " vauriota satunnaiselle viholliselle. NL #yLoihdi: Tee #b",
+      " vauriota satunnaiselle viholliselle."
     ],
-    "NAME": "Lightning"
+    "NAME": "Salama"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#yPassiivivoima: Vuoron alussa saa [B] . NL #yLoihdi: Gain #b",
+      " [B] . NL #yKohdistus ei vaikuta Plasmaan."
     ],
     "NAME": "Plasma"
   }

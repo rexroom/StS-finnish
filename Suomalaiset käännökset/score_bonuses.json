@@ -1,174 +1,174 @@
 {
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "Nousu",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "+5% pisteisiin per nousutaso."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Tuonpuoleisen eliittejä tapettu",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Slain",
+    "NAME": "Pomovastuksia tapettu",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Kaupungin eliittejä tapettu",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Exordiumin eliittejä tapettu",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "Mestari",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "Voita eliittivastus kärsimättä vahinkoa."
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "Täydellinen",
     "DESCRIPTIONS": [
-      "Defeat a Boss without taking damage."
+      "Voita pomovastus kärsimättä vahinkoa."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "Parempi kuin täydellinen",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "Voita kolme pomovastusta kärsimättä vahinkoa."
     ]
   },
   "Overkill": {
-    "NAME": "Overkill",
+    "NAME": "Täystuho",
     "DESCRIPTIONS": [
-      "Deal 99 damage with a single attack."
+      "Tee 99 vahinkoa yhdellä hyökkäyksellä."
     ]
   },
   "Combo": {
-    "NAME": "C-c-c-combo",
+    "NAME": "C-C-c-combo",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "Pelaa 20 korttia yhden vuoron aikana."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Kakkaista",
     "DESCRIPTIONS": [
-      "Received the Spirit Poop."
+      "Saa henkikakkaa."
     ]
   },
   "Cheater": {
-    "NAME": "Cheater",
+    "NAME": "Huijari",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "Jäänyt kiinni huijaamisesta. Jos jää kiinni kahdesti tuloksia ei enää koskaan ladata tulostaululle."
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "Pikakiitäjä",
     "DESCRIPTIONS": [
-      "Victory in under 60 minutes."
+      "Voitto alle 60 minuutissa."
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "Valon nopeus",
     "DESCRIPTIONS": [
-      "Victory in under 45 minutes."
+      "Voitto alle 45 minuutissa."
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "Rahaa rahaa",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "Tienattu 1 000 kultaa."
     ]
   },
   "Raining Money": {
-    "NAME": "Raining Money",
+    "NAME": "Rahasade",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "Tienattu 2 000 kultaa."
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "Pidän kullasta",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "Tienattu 3 000 kultaa."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "Minimalisti",
     "DESCRIPTIONS": [
-      "Removed 5+ cards from your deck."
+      "Poistit 5+ korttia pakastasi."
     ]
   },
   "Highlander": {
     "NAME": "Highlander",
     "DESCRIPTIONS": [
-      "Your deck contains no duplicates (excluding starter cards)."
+      "Pakassasi ei ole ainuttakaan kaksoiskappaletta (aloituskortteja lukuunottamatta)."
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "Tykkään kiiltävästä",
     "DESCRIPTIONS": [
-      "Have 25+ relics."
+      "Omista 25+ taikaesinettä."
     ]
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Keräilijä",
     "DESCRIPTIONS": [
-      "Have 4 copies of any non-starter card."
+      "Omista 4 kopiota jostain kortista (paitsi aloituskortit)."
     ]
   },
   "Pauper": {
-    "NAME": "Pauper",
+    "NAME": "Kerjäläinen",
     "DESCRIPTIONS": [
-      "Have 0 rare cards."
+      "Omista 0 harvinaista korttia."
     ]
   },
   "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "Kirjastonhoitaja",
     "DESCRIPTIONS": [
-      "Deck size of at least 35 cards."
+      "Pakan koko vähintään 35 korttia."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "Tietosanakirjailija",
     "DESCRIPTIONS": [
-      "Deck size of at least 50 cards."
+      "Pakan koko vähintään 50 korttia."
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "Vatsa täynnä",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "Kasvatit maksimi-HP:tasi 15+ pisteellä."
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "Ähky",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "Kasvatit maksimi-HP:tasi 30+ pisteellä."
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "Kirottua!",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "Pakassasi on 5 kirousta."
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Alkemisti",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "Ostit 5 taikajuomaa."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Mystery Machine",
+    "NAME": "Salaisuuksien kone",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "Vierailit 15+ ?-huoneessa."
     ]
   },
   "On My Own Terms": {
-    "NAME": "On My Own Terms",
+    "NAME": "Omat säännöt",
     "DESCRIPTIONS": [
-      "Killed yourself."
+      "Tapoit itsesi."
     ]
   }
 }

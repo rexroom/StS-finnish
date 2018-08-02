@@ -1,7 +1,7 @@
 {
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Apology Slime",
+    "NAME": "Anteeksi-lima",
     "DIALOG": [
       ""
     ]
@@ -10,7 +10,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Corrupt Heart",
+    "NAME": "Korruptoitunut Sydän",
     "DIALOG": [
       ""
     ]
@@ -19,7 +19,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Nemesis",
+    "NAME": "Verivihollinen",
     "DIALOG": [
       ""
     ]
@@ -28,28 +28,28 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Chosen",
+    "NAME": "Valittu",
     "DIALOG": [
-      "~Suffer...~"
+      "~Kärsi...~"
     ]
   },
   "Byrd": {
     "MOVES": [
       ""
     ],
-    "NAME": "Byrd",
+    "NAME": "Tirppa",
     "DIALOG": [
-      "@CAW!@ NL @CAAAW@",
+      "@KRAA!@ NL @KRAAA@",
       ""
     ]
   },
   "Snecko": {
     "MOVES": [
-      "Perplexing Glare",
-      "Tail Whip",
-      "Bite"
+      "Hämmentävä tuijotus",
+      "Häntäruoska",
+      "Puraisu"
     ],
-    "NAME": "Snecko",
+    "NAME": "Kärmes",
     "DIALOG": [
       ""
     ]
@@ -59,49 +59,49 @@
       "Charging",
       "Ultimate Blast"
     ],
-    "NAME": "Gremlin Wizard",
+    "NAME": "Irviövelho",
     "DIALOG": [
       "",
-      "Charging up!",
-      "~Here~ ~it~ ~comes!!~",
-      "@I...@ @get...@ NL @help...!@",
-      "~too...~ NL ~dangerous...~ NL ~bye...~"
+      "Latautuu!",
+      "~Täältä~ ~pesee!!~",
+      "@Hakekaa...@ NL @apua...!@",
+      "~liian...~ NL ~vaarallista...~ NL ~heippa...~"
     ]
   },
   "BanditChild": {
     "MOVES": [
       ""
     ],
-    "NAME": "Pointy",
+    "NAME": "Teräväinen",
     "DIALOG": [
-      "Beeeaaar!!!!"
+      "Otso!!!!"
     ]
   },
   "Orb Walker": {
     "MOVES": [
-      "Strength Up"
+      "Lisää voimaa"
     ],
-    "NAME": "Orb Walker",
+    "NAME": "Kuulakulkija",
     "DIALOG": [
-      "Initiating NL shields."
+      "Alustetaan NL suojat."
     ]
   },
   "TheGuardian": {
     "MOVES": [
-      "Defensive Mode",
-      "Fierce Bash",
-      "Roll",
-      "Twin Slam",
-      "Whirlwind",
-      "Charging Up",
-      "Vent Steam"
+      "Suojaustila",
+      "Raivokas täräys",
+      "Kierähdys",
+      "Kaksoismojaus",
+      "Pyörretuuli",
+      "Ladataan",
+      "Höyrypurkaus"
     ],
-    "NAME": "The Guardian",
+    "NAME": "Vartija",
     "DIALOG": [
-      "#b~..COOLING...~ NL #b~...DOWN...~",
-      "Defending...",
-      "#r@DESTROY@ NL #r@DESTROY@ NL #r@DESTROY@",
-      "#r@DANGER@ NL #r@DANGER@ NL #r@DANGER@"
+      "#b~..JÄRJESTELMÄ...~ NL #b~...JÄÄHTYY...~",
+      "Puolustan...",
+      "#r@TUHOA@ NL #r@TUHOA@ NL #r@TUHOA@",
+      "#r@VAARA@ NL #r@VAARA@ NL #r@VAARA@"
     ]
   },
   "TheGuardianOrb": {
@@ -111,66 +111,66 @@
   },
   "GremlinWarrior": {
     "MOVES": [
-      "Claw"
+      "Kynsi"
     ],
-    "NAME": "Mad Gremlin",
+    "NAME": "Hullu irviö",
     "DIALOG": [
       "",
-      "@Gonna@ @go@ NL @get@ @help!@",
-      "I'm outta here!"
+      "@Pakko@ NL @hakea@ @apua!@",
+      "Minä häivyn!"
     ]
   },
   "GremlinThief": {
     "MOVES": [
       ""
     ],
-    "NAME": "Sneaky Gremlin",
+    "NAME": "Juonikas irviö",
     "DIALOG": [
       "",
-      "@I'll@ @go@ NL @get@ @help!@ ",
-      "@What@ @the!?@"
+      "@Mene@ NL @hakemaan@ @apua!@ ",
+      "@Mitä@ @hit...!?@"
     ]
   },
   "Cultist": {
     "MOVES": [
       "",
       "",
-      "Incantation"
+      "Loitsuluku"
     ],
-    "NAME": "Cultist",
+    "NAME": "Kulttilainen",
     "DIALOG": [
-      "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
-      "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
-      "~My~ ~powers~ NL ~were~ ~matched...~"
+      "@VOIMILLENI@ @EI@ @LÖYDY@ NL @VERTAA!@",
+      "@ET@ @KUULU@ NL @TÄNNE!@",
+      "~Voimilleni~ ~löytyi~ NL ~sittenkin~ ~vertaa...~"
     ]
   },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
-    "NAME": "Flame Bruiser",
+    "NAME": "Liekkikorsto",
     "DIALOG": [
       ""
     ]
   },
   "GremlinLeader": {
     "MOVES": [
-      "Rally!"
+      "Kokoontukaa!"
     ],
-    "NAME": "Gremlin Leader",
+    "NAME": "Irviöpomo",
     "DIALOG": [
-      "Don't ever give up!",
-      "We're not done yet!",
-      "Get em boys!",
-      "@Retreat@ NL @Retreaaat!@",
-      "@Ruuuuuuun!@"
+      "Älkää koskaan luovuttako!",
+      "Tämä ei vielä päättynyt!",
+      "Hoidelkaa se pojat!",
+      "@Vetäytykää!@ NL @Vetäytykää!@",
+      "@Pakoooooon!@"
     ]
   },
   "Centurion": {
     "MOVES": [
       ""
     ],
-    "NAME": "Centurion",
+    "NAME": "Sadanpäämies",
     "DIALOG": [
       ""
     ]
@@ -179,19 +179,19 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Giant Head",
+    "NAME": "Jättipää",
     "DIALOG": [
-      "~It~ ~is~ ~time~",
-      "~Good~ ~Bye~",
-      "~Tick~ ~Tock~ NL ~Tick~ ~Tock~",
-      "~Why~ ~are~ ~you~ NL ~still~ ~here?~"
+      "~On~ ~aika~",
+      "~Hyväs...~ ~ti~",
+      "~Tik~ ~tak~ NL ~tik~ ~tak~",
+      "~Miksi~ ~olet~ ~vieläkin~ NL ~täällä?~"
     ]
   },
   "BanditBear": {
     "MOVES": [
       ""
     ],
-    "NAME": "Bear",
+    "NAME": "Otso",
     "DIALOG": [
       ""
     ]
@@ -202,79 +202,79 @@
     ],
     "NAME": "Romeo",
     "DIALOG": [
-      "Grab em' Bear!!",
-      "You will pay for this!!",
-      "Nooooooo, Bear!"
+      "Nappaa se Otso!!",
+      "Tämän vielä saat maksaa!!",
+      "Eiiiiii, Otso!"
     ]
   },
   "SpikeSlime_M": {
     "MOVES": [
-      "Lick"
+      "Lipaisu"
     ],
-    "NAME": "Spike Slime (M)",
+    "NAME": "Piikkilima (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Spike Slime (S)",
+    "NAME": "Piikkilima (S)",
     "DIALOG": [
       ""
     ]
   },
   "Mugger": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Syöksähdys",
+      "Mukilointi"
     ],
-    "NAME": "Mugger",
+    "NAME": "Rosvo",
     "DIALOG": [
-      "Hand it over!",
-      "I'm outta here!"
+      "Rahat tänne!",
+      "Minä häivyn!"
     ]
   },
   "TimeEater": {
     "MOVES": [
       ""
     ],
-    "NAME": "Time Eater",
+    "NAME": "Ajan syöjä",
     "DIALOG": [
-      "~Ah...~ NL ~..company...~",
-      "~Foolish..~ NL @FOOOLISH!@"
+      "~Aaa..~ NL ~..seuraa...~",
+      "~Typerää..~ NL @TYPERÄÄ!@"
     ]
   },
   "TheCollector": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Collector",
+    "NAME": "Keräilijä",
     "DIALOG": [
-      "@You@ @are@ @mine!@"
+      "@Olet@ @minun!@"
     ]
   },
   "TorchHead": {
     "MOVES": [
       ""
     ],
-    "NAME": "Torch Head",
+    "NAME": "Soihtupää",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Corrosive Spit",
-      "Lick"
+      "Syötyttävä sylki",
+      "Lipaisu"
     ],
-    "NAME": "Acid Slime (M)",
+    "NAME": "Happolima (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Acid Slime (S)",
+    "NAME": "Happolima (S)",
     "DIALOG": [
       ""
     ]
@@ -283,34 +283,34 @@
     "MOVES": [
       "Enfeebling Spores"
     ],
-    "NAME": "Snake Plant",
+    "NAME": "Kärmesloukku",
     "DIALOG": [
       ""
     ]
   },
   "Champ": {
     "MOVES": [
-      "Defensive Stance",
-      "Execute",
-      "Face Slap"
+      "Puolustusasento",
+      "Teloitus",
+      "Avokämmen"
     ],
-    "NAME": "The Champ",
+    "NAME": "Mestari",
     "DIALOG": [
-      "You call that a weapon?",
-      "Come at me!",
-      "Do your worst! NL @HAHAHA!@",
-      "Have a free shot! NL Futile weakling!",
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@",
-      "~DIE~ ~.~ ~.~ ~.~",
-      "Face my wrath!"
+      "Tuotako kutsut aseeksi?",
+      "Antaa tulla!",
+      "Etkö pahempaan pysty! NL @HAH HAH HAA!@",
+      "Saat iskeä vapaasti! NL Senkin heikko vätys!",
+      "~Nyt~ ~teit~ ~viimeisen~ ~virheesi...~",
+      "@TAPPIO??@ NL @MAHDOTONTA!!@",
+      "~KUOLE~ ~.~ ~.~ ~.~",
+      "Kohtaa vihani!"
     ]
   },
   "Exploder": {
     "MOVES": [
       ""
     ],
-    "NAME": "Exploder",
+    "NAME": "Räjähtäjä",
     "DIALOG": [
       ""
     ]
@@ -319,7 +319,7 @@
     "MOVES": [
       "Grow"
     ],
-    "NAME": "Fungi Beast",
+    "NAME": "Sienipeto",
     "DIALOG": [
       ""
     ]
@@ -328,7 +328,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spiker",
+    "NAME": "Piikittelijä",
     "DIALOG": [
       ""
     ]
@@ -337,7 +337,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Taskmaster",
+    "NAME": "Orjapiiskuri",
     "DIALOG": [
       ""
     ]
@@ -346,27 +346,27 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Repulsor",
+    "NAME": "Karkottaja",
     "DIALOG": [
       ""
     ]
   },
   "Looter": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Syöksähdys",
+      "Mukilointi"
     ],
     "NAME": "Looter",
     "DIALOG": [
-      "Give me your gold!",
-      "@NOOOoooo!@",
-      "Where's my smoke bomb... Let's see here...",
-      "Thanks for the money, hehe"
+      "Anna kultasi tänne!",
+      "@EEIIIiiiii!@",
+      "Missäs se savupommi olikaan... Katsotaanpas...",
+      "Kiitti rahoista, hehheh"
     ]
   },
   "Sentry": {
     "MOVES": [
-      "Disintegrate"
+      "Hajoita"
     ],
     "NAME": "Sentry",
     "DIALOG": [
@@ -375,18 +375,18 @@
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Spit Web"
+      "Sylje seittiä"
     ],
-    "NAME": "Louse",
+    "NAME": "Täi",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Grow"
+      "Kasva"
     ],
-    "NAME": "Louse",
+    "NAME": "Täi",
     "DIALOG": [
       ""
     ]
@@ -395,7 +395,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Puppeteer",
+    "NAME": "Nukkemies",
     "DIALOG": [
       ""
     ]
@@ -404,7 +404,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Shelled Parasite",
+    "NAME": "Kuoriloinen",
     "DIALOG": [
       ""
     ]
@@ -413,18 +413,18 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Orb",
+    "NAME": "Kuula",
     "DIALOG": [
       ""
     ]
   },
   "Hexaghost": {
     "MOVES": [
-      "Inflame",
-      "Sear",
-      "Inferno"
+      "Syty liekkiin",
+      "Käristä",
+      "Hornan lieskat"
     ],
-    "NAME": "Hexaghost",
+    "NAME": "Kuusiokummitus",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -439,62 +439,62 @@
   },
   "SlaverRed": {
     "MOVES": [
-      "Scrape",
-      "Entangle"
+      "Raavi",
+      "Vangitse verkkoon"
     ],
-    "NAME": "Slaver",
+    "NAME": "Orjuuttaja",
     "DIALOG": [
       ""
     ]
   },
   "SlaverBlue": {
     "MOVES": [
-      "Rake"
+      "Raasta"
     ],
-    "NAME": "Slaver",
+    "NAME": "Orjuuttaja",
     "DIALOG": [
       ""
     ]
   },
   "SlimeBoss": {
     "MOVES": [
-      "Slam",
-      "Preparing",
-      "Split",
-      "Goop Spray"
+      "Iskeydy päin",
+      "Valmistautuu",
+      "Jakaudu",
+      "Mömmöruiskaus"
     ],
-    "NAME": "Slime Boss",
+    "NAME": "Pomolima",
     "DIALOG": [
-      "~Slime...~ NL #r~CRUSH!!!~",
+      "~Lima...~ NL #r~MURSKAA!!!~",
       ""
     ]
   },
   "AcidSlime_L": {
     "MOVES": [
-      "Corrosive Spit",
-      "Split",
-      "Lick"
+      "Syövyttävä sylki",
+      "Jakaudu",
+      "Lipaisu"
     ],
-    "NAME": "Acid Slime (L)",
+    "NAME": "Happolima (L)",
     "DIALOG": [
       ""
     ]
   },
   "GremlinTsundere": {
     "MOVES": [
-      "Protect",
-      "Shield Bash"
+      "Suojaa",
+      "Kilpi-isku"
     ],
-    "NAME": "Shield Gremlin",
+    "NAME": "Kilpi-irviö",
     "DIALOG": [
       "",
-      "~Good~ ~bye...~",
-      "This is no good..."
+      "~Hyvästi...~",
+      "Tämä ei suju..."
     ]
   },
   "Lagavulin": {
     "MOVES": [
-      "Siphon Soul"
+      "Sieluimuri"
     ],
     "NAME": "Lagavulin",
     "DIALOG": [
@@ -506,17 +506,17 @@
   },
   "JawWorm": {
     "MOVES": [
-      "Bellow",
-      "Thrash"
+      "Karjaisu",
+      "Heittelehtiminen"
     ],
-    "NAME": "Jaw Worm",
+    "NAME": "Kitamato",
     "DIALOG": [
       ""
     ]
   },
   "Donu": {
     "MOVES": [
-      "Circle of Power"
+      "Voiman ympyrä"
     ],
     "NAME": "Donu",
     "DIALOG": [
@@ -527,7 +527,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Serpent",
+    "NAME": "Käärme",
     "DIALOG": [
       ""
     ]
@@ -536,7 +536,7 @@
     "MOVES": [
       "HYPER BEAM"
     ],
-    "NAME": "Bronze Automaton",
+    "NAME": "Pronssiautomaatti",
     "DIALOG": [
       ""
     ]
@@ -545,20 +545,20 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Mystic",
+    "NAME": "Mystikko",
     "DIALOG": [
       ""
     ]
   },
   "GremlinFat": {
     "MOVES": [
-      "Smash"
+      "Nuiji"
     ],
-    "NAME": "Fat Gremlin",
+    "NAME": "Läski-irviö",
     "DIALOG": [
       "",
       "",
-      "@Oh@ @no,@ NL @oh@ @no,@ NL @oH@ @NO!@"
+      "@Voi@ @ei,@ NL @voi@ @ei,@ NL @vOI@ @EI!@"
     ]
   },
   "Deca": {
@@ -574,30 +574,30 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Book of Stabbing",
+    "NAME": "Selkäänpuukotusopas",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Soul Strike",
-      "Dark Echo",
-      "Cleanse",
-      "Sludge"
+      "Sieluisku",
+      "Pimeän kaiku",
+      "Puhdista",
+      "Lieju"
     ],
-    "NAME": "Awakened One",
+    "NAME": "Herännyt",
     "DIALOG": [
       "~Grr~ ~.~ ~.~ ~.~",
-      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+      "~Voi~ ~.~ ~.~ ~.~ ~ei~ ~.~ ~.~ NL ~.~ ~.~ ~eii~ ~.~ ~.~ ~.~"
     ]
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Lick",
-      "Split"
+      "Lipaisu",
+      "Jakaudu"
     ],
-    "NAME": "Spike Slime (L)",
+    "NAME": "Piikkilima (L)",
     "DIALOG": [
       ""
     ]
@@ -606,7 +606,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Fire Orb",
+    "NAME": "Tulikuula",
     "DIALOG": [
       ""
     ]
@@ -615,37 +615,37 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spheric Guardian",
+    "NAME": "Kuulavartija",
     "DIALOG": [
-      "~Outsider~ NL ~Detected~"
+      "~Ulkopuolinen~ NL ~havaittu~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Chomp! Chomp!"
+      "Hauks! Hauks!"
     ],
-    "NAME": "Darkling",
+    "NAME": "Pimiö",
     "DIALOG": [
-      "Regrowing..."
+      "Kasvaa takaisin..."
     ]
   },
   "Maw": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Maw",
+    "NAME": "Kita",
     "DIALOG": [
-      "@RRrrohrrRGHhh!!@"
+      "@RRrrourrRRRG!!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Skull Bash",
-      "Bull Rush"
+      "Kallojymäys",
+      "Sonnisyöksy"
     ],
-    "NAME": "Gremlin Nob",
+    "NAME": "Irviöjehu",
     "DIALOG": [
-      "@RRrroohrrRGHHhhh!!@"
+      "@RRrrourrRRRG!!@"
     ]
   }
 }

@@ -1,105 +1,105 @@
 {
   "Ancient Potion": {
-    "NAME": "Ancient Potion",
+    "NAME": "Muinaisjuoma",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yArtifact."
+      "Saa #b",
+      " #yArtifaktia."
     ]
   },
   "Block Potion": {
-    "NAME": "Block Potion",
+    "NAME": "Torjuntajuoma",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yBlock."
+      "Saa #b",
+      " #yTorjuntaa."
     ]
   },
   "Dexterity Potion": {
-    "NAME": "Dexterity Potion",
+    "NAME": "Ketteryysjuoma",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yDexterity."
+      "Saa #b",
+      " #yKetteryyttä."
     ]
   },
   "Elixir": {
-    "NAME": "Elixir",
+    "NAME": "Eliksiiri",
     "DESCRIPTIONS": [
       "",
       "",
-      "#yExhaust all #yStatus and #yCurse cards from your hand.",
+      "#yHäivytä kaikki #yTilakortit ja #yKirouskortit kädestäsi.",
       "",
-      "It had no effect..."
+      "Sillä ei ollut vaikutusta..."
     ]
   },
   "Energy Potion": {
-    "NAME": "Energy Potion",
+    "NAME": "Energiajuoma",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Energy."
+      "Saa #b",
+      " Energiaa."
     ]
   },
   "Explosive Potion": {
-    "NAME": "Explosive Potion",
+    "NAME": "Räjähdysjuoma",
     "DESCRIPTIONS": [
-      "Deal #b",
-      " damage to ALL enemies."
+      "Tee #b",
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Fire Potion": {
-    "NAME": "Fire Potion",
+    "NAME": "Tulijoma",
     "DESCRIPTIONS": [
-      "Deal #b",
-      " damage."
+      "Tee #b",
+      " vauriota."
     ]
   },
   "Health Potion": {
-    "NAME": "Health Potion",
+    "NAME": "Parannusjuoma",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " HP."
+      "Paranna #b",
+      " HP:ta."
     ]
   },
   "Poison Potion": {
-    "NAME": "Poison Potion",
+    "NAME": "Myrkkyjuoma",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yPoison."
+      "Lisää #b",
+      " #yMyrkkyä."
     ]
   },
   "Potion Slot": {
-    "NAME": "Potion Slot",
+    "NAME": "Taikajuoman paikka",
     "DESCRIPTIONS": [
-      "Use potions during combat to gain #gbonuses or #rhinder enemies.",
-      "Potion Slot"
+      "Käytä taikajuomia taistelun aikana saadaksesi #gbonusta tai #rhaitataksesi vihollisia.",
+      "Taikajuoman paikka"
     ]
   },
   "Regen Potion": {
-    "NAME": "Regen Potion",
+    "NAME": "Korjautumisjuoma",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " #yHP at the end of each turn for #b",
-      " turns."
+      "Paranna #b",
+      " #yHP joka vuoron lopussa #b",
+      " vuoron ajan."
     ]
   },
   "Strength Potion": {
-    "NAME": "Strength Potion",
+    "NAME": "Voimajuoma",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength."
+      "Saa #b",
+      " #yVoimaa."
     ]
   },
   "Swift Potion": {
-    "NAME": "Swift Potion",
+    "NAME": "Nopeusjuoma",
     "DESCRIPTIONS": [
       "",
-      "Draw #b",
-      " cards."
+      "Nosta #b",
+      " korttia."
     ]
   },
   "Weak Potion": {
-    "NAME": "Weak Potion",
+    "NAME": "Heikennysjuoma",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yWeak."
+      "Lisää #b",
+      " #yHeikennystä."
     ]
   }
 }
