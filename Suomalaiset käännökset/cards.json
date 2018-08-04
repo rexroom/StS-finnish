@@ -22,7 +22,7 @@
   },
   "Spot Weakness": {
     "NAME": "Huomaa Heikkous",
-    "DESCRIPTION": "Jos vihollinen aikoo hyökätä, saa !M! Voimaa."
+    "DESCRIPTION": "Jos vihollinen aikoo hyökätä, saa !M! Vahvuutta."
   },
   "Wound": {
     "NAME": "Haava",
@@ -34,7 +34,7 @@
   },
   "Dark Shackles": {
     "NAME": "Pimeät Kahleet",
-    "DESCRIPTION": "Vihollinen menettää !M! Voimaa loppu vuoron ajaksi. NL Häipyvä."
+    "DESCRIPTION": "Vihollinen menettää !M! Vahvuutta loppu vuoron ajaksi. NL Häipyvä."
   },
   "Glass Knife": {
     "NAME": "Lasiveitsi",
@@ -67,7 +67,7 @@
   },
   "Inflame": {
     "NAME": "Raivo",
-    "DESCRIPTION": "Saa !M! Voimaa."
+    "DESCRIPTION": "Saa !M! Vahvuutta."
   },
   "Wraith Form v2": {
     "NAME": "Häivemuoto",
@@ -83,7 +83,7 @@
   },
   "J.A.X.": {
     "NAME": "H.A.B.A.",
-    "DESCRIPTION": "Menetä 3 HP. NL Saa !M! Voimaa. NL Häipyvä."
+    "DESCRIPTION": "Menetä 3 HP. NL Saa !M! Vahvuutta. NL Häipyvä."
   },
   "Offering": {
     "NAME": "Uhrilahja",
@@ -112,7 +112,7 @@
   },
   "Flex": {
     "NAME": "Pullistelu",
-    "DESCRIPTION": "Saa !M! Voimaa. NL Vuoron lopussa, menetä !M! Voimaa."
+    "DESCRIPTION": "Saa !M! Vahvuutta. NL Vuoron lopussa, menetä !M! Vahvuutta."
   },
   "Dagger Spray": {
     "NAME": "Tikarisade",
@@ -391,7 +391,7 @@
   },
   "PiercingWail": {
     "NAME": "Läpitunkeva vaikerrus",
-    "DESCRIPTION": "KAIKKI viholliset menettävät !M! Voimaa 1 vuoron ajaksi. NL Häipyvä."
+    "DESCRIPTION": "KAIKKI viholliset menettävät !M! Vahvuutta 1 vuoron ajaksi. NL Häipyvä."
   },
   "Bite": {
     "NAME": "Puraisu",
@@ -467,7 +467,7 @@
   },
   "Disarm": {
     "NAME": "Riisu aseista",
-    "DESCRIPTION": "Vihollinen menettää !M! Voimaa. NL Häipyvä."
+    "DESCRIPTION": "Vihollinen menettää !M! Vahvuutta. NL Häipyvä."
   },
   "Panache": {
     "NAME": "Panache",
@@ -552,8 +552,8 @@
   },
   "Limit Break": {
     "NAME": "Riko rajasi",
-    "DESCRIPTION": "Tuplaa Voimasi. NL Häipyvä.",
-    "UPGRADE_DESCRIPTION": "Tuplaa Voimasi."
+    "DESCRIPTION": "Tuplaa Vahvuutesi. NL Häipyvä.",
+    "UPGRADE_DESCRIPTION": "Tuplaa Vahvuutesi."
   },
   "Entrench": {
     "NAME": "Kaivaudu asemiin",
@@ -575,8 +575,8 @@
   },
   "Malaise": {
     "NAME": "Vitsaus",
-    "DESCRIPTION": "Vihollinen menettää X Voimaa. Lisää X Heikennystä. NL Häipyvä.",
-    "UPGRADE_DESCRIPTION": "Vihollinen menettää X+1 Strength. Voimaa. Lisää X+1 Heikennystä. NL Häipyvä."
+    "DESCRIPTION": "Vihollinen menettää X Vahvuutta. Lisää X Heikennystä. NL Häipyvä.",
+    "UPGRADE_DESCRIPTION": "Vihollinen menettää X+1 Strength. Vahvuutta. Lisää X+1 Heikennystä. NL Häipyvä."
   },
   "Reflex": {
     "NAME": "Refleksi",
@@ -613,7 +613,7 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vauriota. NL Voima lisää Raskaan kalvan tehoa !M! -kertaisesti."
+    "DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää Raskaan kalvan tehoa !M! -kertaisesti."
   },
   "Clumsy": {
     "NAME": "Kömpelö",
@@ -671,7 +671,7 @@
   },
   "Rupture": {
     "NAME": "Repeytymä",
-    "DESCRIPTION": "Aina kun menetät HP:ta kortin vuoksi, NL saa 1 Voimaa."
+    "DESCRIPTION": "Aina kun menetät HP:ta kortin vuoksi, NL saa 1 Vahvuutta."
   },
   "Venomology": {
     "NAME": "Alkemia",
@@ -789,7 +789,7 @@
   },
   "Demon Form": {
     "NAME": "Demonimuoto",
-    "DESCRIPTION": "Vuorosi alussa saa !M! Voimaa."
+    "DESCRIPTION": "Vuorosi alussa saa !M! Vahvuutta."
   },
   "Fire Breathing": {
     "NAME": "Tulihengitys",

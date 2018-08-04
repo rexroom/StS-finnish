@@ -103,9 +103,11 @@
     },
     "STRENGTH": {
       "NAMES": [
-        "voima"
+        "vahvuus",
+        "vahvuutta",
+        "vahvuutesi"
       ],
-      "DESCRIPTION": "Voima lisää hyökkäysten tekemää vauriota."
+      "DESCRIPTION": "Vahvuus lisää hyökkäysten tekemää vauriota."
     },
     "TRANSFORM": {
       "NAMES": [

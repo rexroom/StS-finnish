@@ -1,493 +1,493 @@
 {
   "Anchor": {
-    "NAME": "Anchor",
-    "FLAVOR": "Holding this miniature trinket, you feel heavier and more stable.",
+    "NAME": "Ankkuri",
+    "FLAVOR": "Pitäessäsi tätä pientä koristetta tunnet olosi vakaammaksi ja painavammaksi.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yBlock."
+      "Aloita jokainen taistelu #b",
+      " #yTorjunnalla."
     ]
   },
   "Art of War": {
-    "NAME": "Art of War",
-    "FLAVOR": "This ancient manuscript contains wisdom from a past age.",
+    "NAME": "Sodan taito",
+    "FLAVOR": "Tässä muinaisessa kirjoituksessa on vanhojen aikojen viisautta.",
     "DESCRIPTIONS": [
-      "If you do not play any #yAttacks during your turn, gain an extra ",
-      "[R] next turn.",
-      "[G] next turn.",
-      "[B] next turn."
+      "Jos et tee vuorosi aikana #yHyökkäyksiä, saat ylimääräisen ",
+      "[R] seuraavalla vuorolla.",
+      "[G] seuraavalla vuorolla.",
+      "[B] seuraavalla vuorolla."
     ]
   },
   "Astrolabe": {
-    "NAME": "Astrolabe",
-    "FLAVOR": "A tool to glean invaluable knowledge from the stars.",
+    "NAME": "Astrolabi",
+    "FLAVOR": "Väline tietojen hankkimiseen tähdistä.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose and #yTransform #b3 cards, then #yUpgrade them.",
-      "Choose 3 cards for "
+      "Saadessasi tämän valitse ja #yMuunna #b3 korttia ja #yParantele ne.",
+      "Valitse 3 korttia "
     ]
   },
   "Bag of Marbles": {
-    "NAME": "Bag of Marbles",
-    "FLAVOR": "A once popular toy in the City. Useful for throwing enemies off balance.",
+    "NAME": "Marmorikuulapussi",
+    "FLAVOR": "Oli aikanaan Kaupungissa suosittu lelu. Auttaa pitämään viholliset poissa tasapainosta.",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b",
-      " #yVulnerable to ALL enemies."
+      "Taistelun alussa lisää#b",
+      " #yHaavoittuvaisuutta KAIKILLE vihollisille."
     ]
   },
   "Bag of Preparation": {
-    "NAME": "Bag of Preparation",
-    "FLAVOR": "Oversized adventurer's pack. Has many pockets and straps.",
+    "NAME": "Valmistautumisreppu",
+    "FLAVOR": "Ylikokoinen seikkailijan reppu. Siinä on monta taskua ja remmiä.",
     "DESCRIPTIONS": [
-      "At the start of each combat, draw #b",
-      " additional cards."
+      "Jokaisen taistelun alussa nosta #b",
+      " ylimääräistä korttia."
     ]
   },
   "Bird Faced Urn": {
-    "NAME": "Bird-Faced Urn",
-    "FLAVOR": "This urn shows the crow god Mazaleth looking mischievous.",
+    "NAME": "Linnunnaamainen uurna",
+    "FLAVOR": "Tässä uurnassa on kuvattuna varisjumala Mazaleth pahanilkisine ilmeineen.",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, heal #b",
-      " HP."
+      "Aina kun pelaat #yVoiman, paranna #b",
+      " HP:ta."
     ]
   },
   "Black Blood": {
-    "NAME": "Black Blood",
-    "FLAVOR": "The rage grows darker.",
+    "NAME": "Musta veri",
+    "FLAVOR": "Raivo vaan synkkenee.",
     "DESCRIPTIONS": [
-      "Replaces #rBurning #rBlood. At the end of combat, heal #b",
-      " HP."
+      "Korvaa #rPolttavan veren. Taistelun lopuksi paranna #b",
+      " HP:ta."
     ]
   },
   "Black Star": {
-    "NAME": "Black Star",
-    "FLAVOR": "Originally discovered in the town of the serpent, aside a solitary candle.",
+    "NAME": "Musta tähti",
+    "FLAVOR": "Löydettiin alunperin Käärmeen kaupungissa yksittäisen kynttilän viereltä.",
     "DESCRIPTIONS": [
-      "#yElites now drop #b2 #yRelics when defeated."
+      "#yEliittivastukset tiputtavat #b2 #yTaikaesinettä kuollessaan."
     ]
   },
   "Blood Vial": {
-    "NAME": "Blood Vial",
-    "FLAVOR": "A vial containing the blood of a pure and elder vampire.",
+    "NAME": "Veriputkilo",
+    "FLAVOR": "Putkilo jossa on vanhan, puhdasverisen vampyyrin verta.",
     "DESCRIPTIONS": [
-      "At the start of each combat, heal #b",
-      " HP."
+      "Jokaisen taistelun aluksi paranna #b",
+      " HP:ta."
     ]
   },
   "Bloody Idol": {
-    "NAME": "Bloody Idol",
-    "FLAVOR": "The idol now weeps a constant stream of blood.",
+    "NAME": "Verinen jumalankuva",
+    "FLAVOR": "Jumalankuva itkee verta jatkuvana virtana.",
     "DESCRIPTIONS": [
-      "Whenever you gain #yGold, heal #b",
-      " HP."
+      "Aina kun saat #yKultaa, paranna #b",
+      " HP:ta."
     ]
   },
   "Blue Candle": {
-    "NAME": "Blue Candle",
-    "FLAVOR": "The flame ignites when shrouded in darkness.",
+    "NAME": "Sininen kynttilä",
+    "FLAVOR": "Liekit syttyvät kun pimeys ympäröi.",
     "DESCRIPTIONS": [
-      "#yCurse cards can now be played. NL NL Playing a #yCurse will make you lose #b",
-      " HP and #yExhausts the card."
+      "#yKirouskortteja voi nyt pelata. NL NL #yKirouksen pelaaminen kuluttaa #b",
+      " HP:ta ja #yHäivyttää kortin."
     ]
   },
   "Bottled Flame": {
-    "NAME": "Bottled Flame",
-    "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
+    "NAME": "Pullotettu liekki",
+    "FLAVOR": "Pullon sisällä on ikuisesti liekehtivä tuli.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose an Attack card. At the start of each combat, this card will be in your hand.",
-      "Choose a card for ",
-      "At the start of each combat, add ",
-      " to your hand."
+      "Saadessasi tämän valitse Hyökkäyskortti. Jokaisen taistelun alussa valittu kortti aloittaa kädessäsi.",
+      "Valitse kortti ",
+      "Jokaisen taistelun alussa lisää ",
+      " käteesi."
     ]
   },
   "Bottled Lightning": {
-    "NAME": "Bottled Lightning",
-    "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
+    "NAME": "Pullotettu salama",
+    "FLAVOR": "Tuijottaessasi myrskyn pyörteisiin näet jonkin osan itsestäsi katsovan takaisin.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose a Skill card. At the start of each combat, this card will be in your hand.",
-      "Choose a card for ",
-      "At the start of each combat, add ",
-      " to your hand."
+      "Saadessasi tämän valitse Kykykortti. Jokaisen taistelun alussa valittu kortti aloittaa kädessäsi.",
+      "Valitse kortti ",
+      "Jokaisen taistelun alussa lisää ",
+      " käteesi."
     ]
   },
   "Bottled Tornado": {
-    "NAME": "Bottled Tornado",
-    "FLAVOR": "Test relic.",
+    "NAME": "Pullotettu pyörremyrsky",
+    "FLAVOR": "Koetaikaesine.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose a Power card. At the start of each combat, this card will be in your hand.",
-      "Choose a card for ",
-      "At the start of each combat, add ",
-      " to your hand."
+      "Saadessasi tämän valitse Voimakortti. Jokaisen taistelun alussa valittu kortti aloittaa kädessäsi.",
+      "Valitse kortti ",
+      "Jokaisen taistelun alussa lisää ",
+      " käteesi."
     ]
   },
   "Bronze Scales": {
-    "NAME": "Bronze Scales",
-    "FLAVOR": "The sharp scales of the Guardian. Rearranges itself to protect its user. ",
+    "NAME": "Pronssisuomut",
+    "FLAVOR": "Vartijan teräviä suomuja. Järjestäytyvät itsestään käyttäjäänsä suojaamaan. ",
     "DESCRIPTIONS": [
-      "Whenever you take damage, deal #b",
-      " damage back."
+      "Aina kun kärsit vauriota tee #b",
+      " vauriota takaisinpäin."
     ]
   },
   "Burning Blood": {
-    "NAME": "Burning Blood",
-    "FLAVOR": "Your body's own blood burns with an undying rage.",
+    "NAME": "Polttava veri",
+    "FLAVOR": "Veri kehossasi palaa sammumattomalla raivolla.",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "Taistelun lopussa paranna #b",
+      " HP:ta."
     ]
   },
   "Calipers": {
-    "NAME": "Calipers",
-    "FLAVOR": "\"Mechanical precision leads to greatness\" - The Architect",
+    "NAME": "Mittauslaite",
+    "FLAVOR": "\"Mekaaninen tarkkuus johtaa suuruuteen\" - Arkkitehti",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yBlock rather than all of your #yBlock."
+      "Vuorosi alussa menetät kaiken #yTorjuntasi sijaan vain #b",
+      " #yTorjuntaa."
     ]
   },
   "Calling Bell": {
-    "NAME": "Calling Bell",
-    "FLAVOR": "This dark iron bell rang 3 times when you found it, but now stays silent.",
+    "NAME": "Kutsukello",
+    "FLAVOR": "Tämä musta rautainen kello soi kolmesti kun löysit sen mutta on nyt äänetön.",
     "DESCRIPTIONS": [
-      "Obtain #b3 #rCurses and #b3 #yRelics.",
-      "The Bell Tolls...",
-      "Skip Rewards",
-      "Close"
+      "Saa #b3 #rKirousta ja #b3 #yTaikaesinettä.",
+      "Kello soi...",
+      "Jätä palkinnot",
+      "Sulje"
     ]
   },
   "Cauldron": {
-    "NAME": "Cauldron",
-    "FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
+    "NAME": "Rautapata",
+    "FLAVOR": "Kauppias on itse asiassa taitava taikajuomien keittäjä. Osta 4 niin saat 1 ilmaiseksi.",
     "DESCRIPTIONS": [
-      "When obtained, brews #b5 random potions.",
-      "Blup blip bloop...!"
+      "Saadessasi tämän saat #b5 satunnaista taikajuomaa.",
+      "Plup plip pluup...!"
     ]
   },
   "Centennial Puzzle": {
-    "NAME": "Centennial Puzzle",
-    "FLAVOR": "Upon solving the puzzle you feel a powerful warmth in your chest.",
+    "NAME": "Vuosisatainen pulma",
+    "FLAVOR": "Ratkaistessasi pulman tunnet voimakasta lämpöä rinnassasi.",
     "DESCRIPTIONS": [
-      "The first time you lose HP each combat, draw #b",
-      " cards."
+      "Ensimmäisen kerran kun menetät kussakin taistelussa HP:ta, nosta #b",
+      " korttia."
     ]
   },
   "Chameleon Ring": {
-    "NAME": "Chameleon Ring",
-    "FLAVOR": "Deprecated",
+    "NAME": "Kameleonttisormus",
+    "FLAVOR": "Poistettu.",
     "DESCRIPTIONS": [
-      "You can now #yBrew at Rest Sites."
+      "Voit nyt #yKeittää Lepopaikoissa."
     ]
   },
   "Champion Belt": {
-    "NAME": "Champion Belt",
-    "FLAVOR": "Only the greatest may wear this belt.",
+    "NAME": "Mestarin vyö",
+    "FLAVOR": "Vain mahtavin voi käyttää tätä vyötä.",
     "DESCRIPTIONS": [
-      "Whenever you apply #yVulnerable, also apply #b",
-      " #yWeak."
+      "Aina kun aiheutat #yHaavoittuvaisuutta, aiheutat myös #b",
+      " #yHeikkoutta."
     ]
   },
   "Charon's Ashes": {
-    "NAME": "Charon's Ashes",
-    "FLAVOR": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.",
+    "NAME": "Charonin tuhkat",
+    "FLAVOR": "Charonin sanotaan olvan uudelleensyntymisen jumala joka aina kuolee ja syntyy sitten uudelleen liekeistä.",
     "DESCRIPTIONS": [
-      "Whenever you #yExhaust a card, deal #b",
-      " damage to ALL enemies."
+      "Aina kun #yHäivytät kortin tee #b",
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Chemical X": {
-    "NAME": "Chemical X",
-    "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
+    "NAME": "Kemikaali X",
+    "FLAVOR": "VAROITUS: Älä yhdistät tätä sokeriin, kukkasiin, inkivääriin ja kaneliin.",
     "DESCRIPTIONS": [
-      "Whenever you play a cost #bX card, its effects are increased by #b"
+      "Aina kun pelaat #bX -hintaisen kortin sen teho lisääntyy #b :n verran."
     ]
   },
   "Circlet": {
-    "NAME": "Circlet",
-    "FLAVOR": "You ran out of relics to find. Impressive!",
+    "NAME": "Koristepanta",
+    "FLAVOR": "Ei ole enempää taikaesineitä löydettäväksi. Vaikuttavaa!",
     "DESCRIPTIONS": [
-      "Looks pretty."
+      "Nätin näköinen."
     ]
   },
   "The Courier": {
-    "NAME": "The Courier",
-    "FLAVOR": "The merchant's personal pet!",
+    "NAME": "Kuriiri",
+    "FLAVOR": "Kauppiaan oma lemmikki!",
     "DESCRIPTIONS": [
-      "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by #b20%."
+      "Kortit tai taikaesineet eivät enää lopu kauppiaalta ja hänen hintansa ovat #b20% pienemmät."
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "NAME": "Haljennut ydin",
+    "FLAVOR": "Automaatteja ylläpitävä salaperäinen elinvoima. Siinä näyttää olevan halkeama.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "Jokaisen taistelun alussa #yKanavoi #b1 #ySalama."
     ]
   },
   "Cursed Key": {
-    "NAME": "Cursed Key",
-    "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
+    "NAME": "Kirottu avain",
+    "FLAVOR": "Tästä avaimesta hohkaa pahantahtoista energiaa. Voimalla on hintansa.",
     "DESCRIPTIONS": [
-      " Whenever you open a non-boss chest, obtain a #rCurse.",
-      "Gain [R] at the start of each turn.",
-      "Gain [G] at the start of each turn.",
-      "Gain [B] at the start of each turn."
+      "Aina kun avaat arkun (pomoarkkuja lukuunottamatta) saat #rKirouksen.",
+      "Saa [R] joka vuoron alussa.",
+      "Saa [G] joka vuoron alussa.",
+      "Saa [B] joka vuoron alussa."
     ]
   },
   "Dead Branch": {
-    "NAME": "Dead Branch",
-    "FLAVOR": "The branch of a tree from a forgotten era.",
+    "NAME": "Kuollut oksa",
+    "FLAVOR": "Unohdetulta ajalta peräisin olevan puun oksa.",
     "DESCRIPTIONS": [
-      "Whenever you #yExhaust a card, add a random card to your hand."
+      "Aina kun #yHäivytät kortin lisää satunnainen kortti käteesi."
     ]
   },
   "Discerning Monocle": {
-    "NAME": "Discerning Monocle",
-    "FLAVOR": "A very dapper looking monocle indeed.",
+    "NAME": "Hienostunut monokkeli",
+    "FLAVOR": "Tosiaankin hyvin tyylikkään näköinen monokkeli.",
     "DESCRIPTIONS": [
-      "Merchant prices are reduced by #b20%"
+      "Kauppiaan hinnat ovat #b20% alemmat."
     ]
   },
   "Dodecahedron": {
-    "NAME": "Runic Dodecahedron",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Riimukymmentahokas",
+    "FLAVOR": "Nopan riimuja ei pysty tulkitsemaan.",
     "DESCRIPTIONS": [
-      "If your HP is full, gain ",
-      "[R] at the start of each turn.",
-      "[G] at the start of each turn.",
-      "[B] at the start of each turn."
+      "Mikäli HP:si on täynnä saat ",
+      "jokaisen vuoron alussa [R].",
+      "jokaisen vuoron alussa [G].",
+      "jokaisen vuoron alussa [B]."
     ]
   },
   "Dream Catcher": {
-    "NAME": "Dream Catcher",
-    "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
+    "NAME": "Unisieppari",
+    "FLAVOR": "Pohjoisen heimot käyttävät usein öisin unisieppareita uskoen, että pystyvät kehittämään itseään niillä.",
     "DESCRIPTIONS": [
-      "Whenever you rest, you may add a card to your deck."
+      "Aina levätessässi voit lisätä pakkaasi kortin."
     ]
   },
   "Du-Vu Doll": {
-    "NAME": "Du-Vu Doll",
-    "FLAVOR": "A doll devised to gain strength from malicious energy.",
+    "NAME": "Duu-Vuu-nukke",
+    "FLAVOR": "Nukke, joka on suunniteltu keräämään voimaa pahantahtoisista energioista.",
     "DESCRIPTIONS": [
-      "For each #yCurse in your deck, start each combat with #b",
-      " additional #yStrength.",
-      " You have no #yCurses.",
-      " You have #b",
-      " #yCurses."
+      "Jokaista pakkasi #yKirousta kohden saat taistelun alussa #b",
+      " #yVahvuutta.",
+      " Pakassasi ei ole #yKirouksia.",
+      " Pakassasi on #b",
+      " #yKirousta."
     ]
   },
   "Ectoplasm": {
-    "NAME": "Ectoplasm",
-    "FLAVOR": "This blob of slime and energy seems to pulse with life.",
+    "NAME": "Ektoplasma",
+    "FLAVOR": "Tämä limainen energiamöykky tuntuu sykkivän elämää.",
     "DESCRIPTIONS": [
-      " You can no longer gain #yGold.",
-      "Gain [R] at the start of each turn.",
-      "Gain [G] at the start of each turn.",
-      "Gain [B] at the start of each turn."
+      " Et voi enää saada #yKultaa.",
+      "Jokaisen vuoron alussa saat [R].",
+      "Jokaisen vuoron alussa saat [G].",
+      "Jokaisen vuoron alussa saat [B]."
     ]
   },
   "Frozen Egg 2": {
-    "NAME": "Frozen Egg",
-    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "NAME": "Jäätynyt muna",
+    "FLAVOR": "Muna on liikkumaton ja jäässä, eikä koskaan tule kuoriutumaan.",
     "DESCRIPTIONS": [
-      "Whenever you add a #yPower card to your deck, it is #yUpgraded."
+      "Aina kun lisäät pakkaasi #yVoiman kyseisestä kortista tulee #yParanneltu."
     ]
   },
   "Molten Egg 2": {
-    "NAME": "Molten Egg",
-    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "NAME": "Sulanut muna",
+    "FLAVOR": "Feenix-linnun muna. Se hohtaa punaisena kuin laava.",
     "DESCRIPTIONS": [
-      "Whenever you add an #yAttack card to your deck, it is #yUpgraded."
+      "Aina kun lisäät pakkaasi #yHyökkäyksen kyseisestä kortista tulee #yParanneltu."
     ]
   },
   "Toxic Egg 2": {
-    "NAME": "Toxic Egg",
-    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "NAME": "Myrkyllinen muna",
+    "FLAVOR": "\"Miten mahtava löytö! Tämä tuntuu olevan jonkin maagisen olennon muna! Kuka tai mikä tämän on luonut?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever you add a #ySkill card to your deck, it is #yUpgraded."
+      "Aina kun lisäät pakkaasi #yKyvyn kyseisestä kortista tulee #yParanneltu."
     ]
   },
   "Enchiridion": {
     "NAME": "Enchiridion",
-    "FLAVOR": "The legendary journal of an ancient lich.",
+    "FLAVOR": "Muinaisen lich-olennon tarunomainen päiväkirja.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a random #yPower card to your hand. It costs #b0 until the end of turn."
+      "Jokaisen taistelun alussa lisää satunnainen #yVoima käteesi. Seuraavan vuoron alkuun saakka sen hinta on #b0."
     ]
   },
   "Eternal Feather": {
-    "NAME": "Eternal Feather",
-    "FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from? ",
+    "NAME": "Ikuinen höyhen",
+    "FLAVOR": "Tämä höyhen vaikuttaa täysin tuhoutumattomalta. Mistä linnusta tämä oikein voi olla peräisin? ",
     "DESCRIPTIONS": [
-      "For every #b",
-      " cards in your deck, heal #b",
-      " HP whenever you enter a Rest Site."
+      "Jokaista #b",
+      " pakassasi olevaa korttia kohden paranna #b",
+      " HP:ta aina kun pääset lepopaikkaan."
     ]
   },
   "Frozen Egg": {
-    "NAME": "Frozen Egg",
-    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "NAME": "Jäätynyt muna",
+    "FLAVOR": "Muna on liikkumaton ja jäässä, eikä koskaan tule kuoriutumaan.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose and #yUpgrade a #yPower.",
-      "Choose a card for "
+      "Saadessasi tämän valitse ja #yParantele #yVoima.",
+      "Valitse kortti "
     ]
   },
   "Gambling Chip": {
-    "NAME": "Gambling Chip",
-    "FLAVOR": "You can see a small inscription on one side. It reads: \"Bear's Lucky Chip!\"",
+    "NAME": "Pokerirahake",
+    "FLAVOR": "Toisella puolella on pieni kaiverrus. Siinä lukee: \"Otson Onnenraha!\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, discard any number of cards then draw that many."
+      "Jokaisen taistelun alussa laita pois haluamasi määrä kortteja ja nosta sitten yhtä monta pakasta."
     ]
   },
   "Ginger": {
-    "NAME": "Ginger",
-    "FLAVOR": "A potent tool in many tonics.",
+    "NAME": "Inkivääri",
+    "FLAVOR": "Monissa juomissa käytetty väkevä ainesosa.",
     "DESCRIPTIONS": [
-      "You can no longer become #yWeakened."
+      "#yHeikennys ei enää vaikuta sinuun."
     ]
   },
   "Girya": {
-    "NAME": "Girya",
-    "FLAVOR": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
+    "NAME": "Kahvakuula",
+    "FLAVOR": "Tämä kahvakuula on uskomattoman painava. Sen avulla olisi mahdollista tulla paljon vahvemmaksi.",
     "DESCRIPTIONS": [
-      "You can now gain #yStrength at Rest Sites. (3 times max)"
+      "Lepopaikoissa on nyt mahdollista saada lisää #yVahvuutta. (korkeintaan 3 kertaa)"
     ]
   },
   "Golden Idol": {
-    "NAME": "Golden Idol",
-    "FLAVOR": "Made of solid gold, you feel richer just holding it.",
+    "NAME": "Kultainen jumalankuva",
+    "FLAVOR": "Puhtaasta kullasta tehty ja tunnet itsesi rikkaammaksi ihan vaan pidellessäsi sitä.",
     "DESCRIPTIONS": [
-      "Enemies drop #b25% more #yGold."
+      "Vihollisilta saa #b25% enemmän #yKultaa."
     ]
   },
   "Gremlin Horn": {
-    "NAME": "Gremlin Horn",
-    "FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
+    "NAME": "Irviönsarvi",
+    "FLAVOR": "\"Irviöjehut saattavat kasvaa aina kuolemaansa saakka. Johan on.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever an enemy dies, gain ",
-      "[R] and draw #b1 card.",
-      "[G] and draw #b1 card.",
-      "[B] and draw #b1 card."
+      "Aina kun vihollinen kuolee saat ",
+      "[R] ja nostaa #b1 kortin.",
+      "[G] ja nostaa #b1 kortin.",
+      "[B] ja nostaa #b1 kortin."
     ]
   },
   "Happy Flower": {
-    "NAME": "Happy Flower",
-    "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
+    "NAME": "Onnellinen kukka",
+    "FLAVOR": "Tämä loputtoman hilpeä on suosittu koriste-esine aatelisten keskuudessa.",
     "DESCRIPTIONS": [
-      "Every #b",
-      " turns, gain [R] .",
-      " turns, gain [G] .",
-      " turns, gain [B] ."
+      "Joka #b",
+      " vuoron välein saat [R] .",
+      " vuoron välein saat [G] .",
+      " vuoron välein saat [B] ."
     ]
   },
   "Ice Cream": {
-    "NAME": "Ice Cream",
-    "FLAVOR": "\"Delicious!\"",
+    "NAME": "Jäätelö",
+    "FLAVOR": "\"Herkullista!\"",
     "DESCRIPTIONS": [
-      "Energy is now conserved between turns."
+      "Energia säilyy vuorojen välissä."
     ]
   },
   "Juzu Bracelet": {
-    "NAME": "Juzu Bracelet",
-    "FLAVOR": "A ward against the unknown.",
+    "NAME": "Juzu-ranneke",
+    "FLAVOR": "Suoja tuntematonta vastaan.",
     "DESCRIPTIONS": [
-      "Regular enemy combats are no longer encountered in #y? rooms."
+      "#y? huoneissa ei enää tule normaaleja taisteluita."
     ]
   },
   "Kunai": {
     "NAME": "Kunai",
-    "FLAVOR": "A blade favored by assassins for its lethality at range.",
+    "FLAVOR": "Palkkamurhaajien suosima veitsi sen tappavuuden takia myös etäältä käytettynä.",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " #yAttacks in a single turn, gain #b",
-      " #yDexterity."
+      "Ain kun pelaat #b",
+      " #yHyökkäystä yhden vuoron aikana saat #b",
+      " #yKetteryyttä."
     ]
   },
   "Lantern": {
-    "NAME": "Lantern",
-    "FLAVOR": "An eerie lantern which illuminates only for the wielder.",
+    "NAME": "Lyhty",
+    "FLAVOR": "Karmiva lyhty joka valaisee ainoastaan käyttäjänsä.",
     "DESCRIPTIONS": [
-      "Gain ",
+      "Jokaisessa taistelussa saat ",
       "[R] ",
       "[G] ",
       "[B] ",
-      "on the first turn of each combat."
+      "taistelun ekalla kierroksella."
     ]
   },
   "Letter Opener": {
-    "NAME": "Letter Opener",
-    "FLAVOR": "Unnaturally sharp.",
+    "NAME": "Kirjeveitsi",
+    "FLAVOR": "Yliluonnollisen terävä.",
     "DESCRIPTIONS": [
-      "Every time you play #b3 Skills in a single turn, deal #b",
-      " damage to ALL enemies."
+      "Aina kun pelaat #b3 Kykyä yhden vuoron aikana, tee #b",
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Living Blade": {
-    "NAME": "Living Blade",
-    "FLAVOR": "DEPRECATED",
+    "NAME": "Elävä terä",
+    "FLAVOR": "POISTETTU",
     "DESCRIPTIONS": [
-      "You can get any number of any card."
+      "Voit saada kuinka monta korttia vaan."
     ]
   },
   "Lizard Tail": {
-    "NAME": "Lizard Tail",
-    "FLAVOR": "A fake tail to trick enemies during combat.",
+    "NAME": "Liskonhäntä",
+    "FLAVOR": "Valehäntä vihollisten hämäämiseen taistelussa.",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b50% of your Max HP instead (works once)."
+      "Kuolemisen sijaan parannu #b50%:n maksimiHP:stasi (toimii kerran)."
     ]
   },
   "Magic Flower": {
-    "NAME": "Magic Flower",
-    "FLAVOR": "A flower long thought extinct, somehow preserved in perfect condition.",
+    "NAME": "Taikakukkanen",
+    "FLAVOR": "Sukupuuttoon kuolleeksi luultu kukkanen, joka on jotenkin säilynyt täydellisessä kunnossa.",
     "DESCRIPTIONS": [
-      "Healing is #b50% more effective during combat."
+      "Parantaminen on #b50% tehokkaampaa taistelun aikana."
     ]
   },
   "Mango": {
     "NAME": "Mango",
-    "FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
+    "FLAVOR": "Kaikkein himotuin kielletty hedelmä. Täydellisesti säilötty ilman merkkiäkään tornirutosta.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b"
+      "Nostaa maksimiHP:tasi #b"
     ]
   },
   "Mark of Pain": {
-    "NAME": "Mark of Pain",
-    "FLAVOR": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
+    "NAME": "Kivun merkki",
+    "FLAVOR": "Tätä polttomerkkiä käyttää pohjoisen heimot niihin sotureihin jotka ovat oppineet voimttamaan kipunsa taistelussa.",
     "DESCRIPTIONS": [
-      "Gain [R] at the start of each turn. Start combats with #b2 #rWounds in your draw pile."
+      "Saa [R] jokaisen vuoron alussa. Taistelun aluksi nostopinossasi on #b2 #rHaavaa."
     ]
   },
   "Matryoshka": {
-    "NAME": "Matryoshka",
-    "FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
+    "NAME": "Maatuska",
+    "FLAVOR": "Pinottavia, maalattuja nukkeja. Niiden kuvituksena on tuntematon lintu, jolla on valkoiset silmät ja siniset höyhenet.",
     "DESCRIPTIONS": [
-      "The next #b2 chests you open contain #b2 #yRelics. (Excludes boss chests)",
-      "The next chest you open contains #b2 #yRelics. (Excludes boss chests)",
-      "This relic has been used up."
+      "Seuraavissa #b2:ssa avaamissasi arkussa on #b2 #yTaikaesinettä. (Poislukien pomoarkut)",
+      "Seuraavassa avaamassasi arkussa on #b2 #yTaikaesinettä. (Poislukien pomoarkut)",
+      "Tämän taikaesineen voima on jo käytetty."
     ]
   },
   "Meat on the Bone": {
-    "NAME": "Meat on the Bone",
-    "FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
+    "NAME": "Lihaisa luu",
+    "FLAVOR": "Tämän liha tuntuu palautuvan yhä uudelleen eikä koskaan tunnu loppuvan.",
     "DESCRIPTIONS": [
-      "If your HP is at or below #b50% at the end of combat, heal #b",
-      " HP."
+      "Jos HP:si on alle #b50% taistelun lopussa, paranna #b",
+      " HP:ta."
     ]
   },
   "Medical Kit": {
-    "NAME": "Medical Kit",
-    "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
+    "NAME": "Lääkelaukku",
+    "FLAVOR": "\"Kaikkea mitä tarvitsee! Lääkettä kutinaan, palovammoihin, myrkkyyn ja muuhunkin!\"",
     "DESCRIPTIONS": [
-      "#yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
+      "#yTilakortteja voi nyt pelata. #yTilakortin pelaaminen #yHäivyttää sen."
     ]
   },
   "Membership Card": {
-    "NAME": "Membership Card",
-    "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
+    "NAME": "Jäsenkortti",
+    "FLAVOR": "\"Bonusjäsenyystarjous uskollisimmille asiakkailleni!\"",
     "DESCRIPTIONS": [
-      "In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
+      "Tulevissa osissa kaupat ovat #b50% yleisempiä. #yBONUS: #b20% alennus kaikista tuotteista!"
     ]
   },
   "Mercury Hourglass": {
-    "NAME": "Mercury Hourglass",
-    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "NAME": "Elohopeatiimalasi",
+    "FLAVOR": "Lumottu tiimalasi joka valuu loputtomasti.",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal #b",
-      " damage to ALL enemies."
+      "Vuorosi alussa tee #b",
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Molten Egg": {
