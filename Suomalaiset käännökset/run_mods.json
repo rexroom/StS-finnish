@@ -1,70 +1,70 @@
 {
   "Cursed Run": {
-    "NAME": "Cursed Run",
-    "DESCRIPTION": "Whenever you defeat a Boss, become Cursed. Your starting relic is replaced with Cursed Key, Darkstone Periapt, and Du-Vu Doll."
+    "NAME": "Kirottu pelikerta",
+    "DESCRIPTION": "Aina kun voitat pomovastuksen saat Kirouksen. Alkutaikaesineesi korvataan Kirotulla avaimella, Pimeäkiviriipuksella sekä Duu-Vuu-nukella."
   },
   "Elite Swarm": {
-    "NAME": "Big Game Hunter",
-    "DESCRIPTION": "Elite enemies are now swarming the Spire and drop better rewards."
+    "NAME": "Suurriistan metsästäjä",
+    "DESCRIPTION": "Eliittivastuksia on nyt joukoittain Tornissa ja niiltä saa parempia palkintoja."
   },
   "Heirloom": {
-    "NAME": "Heirloom",
-    "DESCRIPTION": "Start with 1 Rare relic."
+    "NAME": "Perintökalleus",
+    "DESCRIPTION": "Sinulla on aluksi 1 harvinainen taikaesine."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "NAME": "Tappavuus",
+    "DESCRIPTION": "Sinulla on joka taistelun aluksi +3 Vahvuutta. Kaikilla vihollisilla on joka taistelun aluksi +3 Vahvuutta."
   },
   "Night Terrors": {
-    "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at Rest Sites heals 100% of your HP, but costs 5 max HP."
+    "NAME": "Yön kauhut",
+    "DESCRIPTION": "Lepopaikoilla lepääminen parantaa 100% HP:stasi, mutta maksaa 5 maksimiHP:stasi."
   },
   "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "NAME": "Hulluus",
+    "DESCRIPTION": "Aloita peli satunnaisella 50 kortin pakalla."
   },
   "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
+    "NAME": "Kiiltävää",
+    "DESCRIPTION": "Aloituspakan sijaan saat 1 jokaista harvinaista korttia."
   },
   "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 5 colorless cards."
+    "NAME": "Huippumiehitys",
+    "DESCRIPTION": "Sinulla on aluksi 5 väritöntä korttia."
   },
   "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Cards are not restricted by your character."
+    "NAME": "Monipuolinen",
+    "DESCRIPTION": "Hahmoluokkasi ei enää rajaa korttivalikoimaa."
   },
   "Uncertain Future": {
-    "NAME": "Certain Future",
-    "DESCRIPTION": "The map contains only one path."
+    "NAME": "Varma tulevaisuus",
+    "DESCRIPTION": "Kartalla on vain yksi polku."
   },
   "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
+    "NAME": "Binäärinen",
+    "DESCRIPTION": "Korttipalkinnoissa on vain 2 valittavaa korttia."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "DESCRIPTION": "Vihollisilta saa 200% enemmän kultaa, mutta et voi enää parannella kortteja lepopaikoissa."
   },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "Tappava tauti",
+    "DESCRIPTION": "Aina kun astut uuteen huoneeseen menetät 1 maksimiHP:n. Sinulla on jokaisen taistelun alussa 5 Levyhaarniskaa."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies start with the Slow debuff."
+    "NAME": "Ajan hidastuminen",
+    "DESCRIPTION": "Kaikilla vihollisilla on Hitaus."
   },
   "Hoarder": {
-    "NAME": "Hoarder",
-    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
+    "NAME": "Hamstraaja",
+    "DESCRIPTION": "Aina kun saat uuden kortin pakkaasi saatkin niitä kaksi ylimääräistä. Et voi enää poistaa kortteja pakastasi kauppiaan luona."
   },
   "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "Normal Enemies drop relics instead of cards."
+    "NAME": "Vanhanaikaista",
+    "DESCRIPTION": "Viholliset tiputtavat taikaesineitä korttien sijaan."
   },
   "Draft": {
     "NAME": "Draft",
-    "DESCRIPTION": "Draft a custom starting deck of cards."
+    "DESCRIPTION": "Valitse aloituspakkasi draft-tyyliin."
   }
 }

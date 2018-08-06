@@ -1,220 +1,220 @@
 {
   "Main Tutorial": {
     "TEXT": [
-      "Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
-      "Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
-      "During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
+      "Voita vihollisia pelaamalla kortteja kädestäsi! NL NL Korttien pelaaminen vaatii #yEnergiaa. NL Kun se loppuu, lopeta vuorosi. NL NL Seuraavan vuorosi alussa nostat uudet kortit ja #yEnergiasi palautuu täyteen.",
+      "Pelaa puolustuskortteja saadaksesi #yTorjuntaa vihollisten aikoessa hyökätä. NL NL #yTorjunta vähentää saamaasi vauriota mutta NL #rkuluu #rpois seuraavan vuorosi alussa.",
+      "Voit vuorosi aikana nähdä vihollisten #yAikomukset heidän päänsä päällä. NL NL Mikäli vihollinen aikoo hyökätä kimppuusi pelaa kortteja joista saat #yTorjuntaa!"
     ],
     "LABEL": [
-      "Next",
-      "I'm Ready!",
-      "Tutorial",
-      "(Page ",
-      " of 3)"
+      "Seuraava",
+      "Olen valmis!",
+      "Tutoriaali",
+      "(Sivu ",
+      " / 3)"
     ]
   },
   "FTUE Tips": {
     "TEXT": [],
     "LABEL": [
-      "Tip: ",
-      "Got It"
+      "Vinkki: ",
+      "Selvä"
     ]
   },
   "Potion Tip": {
     "TEXT": [
-      "Drink or throw potions during combat! NL Potions stay with you between rooms."
+      "Juo tai heitä juomia taistelun aikana! NL Taikajuomat pysyvät mukanasi huoneesta toiseen."
     ],
     "LABEL": [
-      "Potions"
+      "Taikajuomat"
     ]
   },
   "Energy Tip": {
     "TEXT": [
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
+      "Korttien pelaaminen vaatii energiaa! NL Vasemman alakulman kuulasta näkyy paljonko käytettävissäsi on vielä energiaa loppuvuorolle."
     ],
     "LABEL": [
-      "Energy Cost"
+      "Energiakustannus"
     ]
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
+      "NL Jos nostopakassasi ei ole enää kortteja poistopinosi sekoitetaan nostopinoosi."
     ],
     "LABEL": [
-      "No More Cards?"
+      "Ei enempää kortteja?"
     ]
   },
   "Player Tips": {
     "TEXT": [
-      "This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
-      "My #rHand #ris #rFull!",
-      "#rMaximum Orb capacity has been met."
+      "Tämä kortti lisää käytettäessä sinulle Voiman. NL Voimat ovat passiivisia kykyjä jotka säilyvät voimassa taistelun ajan.",
+      "Kortit vaativat energiaa pelaamiseensa! NL Tämä kuula vasemmassa alareunassa kertoo paljonko energiaa on jäljellä loppuvuoroksi.",
+      "#rKäteni #ron #rTäysi!",
+      "#rMaksimikuulakapasiteetti on täynnä."
     ],
     "LABEL": [
-      "Power Cards",
-      "Energy Cost"
+      "Voimakortit",
+      "Energiakustannus"
     ]
   },
   "Relic Tip": {
     "TEXT": [
-      "Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
-      "This relic remains to be seen.",
-      "Its power is all used up."
+      "Ympäri Tornia löytyvät taikaesineet antavat ainutlaatuisia bonuksia ja pysyvät mukanasi koko pelikerran. NL Niitä voi löytää voittamalla vahvoja vihollisia tai arkuista.",
+      "Et ole vielä löytänyt tätä taikaesinettä.",
+      "Sen voima on jo käytetty."
     ],
     "LABEL": [
-      "Relics",
-      "Unknown",
-      "This relic has yet to be unlocked.",
-      "Locked"
+      "Taikaesineet",
+      "Tuntematon",
+      "Tätä taikaesinettä ei olla vielä avattu.",
+      "Lukittu"
     ]
   },
   "Rewards Tip": {
     "TEXT": [
-      "Don't forget your rewards! NL Just click on them to pick them up."
+      "Älä unohda palkintojasi! NL Klikkaa niissä poimiaksesi ne."
     ],
     "LABEL": [
-      "Rewards"
+      "Palkinnot"
     ]
   },
   "Draw Tip": {
     "TEXT": [
-      "At the start of each turn, NL #b",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      "Jokaisen vuoron alussa NL #b",
+      " nostetaan täältä. NL NL Klikkaa nähdäksei nostopinosi kortit (sekalaisessa järjestyksessä).",
+      " nostetaan täältä. NL NL Klikkaa nähdäksei nostopinosi kortit."
     ],
     "LABEL": [
-      "Draw Pile"
+      "Nostopino"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Klikkaa nähdäksesi tässä taistelussa Häivytetyt kortit."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Häivytetyt kortit"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
-      "Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
-      "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
-      "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate."
+      "Pelitietoja ja virhelokeja lähetetään Mega Crit:lle pelin tasapainottamiseksi. NL NL Henkilökohtaisia tunnistetietoja EI kerätä.",
+      "Slay the Spire toimii nopeimmin ajettuna täydellä ruudulla. Suositellaan käytettäväksi OSX:ssä jossa telakka ja menupalkki ovat kätkettyinä. NL HUOM: PC:llä täydellä ruudulla pelattaessa alt-tab takaisin Slay the Spireen ei välttämättä toimi.",
+      "Slay the Spire ei ole kovin vaativa peli joten suosittelemme rajatonta täyden ruudun pelitilaa nopeampaan alt-tab -vaihtoon. Toimii parhaiten PC:llä.",
+      "Huom: Mikäli VSync on päällä Max Framerate ei voi olla suurempi kuin näytön virkistystaajuus."
     ],
     "LABEL": [
-      "Metrics",
-      "Fullscreen",
-      "Borderless Fullscreen",
+      "Metriikat",
+      "Täysi ruutu",
+      "Rajaton täysi ruutu",
       "Max Framerate"
     ]
   },
   "Shop Tip": {
     "TEXT": [
-      "Remove a card from your deck. The cost of this service increases by #b",
-      " for the rest of this run."
+      "Poistaa kortin pakastasi. Tämän palvelun hinta nousee #b",
+      ":llä loppupelikerraksi."
     ],
     "LABEL": [
-      "Card Removal Service"
+      "Kortinpoistopalvelu"
     ]
   },
   "End Turn Tip": {
     "TEXT": [
-      "Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
-      " cards, then it will be your turn again."
+      "Tämän napin painaminen lopettaa vuorosi. NL NL Loput kätesi kortit laitetaan pois, viholliset saavat oman vuoronsa, nostat ",
+      " korttia ja sitten on jälleen oma vuorosi."
     ],
     "LABEL": [
-      "End Turn"
+      "Lopeta vuoro"
     ]
   },
   "Discard Tip": {
     "TEXT": [
-      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+      "Jos nostopinosi on tyhjä, poistopinosi sekoitetaan nostopinoosi. NL NL Klikkaa nähdäksesi poistopinosi kortit."
     ],
     "LABEL": [
-      "Discard Pile"
+      "Poistopino"
     ]
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Your current energy count. Cards require energy to play."
+      "Nykyinen energiamääräsi."
     ],
     "LABEL": [
-      "Energy"
+      "Energia"
     ]
   },
   "Potion Panel Tip": {
     "TEXT": [
-      "Throws this potion at your enemy.",
-      "Consume this potion.",
-      "Discards this potion NL #r(cannot #rbe #rundone)"
+      "Heittää tämän juoman viholliseen.",
+      "Juo tämän juoman.",
+      "Heittää tämän juoman pois NL #r(ei #rmahdollista #rperua)"
     ],
     "LABEL": [
-      "Throw",
-      "Drink",
-      "Discard"
+      "Heitä",
+      "Juo",
+      "Laita pois"
     ]
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
-      "View all of the cards in your deck.",
-      "View this current dungeon's map.",
-      "If you run out of HP, you die.",
-      "Shows how much gold you are carrying. Gold is the currency within the Spire.",
+      "Avaa pelin valikon. NL NL Muuta näyttö-, ääni- ja peliasetuksiasi täällä.",
+      "Katso kaikki pakkasi kortit.",
+      "Katso tämän luolaston karttaa.",
+      "Jos HP:si loppuu, kuolet.",
+      "Paljonko kultaa sinulla on. Kulta on Tornissa käytettävä rahayksikkö.",
       "",
       "",
-      "Elapsed time for this run."
+      "Tähän pelikertaan kulunut aika."
     ],
     "LABEL": [
-      "Settings",
-      "Deck",
-      "Map",
-      "Hit Points (HP)",
-      "Money Pouch",
-      "Run Timer"
+      "Asetukset",
+      "Pakka",
+      "Kartta",
+      "Osumapisteet (HP)",
+      "Rahapussukka",
+      "Pelikerran aika"
     ]
   },
   "Random Tips": {
     "TEXT": [
-      "Engage with other players to discover new and effective strategies.",
-      "There is always a rest site before a boss.",
-      "Spend gold at shops! (Tip paid for by Merchant)",
-      "Take a break every now and then.",
-      "You can right click cards on the card reward screen to see extra info.",
-      "Percentage-based calculations always round down at the end.",
-      "During combat, you can view the contents of your draw and discard piles.",
-      "Useful information can be revealed by hovering over most objects.",
-      "Toggle tips on/off by clicking on the ? button in the top right corner.",
-      "Right click will release any cards you are dragging.",
-      "Hover over an enemy to see their name and Power information.",
-      "Use the scroll wheel or click and drag the screen to scroll.",
-      "If you can inspect an item, your cursor will become a magnifying glass.",
-      "There is no limit to how many relics you can carry.",
-      "Chests will always drop a relic.",
-      "Every path you take will always have at least 1 treasure room.",
-      "Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
-      "Elite enemies will always drop a relic.",
-      "You will never see the same relic twice in one run.",
-      "Uncommon cards have a blue frame and banner.",
-      "Rare cards have a golden frame and banner.",
-      "The rarity of a card is visible on the card itself.",
-      "It is not always wise to add cards to your deck.",
-      "Cards exhausted during combat are not removed from your deck.",
-      "You can only have up to 10 cards in your hand.",
-      "Status cards go away at the end of combat.",
-      "Curses cannot be upgraded. Why would you?",
-      "Upgraded cards may appear in rewards past Act 1.",
-      "Potions can only be used during combat.",
-      "Potions cannot be discarded during combat.",
-      "Unknown rooms may contain treasures, monsters, shops, or events.",
-      "The Merchant doesn't offer refunds. He is a jerk.",
-      "The card removal service increases in price whenever you use it.",
-      "The card removal service can only be used once at each shop.",
-      "Damage from potions, relics, and powers are not considered attack damage."
+      "Keskustele muiden pelaajien kanssa uusien ja tehokkaiden strategioiden löytämiseksi.",
+      "Jokaista pomovastusta ennen on lepopaikka.",
+      "Kuluta kultasi kaupoissa! (Vinkin sponsoroinut: Kauppias)",
+      "Pidä tauko aina silloin tällöin.",
+      "Voit klikata palkintoruudun kortteja oikealla napilla nähdäksesi niistä lisätietoa.",
+      "Prosenttipohjaiset laskelmat pyöristetään aina lopuksi alaspäin.",
+      "Taistelun aikana voit katsoa nosto- ja poistopinosi sisältöä.",
+      "Pitämällä hiiren kursoria esineen yläpuolella voit nähdä siitä hyödyllistä tietoa.",
+      "Vinkit voit laittaa päälle/pois klikkaamalla yläoikean laidan ?-nappia.",
+      "Oikea hiirennappi vapauttaa kortin, jota olit kiskomassa.",
+      "Hiiren kursorin pitäminen vihollisen päällä näyttää sen nimen ja Voimatiedot",
+      "Voit rullata joko hiiren rullalla tai klikkaamalla ja kiskomalla ruutua.",
+      "Jos voit tutkia esinettä hiiren kursori muuttuu suurennuslasiksi.",
+      "Voit kantaa mukanasi rajattomasti taikaesineitä.",
+      "Arkuista saa aina taikaesineen.",
+      "Jokaisella polulla on aina vähintään yksi aarrekammio.",
+      "Käytä hiiren rullaa tai klikkaa ja kisko ruutua rullataksesi karttaa, korttiruutuja jne.",
+      "Eliittivastuksilta saa aina taikaesineen.",
+      "Et koskaan tule saamaan samaa taikaesinettä kahdesti samalla pelikerralla.",
+      "Epätavallisilla korteilla on sininen kehys ja viiri.",
+      "Harvinaisilla korteilla on kultainen kehys ja viiri.",
+      "Kortin harvinaisuus on nähtävissä itse kortista.",
+      "Aina ei kannata lisätä kortteja pakkaasi.",
+      "Taistelun aikana häivytettyjä kortteja ei poisteta kokonaan pakastasi.",
+      "Kädessäsi voi olla korkeintaan 10 korttia.",
+      "Tilakortit poistetaan taistelun lopussa.",
+      "Kirouksia ei voi parannella. Miksi edes haluaisit?",
+      "Paranneltuja kortteja alkaa ilmaantua palkintoina ensimmäisen näytöksen jälkeen.",
+      "Taikajuomia voi käyttää vain taistelun aikana.",
+      "Taikajuomia ei voi heittää pois taistelun aikana.",
+      "Kysymysmerkkihuoneissa voi olla aarteita, hirviöitä, kauppoja tai tilanteita.",
+      "Kauppias ei ota vastaan palautuksia. Hän on ilkeä.",
+      "Kortinpoistopalvelun hinta nousee aina kun sitä käytetään.",
+      "Kortinpoistopalvelua voi käyttää vain kerran kauppavierailussa.",
+      "Juomien, taikaesineiden ja voimien aiheuttamaa vauriota ei lasketa höykkäysvaurioksi."
     ],
     "LABEL": [
-      "You can discard potions to make room for others."
+      "Voit laittaa juomia pois tehdäksesi uusille tilaa."
     ]
   }
 }
