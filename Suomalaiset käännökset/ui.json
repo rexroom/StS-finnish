@@ -1,7 +1,7 @@
 {
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Kortin poisto palvelu",
+      "Kortinpoistopalvelu",
       "TARJOUS",
       "Ei myynnissä",
       "Myyty loppuun",
@@ -26,97 +26,97 @@
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "The Ironclad",
-      "The Silent",
-      "The Defect",
+      "Rautasoturi",
+      "Äänetön",
+      "Viallinen",
       "Palaa",
-      "Pelihistoriaa ei löydetty. NL Tervetuloa pelaamaan Slay the Spire!",
-      "Ascension Taso: ",
-      "Kukistettu tasolla %1$d toimesta %2$s",
-      "Abandoned Run on Floor %d",
+      "Pelihistoriaa ei löydetty. NL Tervetuloa pelaamaan Slay the Spirea!",
+      "Nousutaso: ",
+      "Kukistettu tasolla %1$d tappajana %2$s",
+      "Jätti pelin kesken tasolla %d",
       "Voitto!",
       "Kortit",
-      "Reliikit",
+      "Taikaesineet",
       "Aloitus",
       "Yleinen",
-      "Epäyleinen",
+      "Epätavallinen",
       "Harvinainen",
       "Erikoinen",
       "Kirous",
-      "Boss",
-      "Shop",
-      "Unknown",
+      "Pomovastus",
+      "Kauppa",
+      "Tuntematon",
       "%1$d %2$s",
       "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses",
-      "Daily",
-      "Any Game Type",
-      "Only Normal",
-      "Only Ascension",
-      "Only Daily Challenge",
-      "Seed: %s",
-      "Custom Seed: %s"
+      "Pisteet: %d",
+      "Kaikki hahmot",
+      "Voitot ja tappiot",
+      "Voitot",
+      "Tappiot",
+      "Päivittäinen",
+      "Mikä vaan pelityyppi",
+      "Vain tavallinen",
+      "Vain nousut",
+      "Vain päivittäishaasteet",
+      "Siemen: %s",
+      "Erityissiemen: %s"
     ]
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
-      "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s",
-      "#r%s Damage",
-      "#r%s Turns",
+      "Tuntematon",
+      "Vihollinen",
+      "Eliittivihollinen",
+      "Tapahtuma",
+      "Pomovastus",
+      "Aarre",
+      "Pomovastuksen aarre",
+      "Lepo",
+      "Kauppias",
+      "Tuntematon (vihollinen)",
+      "Tuntematon (kauppias)",
+      "Tuntematon (aarre)",
+      "Kerros %1$s - %2$s",
+      "Kenttä %s",
+      "#r%s vauriota",
+      "#r%s vuoroa",
       "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "Picked %s",
-      "Skipped:",
-      "Missing Info"
+      "#y%s #yKultaa",
+      "Valitsi %s",
+      "Jätti väliin:",
+      "Puuttuvat tiedot"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Return",
-      "Filters",
-      "Character",
-      "Region",
-      "Type",
-      "View My Score",
-      "Rank",
-      "Name",
-      "Score",
-      "Retrieving Data...",
-      "Leaderboards (NOTE: Will be reset weekly)",
-      "Not Connected to Steam",
-      "No Scores Available \n Go Slay the Spire!"
+      "Paluu",
+      "Suodattimet",
+      "Hahmo",
+      "Alue",
+      "Tyyppi",
+      "Näytä pisteeni",
+      "Luokitus",
+      "Nimi",
+      "Pisteet",
+      "Haetaan dataa...",
+      "Tuloslista (HUOM: Nollautuu viikottain)",
+      "Ei yhteydessä Steamiin",
+      "Ei tuloksia saatavilla \n Mene pelaamaan Slay the Spireä!"
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
-      "Defect",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "Rautasoturi",
+      "Äänetön",
+      "Viallinen",
+      "Saavutettu taso keskimäärin (Viimeiset 20 yritystä)",
+      "Keskivertopisteet (Viimeiset 20 yritystä)",
+      "Suurin voittoputki",
+      "Nopein voitto",
+      "Suurimmat pisteet",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
-      "Global"
+      "Ystävät",
+      "Maailmanlaajuinen"
     ]
   },
   "LanguageDropdown": {
@@ -147,580 +147,580 @@
   },
   "Proceed Button": {
     "TEXT": [
-      "Proceed"
+      "Jatka"
     ]
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Replace (Gambling Chip)"
+      "Korvaa (Pokerirahake)"
     ]
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "Laita pois"
     ]
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Retain"
+      "Säilytä"
     ]
   },
   "AbstractChest": {
     "TEXT": [
-      "Proceed"
+      "Jatka"
     ]
   },
   "BossChest": {
     "TEXT": [
-      "Proceed"
+      "Jatka"
     ]
   },
   "ShopRoom": {
     "TEXT": [
-      "Skip Merchant"
+      "Jätä kauppias väliin"
     ]
   },
   "TreasureRoom": {
     "TEXT": [
-      "Skip Chest"
+      "Jätä arkku väliin"
     ]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-      "Skip Chest"
+      "Jätä arkku väliin"
     ]
   },
   "SetupAction": {
     "TEXT": [
-      "put on top of your draw pile."
+      "laita poistopinosi päälle."
     ]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Choose a Skill to Add to Your Hand"
+      "Valitse kyky valittavaksi käteesi"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Valitse hyökkäys valittavaksi käteesi"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "Valitse kortti laitettavaksi nostopinosi päälle.",
+      "Valitse kortit laitettavaksi nostopinosi päälle."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "Valitse kortti laitettavaksi nostopinosi päälle."
     ]
   },
   "Legend": {
     "TEXT": [
-      "Unknown",
+      "Tuntematon",
       "???",
-      "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
-      "Merchant",
-      "Shops",
-      "A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
-      "Treasure",
-      "Treasure Rooms",
-      "#yRelics and #yGold can be found in these coveted rooms.",
-      "Rest",
-      "Rest Sites",
-      "Stop by these rooms to #gHeal some HP or #yUpgrade a card.",
-      "Enemy",
-      "Enemies",
-      "Hostile enemies reside in these rooms.",
-      "Elite",
-      "Elites",
-      "Powerful foes are in these rooms. NL NL Defeating them will reward you a Relic.",
+      "Tuntematon huone. NL NL Saatat kohdata vihollisia, aarteita, kauppoja tai jotain ihan muuta.",
+      "Kauppias",
+      "Kaupat",
+      "Salaperäinen kauppias myy tuotteitaan näissä huoneissa. NL NL Käytä ansaitsemasi #ykulta täällä!",
+      "Aarre",
+      "Aarrehuoneet",
+      "Näistä halutuista huoneista voi löytää #yTaikaesineitä ja #ykultaa.",
+      "Lepo",
+      "Lepopaikat",
+      "Piipahda näissä huoneissa #gparantaaksesi HP:tasi tai #yparannellaksesi korttia.",
+      "Vihollinen",
+      "Vihollisia",
+      "Näissä huoneissa on vihamielisiä olentoja.",
+      "Elittivastus",
+      "Eliittivastukset",
+      "Näissä huoneissa on vahvoja vihollisia. NL NL Näiden voittaminen antaa aina palkinnoksi taikaesineen.",
       "Legend"
     ]
   },
   "Unlock Confirm Button": {
     "TEXT": [
-      "Continue"
+      "Jatka"
     ]
   },
   "Dig Option": {
     "TEXT": [
-      "Dig",
-      "Dig up a random relic."
+      "Kaiva",
+      "Kaiva satunnainen taikaesine."
     ]
   },
   "Lift Option": {
     "TEXT": [
-      "Lift",
-      "Start battles with +1 Strength. (Up to 3)"
+      "Nosta",
+      "Aloita taistelut +1 Vahvuudella. (Korkeintaan 3)"
     ]
   },
   "Rest Option": {
     "TEXT": [
-      "Rest",
-      "Heal for 100% of your Max HP (",
-      " HP from ",
-      "Heal for 30% of your Max HP ("
+      "Lepo",
+      "Paranna 100% maksimiHP:stasi (",
+      " HP / ",
+      "Paranna 30% maksimiHP:stasi ("
     ]
   },
   "Smith Option": {
     "TEXT": [
-      "Smith",
-      "Upgrade a card in your deck.",
-      "No upgradeable cards."
+      "Tao",
+      "Parantele yhtä pakkasi korttia.",
+      "Ei paranneltavissa olevaa korttia."
     ]
   },
   "Toke Option": {
     "TEXT": [
-      "Toke",
-      "Remove a card from your deck."
+      "Sauhuttele",
+      "Poista kortti pakastasi."
     ]
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "My Discard Pile is #rempty."
+      "Poistopinosi on #rtyhjä."
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "My Draw Pile is #rempty."
+      "Nostopinosi on #rtyhjä."
     ]
   },
   "PotionPopUp": {
     "TEXT": [
-      "Throw",
-      "Drink",
-      "Discard",
-      "I cannot use potions!",
-      "I can't do that in combat!"
+      "Heitä",
+      "Juo",
+      "Hylkää",
+      "Et voi käyttää taikajuomia!",
+      "Et voi tehdä sitä taistelussa!"
     ]
   },
   "RenamePanel": {
     "TEXT": [
-      "<no name>",
-      "Enter  Your  Name",
-      "Confirm",
-      "Cancel"
+      "<ei nimeä>",
+      "Kirjoita nimesi",
+      "Vahvista",
+      "Peruuta"
     ]
   },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "Kirjoita uusi siemenarvo",
+      "Vahvista",
+      "Peruuta",
+      "*Saavutukset ja tulostaulu eivät ole tarjolla omaa siemenarvoa käytettäessä."
     ]
   },
   "AbstractCard": {
     "TEXT": [
-      "Locked",
-      "Unknown"
+      "Lukittu",
+      "Tuntematon"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Blocked",
-      "the Ironclad",
-      "the Silent",
-      "the Defect"
+      "Estetty",
+      "Rautasoturi",
+      "Äänetön",
+      "Viallinen"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
-      "Dead",
-      "Blocked",
-      "Max HP +",
-      "Stunned!",
-      "Interrupted!"
+      "Kuollut",
+      "Estetty",
+      "MaksimiHP +",
+      "Pökertynyt!",
+      "Keskeytett!"
     ]
   },
   "TopPanel": {
     "TEXT": [
-      " Floor",
-      " - Ascension ",
-      " (Max Level)"
+      " Kerros",
+      " - Nousu ",
+      " (Maksimitaso)"
     ]
   },
   "UnlockCharacterScreen": {
     "TEXT": [
-      "Cards Unlocked!",
+      "Kortteja avattu!",
       "",
-      "Relics Unlocked!",
-      "New Character",
-      "Note: Unlocked cards show up in future runs.",
-      "Note: Unlocked relics show up in future runs."
+      "Taikaesineitä avattu!",
+      "Uusi hahmo",
+      "Huom: Avatut kortit voivat ilmaantua tulevilla pelikerroilla.",
+      "Huom: Avatut taikaesineet voivat ilmaantua tulevilla pelikerroilla."
     ]
   },
   "UnlockScreen": {
     "TEXT": [
-      "Cards Unlocked!",
-      "Relics Unlocked!",
-      "New Character",
-      "Note: Unlocked cards show up in future runs.",
-      "Note: Unlocked relics show up in future runs."
+      "Kortteja avattu!",
+      "Taikaesineitä avattu!",
+      "Uusi hahmo",
+      "Huom: Avatut kortit voivat ilmaantua tulevilla pelikerroilla.",
+      "Huom: Avatut taikaesineet voivat ilmaantua tulevilla pelikerroilla."
     ]
   },
   "StorePotion": {
     "TEXT": [
-      "You have no space for this"
+      "Sinulla ei ole tälle tilaa"
     ]
   },
   "AbstractRoom": {
     "TEXT": [
-      "Mugged..."
+      "Ryöstetty..."
     ]
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Common",
-      "Deprecated",
-      "Rare",
-      "Shop",
-      "Event",
-      "Starter",
-      "Uncommon",
-      "Locked",
-      "Unknown",
-      " Relic",
-      "This relic has yet to be unlocked.",
-      "This relic remains to be seen."
+      "Pomolta saatava",
+      "Yleinen",
+      "Pelistä poistettu",
+      "Harvinainen",
+      "Kauppa",
+      "Tapahtuma",
+      "Aloitus",
+      "Epätavallinen",
+      "Lukittu",
+      "Tuntematon",
+      " taikaesine",
+      "Tätä taikaesinettä ei ole vielä avattu.",
+      "Tätä taikesinettä ei ole vielä nähty."
     ]
   },
   "SingleCardViewPopup": {
     "TEXT": [
-      "Attack",
-      "Skill",
-      "Power",
-      "Curse",
-      "Locked",
-      "Unknown",
-      "View Upgrade",
-      "Status",
+      "Hyökkäys",
+      "Kyky",
+      "Voima",
+      "Kirous",
+      "Lukittu",
+      "Tuntematon",
+      "Näytä paranneltuna",
+      "Tila",
       "",
-      "I can only play cards on my turn.",
-      "I'm #rEntangled! NL Can't play Attacks",
-      "Not enough #rEnergy.",
-      "Not enough #rCharge.",
-      "I can't play NL this card."
+      "Voit pelata kortteja vain omalla vuorollasi.",
+      "Olet #rsotkeentunut! NL Et voi pelata hyökkäyksiä",
+      "Ei tarpeeksi #rEnergiaa.",
+      "Ei tarpeeksi #rLatausta.",
+      "Et voi pelata NL tätä korttia."
     ]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "You start each combat with all the cards in here.",
-      "Return"
+      "Aloitata jokaisen taistelun näillä korteilla.",
+      "Paluu"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "Nämä kortit häivytettiin tässä taistelussa.",
+      "Paluu"
     ]
   },
   "DungeonTransitionScreen": {
     "TEXT": [
-      "Tutorials",
-      "Do you wish to see gameplay hints as you play the game?",
-      "Act 1",
+      "Tutoriaalit",
+      "Haluatko nähdä pelin aikana vihjeitä?",
+      "Näytös 1",
       "Exordium",
-      "Act 2",
-      "The City",
-      "Act 3",
-      "The Beyond",
-      "Act ?",
+      "Näytös 2",
+      "Kaupunki",
+      "Näytös 3",
+      "Tuonpuoleinen",
+      "Näytös ?",
       "???",
-      "Click Anywhere to Continue"
+      "Klikkaa missä vaan jatkaaksesi"
     ]
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Select a Starting Room",
-      "Return"
+      "Valitse aloitushuone",
+      "Palaa"
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Cards are drawn from here at the start of each turn.",
-      "(Cards shown are sorted by rarity)",
-      "Return",
-      "Draw Pile"
+      "Kortit nostetaan täältä jokaisen vuoron alussa.",
+      "(Kortit on tässä järjestetty harvinaisuuden mukaan)",
+      "Paluu",
+      "Nostopino"
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Cards here are shuffled into your draw pile when it runs out of cards.",
-      "Return",
-      "Discard Pile"
+      "Nämä kortit sekoitetaan nostopinoon sitten kun siitä loppuvat kortit.",
+      "Paluu",
+      "Poistopino"
     ]
   },
   "CopyAction": {
     "TEXT": [
-      "Copy"
+      "Kopioi"
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "Discard"
+      "Laita pois"
     ]
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Upgrade"
+      "Parantele"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Duplicate"
+      "Kopioi"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Nousupelimuodon taso ",
+      " avattu!"
     ]
   },
   "DeathScreen": {
     "TEXT": [
-      "Continue",
-      "Victory?",
-      "Floors Climbed",
-      "Bosses Defeated",
-      "Play Time",
-      "Play Time",
-      "Score",
-      "Conquered",
-      "Death...",
-      "Defeat",
-      "Defeated!",
-      "Desecrated",
-      "Devastation",
-      "Vanquished",
-      "You are Slain!",
-      "A familiar feeling.",
-      "A nap sounds good.",
-      "As you sow, so you shall reap.",
-      "Went the wrong way.",
-      "I wasn't prepared for this.",
-      "I'll try again tomorrow.",
-      "I'm going to need a new map.",
-      "Inadequately prepared.",
-      "Inconceivable!",
-      "Is this my true potential?",
-      "Just my luck...",
-      "Not like this...",
-      "Not quite the top.",
-      "The Spire consumes another...",
-      "Your consciousness fades...",
-      "Defeat",
-      "Acceptance",
-      "Continue",
-      "Retry",
-      "Main Menu",
-      "Proceed",
-      "Unlock",
-      "Main Menu",
-      "Retry",
-      "Proceed",
-      "Unlock",
-      "Unlocks Remaining: ",
-      "Unlock Remaining: ",
-      "Enemies Slain",
-      "Elites Killed",
-      "Unspent Gold",
-      "HP Bonus"
+      "Jatka",
+      "Voitto?",
+      "Kiivettyjä kerroksia",
+      "Voitettuja pomovastuksia",
+      "Peliaika",
+      "Peliaika",
+      "Pisteet",
+      "Voittoja",
+      "Kuolema...",
+      "Tappio",
+      "Häviö!",
+      "Hävitetty",
+      "Turpiin tuli",
+      "Heikosti kävi",
+      "Sinut listittiin!",
+      "Tuttu tunne.",
+      "Torkut kuulostavat hyvältä.",
+      "Niin niität kuin kylvät.",
+      "Vikatikki.",
+      "Et ollut valmistautunut tähän.",
+      "Uusi yritys huomenna.",
+      "Taidat tarvita uuden kartan.",
+      "Riittämätön valmistautuminen.",
+      "Käsittämätöntä!",
+      "Enkö parempaan pysty?",
+      "Tyypillistä tuuria...",
+      "Ei näin...",
+      "Ei ihan huippusuoritus.",
+      "Torni ahmii jälleen yhden...",
+      "Tietoisuutesi hiipuu...",
+      "Tappio",
+      "Hyväksyntä",
+      "Jatka",
+      "Yritä uudelleen",
+      "Päävalikko",
+      "Jatka",
+      "Avaa",
+      "Päävalikko",
+      "Yritä uudelleen",
+      "Jatka",
+      "Avaa",
+      "Avattavia jäljellä: ",
+      "Avauksia jäljellä: ",
+      "Tapetut viholliset",
+      "Tapetut eliittivastukset",
+      "Kultaa kuluttamatta",
+      "HP-bonus"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
+      "Exordiumin eliittivastuksia tapettu",
+      "Kaupungin eliittivastuksia tapettu",
+      "Tuonpuoleisen eliittivastuksia tapettu",
+      "Pikakiitäjä",
+      "Valon nopeus",
       "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
-      "Champion",
-      "Perfect",
-      "Beyond Perfect",
-      "Overkill",
+      "Kokoelma",
+      "Täyssetti",
+      "Kerjäläinen",
+      "Kirjastonhoitaja",
+      "Tietosanakirjailija",
+      "Vatsa täynnä",
+      "Ähky",
+      "Kirottua!",
+      "Omat säännöt",
+      "Mestari",
+      "Täydellinen",
+      "Parempi kuin täydellinen",
+      "Täystuho",
       "C-c-c-combo",
       ""
     ]
   },
   "CombatRewardScreen": {
     "TEXT": [
-      "Proceed",
-      "Skip Card",
-      "Skip Gold",
-      "Skip Potion",
-      "Skip Relic",
-      "Skip Rewards",
-      "Close",
-      "Treasure!",
-      "What's  Inside?",
-      "Rewards!",
-      "Spoils!",
-      "Loot!",
-      "Tip: "
+      "Jatka",
+      "Jätä kortti väliin",
+      "Jätä kulta väliin",
+      "Jätä taikajuoma väliin",
+      "Jätä taikaesine väliin",
+      "Jätä palkinnot väliin",
+      "Sulje",
+      "Aarre!",
+      "Mitä on sen sisällä?",
+      "Palkkio!",
+      "Ryöstösaalista!",
+      "Saalista!",
+      "Vinkki: "
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Choose One"
+      "Valitse yksi"
     ]
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "ÄÄNESTÄ NYT: "
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
-      "Skip",
-      "Choose a Card",
-      "+2 Max HP",
-      "VOTE NOW: ",
-      "s left."
+      "Jätä väliin",
+      "Valitse kortti",
+      "+2 MaksimiHP:ta",
+      "ÄÄNESTÄ NYT: ",
+      "sekuntia jäljellä."
     ]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
-      "Confirm",
-      "Confirm Your Selection",
-      "Choose a Relic",
-      "Skip",
-      "VOTE NOW: ",
-      "s left."
+      "Vahvista",
+      "Vahvista valintasi",
+      "Valitse taikaesine",
+      "Jätä väliin",
+      "ÄÄNESTÄ NYT: ",
+      "sekuntia jäljellä."
     ]
   },
   "GridCardSelectScreen": {
     "TEXT": [
-      "Confirm",
-      "Cancel",
-      "Confirm Your Selection",
-      "Leave"
+      "Vahvista",
+      "Peruuta",
+      "Vahvista valintasi",
+      "Poistu"
     ]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Confirm Card to ",
-      "Confirm Cards to ",
-      "Choose ",
-      " Cards to ",
-      "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Vahvista kortti ",
+      "Vahvista kortti ",
+      "Valitse ",
+      " kortit ",
+      "Valitse mikä vaan määrä kortteja ",
+      "Valitse kortti "
     ]
   },
   "AbandonRunButton": {
     "TEXT": [
-      "Abandon Run"
+      "Luovuta pelikerta"
     ]
   },
   "ConfirmPopup": {
     "TEXT": [
-      "Return",
-      "Delete Save",
-      "Yes",
-      "No"
+      "Palaa",
+      "Poista tallenne",
+      "Kyllä",
+      "Ei"
     ]
   },
   "ExitGameButton": {
     "TEXT": [
-      "Exit Game"
+      "Poistu pelistä"
     ]
   },
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Game Settings",
-      "Graphics",
-      "Resolution: NL Max Framerate:",
-      "Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
-      "Sound",
-      "Master Volume NL Music Volume NL Effects Volume",
-      "Ambient Sound Effects NL Mute while in background",
-      "Preferences",
-      "Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
-      "Fast Mode",
+      "Pelin asetukset",
+      "Grafiikka",
+      "Resoluutio: NL Maksimi framerate:",
+      "Koko ruutu NL Rajaton kokoruutu (suositeltu) NL Ruudun heilunta",
+      "Ääni",
+      "Pää-äänenvoimakkuus NL Musiikin äänenvoimakkuus NL Efektien äänenvoimakkuus",
+      "Taustaääniefektit NL Hiljennä kun taustalla",
+      "Valinnat",
+      "Näytä yhteisvaurio kultaisena NL Näytä torjuttu vaurio sinisellä NL Poista vahvistus kun valittavissa vain 1 kortti",
+      "Pikatila",
       "",
-      "Miscellaneous",
-      "Language:",
-      "Upload gameplay data #b(?)",
-      "Exit Game",
-      "Save & Quit",
+      "Sekalaiset",
+      "Kieli:",
+      "Lähetä pelidata #b(?)",
+      "Poistu pelistä",
+      "Tallenna ja lopeta",
       "NL NL VSync",
-      "Playtester Art Mode",
-      "Show Card Quick Select Keys",
-      "Input Settings"
+      "Pelitestaajakuvitukset",
+      "Näytä korttien pikavalintanäppäimet",
+      "Syöteasetukset"
     ]
   },
   "DailyScreen": {
     "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "#yNOTE: You have done today's challenge. NL Scores aren't submitted for repeat attempts.",
-      "Return",
-      "Embark",
-      "Today's character: ",
-      "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL #yClass: NL ",
-      " NL #yMods: ",
-      "Modifiers: ",
-      "Leaderboards",
-      "*Achievements are off for Daily Climb."
+      "Päivittäinen haaste",
+      "Yhdistetään aikapalvelimeen...",
+      "#yHUOM: Olet tehnyt tämänpäiväisen haasteen. NL Uusien yritysten pisteitä ei lähetetä.",
+      "Paluu",
+      "Lähde liikkeelle",
+      "Tämän päivän hahmo: ",
+      "pp/kk/vvvv tt:mm:ss",
+      "Aikaa jäljellä: ",
+      "#ySaavutettu #ykerros: NL  ",
+      " NL NL  #yPakka: NL ",
+      " NL NL  #yTaikaesineet: NL  ",
+      " NL Päivän haaste: NL #yHahmoluokka: NL ",
+      " NL #yMuunnokset: ",
+      "Muunnokset: ",
+      "Pistetaulukko",
+      "*Saavutukset ovat poissa käytöstä päivittäisessä haasteessa.."
     ]
   },
   "SettingsScreen": {
     "TEXT": [
-      "Are you sure?",
-      "Your progress is automatically saved.",
-      "Abandoning the game will result in a loss.",
-      "WARNING:\nProgress NOT saved.\n\nReach the next floor to save this current run.",
-      "Return",
-      "Progress is NOT saved for daily runs."
+      "Oletko varma?",
+      "Etenemisesi tallentuu automaattisesti.",
+      "Pelin hylkääminen lasketaan tappioksi.",
+      "VAROITUS:\nEdistystä EI tallenneta.\n\nSaavuta seuraava kerros voidaksesi tallentaa tämän pelikerran.",
+      "Paluu",
+      "Edistystä ei tallenneta päivittäisissä haasteissa."
     ]
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "Syöteasetukset",
+      "Peliasetukset",
+      "Paluu",
+      "Komennot",
+      "Näppäimistö",
+      "Peliohjain (Ei vielä tarjolla)",
+      "Nollaa oletusasetuksiin",
+      "Vahvista",
+      "Peruuta / Poistu",
+      "Kartta",
+      "Pääpakka",
+      "Nostopino",
+      "Poistopino",
+      "Häivytyspino",
+      "Lopeta vuoro",
+      "Vasen",
+      "Oikea",
+      "Valitse kortti #1",
+      "Valitse kortti #2",
+      "Valitse kortti #3",
+      "Valitse kortti #4",
+      "Valitse kortti #5",
+      "Valitse kortti #6",
+      "Valitse kortti #7",
+      "Valitse kortti #8",
+      "Valitse kortti #9",
+      "Valitse kortti #10"
     ]
   },
   "InputKeyNames": {
@@ -732,176 +732,176 @@
   },
   "CardLibraryScreen": {
     "TEXT": [
-      "Return",
-      "Red",
-      "Green",
-      "Blue",
-      "Colorless",
-      "Curses",
-      "Statuses",
-      "View Upgrade"
+      "Palaa",
+      "Punainen",
+      "Vihreä",
+      "Sininen",
+      "Väritön",
+      "Kiroukset",
+      "Tilakortit",
+      "Näytä paranneltuna"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Rarity",
-      "Type",
+      "Harvinaisuus",
+      "Tyyppi",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "Hinta",
+      "Hyppää:"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "What's Early Access?",
-      "What's an Open Beta?",
-      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
-      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "Click anywhere to Start"
+      "Mikä on Early Access?",
+      "Mikä on avoin beta?",
+      "Slay the Spire on edelleen aktiivisessa kehityksessä! NL Monet sen ominaisuuksista, korteista ja vihollisista ovat edelleen muutosten kourissa. NL NL Jos törmäät ongelmiin tai sinulla on palautetta, kerro meille #bSteamin keskustelusivujen kautta. NL NL Jo riittää lukeminen, aika kiivetä torniin!",
+      "Slay the Spire on edelleen aktiivisessa kehityksessä! NL Kaiken huipuksi pelaat pelin betaversiota. NL NL Kerro meille jos kohtaat ongelmia pelatessasi, mutta älä ylläty nähdessäsi väliaikaiskuvitusta tulevalle sisällölle. NL NL Jo riittää lukeminen, aika kiivetä torniin!",
+      "Klikkaa missä vain aloittaaksesi"
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
       "#yBuild: ",
-      "Embark",
-      "Return",
-      "click to edit"
+      "Lähde matkaan",
+      "Palaa",
+      "klikkaa muokataksesi"
     ]
   },
   "MenuButton": {
     "TEXT": [
       "",
-      "Play",
+      "Pelaa",
       "",
       "",
-      "Continue",
+      "Jatka",
       "",
-      "Statistics",
+      "Statistiikat",
       "",
-      "Quit",
-      "Patch Notes",
-      "Abandon Run",
+      "Lopeta",
+      "Päivitystiedot",
+      "Luovuta peli",
       "",
-      "Settings",
+      "Asetukset",
       "",
-      "Compendium"
+      "Kokoelma"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "klikkaa uudelleen poistuaksesi"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Return",
-      "#yPatch #yNotes",
-      " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+      "Palaa",
+      "#yPäivitystiedot",
+      " NL (VÄLIAKAINEN: Käytä nuolinäppäimiä lukeaksesi vanhempia tekstejä)"
     ]
   },
   "RelicViewScreen": {
     "TEXT": [
-      "Return",
-      "Starter:",
-      "Characters can start with these relics.",
-      "Common:",
-      "Weak relics that are found commonly.",
-      "Uncommon:",
-      "Stronger relics which appear less often than common relics.",
-      "Rare:",
-      "Unique and powerful relics which are rarely seen.",
-      "Boss:",
-      "Relics found only within Boss chests.",
-      "Event:",
-      "Relics which can only be obtained through events.",
-      "Shop:",
-      "Relics which can only be purchased from the Merchant."
+      "Paluu",
+      "Aloitus:",
+      "Hahmot voivat aloittaa näillä taikaesineillä.",
+      "Yleinen:",
+      "Heikkoja, usein löytyviä taikaesineitä.",
+      "Epätavallinen:",
+      "Vahvempia taikaesineitä joita löytää hieman harvemmin.",
+      "Harvinainen:",
+      "Uniikkeja ja voimakkaita, harvoin nähtyjä taikaesineitä.",
+      "Pomo:",
+      "Taikaesineitä, jotka voi löytää vain pomovastusten arkuista.",
+      "Tapahtuma:",
+      "Taikaesineitä jotka voi saada tapahtumista.",
+      "Kauppa:",
+      "Taikaesineitä jotka täytyy ostaa kauppiaalta."
     ]
   },
   "CharacterOption": {
     "TEXT": [
-      "Locked",
-      "This character is unlocked by completing a single run.",
-      "This character is still unavailable in Early Access.",
-      "This character is unlocked by completing a run with the Silent.",
+      "Lukittu",
+      "Tämän hahmon saa avattua voittamalla yhden pelikerran.",
+      "Tätä hahmoa ei vielä ole tarjolla Early Access -versiossa.",
+      "Tämä hahmo avautuu voittamalla peli Äänettömällä.",
       "HP: ",
-      "Gold: ",
-      " Unlocks Remaining",
-      "Unknown",
+      "Kulta: ",
+      " avausta jäljellä",
+      "Tuntematon",
       "???",
-      " To Next Unlock"
+      " seuraavaan avaukseen"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
-      "Choose Your Character",
-      "Embark",
-      "The Ironclad",
-      "The Silent",
-      "The Defect",
-      "Back",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Runs get harder as you win... (Winstreaks are unaffected)",
-      "Seed ",
-      "Random Seed",
-      "The starting seed is used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Valitse hahmosi",
+      "Lähde matkaan",
+      "Rautasoturi",
+      "Äänetön",
+      "Viallinen",
+      "Palaa",
+      "Nousu",
+      "taso ",
+      "Nousupelimuoto",
+      "Pelikerrat vaikeutuvat voittaessasi... (Ei vaikuta voittosarjoihin)",
+      "Siemenarvo ",
+      "Satunnainen siemenarvo",
+      "Siemenarvo määrää pelikerran satunnaiset kohtaamiset.",
+      "Aseta siemenarvo"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elites spawn more often.",
-      "Normal enemies are deadlier.",
-      "Elites are deadlier.",
-      "Bosses are deadlier.",
-      "Heal less after Boss battles.",
-      "Start each run damaged.",
-      "Normal enemies are tougher.",
-      "Elites are tougher.",
-      "Bosses are tougher.",
-      "Start each run cursed.",
-      "Potions are less potent.",
-      "Upgraded cards appear less often.",
-      "Poor bosses.",
-      "Lower Max HP.",
-      "(Max Level) Unfavorable Events."
+      "Eliittivastuksia ilmaantuu useammin.",
+      "Normaalivastukset ovat tappavampia.",
+      "Eliittivastukset ovat tappavampia.",
+      "Pomovastukset ovat tappavampia.",
+      "Parannut vähemmän pomotaisteluiden jälkeen.",
+      "Aloitat jokaisen pelikerran vahingoittuneena.",
+      "Normaalivastukset ovat kestävämpiä.",
+      "Eliittivastukset ovat kestävämpiä.",
+      "Pomovastukset ovat kestävämpiä.",
+      "Aloitat jokaisen pelikerran kirottuna.",
+      "Taikajuomat ovat tehottomampia.",
+      "Paranneltuja kortteja tulee harvemmin.",
+      "Köyhemmät pomovastukset.",
+      "Alhaisempi maksimiHP.",
+      "(Maksimitaso) Vähemmän suotuisat tapahtumat."
     ]
   },
   "AbstractMonster": {
     "TEXT": [
-      "Aggressive",
-      "This enemy intends to NL #yAttack for #b",
-      " damage #b",
-      " times.",
-      "This enemy intends to NL #yAttack for #b",
-      " damage.",
-      "Aggressive",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      " times.",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      "Strategic",
-      "This enemy intends to inflict a #yNegative #yEffect on you and #yAttack for #b",
-      "This enemy intends to #yBlock and #yAttack for #b",
-      "Defensive",
-      "Cowardly",
-      "Magical",
-      "Sleeping",
-      "Stunned",
-      "Unknown",
-      "This enemy intends to use a #yBuff.",
-      "This enemy intends to inflict a #yNegative #yEffect on you.",
-      "This enemy intends to inflict a powerful #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock on its turn.",
-      "This enemy intends to #yBlock and inflict a #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock and use a #yBuff.",
-      "This enemy intends to #yEscape.",
-      "This enemy intends to use mysterious #yMagic on its turn.",
-      "This enemy is asleep.",
-      "This enemy is #yStunned on its turn.",
-      "This enemy's intentions are #yUnknown (not attacking).",
-      "Blocked"
+      "Agressiivinen",
+      "Tämä vihollinen aikoo NL #yHyökätä #b",
+      " vaurion verran #b",
+      " kertaa.",
+      "Tämä vihollinen aikoo NL #yHyökätä #b",
+      " vaurion verran.",
+      "Aggressiivinen",
+      "Tämä vihollinen aikoo käyttää #ytehostusta ja #yHyökätä #b",
+      " kertaa.",
+      "Tämä vihollinen aikoo käyttää #ytehostusta ja #yHyökätä #b",
+      "Strateginen",
+      "Tämä vihollinen aikoo aiheuttaa #ynegatiivisen #yefektin sinuun ja #yhyökätä #b",
+      "Tämä vihollinen aikoo #yTorjua ja #yHyökätä #b",
+      "Puolustava",
+      "Pelkurimainen",
+      "Maaginen",
+      "Nukkuva",
+      "Pökertynyt",
+      "Tuntematon",
+      "Tämä vihollinen aikoo käyttää #ytehostusta.",
+      "Tämä vihollinen aikoo aiheuttaa #ynegatiivisen #yefektin sinuun.",
+      "Tämä vihollinen aikoo aiheuttaa vahvan #ynegatiivisen #yefektin sinuun.",
+      "Tämä vihollinen aikoo #yTorjua vuorollaan.",
+      "Tämä vihollinen aikoo #yTorjua ja aiheuttaa #ynegatiivisen #yefektin sinuun.",
+      "Tämä vihollinen aikoo #yTorjua ja käyttää #ytehostusta.",
+      "Tämä vihollinen aikoo #ypaeta.",
+      "Tämä vihollinen aikoo käyttää vuorollaan salaperäistä #ytaikuutta.",
+      "Tämä vihollinen nukkuu.",
+      "Tämä vihollinen on vuoronsa ajan #ypökertynyt.",
+      "Tämän vihollisen aikomukset ovat #ytuntemattomat (ei hyökkää).",
+      "Torjuttu"
     ]
   },
   "AbstractDungeon": {
