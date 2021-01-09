@@ -13,5 +13,5 @@ Seuraaviin tarvitaan kääntäjiä:
 * cards.json (The Defect ja The Watcher -kortit kääntämättä)
 * events.json
 * powers.json
-* relics.json
+* relics.json (uudemmat reliikit vielä kääntämättä)
 * run_mods.json
