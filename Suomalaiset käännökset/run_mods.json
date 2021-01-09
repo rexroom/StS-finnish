@@ -1,42 +1,42 @@
 {
   "Allstar": {
-    "NAME": "T‰htikortisto",
-    "DESCRIPTION": "Aloita 5 v‰rittˆm‰ll‰ kortilla."
+    "NAME": "T√§htikortisto",
+    "DESCRIPTION": "Aloita 5 v√§ritt√∂m√§ll√§ kortilla."
   },
   "Binary": {
-    "NAME": "Bin‰‰rinen",
-    "DESCRIPTION": "Korttipalkinnot sis‰lt‰v‰t vain 2 korttia."
+    "NAME": "Bin√§√§rinen",
+    "DESCRIPTION": "Korttipalkinnot sis√§lt√§v√§t vain 2 korttia."
   },
   "Brewmaster": {
     "NAME": "[VANHENTUNUT] Haudutusmestari",
-    "DESCRIPTION": "Aloita viidell‰ kopiolla Alchemize-kortilla ja White Beast Statue."
+    "DESCRIPTION": "Aloita viidell√§ kopiolla Alchemize-kortilla ja White Beast Statue."
   },
   "Cursed Run": {
     "NAME": "Kirottu pelikerta",
-    "DESCRIPTION": "Aina kun voitat pomon, saat Kirouksen. Alkureliikkisi korvataan Kirotulla avaimella, Pime‰kiviriipuksella sek‰ Duu-Vuu-nukella."
+    "DESCRIPTION": "Aina kun voitat pomon, saat Kirouksen. Alkureliikkisi korvataan Kirotulla avaimella, Pime√§kiviriipuksella sek√§ Duu-Vuu-nukella."
   },
   "Diverse": {
     "NAME": "Monipuolinen",
-    "DESCRIPTION": "Hahmosi ei en‰‰ rajaa korttivalikoimaa."
+    "DESCRIPTION": "Hahmosi ei en√§√§ rajaa korttivalikoimaa."
   },
   "Red Cards": {
-    "NAME": "Red Cards",
+    "NAME": "Punaiset kortit",
     "DESCRIPTION": "Red cards now appear in rewards and shops."
   },
   "Green Cards": {
-    "NAME": "Green Cards",
+    "NAME": "Vihre√§t kortit",
     "DESCRIPTION": "Green cards now appear in rewards and shops."
   },
   "Blue Cards": {
-    "NAME": "Blue Cards",
+    "NAME": "Siniset kortit",
     "DESCRIPTION": "Blue cards now appear in rewards and shops."
   },
   "Purple Cards": {
-    "NAME": "Purple Cards",
+    "NAME": "Purppurat kortit",
     "DESCRIPTION": "Purple cards now appear in rewards and shops."
   },
   "Colorless Cards": {
-    "NAME": "Colorless Cards",
+    "NAME": "V√§ritt√∂m√§t kortit",
     "DESCRIPTION": "Colorless cards now appear in rewards."
   },
   "Draft": {
@@ -64,7 +64,7 @@
     "DESCRIPTION": "Start with 1 Rare relic."
   },
   "Hoarder": {
-    "NAME": "Hoarder",
+    "NAME": "Hamstraaja",
     "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   },
   "Inception": {

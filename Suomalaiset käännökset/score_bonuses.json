@@ -2,7 +2,7 @@
   "Alchemist": {
     "NAME": "Alkemisti",
     "DESCRIPTIONS": [
-      "Ostit 5 taikalient‰."
+      "Ostit 5 taikalient√§."
     ]
   },
   "Ascension": {
@@ -12,13 +12,13 @@
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Tuonpuoleisen eliittej‰ tapettu",
+    "NAME": "Tuonpuoleisen eliittej√§ tapettu",
     "DESCRIPTIONS": []
   },
   "Beyond Perfect": {
-    "NAME": "Parempi kuin t‰ydellinen",
+    "NAME": "Parempi kuin t√§ydellinen",
     "DESCRIPTIONS": [
-      "P‰ihit‰ 3 pomoa ottamatta lainkaan vahinkoa."
+      "P√§ihit√§ 3 pomoa ottamatta lainkaan vahinkoa."
     ]
   },
   "Bosses Slain": {
@@ -28,21 +28,21 @@
   "Champion": {
     "NAME": "Mestari",
     "DESCRIPTIONS": [
-      "P‰ihit‰ Eliitti ottamatta lainkaan vahinkoa."
+      "P√§ihit√§ Eliitti ottamatta lainkaan vahinkoa."
     ]
   },
   "Cheater": {
     "NAME": "Huijari",
     "DESCRIPTIONS": [
-      "J‰i kiinni huijaamisesta. Jos j‰‰ kiinni toiste, tuloksiasi ei tulla koskaan ladata tulostaulukolle."
+      "J√§i kiinni huijaamisesta. Jos j√§√§ kiinni toiste, tuloksiasi ei tulla koskaan ladata tulostaulukolle."
     ]
   },
   "City Elites Killed": {
-    "NAME": "Kaupunkieliittej‰ tapettu",
+    "NAME": "Kaupunkieliittej√§ tapettu",
     "DESCRIPTIONS": []
   },
   "Collector": {
-    "NAME": "Ker‰ilij‰",
+    "NAME": "Ker√§ilij√§",
     "DESCRIPTIONS": [
       "Omista 4 kopiota jostain kortista (paitsi aloituskortit)."
     ]
@@ -62,35 +62,35 @@
   "Encyclopedian": {
     "NAME": "Ensyklopedikko",
     "DESCRIPTIONS": [
-      "Pakan koko v‰hint‰‰n 50 korttia."
+      "Pakan koko v√§hint√§√§n 50 korttia."
     ]
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordiumin eliittej‰ tapettu",
+    "NAME": "Exordiumin eliittej√§ tapettu",
     "DESCRIPTIONS": []
   },
   "Heartbreaker": {
-    "NAME": "Syd‰mens‰rkij‰",
+    "NAME": "Syd√§mens√§rkij√§",
     "DESCRIPTIONS": [
-      "Kukista Syd‰n."
+      "Kukista Syd√§n."
     ]
   },
   "Highlander": {
-    "NAME": "Yl‰nkˆmaalainen",
+    "NAME": "Yl√§nk√∂maalainen",
     "DESCRIPTIONS": [
       "Pakassasi ei ole kaksoiskappaleita (lukuunottamatta aloituskortteja)."
     ]
   },
   "I Like Gold": {
-    "NAME": "Pid‰n kullasta",
+    "NAME": "Pid√§n kullasta",
     "DESCRIPTIONS": [
-      "Ker‰tty 3 000 kultaa."
+      "Ker√§tty 3 000 kultaa."
     ]
   },
   "Librarian": {
     "NAME": "Kirjastonhoitaja",
     "DESCRIPTIONS": [
-      "Pakan koko v‰hint‰‰n 35 korttia."
+      "Pakan koko v√§hint√§√§n 35 korttia."
     ]
   },
   "Light Speed": {
@@ -124,9 +124,9 @@
     ]
   },
   "Overkill": {
-    "NAME": "T‰ystuho",
+    "NAME": "T√§ystuho",
     "DESCRIPTIONS": [
-      "Tee 99 vahinkoa yhdell‰ hyˆkk‰yksell‰."
+      "Tee 99 vahinkoa yhdell√§ hy√∂kk√§yksell√§."
     ]
   },
   "Pauper": {
@@ -136,13 +136,13 @@
     ]
   },
   "Perfect": {
-    "NAME": "T‰ydellinen",
+    "NAME": "T√§ydellinen",
     "DESCRIPTIONS": [
-      "P‰ihit‰ pomovastus k‰rsim‰tt‰ vahinkoa."
+      "P√§ihit√§ pomovastus k√§rsim√§tt√§ vahinkoa."
     ]
   },
   "Poopy": {
-    "NAME": "Pˆk‰le",
+    "NAME": "P√∂k√§le",
     "DESCRIPTIONS": [
       "Saa henkikakkaa."
     ]
@@ -156,11 +156,11 @@
   "Shiny": {
     "NAME": "Hamstraaja",
     "DESCRIPTIONS": [
-      "Omista 25+ reliikki‰."
+      "Omista 25+ reliikki√§."
     ]
   },
   "Speedster": {
-    "NAME": "Pikakiit‰j‰",
+    "NAME": "Pikakiit√§j√§",
     "DESCRIPTIONS": [
       "Voitto alle 60 minuutissa."
     ]
@@ -168,13 +168,13 @@
   "Stuffed": {
     "NAME": "Ahdettu",
     "DESCRIPTIONS": [
-      "Kasvatit maksimi OP:ta 30+ pisteell‰."
+      "Kasvatit maksimi OP:ta 30+ pisteell√§."
     ]
   },
   "Well Fed": {
-    "NAME": "Maha t‰ynn‰",
+    "NAME": "Maha t√§ynn√§",
     "DESCRIPTIONS": [
-      "Kasvatit maksimi OP:ta 15+ pisteell‰."
+      "Kasvatit maksimi OP:ta 15+ pisteell√§."
     ]
   }
 }
