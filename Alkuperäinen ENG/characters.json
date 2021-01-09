@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "The Ironclad"
-    ],
-    "TEXT": [
-      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Crowbot"
@@ -15,20 +7,62 @@
       "BEEP BOOP"
     ]
   },
-  "Silent": {
-    "NAMES": [
-      "The Silent"
-    ],
-    "TEXT": [
-      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
-    ]
-  },
   "Defect": {
     "NAMES": [
       "The Defect"
     ],
     "TEXT": [
       "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "The Ironclad"
+    ],
+    "TEXT": [
+      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Proceed",
+      "~Welcome!~"
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
     ]
   },
   "Neow Event": {
@@ -40,20 +74,27 @@
       "~Hello...~ NL ~Again..~",
       "~Greetings...~",
       "~Another~ NL ~try...?~",
-      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
+      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~more..~ ~blessings...~",
       "~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~boss...~",
       "~I~ ~brought~ ~you~ ~back...~",
       "~Choose...~",
       "~Granted...~",
       "~Risk...~ NL ~..reward....~",
       "~Time~ ~for~ ~a~ NL ~CHALLENGE...~",
-      "Rewards"
+      "Rewards",
+	  "~Let's~ ~keep~ ~going...~",
+	  "~It~ ~only~ ~gets~ ~harder...~",
+	  "~Impressive...~ ~more...~",
+	  "Cursed!",
+	  "Scatterbrain!",
+	  "Transformation!"
     ],
     "OPTIONS": [
       "[Continue]",
       "[Talk]",
       "[Skip]",
-      "[Leave]"
+      "[Leave]",
+	  "Choose 10 cards to add to your deck."
     ]
   },
   "Neow Reward": {
@@ -80,41 +121,20 @@
       " #rMax #rHP ",
       "[ #rLose #rall #rGold ",
       "[ #rObtain #ra #rCurse ",
-      "[ #rLose #r50% #rof #ryour #rcurrent #rHP ",
+      "[ #rTake #r",
       "Choose a Card",
       "Select a Card to Remove",
       "Select 2 Cards to Remove",
       "Select a Card to Transform",
       "Select 2 Cards to Transform",
       "Select a Card to Upgrade",
-      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]"
+      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
+      " #rdamage",
+      "[ #gChoose #ga #gcolorless #gCard #gto #gobtain ]",
+      "#gChoose #ga #grare #gcolorless #gCard #gto #gobtain ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
-    ]
-  },
-  "Merchant": {
-    "NAMES": [
-      "Proceed",
-      "~Welcome!~"
-    ],
-    "TEXT": [
-      "Hi! NL Buy something! NL Buy buy buy!",
-      "I like your haircut",
-      "Do you have the time?",
-      "Are you a dog person or a cat person?",
-      "You look ~dangerous,~ NL hehe...",
-      "Take your time... NL ..... NL ... or not",
-      "Do you like this rug? NL It's not for sale",
-      "Support small business!",
-      "Masks are cool, I would know!",
-      "Hmm... NL ...hmm... NL Oh!",
-      "Stay awhile and listen!",
-      "It's dangerous to go alone! Give me all your gold!",
-      "Buy somethin'",
-      "~*YAWN*~",
-      "I like gold.",
-      "My favorite color is blue. NL How bout you?"
     ]
   },
   "Shop Screen": {
@@ -151,6 +171,22 @@
       "~*YAWN*~",
       "I like gold.",
       "My favorite color is blue. NL How bout you?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "The Silent"
+    ],
+    "TEXT": [
+      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }
