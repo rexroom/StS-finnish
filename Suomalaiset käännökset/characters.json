@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "Rautasoturi"
-    ],
-    "TEXT": [
-      "Rautasoturien viimeinen. NL Myi sielunsa valjastaakseen demonisia voimia."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Varisbotti"
@@ -15,82 +7,28 @@
       "BEEP BOOP"
     ]
   },
-  "Silent": {
-    "NAMES": [
-      "Äänetön"
-    ],
-    "TEXT": [
-      "Tappava metsästäjä sumuisilta mailta. NL Hoitelee vihollisensa tikarein ja myrkyin."
-    ]
-  },
   "Defect": {
     "NAMES": [
       "Viallinen"
     ],
     "TEXT": [
-      "Tietoisuuden saavuttanut taistelulaite. NL Pystyy käsittelemään taikakuulia muinaisella teknologiallaan."
+      "Tietoisuuden saavuttanut taisteluautomaatti. NL Hallitsee muinaisella teknologialla energiavirtauksia."
     ]
   },
-  "Neow Event": {
+  "Watcher": {
     "NAMES": [
-      "Neow"
+      "Tarkkailija"
     ],
     "TEXT": [
-      "~Tervehdys...~ NL ~Olen...~ ~Neow...~",
-      "~Tervehdys...~ NL ~Taas..~",
-      "~Iltaa...~",
-      "~Uusi~ NL ~yritys...?~",
-      "~Saadaksesi~ ~siunaukseni...~ ~sinun~ ~täytyy...~ NL ~edes~ ~saavuttaa~ ~ensimmäinen~ ~pomovastus...~",
-      "~Kohtaa~ ~nyt~ ~edes...~ NL ~ensimmmäinen~ ~pomovastus...~",
-      "~Toin~ ~sinut~ ~jälleen~ ~tänne...~",
-      "~Valitse...~",
-      "~Myönnetty...~",
-      "~Riski...~ NL ~..ja palkkio....~",
-      "~Aika~ ~kohdata~ NL ~HAASTE...~",
-      "Palkkiot"
-    ],
-    "OPTIONS": [
-      "[Continue]",
-      "[Talk]",
-      "[Skip]",
-      "[Leave]"
+      "Sokea askeetikko joka on tullut \"evaluoimaan\" tornia. NL Jumalallisten liikkeiden mestari."
     ]
   },
-  "Neow Reward": {
-    "NAMES": [],
-    "TEXT": [
-      "[ #gValitse #gkortti ]",
-      "[ #gValitse #gsatunnainen #gharvinainen #gkortti ]",
-      "[ #gPoista #gkortti #gpakastasi ]",
-      "[ #gParantele #gkorttia ]",
-      "[ #gMuunna #gkortti ]",
-      "[ #gSaa #g3 #gsatunnaista #gtaikajuomaa ]",
-      "[ #gSaa #gsatunnainen #gyleinen #gtaikaesine ]",
-      "[ #gMaksimiHP #g+",
-      "[ #gObtain #g",
-      " #gKultaa ]",
-      "#gPoista #g2 #gkorttia ]",
-      "#gSaa #gsatunnainen #gharvinainen #gtaikaesine ]",
-      "#gValitse #gharvinainen #gkortti ]",
-      "#gSaa #g",
-      " #gkultaa ]",
-      "#gMuunna #g2 #gkorttia ]",
-      "#gMaksimiHP #g+",
-      "[ #rMenetä #r",
-      " #rMaksimiHP ",
-      "[ #rMenetä #rkaikki #rkultasi ",
-      "[ #rSaa #rkirous ",
-      "[ #rMenetä #r50% #rnykyisestä #rHP:stasi ",
-      "Valitse kortti",
-      "Valitse poistettava kortti",
-      "Valitse 2 poistettavaa korttia",
-      "Valitse muunnettava kortti",
-      "Valitse 2 muunnettavaa korttia",
-      "Valitse paranneltava kortti",
-      "[ #gSeuraavan #gkolmen #gtaistelun #gvihollisilla #gon #gvain #g1 #gHP ]"
+  "Ironclad": {
+    "NAMES": [
+      "Rautasoturi"
     ],
-    "UNIQUE_REWARDS": [
-      "[ #rMenetä #ralkutaikaesineesi, #gSaa #gsatunnainen #gpomotason #gtaikaesine ]"
+    "TEXT": [
+      "Rautasoturien viimeinen. NL Myi sielunsa valjastaakseen demonisia voimia."
     ]
   },
   "Merchant": {
@@ -99,58 +37,156 @@
       "~Tervetuloa!~"
     ],
     "TEXT": [
-      "Hei! NL Ostakaapa jotain! NL Osta, osta, osta!",
-      "Komea kampaus teillä",
+      "Moi! NL Osta jotain! NL Osta osta osta!",
+      "Pidän tukastasi",
       "Olisiko teillä aikaa?",
-      "Olettekos kissa- vai koiraihimisiä?",
-      "Näytätte ~vaaralliselta,~ NL hehheh...",
-      "Miettikää rauhassa... NL ..... NL ... tai mieluiten ei",
+      "Oletteko kissa- vai koiraihimisiä?",
+      "Näytätte ~vaaralliselta,~ NL hehe...",
+      "Miettikää rauhassa... NL ..... NL ... tai sitten ei",
       "Pidättekö tästä matosta? NL Se ei ole myytävänä",
-      "Tuette vähittäiskauppaa!",
-      "Naamiot ovat cool, minähän sen tiedän!",
-      "Hmm... NL ...hmm... NL Ai!",
+      "Tukekaa vähittäiskauppaa!",
+      "Naamiot ovat viileitä, minähän sen tiedän!",
+      "Hmm... NL ...hmm... NL Öh!",
       "Viipykääpä hetki ja kuunnelkaa!",
-      "On vaarallista matkata yksin! Antakaa minulle kaikki rahanne!",
+      "On vaarallista matkata yksin! Antakaa minulle kaikki kultanne!",
       "Ostakaapas jotain",
       "~*HAUKOTUS*~",
       "Pidän kullasta.",
-      "Lempivärini on sininen. NL Entä teidän?"
+      "Minun lempivärini on sininen. NL Entäs teidän?"
+    ],
+    "OPTIONS": [
+      "Miten pääsin tänne? NL En minä tiedä.",
+      "Viimeinen mahdollisuus ostaa jotain! NL ~*vink*~ ~*vink*~",
+      "..... NL .... NL .........",
+      "Olen kissaihminen.",
+      "Ei kiirettä.",
+      "Eikös olekin @jännää!?@",,
+      "Aikoinaan olin kuin sinä.",
+      "Matkalla ylös?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Tervehdys...~ NL ~olen...~ ~Neow...~",
+      "~Tervehdys...~ NL ~Taas..~",
+      "~Tervehdys...~",
+      "~Uusi~ NL ~yritys...?~",
+      "~Saavuta~ ~pomo...~ NL ~ja~ ~vastaanota~ ~lisää..~ ~siunauksia...~",
+      "~Kohtaa~ ~nyt~ ~edes...~ NL ~ensimmmäinen~ ~pomo...~",
+      "~Toin~ ~sinut~ ~takaisin...~",
+      "~Valitse...~",
+      "~Myönnetty...~",
+      "~Riski...~ NL ~..palkkio....~",
+      "~Aika~ ~kohdata~ NL ~HAASTE...~",
+      "Palkkiot"
+      "~Jatketaan~ ~matkaa...~",
+      "~Aina~ ~vaan~ ~vaikeutuu...~",
+      "~Vaikuttavaa...~ ~lisää...~",
+      "Kirottu!",
+      "Kananaivo!",
+      "Muodonmuutos!"
+    ],
+    "OPTIONS": [
+      "[Jatka]",
+      "[Puhu]",
+      "[Ohita]",
+      "[Poistu]",
+      "Valitse 10 korttia lisättäväksi pakkaasi."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gValitse #gkortti #itsellesi ]",
+      "[ #gOta #gsatunnainen #gharvinainen #gkortti ]",
+      "[ #gPoista #gkortti #gpakastasi ]",
+      "[ #gParantele #gkorttia ]",
+      "[ #gMuunna #gkortti ]",
+      "[ #gSaa #g3 #gsatunnaista #gtaikalientä ]",
+      "[ #gSaa #gsatunnainen #gyleinen #gReliikki ]",
+      "[ #gMaksimi OP #g+",
+      "[ #gHanki #g",
+      " #gKultaa ]",
+      "#gPoista #g2 #gkorttia ]",
+      "#gSaa #gsatunnainen #gharvinainen #gReliikki ]",
+      "#gValitse #gharvinainen #gkortti #itsellesi ]",
+      "#gSaa #g",
+      " #gkultaa ]",
+      "#gMuunna #g2 #gkorttia ]",
+      "#gMaksimi #gOP #g+",
+      "[ #rMenetä #r",
+      " #rMaksimi OP ",
+      "[ #rMenetä #rkaikki #rkultasi ",
+      "[ #rSaa #rkirous ",
+      "[ #rOta #r",
+      "Valitse kortti",
+      "Valitse poistettava kortti",
+      "Valitse 2 poistettavaa korttia",
+      "Valitse muunnettava kortti",
+      "Valitse 2 muunnettavaa korttia",
+      "Valitse paranneltava kortti",
+      "[ #gSeuraavan #gkolmen #gtaistelun #gvihollisilla #gon #gvain #g1 #gOP ]"
+      " #rvahinko",
+      "[ #gValitse #gväritön #gkortti #gitsellesi ]",
+      "#gValitse #gharvinainen #gväritön #gkortti #gitsellesi ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rMenetä #ralkureliikkisi, #gota #gsatunnainen #gpomotason #gReliikki ]"
     ]
   },
   "Shop Screen": {
     "NAMES": [
-      "~Tervetuloa~ NL ~tervetuloa!~",
-      "Hei, NL tarvitsette lisää NL #rkultaa.",
-      "Hei kamu, teillä ei yhtään #rrahaa!",
+      "~Terve~ NL ~terve!~",
+      "Hetkinen, NL tarvitset NL enemmän #rKultaa.",
+      "Hei kamu, sinulla ei ole #rRahaa!",
       "Matti kukkarossa?",
-      "Teillä ei ole tarpeeksi #rrahaa.",
-      "Teillä ei ole siihen varaa.",
-      "Emme tee hyväntekeväisyyttä.",
+      "Teillä ei ole tarpeeksi #rKultaa.",
+      "Sinulla ei ole varaa tuohon.",
+      "Tämä ei ole leipäjono.",
       "~Kiitoooos~",
-      "Kaupat tuli taas... NL hohhohhoo! NL @Kilin@ @kilin!@",
+      "Taas tuli kaupat... NL hohoo! NL Ka - @Tsink!@",
       "@MYYTY!@",
-      "Emme ota vastaan palautuksia.",
+      "Ei hyvitystä.",
       "Hauskaa päivänjatkoa.",
       "Poistu",
-      "Valitse pakastasi poistettava kortti."
+      "Valitse pakasta poistettava kortti."
     ],
     "TEXT": [
-      "Hei! NL Ostakaapa jotain! NL Osta, osta, osta!",
-      "Komea kampaus teillä",
+      "Moi! NL Osta jotain! NL Osta osta osta!",
+      "Pidän tukastasi",
       "Olisiko teillä aikaa?",
-      "Olettekos kissa- vai koiraihimisiä?",
-      "Näytätte ~vaaralliselta,~ NL hehheh...",
-      "Miettikää rauhassa... NL ..... NL ... tai mieluiten ei",
+      "Oletteko kissa- vai koiraihimisiä?",
+      "Näytätte ~vaaralliselta,~ NL hehe...",
+      "Miettikää rauhassa... NL ..... NL ... tai sitten ei",
       "Pidättekö tästä matosta? NL Se ei ole myytävänä",
-      "Tuette vähittäiskauppaa!",
-      "Naamiot ovat cool, minähän sen tiedän!",
+      "Tukekaa vähittäiskauppaa!",
+      "Naamiot ovat viileitä, minähän sen tiedän!",
       "Oletteko nähneet kuriiriani?",
       "Viipykääpä hetki ja kuunnelkaa!",
-      "On vaarallista matkata yksin! Antakaa minulle kaikki rahanne!",
+      "On vaarallista matkata yksin! Antakaa minulle kaikki kultanne!",
       "Ostakaapas jotain",
       "~*HAUKOTUS*~",
       "Pidän kullasta.",
-      "Lempivärini on sininen. NL Entä teidän?"
+      "Lempivärini on sininen. NL Entäs teidän?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Hiljainen"
+    ],
+    "TEXT": [
+      "Taitava metsästäjä sumuisilta mailta. NL Hoitelee vastustajat tikarein ja myrkyin."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Mitä... nyt..? NL ..onko se... tehty....?",
+      "...torni nukkuu.....",
+      "..ja niin...... myös... NL ....minäkin......"
     ]
   }
 }

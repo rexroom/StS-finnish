@@ -1,39 +1,39 @@
 {
   "Dark": {
+    "NAME": "Pimeys",
     "DESCRIPTION": [
-      "#yPassiivivoima: Vuoron lopussa lisää tämän taikakuulan vauriota #b:lla",
-      ". NL #yLoihdi: Tee #b",
-      " vauriota viholliselle, jolla on alhaisin HP."
-    ],
-    "NAME": "Pimeä"
+      "#yPassiivinen: Lisää tämän pallon vahinkoa #b:lla vuoron lopussa.",
+      ". NL #yManaa: Jaa #b",
+      " vauriota viholliselle, jolla on alhaisin OP."
+    ]
   },
   "Empty": {
+    "NAME": "Pallopaikka",
     "DESCRIPTION": [
-      "Taikakuulia on mahdollista kanavoida näihin koloihin."
-    ],
-    "NAME": "Kolo taikakuulalle"
+      "Energiapallot voidaan kanavoida näihin paikkoihin."
+    ]
   },
   "Frost": {
+    "NAME": "Pakkas",
     "DESCRIPTION": [
-      "#yPassiivivoima: Vuoron lopussa saa #b",
-      " #yTorjuntaa. NL #yLoihdi: Saa #b",
+      "#yPassiivinen: Vuoron lopussa lisää #b",
+      " #yTorjuntaa. NL #yManaa: Lisää #b",
       " #yTorjuntaa."
-    ],
-    "NAME": "Halla"
+    ]
   },
   "Lightning": {
+    "NAME": "Salama",
     "DESCRIPTION": [
-      "#yPassiivivoima: Vuoron lopussa tee #b",
-      " vauriota satunnaiselle viholliselle. NL #yLoihdi: Tee #b",
-      " vauriota satunnaiselle viholliselle."
-    ],
-    "NAME": "Salama"
+      "#yPassiivinen: Vuoron lopussa jaa #b",
+      " vahinkoa satunnaiselle viholliselle. NL #yManaa: jaa #b",
+      " vahinkoa satunnaiselle viholliselle."
+    ]
   },
   "Plasma": {
+    "NAME": "Plasma",
     "DESCRIPTION": [
-      "#yPassiivivoima: Vuoron alussa saa [B] . NL #yLoihdi: Gain #b",
-      " [B] . NL #yKohdistus ei vaikuta Plasmaan."
-    ],
-    "NAME": "Plasma"
+      "#yPassiivinen: Vuorosi alussa saa [B] . NL #yManaa: Saa #b",
+      " [B] . NL #yFokus ei vaikuta Plasmaan."
+    ]
   }
 }

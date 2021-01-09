@@ -1,150 +1,56 @@
 {
-  "Ascension": {
-    "NAME": "Nousu",
+  "Alchemist": {
+    "NAME": "Alkemisti",
     "DESCRIPTIONS": [
-      "+5% pisteisiin per nousutaso."
+      "Ostit 5 taikalient‰."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Taivaaseenastuminen",
+    "DESCRIPTIONS": [
+      "+5% pisteisiin per Taivaaseenastumistaso."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Tuonpuoleisen eliittej√§ tapettu",
+    "NAME": "Tuonpuoleisen eliittej‰ tapettu",
     "DESCRIPTIONS": []
+  },
+  "Beyond Perfect": {
+    "NAME": "Parempi kuin t‰ydellinen",
+    "DESCRIPTIONS": [
+      "P‰ihit‰ 3 pomoa ottamatta lainkaan vahinkoa."
+    ]
   },
   "Bosses Slain": {
-    "NAME": "Pomovastuksia tapettu",
-    "DESCRIPTIONS": []
-  },
-  "City Elites Killed": {
-    "NAME": "Kaupungin eliittej√§ tapettu",
-    "DESCRIPTIONS": []
-  },
-  "Exordium Elites Killed": {
-    "NAME": "Exordiumin eliittej√§ tapettu",
+    "NAME": "Pomoja surmattu",
     "DESCRIPTIONS": []
   },
   "Champion": {
     "NAME": "Mestari",
     "DESCRIPTIONS": [
-      "Voita eliittivastus k√§rsim√§tt√§ vahinkoa."
-    ]
-  },
-  "Perfect": {
-    "NAME": "T√§ydellinen",
-    "DESCRIPTIONS": [
-      "Voita pomovastus k√§rsim√§tt√§ vahinkoa."
-    ]
-  },
-  "Beyond Perfect": {
-    "NAME": "Parempi kuin t√§ydellinen",
-    "DESCRIPTIONS": [
-      "Voita kolme pomovastusta k√§rsim√§tt√§ vahinkoa."
-    ]
-  },
-  "Overkill": {
-    "NAME": "T√§ystuho",
-    "DESCRIPTIONS": [
-      "Tee 99 vahinkoa yhdell√§ hy√∂kk√§yksell√§."
-    ]
-  },
-  "Combo": {
-    "NAME": "C-C-c-combo",
-    "DESCRIPTIONS": [
-      "Pelaa 20 korttia yhden vuoron aikana."
-    ]
-  },
-  "Poopy": {
-    "NAME": "Kakkaista",
-    "DESCRIPTIONS": [
-      "Saa henkikakkaa."
+      "P‰ihit‰ Eliitti ottamatta lainkaan vahinkoa."
     ]
   },
   "Cheater": {
     "NAME": "Huijari",
     "DESCRIPTIONS": [
-      "J√§√§nyt kiinni huijaamisesta. Jos j√§√§ kiinni kahdesti tuloksia ei en√§√§ koskaan ladata tulostaululle."
+      "J‰i kiinni huijaamisesta. Jos j‰‰ kiinni toiste, tuloksiasi ei tulla koskaan ladata tulostaulukolle."
     ]
   },
-  "Speedster": {
-    "NAME": "Pikakiit√§j√§",
-    "DESCRIPTIONS": [
-      "Voitto alle 60 minuutissa."
-    ]
-  },
-  "Light Speed": {
-    "NAME": "Valon nopeus",
-    "DESCRIPTIONS": [
-      "Voitto alle 45 minuutissa."
-    ]
-  },
-  "Money Money": {
-    "NAME": "Rahaa rahaa",
-    "DESCRIPTIONS": [
-      "Tienattu 1 000 kultaa."
-    ]
-  },
-  "Raining Money": {
-    "NAME": "Rahasade",
-    "DESCRIPTIONS": [
-      "Tienattu 2 000 kultaa."
-    ]
-  },
-  "I Like Gold": {
-    "NAME": "Pid√§n kullasta",
-    "DESCRIPTIONS": [
-      "Tienattu 3 000 kultaa."
-    ]
-  },
-  "Minimalist": {
-    "NAME": "Minimalisti",
-    "DESCRIPTIONS": [
-      "Poistit 5+ korttia pakastasi."
-    ]
-  },
-  "Highlander": {
-    "NAME": "Highlander",
-    "DESCRIPTIONS": [
-      "Pakassasi ei ole ainuttakaan kaksoiskappaletta (aloituskortteja lukuunottamatta)."
-    ]
-  },
-  "Shiny": {
-    "NAME": "Tykk√§√§n kiilt√§v√§st√§",
-    "DESCRIPTIONS": [
-      "Omista 25+ taikaesinett√§."
-    ]
+  "City Elites Killed": {
+    "NAME": "Kaupunkieliittej‰ tapettu",
+    "DESCRIPTIONS": []
   },
   "Collector": {
-    "NAME": "Ker√§ilij√§",
+    "NAME": "Ker‰ilij‰",
     "DESCRIPTIONS": [
       "Omista 4 kopiota jostain kortista (paitsi aloituskortit)."
     ]
   },
-  "Pauper": {
-    "NAME": "Kerj√§l√§inen",
+  "Combo": {
+    "NAME": "K-k-k-kombo",
     "DESCRIPTIONS": [
-      "Omista 0 harvinaista korttia."
-    ]
-  },
-  "Librarian": {
-    "NAME": "Kirjastonhoitaja",
-    "DESCRIPTIONS": [
-      "Pakan koko v√§hint√§√§n 35 korttia."
-    ]
-  },
-  "Encyclopedian": {
-    "NAME": "Tietosanakirjailija",
-    "DESCRIPTIONS": [
-      "Pakan koko v√§hint√§√§n 50 korttia."
-    ]
-  },
-  "Well Fed": {
-    "NAME": "Vatsa t√§ynn√§",
-    "DESCRIPTIONS": [
-      "Kasvatit maksimi-HP:tasi 15+ pisteell√§."
-    ]
-  },
-  "Stuffed": {
-    "NAME": "√Ñhky",
-    "DESCRIPTIONS": [
-      "Kasvatit maksimi-HP:tasi 30+ pisteell√§."
+      "Pelaa 20 korttia yhden vuoron aikana."
     ]
   },
   "Curses": {
@@ -153,22 +59,122 @@
       "Pakassasi on 5 kirousta."
     ]
   },
-  "Alchemist": {
-    "NAME": "Alkemisti",
+  "Encyclopedian": {
+    "NAME": "Ensyklopedikko",
     "DESCRIPTIONS": [
-      "Ostit 5 taikajuomaa."
+      "Pakan koko v‰hint‰‰n 50 korttia."
+    ]
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Exordiumin eliittej‰ tapettu",
+    "DESCRIPTIONS": []
+  },
+  "Heartbreaker": {
+    "NAME": "Syd‰mens‰rkij‰",
+    "DESCRIPTIONS": [
+      "Kukista Syd‰n."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Yl‰nkˆmaalainen",
+    "DESCRIPTIONS": [
+      "Pakassasi ei ole kaksoiskappaleita (lukuunottamatta aloituskortteja)."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Pid‰n kullasta",
+    "DESCRIPTIONS": [
+      "Ker‰tty 3 000 kultaa."
+    ]
+  },
+  "Librarian": {
+    "NAME": "Kirjastonhoitaja",
+    "DESCRIPTIONS": [
+      "Pakan koko v‰hint‰‰n 35 korttia."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Valon nopeus",
+    "DESCRIPTIONS": [
+      "Voitto alle 45 minuutissa."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalisti",
+    "DESCRIPTIONS": [
+      "Poistit 5+ korttia pakastasi."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Rahaa rahaa",
+    "DESCRIPTIONS": [
+      "Tienattu 1 000 kultaa."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Salaisuuksien kone",
+    "NAME": "Mysteerimies",
     "DESCRIPTIONS": [
       "Vierailit 15+ ?-huoneessa."
     ]
   },
   "On My Own Terms": {
-    "NAME": "Omat s√§√§nn√∂t",
+    "NAME": "Omilla ehdoillani",
     "DESCRIPTIONS": [
       "Tapoit itsesi."
+    ]
+  },
+  "Overkill": {
+    "NAME": "T‰ystuho",
+    "DESCRIPTIONS": [
+      "Tee 99 vahinkoa yhdell‰ hyˆkk‰yksell‰."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Vaivainen",
+    "DESCRIPTIONS": [
+      "Omista 0 harvinaista korttia."
+    ]
+  },
+  "Perfect": {
+    "NAME": "T‰ydellinen",
+    "DESCRIPTIONS": [
+      "P‰ihit‰ pomovastus k‰rsim‰tt‰ vahinkoa."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Pˆk‰le",
+    "DESCRIPTIONS": [
+      "Saa henkikakkaa."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Rahaa kuin roskaa",
+    "DESCRIPTIONS": [
+      "Tienattu 2 000 kultaa."
+    ]
+  },
+  "Shiny": {
+    "NAME": "Hamstraaja",
+    "DESCRIPTIONS": [
+      "Omista 25+ reliikki‰."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Pikakiit‰j‰",
+    "DESCRIPTIONS": [
+      "Voitto alle 60 minuutissa."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Ahdettu",
+    "DESCRIPTIONS": [
+      "Kasvatit maksimi OP:ta 30+ pisteell‰."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Maha t‰ynn‰",
+    "DESCRIPTIONS": [
+      "Kasvatit maksimi OP:ta 15+ pisteell‰."
     ]
   }
 }

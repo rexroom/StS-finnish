@@ -2,243 +2,194 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artifakti"
+        "artefakti"
       ],
-      "DESCRIPTION": "Estää seuraavan negatiivisen taikaefektin."
+      "DESCRIPTION": "Mitätöi seuraavan haitan."
     },
     "BLOCK": {
       "NAMES": [
         "torjunta",
-        "torjuntaa"
+        "torjunnat"
       ],
-      "DESCRIPTION": "Estää vauriota seuraavaan vuoroon asti."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "loihdi",
-        "loihtinut",
-        "loihditaan"
-      ],
-      "DESCRIPTION": "Kuluttaa oikeanpuolimmaisimman taikakuulasi ja käyttää sen Loihtimisefektin."
-    },
-    "CURSE": {
-      "NAMES": [
-        "Kirous",
-        "Kirouskortit"
-      ],
-      "DESCRIPTION": "Kirouskortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
-    },
-    "DEXTERITY": {
-      "NAMES": [
-        "Ketteryys"
-      ],
-      "DESCRIPTION": "Ketteryys tehostaa korteista saatua Torjuntaa."
-    },
-    "ETHEREAL": {
-      "NAMES": [
-        "varjomainen"
-      ],
-      "DESCRIPTION": "Mikäli tämä kortti on kädessäsi vuorosi lopussa se Häipyy. Häipyneet kortit poistetaan pakastasi taistelun ajaksi."
-    },
-    "EXHAUST": {
-      "NAMES": [
-        "häipyy",
-        "häipyvä",
-        "häivytä",
-        "häivytettyä"
-      ],
-      "DESCRIPTION": "Poistettu taistelun ajaksi."
-    },
-    "INNATE": {
-      "NAMES": [
-        "luontainen"
-      ],
-      "DESCRIPTION": "Tämä kortti aloittaa taistelun kädessäsi."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "kohdistus"
-      ],
-      "DESCRIPTION": "Kohdistus lisää #yKanavoitujen taikakuulien tehoa."
-    },
-    "LOCKED": {
-      "NAMES": [
-        "lukittu"
-      ],
-      "DESCRIPTION": "Tätä korttia ei ole vielä avattu."
-    },
-    "OPENER": {
-      "NAMES": [
-        "avaus"
-      ],
-      "DESCRIPTION": "Avauskortit voidaan pelata vain kunkin vuoron ensimmäisenä korttina."
-    },
-    "POISON": {
-      "NAMES": [
-        "myrkky",
-        "myrkytetty"
-      ],
-      "DESCRIPTION": "Myrkytetyt olennot menettävät HP:ta vuoronsa lopussa. Joka vuoro Myrkky vähenee #b1:llä."
-    },
-    "RETAIN": {
-      "NAMES": [
-        "säilytä"
-      ],
-      "DESCRIPTION": "Säilytettyjä kortteja ei laiteta pois vuoron lopussa."
-    },
-    "SHIV": {
-      "NAMES": [
-        "puukko",
-        "puukot"
-      ],
-      "DESCRIPTION": "Puukot ovat #b0 maksavia hyökkäyskortteja jotka poistuvat taistelun ajaksi."
-    },
-    "STATUS": {
-      "NAMES": [
-        "tilakortti",
-        "tilakortin",
-        "tilakortit"
-      ],
-      "DESCRIPTION": "Tilakortit poistetaan pakasta taistelun lopuksi."
-    },
-    "STRENGTH": {
-      "NAMES": [
-        "vahvuus",
-        "vahvuutta",
-        "vahvuutesi"
-      ],
-      "DESCRIPTION": "Vahvuus lisää hyökkäysten tekemää vauriota."
-    },
-    "TRANSFORM": {
-      "NAMES": [
-        "muunna"
-      ],
-      "DESCRIPTION": "Muunnetuista korteista tulee satunnaisia, minkä tahansa harvinaisuusasteen kortteja."
-    },
-    "UNKNOWN": {
-      "NAMES": [
-        "tuntematon"
-      ],
-      "DESCRIPTION": "Et ole vielä kohdannut tätä korttia."
-    },
-    "UNPLAYABLE": {
-      "NAMES": [
-        "pelikelvoton"
-      ],
-      "DESCRIPTION": "Pelikelvottomia kortteja ei voi itse pelata."
-    },
-    "UPGRADE": {
-      "NAMES": [
-        "parantele",
-        "paranneltu"
-      ],
-      "DESCRIPTION": "Korttien paranteleminen tekee niistä vahvempia. Yhtä korttia voi yleensä parannella vain kerran."
-    },
-    "VOID": {
-      "NAMES": [
-        "tyhjiö",
-        "tyhjiöt"
-      ],
-      "DESCRIPTION": "Tyhjiöt ovat pelikelvottomia statuskortteja, jotka kuluttavat energiaa pakasta nostettaessa."
-    },
-    "VULNERABLE": {
-      "NAMES": [
-        "haavoittuvuus",
-        "haavoittuvuutta",
-        "haavoittuvaa"
-      ],
-      "DESCRIPTION": "Haavoittuvat olennot kärsivät #b50% enemmän hyökkäyksistä."
-    },
-    "WEAK": {
-      "NAMES": [
-        "heikennys",
-        "heikennystä",
-        "heikennetty",
-        "heikennetyt"
-      ],
-      "DESCRIPTION": "Heikennetyt olennot tekevät hyökätessään #b25% vähemmän vauriota."
-    },
-    "WOUND": {
-      "NAMES": [
-        "haava",
-        "haavaa"
-      ],
-      "DESCRIPTION": "Haavat ovat pelikelvottomia tilakortteja."
-    },
-    "DAZED": {
-      "NAMES": [
-        "tärähdys",
-        "tärähdystä"
-      ],
-      "DESCRIPTION": "Tärähdys -kortit ovat pelikelvottomia tilakortteja."
+      "DESCRIPTION": "Torjuu vauriota seuraavaan vuoroon asti."
     },
     "BURN": {
       "NAMES": [
         "palovamma",
         "palovammat"
       ],
-      "DESCRIPTION": "Palovammat ovat pelikelvottomia tilakortteja, jotka aiheuttavat vauriota."
+      "DESCRIPTION": "Palovammat ovat ei-pelattavia statuskortteja jotka vahingoittavat sinua."
     },
-    "FRAIL": {
+    "CHANNEL": {
       "NAMES": [
-        "hauras",
-        "haurautta"
+        "kanava",
+        "kanavoitu"
       ],
-      "DESCRIPTION": "Pelaajan ollessa hauras hän saa #b25% vähemmän #yTorjuntaa korteista."
-    },
-    "STRIKE": {
-      "NAMES": [
-        "Isku"
-      ],
-      "DESCRIPTION": "Mikä tahansa kortti jonka nimessä on \"Isku\"."
+      "DESCRIPTION": "Pallon kanavointi laittaa sen ensimmäiseen vapaaseen lokeroon. Jos sinulla ei ole vapaita lokeroita, ensimmäinen pallo automaattisesti #yManataan tehdäkseen tilaa."
     },
     "CONFUSED": {
       "NAMES": [
         "sekaisin"
       ],
-      "DESCRIPTION": "Aina kun nostat kortin sen hinta on satunnainen."
+      "DESCRIPTION": "Aina kun nostat kortin, sen hinta arvotaan."
+    },
+    "CURSE": {
+      "NAMES": [
+        "kirottu"
+      ],
+      "DESCRIPTION": "Kirotut kortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
+    },
+    "DARK": {
+      "NAMES": [
+        "pimeys",
+        "pimeys+"
+      ],
+      "DESCRIPTION": "Pallo: Lisää vahinkoa jokaisella kierroksella. Kun #Manataan, iskee viholliseen jolla on vähiten OP."
+    },
+    "DAZED": {
+      "NAMES": [
+        "pökertynyt"
+      ],
+      "DESCRIPTION": "Pökertyneet ovat ei-pelattavia statuskortteja."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "näppäryys"
+      ],
+      "DESCRIPTION": "Näppäryys antaa lisää korteista saatavaa Torjuntaa."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "eteerinen"
+      ],
+      "DESCRIPTION": "Kuluu mikäli tämä kortti on kädessäsi vuorosi lopussa. Kulutetut kortit poistetaan pakastasi taistelun ajaksi."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "manaa",
+        "manattu"
+      ],
+      "DESCRIPTION": "Kuluta oikeanpuoleisin Pallo ja käytä sen Manausefektiä."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "kuluta",
+        "kulutettu",
+        "kuluttaa"
+      ],
+      "DESCRIPTION": "Poistettu taistelun ajaksi."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "fokus"
+      ],
+      "DESCRIPTION": "Fokus lisää #yKanavoitujen pallojen tehokkuutta."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "hauras"
+      ],
+      "DESCRIPTION": "Saa #b25% vähemmän #yTorjuntaa korteista ollessasi hauras."
+    },
+    "FROST": {
+      "NAMES": [
+        "pakkas",
+        "pakkas+"
+      ],
+      "DESCRIPTION": "Pallo: Kasvattaa #yTorjuntaa vuoron lopussa."
+    },
+    "INNATE": {
+      "NAMES": [
+        "luontainen"
+      ],
+      "DESCRIPTION": "Tämä kortti löytyy taistelun alussa kädestäsi."
     },
     "INTANGIBLE": {
       "NAMES": [
-        "haavoittumattomuus",
-        "haavoittumattomuutta"
+        "aineeton"
       ],
-      "DESCRIPTION": "Jos kärsit vauriota, menettämäsi HP on korkeintaan #b1."
+      "DESCRIPTION": "Pienennä KAIKKI otettu vahinko ja OP:n menetys #b1 pisteeseen."
     },
     "LIGHTNING": {
       "NAMES": [
         "salama",
         "salama+"
       ],
-      "DESCRIPTION": "Taikakuula: Tekee vauriota satunnaisille vihollisille."
+      "DESCRIPTION": "Pallo: Jakaa vahinkoa satunnaisesti vihollisille."
     },
-    "FROST": {
+    "LOCKED": {
       "NAMES": [
-        "halla",
-        "halla+"
+        "lukossa"
       ],
-      "DESCRIPTION": "Taikakuula: Saa #yTorjuntaa."
+      "DESCRIPTION": "Tämä kortti on vielä avaamatta."
     },
-    "DARK": {
+    "LOCK_ON": {
       "NAMES": [
-        "pimeä",
-        "pimeä+"
+        "lukittu"
       ],
-      "DESCRIPTION": "Taikakuula: Vaurio lisääntyy joka vuoro. Kun taikakuula #yLoihditaan tekee se vauriota viholliselle jolla on vähiten HP:ta."
+      "DESCRIPTION": "Lukitut kohteet saavat #b50% enemmän vahinkoa palloilta."
+    },
+    "OPENER": {
+      "NAMES": [
+        "avaus"
+      ],
+      "DESCRIPTION": "Avauskortit voidaan pelata vain kierroksen ensimmäisenä korttina."
     },
     "PLASMA": {
       "NAMES": [
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Taikakuula: Saa lisäenergiaa."
+      "DESCRIPTION": "Pallo: Kasvattaa Energiaa."
     },
-    "CHANNEL": {
+    "POISON": {
       "NAMES": [
-        "kanavoi",
-        "kanavoitu"
+        "myrkky",
+        "myrkytetty"
       ],
-      "DESCRIPTION": "Taikakuulan Kanavoiminen laittaa sen ensimmäiseen tyhjään lokoseesi. Jos sinulla ei ole tyhjiä lokosia ensimmäinen taikakuulasi #yLoihditaan automaattisesti, jotta uudelle taikakuulalle on tilaa."
+      "DESCRIPTION": "Myrkytetyt olennot menettävät OP:ta heti vuoronsa alussa. Myrkky vähenee joka vuorolla #b1:llä."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "säilytä",
+		"säilyttää",
+		"säilytetty"
+      ],
+      "DESCRIPTION": "Säilyviä kortteja ei laiteta pois vuoron lopussa."
+    },
+    "SHIV": {
+      "NAMES": [
+        "puukko",
+        "puukot"
+      ],
+      "DESCRIPTION": "Puukot ovat #b0-hintaisia Hyökkäyskortteja jotka Kuluvat."
+    },
+    "STATUS": {
+      "NAMES": [
+        "status"
+      ],
+      "DESCRIPTION": "Statuskortit poistetaan taistelun lopulla."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "vahvuus"
+      ],
+      "DESCRIPTION": "Vahvuus antaa lisävahinkoa hyökkäyksiin."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "isku"
+      ],
+      "DESCRIPTION": "Mikä tahansa kortti jonka nimessä on \"Isku\"."
+    },
+    "TEXT": [
+      "Energiaa käytetään korttien pelaamiseen kädestäsi."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "piikit"
+      ],
+      "DESCRIPTION": "Jakaa vahinkoa takaisin kun vastaanottaa #yHyökkäysvahinkoa.."
     },
     "TODO": {
       "NAMES": [
@@ -250,8 +201,121 @@
       ],
       "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
     },
-    "TEXT": [
-      "Energy is used to play cards from your hand."
-    ]
+    "TRANSFORM": {
+      "NAMES": [
+        "muunna"
+      ],
+      "DESCRIPTION": "Muunnetuista korteista tulee satunnaisia, minkä tahansa harvinaisuusasteen kortteja."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "tuntematon"
+      ],
+      "DESCRIPTION": "Tätä korttia ei ole vielä kohdattu."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "ei-pelattava"
+      ],
+      "DESCRIPTION": "Ei-pelattavia kortteja ei voi pelata kädestäsi."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "parantele",
+        "paranneltu"
+      ],
+      "DESCRIPTION": "Korttien parantelu tekee niistä voimakkaampia. Kortteja voi parannella vain kerran."
+    },
+    "VOID": {
+      "NAMES": [
+        "tyhjiö",
+        "tyhjiöt"
+      ],
+      "DESCRIPTION": "Tyhjiöt ovat ei-pelattavia statuskortteja, jotka syövät energiaa nostettaessa."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "haavoittuva"
+      ],
+      "DESCRIPTION": "Haavoittuvat oliot ottavat #b50% enemmän vahinkoa Hyökkäyksiltä."
+    },
+    "WEAK": {
+      "NAMES": [
+        "heikko",
+        "heikennä",
+        "heikennetty",
+        "heikentää"
+      ],
+      "DESCRIPTION": "Heikennetyt oliot antavat #b25% vähemmän vauriota Hyökkäyksillään."
+    },
+    "WOUND": {
+      "NAMES": [
+        "haava",
+        "haavat"
+      ],
+      "DESCRIPTION": "Haavat ovat ei-pelattavia statuskortteja."
+    },
+    "WRATH": {
+      "NAMES": [
+        "raivo"
+      ],
+      "DESCRIPTION": "Tässä #yAsennossa annat ja otat tuplasti enemmän hyökkäysvauriota."
+    },
+    "CALM": {
+      "NAMES": [
+        "tyyni"
+      ],
+      "DESCRIPTION": "Saat [W] [W] poistuessasi tästä #yAsennosta."
+    },
+    "STANCE": {
+      "NAMES": [
+        "asento",
+        "asennot"
+      ],
+      "DESCRIPTION": "Sinulla voi olla vain yksi asento voimassa."
+    },
+    "SCRY": {
+      "NAMES": [
+        "ennusta"
+      ],
+      "DESCRIPTION": "Katso X päällimmäistä korttia nostopinosi päältä. Voit poistaa minkä tahansa niistä."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "jumaluus"
+      ],
+      "DESCRIPTION": "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vahinkoa. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "raivon kautta"
+      ],
+      "DESCRIPTION": "Kun keräät #b10 #yMantraa, vaihda #yJumaluuteen."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "tarmo"
+      ],
+      "DESCRIPTION": "Sinun seuraava Hyökkäyksesi tuottaa lisävahinkoa."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regeneroi"
+      ],
+      "DESCRIPTION": "Regenerointi palauttaa OP:tä vuorosi lopussa. Regenerointi vähenee joka vuorolla #b1:llä."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "rituaali"
+      ],
+      "DESCRIPTION": "Lisää #yVahvuutta vuorosi lopussa."
+    },
+    "FATAL": {
+      "NAMES": [
+        "kuolettava"
+      ],
+      "DESCRIPTION": "Aktivoituu kun tämä kortti surmaa vihollisen joka ei ole käskyläinen."
+    }
   }
 }

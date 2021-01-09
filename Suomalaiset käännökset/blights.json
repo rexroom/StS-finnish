@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Vitsauksien keihäs",
+    "DESCRIPTION": [
+      "Viholliset antavat #b",
+	  "% enemmän vahinkoa."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Vitsauksien kilpi",
+     "DESCRIPTION": [
+      "Vihollisilla on #b",
+	  "% enemmän OP."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Aikasokkelo",
+     "DESCRIPTION": [
+      "Et voi pelata enemmän kuin #b",
+      " korttia vuoron aikana.",
+	  "Korteista voin pelata korkeintaan NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Kieroutuva mieli",
+     "DESCRIPTION": [
+      "Lisää vuorosi lopussa #b",
+	  " satunnaista Statuskorttia nostopakkasi päälle.",
+	  ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Kirottu",
+     "DESCRIPTION": [
+      "Aina kun päihität Pomon, saa #b",
+      " satunnaista #yKirousta.",
+	  ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Hajamielinen",
+     "DESCRIPTION": [
+      "Nosta #b",
+	  " korttia vähemmän vuorollasi.",
+	  ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Jäljittelijöiden vahingonteko",
+     "DESCRIPTION": [
+      "Aarrehuoneet tulevissa näytöissä korvataan Eliiteillä. Eliitit eivät enää anna Reliikkejä."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Heikennys",
+     "DESCRIPTION": [
+      "Et voi enää lisätä Maksimi OP:tä. Kaikki parantamiset ovat puolta heikompia."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteski pokaali",
+     "DESCRIPTION": [
+      "Poiminnan yhteydessä ota #b",
+	  " #rYlpeyttä.",
+	  "Ylpeytesi on kieroutunutta..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Jälkidurian",
+     "DESCRIPTION": [
+      "Menetä #b",
+	  "% Maksimi OP:stä."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Ydintyhjyys",
+     "DESCRIPTION": [
+      "Saa #b",
+      " vähemmän [E] vuorosi alussa."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Kummittelut",
+     "DESCRIPTION": [
+      "Viholliset aloittavat taistelun #b",
+	  " #yAineettomalla."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Muinaista tehostamista",
+     "DESCRIPTION": [
+      "Viholliset aloittavat taistelun #b",
+	  " #yArtefaktilla, #b",
+	  " #yPanssarilevyllä ja #b",
+	  " #yRegeneroivaa."
+    ]
+  }
+}
