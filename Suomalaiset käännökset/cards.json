@@ -627,7 +627,7 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M! -kertaisesti."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M! -kertaisesti.",
     "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M! -kertaisesti."
   },
   "Heel Hook": {
@@ -904,7 +904,7 @@
     "UPGRADE_DESCRIPTION": "Channel 1 Lightning. NL Channel 1 Frost. NL Channel 1 Dark."
   },
   "Rampage": {
-    "NAME": "Riehunta",
+    "NAME": "Riehuja",
     "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää korttiin !M! vahinkoa taistelun ajaksi."
   },
   "Reaper": {
@@ -978,7 +978,7 @@
   },
   "Second Wind": {
     "NAME": "Tasaantuminen",
-    "DESCRIPTION": "Kuluta kaikki muut kortit paitsi Hyökkäykset kädestäsi. Saa !B! Torjuntaa jokaisesta Kulutetusta kortista."
+    "DESCRIPTION": "Kuluta kaikki kortit paitsi Hyökkäykset kädestäsi. Saat !B! Torjuntaa jokaisesta Kulutetusta kortista."
   },
   "Secret Technique": {
     "NAME": "Salainen tekniikka",

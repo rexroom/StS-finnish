@@ -81,7 +81,7 @@
       "~Myönnetty...~",
       "~Riski...~ NL ~..palkkio....~",
       "~Aika~ ~kohdata~ NL ~HAASTE...~",
-      "Palkkiot"
+      "Palkkiot",
       "~Jatketaan~ ~matkaa...~",
       "~Aina~ ~vaan~ ~vaikeutuu...~",
       "~Vaikuttavaa...~ ~lisää...~",
@@ -128,7 +128,7 @@
       "Valitse muunnettava kortti",
       "Valitse 2 muunnettavaa korttia",
       "Valitse paranneltava kortti",
-      "[ #gSeuraavan #gkolmen #gtaistelun #gvihollisilla #gon #gvain #g1 #gOP ]"
+      "[ #gSeuraavan #gkolmen #gtaistelun #gvihollisilla #gon #gvain #g1 #gOP ]",
       " #rvahinko",
       "[ #gValitse #gväritön #gkortti #gitsellesi ]",
       "#gValitse #gharvinainen #gväritön #gkortti #gitsellesi ]"
@@ -147,10 +147,10 @@
       "Sinulla ei ole varaa tuohon.",
       "Tämä ei ole leipäjono.",
       "~Kiitoooos~",
-      "Taas tuli kaupat... NL hohoo! NL Ka - @Tsink!@",
+      "Taas tuli kaupat... NL hohoo! NL Ka - @tsink!@",
       "@MYYTY!@",
       "Ei hyvitystä.",
-      "Hauskaa päivänjatkoa.",
+      "Hyvää päivänjatkoa.",
       "Poistu",
       "Valitse pakasta poistettava kortti."
     ],

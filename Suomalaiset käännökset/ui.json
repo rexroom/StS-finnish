@@ -68,10 +68,10 @@
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Estetty",
+      "Torjuttu",
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen"
+      "Viallinen",
       "Tarkkailija"
     ]
   },
@@ -150,7 +150,7 @@
       "Taistelu alkaa",
       "Pelaajan vuoro",
       "Vihollisen vuoro",
-      " vuoro"
+      ". vuoro"
     ]
   },
   "BetterToHandAction": {
@@ -199,7 +199,7 @@
   },
   "CampfireUI": {
     "TEXT": [
-      "Mitä tehdä?",
+      "Mitä tekisin?",
       "Hmm...",
       "Mitä tekisin?",
       "Aika tauolle",
@@ -258,7 +258,7 @@
       " avausta jäljellä",
       "Tuntematon",
       "???",
-      " seuraavaan avaukseen"
+      " seuraavaan avaukseen",
       "Tämä hahmo avautuu voittamalla yhden pelikerran peruspelillä ja että myös 3. hahmo on jo avattu."
     ]
   },
@@ -350,7 +350,7 @@
       " NL #yMuunnelmat: ",
       "Määre: ",
       "Pistetaulukko",
-      "*Saavutukset ovat poissa käytöstä päivittäisissä haasteissa.."
+      "*Saavutukset ovat poissa käytöstä päivittäisissä haasteissa..",
       "  [YHTEYDETÖN TILA]",
       "d. MMMM yyyy",
       "*Pokaalit ovat poissa käytössä Päivittäisissä haasteissa."
@@ -520,16 +520,16 @@
     "TEXT": [
       "Mikä on Varhaisjulkaisu?",
       "Mikä on avoin beta?",
-      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
-      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "Klikkaa mihin vain aloittaaksesi"
+      "Slay the Spire on vielä aktiivisessa ohjelmoinnissa! NL Monet ominaisuudet, kortit ja viholliset voivat muuttua. NL NL Jos törmäät ongelmiin tai haluat antaa palautetta, ole hyvä ja viesti meille #bSteamin #bKeskustelu sivuilla. NL NL Ei sen enempää, aika kiivetä tornia!",
+      "Slay the Spire on vielä aktiivisessa ohjelmoinnissa! NL Sen lisäksi pelaat pelin Beta-versiota. NL NL Ole hyvä ja viesti meille mahdollisista ongelmista pelatessasi, mutta älä ylläty tulevan sisällön köykäisestä taiteesta. NL NL Ei sen enempää, aika kiivetä tornia!",
+      "Klikkaa mihin vain aloittaaksesi",
       "Jatka"
     ]
   },
   "End Turn Button": {
     "TEXT": [
       "Lopeta vuoro",
-      "Vihollisen vuoro"
+      "Vihollisvuoro"
     ]
   },
   "ExhaustAction": {
@@ -560,7 +560,7 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Korvaa (Pelipoletti)"
+      "Korvaa (Pelipoletti)",
       "Korvaa"
     ]
   },
@@ -638,7 +638,7 @@
       "Valitse kortti #7",
       "Valitse kortti #8",
       "Valitse kortti #9",
-      "Valitse kortti #10"
+      "Valitse kortti #10",
       "Vapauta kortti",
       "Valitse*",
       "Peruuta*",
@@ -708,7 +708,7 @@
       "Korkein pistemäärä",
       "Option 6. DO NOT TRANSLATE",
       "Ystävät",
-      "Maailmanlaajuinen"
+      "Maailmanlaajuinen",
       "Tarkkailija"
     ]
   },
@@ -755,7 +755,7 @@
   "Lift Option": {
     "TEXT": [
       "Nosta",
-      "Aloita taistelut +1 Vahvuudella. (Korkeintaan 3)"
+      "Aloita taistelut +1 Vahvuudella. (Korkeintaan 3)",
 	  ""
     ]
   },
@@ -764,7 +764,7 @@
       "#yRakenne: ",
       "Lähde matkaan",
       "Palaa",
-      "klikkaa muokataksesi"
+      "klikkaa muokataksesi",
       "muokatakseen",
       "napauta muokataksesi"
     ]
@@ -838,7 +838,7 @@
       "Kustomoitu",
       "Räätälöi oma pelikertasi ainutlaatuisilla määritteillä.",
       "Vaihda ohjaimesi.",
-      "Muuta grafiikka-, ääni- ja peliasetuksia.",
+      "Muuta grafiikka-, äänenvoimakkuus- ja peliasetuksia.",
       "Laboratorio",
       "Tarkastele lukuisia tornin ympäristöstä löytyviä taikaliemiä."
     ]
@@ -875,11 +875,11 @@
       "Grafiikka",
       "Resoluutio: NL Nopein kuvanopeus:",
       "Kokoruutu NL Reunaton kokoruutu (suositeltu) NL Ruudun tärinä",
-      "Ääni",
-      "Pää-äänenvoimakkuus NL Musiikin äänenvoimakkuus NL Efektien äänenvoimakkuus",
+      "Äänenvoimakkuus",
+      "Kaikki NL Musiikki NL Efektit",
       "Taustaääniefektit NL Hiljennä kun taustalla",
       "Valinnat",
-      "Näytä yhteisvaurio kultaisena NL Näytä torjuttu vaurio sinisellä NL Älä kysy vahvistusta kun valittavissa vain 1 kortti",
+      "Näytä yhteisvaurio kultana NL Näytä torjuttu vaurio sinisellä NL Älä kysy vahvistusta kun valittavissa vain 1 kortti",
       "Pikatila",
       "",
       "Sekalaiset",
@@ -890,7 +890,7 @@
       "NL NL VSync",
       "Pelitestaajakuvitukset",
       "Näytä korttien pikavalintanäppäimet",
-      "Syöteasetukset"
+      "Syöteasetukset",
       "Poista partikkeliefektit",
       "Resoluutio:",
       "Resoluutio: NL Kokoruutumonitori:",
@@ -917,7 +917,7 @@
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Loppui"
+      "päättyi"
     ]
   },
   "Proceed Button": {
@@ -994,7 +994,7 @@
       "Lepää",
       "Paranna 100% maksimi OP:stäsi (",
       " OP / ",
-      "Paranna 30% maksimi OP:stäsi ("
+      "Paranna 30% maksimi OP:stäsi (",
 	  ""
     ]
   },
@@ -1031,7 +1031,7 @@
       "Pomo",
       "Aarre",
       "Pomoaarre",
-      "Lepo",
+      "Lepopaikka",
       "Kauppias",
       "Tuntematon (vihollinen)",
       "Tuntematon (kauppias)",
@@ -1044,7 +1044,7 @@
       "#y%s #yKultaa",
       "#yLöysi: ",
       "#yOhitti:",
-      "Puuttuva tieto"
+      "Puuttuva tieto",
       "+2 MaksimiOP",
       "[C] ",
       "[T] ",
@@ -1114,7 +1114,7 @@
       "Palaa",
       "Ei tuloksia saatavilla. NL Mene Kukistamaan Tornia!",
       "Taivaaseenastumistaso: ",
-      "Kukistettiin %1$d kerroksessa tappajana %2$s",
+      "Kukistettiin %1$d. kerroksessa tappajana %2$s",
       "Jätti pelin kesken kerroksessa %d",
       "Voitto!",
       "Kortit",

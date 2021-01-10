@@ -1,7 +1,7 @@
 {
   "AchievementGrid": {
     "NAMES": [
-      "Olankohautus",
+      "Läheltä piti",
       "Puhtaus",
       "Käy vaan päälle",
       "Sopimus",
@@ -84,7 +84,7 @@
       "Voita Taivaaseenastumistaso 10.",
       "Voita peli 5 kortin pakalla tai vähemmällä.",
       "Viimeistele Donu Ruoki-kortilla.",
-      "Voita peli Viallisella."
+      "Voita peli Viallisella.",
       "Päihitä peli pakalla jossa ei ole harvinaisia kortteja.",
       "Pidä taistelun aikana 25 tai enemmän Fokusta.",
       "Kanavoi 9 Plasmaa yhden vuoron aikana.",
@@ -127,7 +127,7 @@
       "Surmattuja pomoja: #y",
       "Surmattuja vihollisia: #y",
       "Pisin voittoputki: #y",
-      "Suurin pistesaalis: #y"
+      "Suurin pistesaalis: #y",
       "%02d:%02d:%02d",
       "%02d:%02d",
       "#y%02dt #y%02dmin #y%02ds",

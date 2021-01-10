@@ -1,7 +1,7 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "Jos nostopinosi on tyhjä, poistopinosi sekoitetaan uudeksi nostopinoksi. NL NL Klikkaa nähdäksesi poistopinosi kortit."
+      "Jos nostopinosi on tyhjä, poistopinosi sekoitetaan uudeksi nostopinoksi. NL NL Klikkaa nähdäksesi poistopinosi kortit.",
       "Jos nostopinosi on tyhjä, poistopinosi sekoitetaan uudeksi nostopinoksi. NL NL Näe poistopinosi kortit."
     ],
     "LABEL": [
@@ -47,7 +47,7 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Klikkaa nähdäksesi tässä taistelussa Kulutetut kortit."
+      "Klikkaa nähdäksesi tässä taistelussa Kulutetut kortit.",
       "Katso taistelussa Kulutetut kortit."
     ],
     "LABEL": [
@@ -65,7 +65,7 @@
     "TEXT": [
       "Voita vihollisia pelaamalla kortteja kädestäsi! NL NL Korttien pelaaminen vaatii #yEnergiaa. NL Kun se loppuu, lopeta vuorosi. NL NL Seuraavan vuorosi alussa nostat uuden käden ja #yEnergiasi palautuu.",
       "Pelaa puolustuskortteja lisätäksesi #yTorjuntaa vihollisten aikoessa hyökätä. NL NL #yTorjunta vähentää saamaasi vauriota mutta NL #rkuluu #rpois seuraavan vuorosi alussa.",
-      "Voit vuorosi aikana nähdä vihollisten #yAikomukset heidän päänsä yllä. NL NL Mikäli vihollinen aikoo hyökätä kimppuusi, pelaa kortteja joista saat #yTorjuntaa!"
+      "Voit vuorosi aikana nähdä vihollisten #yAikomukset heidän päänsä yllä. NL NL Mikäli vihollinen aikoo hyökätä kimppuusi, pelaa kortteja joista saa #yTorjuntaa!"
     ],
     "LABEL": [
       "Seuraava",
@@ -80,7 +80,7 @@
       "Pelitoimintadata ja virhelokit lähetetään Mega Crit -kehittäjälle pelin tasapainottamiseen. NL NL Henkilökohtaisia tunnistetietoja EI kerätä.",
       "Slay the Spire toimii nopeimmin ajettuna täydellä ruudulla. Suositellaan macOS-käyttöjärjestelmässä jossa telakka ja menupalkki ovat kätkettyinä. NL HUOM: PC:llä kokoruudulla pelattaessa alt-tab -komennolla takaisin Slay the Spireen ei välttämättä toimi.",
       "Koska Slay the Spire ei ole kovin vaativa peli, suosittelemme rajatonta kokoruudun pelitilaa nopeampaan alt-tab -vaihtoon. Toimii parhaiten PC:llä.",
-      "Huom: Mikäli VSync on päällä, Nopein kuvanopeus ei voi olla suurempi kuin näytön virkistystaajuus."
+      "Huom: Mikäli VSync on päällä, Nopein kuvanopeus ei voi olla suurempi kuin näytön virkistystaajuus.",
       "Ohjaintuki keskeneräinen tällä ruudulla.",
       "Vaihtaa mitä monitoria käytetään kun ollaan Kokonäytössä."
     ],
@@ -140,14 +140,14 @@
       "Et tule koskaan näkemään kahta samaa reliikkiä samalla pelikerralla.",
       "Harvinaisilla korteilla on sininen kehys ja banneri.",
       "Erittäin harvinaisilla korteilla on kultainen kehys ja banneri.",
-      "Kortin harvinaisuus näkyy suoraan kortissa.",
+      "Kortin harvinaisuus näkyy suoraan kortista.",
       "Ei ole aina viisasta lisäillä kortteja pakkaasi.",
       "Taistelun aikana kulutetut kortit ei poisteta pakastasi.",
       "Sinulla voi olla vain korkeintaan 10 korttia kädessäsi.",
       "Statuskortit poistetaan taistelun jälkeen.",
       "Kirouksia ei voi parannella. Miksi haluaisitkaan?",
       "Upgraded cards may appear in rewards past Act 1.",
-      "Saatat kohdata parannettuja kortteja ensimmäisen näytöksen jälkeen."
+      "Saatat kohdata parannettuja kortteja ensimmäisen näytöksen jälkeen.",
       "Tuntemattomat huoneet saattavat sisältää aarteita, hirviöitä, kauppoja tai tapahtumia.",
       "The Merchant doesn't offer refunds. He is a jerk.",
       "Kauppias ei ota vastaan palautuksia. Mikä saituri.",
@@ -189,7 +189,7 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "Älä unohda palkintojasi! NL Klikkaa niissä poimiaksesi ne."
+      "Älä unohda palkintojasi! NL Klikkaa niissä poimiaksesi ne.",
       "Älä unohda palkintojasi!"
     ],
     "LABEL": [
