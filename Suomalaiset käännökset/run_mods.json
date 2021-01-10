@@ -21,154 +21,154 @@
   },
   "Red Cards": {
     "NAME": "Punaiset kortit",
-    "DESCRIPTION": "Red cards now appear in rewards and shops."
+    "DESCRIPTION": "Punaisia kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
   },
   "Green Cards": {
     "NAME": "Vihreät kortit",
-    "DESCRIPTION": "Green cards now appear in rewards and shops."
+    "DESCRIPTION": "Vihreitä kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
   },
   "Blue Cards": {
     "NAME": "Siniset kortit",
-    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+    "DESCRIPTION": "Sinisiä kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
   },
   "Purple Cards": {
     "NAME": "Purppurat kortit",
-    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+    "DESCRIPTION": "Purppuria kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
   },
   "Colorless Cards": {
     "NAME": "Värittömät kortit",
-    "DESCRIPTION": "Colorless cards now appear in rewards."
+    "DESCRIPTION": "Värittömiä kortteja ilmestyy nyt palkinnoissa."
   },
   "Draft": {
-    "NAME": "Draft",
-    "DESCRIPTION": "Draft a custom starting deck of cards."
+    "NAME": "Suunnittelu",
+    "DESCRIPTION": "Suunnittele aloituspakka."
   },
   "Elite Swarm": {
-    "NAME": "Big Game Hunter",
-    "DESCRIPTION": "Elite enemies are now swarming the Spire and drop better rewards."
+    "NAME": "Suurriistametsästäjä",
+    "DESCRIPTION": "Eliitit parveilevat nyt joukolla Tornia ja antavat parempia palkintoja."
   },
   "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+    "NAME": "Päättymätön",
+    "DESCRIPTION": "Voittaminen vie sinut takaisin ensimmäiseen näytökseen samalla pakalla. Mutta varo, vitsaus lopulta saa omansa..."
   },
   "Blight Chests": {
-    "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+    "NAME": "Vitsausarkkuja",
+    "DESCRIPTION": "Pomojen arkut sisältävät vitsauksia kolmannen näytöksen jälkeen Päättymättömässä."
   },
   "Stunted Growth": {
-    "NAME": "Stunted Growth",
-    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
+    "NAME": "Kitukasvuisuus",
+    "DESCRIPTION": "Viholliset eivät enää anna kortteja kolmannen näytöksen jälkeen Päättymättömässä."
   },
   "Heirloom": {
-    "NAME": "Heirloom",
-    "DESCRIPTION": "Start with 1 Rare relic."
+    "NAME": "Perintökalleus",
+    "DESCRIPTION": "Aloita Harvinaisella+ reliikillä."
   },
   "Hoarder": {
     "NAME": "Hamstraaja",
-    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
+    "DESCRIPTION": "Kun lisäät kortin pakkaasi, lisää siitä kaksi kopiota. Et voi enää poistaa kortteja kauppiaan luona."
   },
   "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+    "NAME": "Alkaminen",
+    "DESCRIPTION": "Korvaa aloitusreliikkisi Lakkaamattomalla hyrrällä."
   },
   "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "NAME": "Mielettömyys",
+    "DESCRIPTION": "Aloita 50 satunnaisen kortin pakalla."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "NAME": "Kuolettavuus",
+    "DESCRIPTION": "Aloitat jokaisen taistelun +3 Vahvuudella. Kaikki viholliset aloittavat taistelun +3 Vahvuudella."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
+    "DESCRIPTION": "Viholliset antavat 200% enemmän kultaa, mutta et voi enää Taota Lepopaikoilla."
   },
   "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form, Echo Form, and Deva Form."
+    "NAME": "Todellinen muotoni",
+    "DESCRIPTION": "Aloita Demonimuoto-, Henkimuoto-, Kaikumuoto-, and Deva-muoto -korteilla."
   },
   "Night Terrors": {
-    "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at Rest Sites heals 100% of your HP, but costs 5 Max HP."
+    "NAME": "Yön kauhut",
+    "DESCRIPTION": "Lepopaikoissa lepäminen parantaa 100% OP:täsi, mutta maksaa 5 Maksimi OP:tä."
   },
   "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 Max HP."
+    "NAME": "Yhden hitin ihme",
+    "DESCRIPTION": "Aloita peli 1 Maksi OP:llä."
   },
   "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+    "NAME": "Khärmelle kiitos",
+    "DESCRIPTION": "Korvaa aloitusreliikin Khärmen silmällä."
   },
   "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
+    "NAME": "Hologrammi",
+    "DESCRIPTION": "Aloituspakka korvataan jokaisella erittäin harvinaisella kortilla."
   },
   "Specialized": {
-    "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single card."
+    "NAME": "Erikoistunut",
+    "DESCRIPTION": "Aloita 5 kopiolla yksittäisestä kortista."
   },
   "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+    "NAME": "Aloituspakka",
+    "DESCRIPTION": "Aloita Rikkinäisellä kruunulla ja Binäärisellä, jolloin viholliset eivät enää anna kortteja."
   },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "Parantumaton",
+    "DESCRIPTION": "Kun saavut uuteen huoneeseen, menetä 1 Maksimi OP. Aloita jokainen taistelu 5 Panssarilevyllä."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies start with the Slow debuff."
+    "NAME": "Aikalaajentuma",
+    "DESCRIPTION": "Kaikki viholliset aloittavat Hidastus-haitalla."
   },
   "Uncertain Future": {
-    "NAME": "Certain Future",
-    "DESCRIPTION": "The map contains only one path."
+    "NAME": "Varma tulevaisuus",
+    "DESCRIPTION": "Kartassa on vain yksi polku."
   },
   "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "Normal Enemies drop relics instead of cards."
+    "NAME": "Vintagea",
+    "DESCRIPTION": "Normaalit viholliset antavat reliikkejä korttien sijaan."
   },
   "SealedDeck": {
-    "NAME": "Sealed Deck",
-    "DESCRIPTION": "Craft a deck from 30 random cards."
+    "NAME": "Sinetöity pakka",
+    "DESCRIPTION": "Rakenna pakka 30 satunnaisesta kortista."
   },
   "Flight": {
-    "NAME": "Flight",
-    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+    "NAME": "Lentävä",
+    "DESCRIPTION": "Voit olla välittämättä reiteistä kun valitset seuraavan huoneen."
   },
   "Chimera": {
-    "NAME": "Chimera",
-    "DESCRIPTION": "Your starting deck is a fusion of all characters."
+    "NAME": " Khimaira",
+    "DESCRIPTION": "Aloituspakkasi on kaikkien hahmojen fuusio."
   },
   "NeowTime": {
-    "NAME": "Neow Time",
-    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+    "NAME": "Neow-aika",
+    "DESCRIPTION": "Saa 3 siunausta ja 1 vitsaus Neow'lta."
   },
   "IntelligentEnemies": {
-    "NAME": "Intelligent Enemies",
-    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+    "NAME": "Älykkäät viholliset",
+    "DESCRIPTION": "Kaikilla vihollisilla on haastavampia liikesarjoja ja taitoja."
   },
   "Careless": {
-    "NAME": "Careless",
-    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+    "NAME": "Huolimaton",
+    "DESCRIPTION": "Poista vuorosi alussa nostopinosi päällimmäinen kortti."
   },
   "ControlledChaos": {
-    "NAME": "Controlled Chaos",
-    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn, add 10 random cards to the bottom of your draw pile."
+    "NAME": "Ohjattua kaaosta",
+    "DESCRIPTION": "Aloita Jäätyneellä silmällä. Lisää vuorosi alussa 10 satunnaista korttia nostopinosi pohjalle."
   },
   "MonsterHunter": {
-    "NAME": "[DEPRECATED] Colossus",
-    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+    "NAME": "[VANHENTUNUT] Kolossi",
+    "DESCRIPTION": "Vihollisilla on bonus OP:tä mutta antavat parempia palkintoja."
   },
   "DeadlyEvents": {
-    "NAME": "Deadly Events",
-    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
+    "NAME": "Vaarallisia tapahtumia",
+    "DESCRIPTION": "?-huoneet voivat nyt sisältää Eliittejä, mutta voivat myös todennäköisemmin sisältää Aarrehuoneita."
   },
   "Daily Mods": {
-    "NAME": "Daily Mods",
-    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+    "NAME": "Päivittäiset muunnelmat",
+    "DESCRIPTION": "Aloita matka tasan 3:lla satunnaisella Päivittäisellä muunnelmalla."
   },
   "The Ending": {
-    "NAME": "The Ending",
-    "DESCRIPTION": "Enables the Final Act."
+    "NAME": "Lopetus",
+    "DESCRIPTION": "Mahdollistaa viimeisen näytöksen."
   }
 }

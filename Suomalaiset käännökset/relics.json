@@ -1120,11 +1120,11 @@
     ]
   },
   "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "NAME": "Rikkinäinen kruunu",
+    "FLAVOR": "Mestarin kruunu... vai köyhä kopio?",
     "DESCRIPTIONS": [
-      " at the start of your turn. Future card rewards have #b2 less cards to choose from.",
-      "Gain [E]"
+      " vuorosi alussa. Tulevissa palkinnoissa on #b2 vähemmin korttia valittavana.",
+      "Saa [E]"
     ]
   },
   "Incense Burner": {

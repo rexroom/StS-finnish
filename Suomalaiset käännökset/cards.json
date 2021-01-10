@@ -436,7 +436,7 @@
     "DESCRIPTION": "Evoke your next Orb twice."
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "Kaikumuoto",
     "DESCRIPTION": "Eteerinen. NL The first card you play each turn is played twice.",
     "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
@@ -1492,7 +1492,7 @@
     "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
   },
   "DevaForm": {
-    "NAME": "Deva Form",
+    "NAME": "Deva-muoto",
     "DESCRIPTION": "Eteerinen. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
     "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] NL and increase this gain by !M!."
   },
