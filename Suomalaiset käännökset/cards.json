@@ -57,7 +57,7 @@
   },
   "AscendersBane": {
     "NAME": "Nousukkaan myrkky",
-    "DESCRIPTION": "Ei-pelattava. NL Aineeton. NL Ei voi poistaa pakasta."
+    "DESCRIPTION": "Ei-pelattava. NL Eteerinen. NL Ei voi poistaa pakasta."
   },
   "Auto Shields": {
     "NAME": "Auto-Shields",
@@ -215,7 +215,7 @@
   },
   "Carnage": {
     "NAME": "Verilöyly",
-    "DESCRIPTION": "Aineeton. NL Tee !D! vahinkoa."
+    "DESCRIPTION": "Eteerinen. NL Tee !D! vahinkoa."
   },
   "Catalyst": {
     "NAME": "Katalyytti",
@@ -262,7 +262,7 @@
   },
   "Clumsy": {
     "NAME": "Kömpelö",
-    "DESCRIPTION": "Ei-pelattava. NL Aineeton."
+    "DESCRIPTION": "Ei-pelattava. NL Eteerinen."
   },
   "Cold Snap": {
     "NAME": "Cold Snap",
@@ -336,7 +336,7 @@
   },
   "Dazed": {
     "NAME": "Pyörällä päästä",
-    "DESCRIPTION": "Ei-pelattava. NL Aineeton."
+    "DESCRIPTION": "Ei-pelattava. NL Eteerinen."
   },
   "Deadly Poison": {
     "NAME": "Tappava myrkky",
@@ -437,7 +437,7 @@
   },
   "Echo Form": {
     "NAME": "Echo Form",
-    "DESCRIPTION": "Ethereal. NL The first card you play each turn is played twice.",
+    "DESCRIPTION": "Eteerinen. NL The first card you play each turn is played twice.",
     "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Electrodynamics": {
@@ -583,12 +583,12 @@
   },
   "Ghostly": {
     "NAME": "Haamu",
-    "DESCRIPTION": "Ethereal. NL Gain 1 Intangible. NL Kuluta.",
+    "DESCRIPTION": "Eteerinen. NL Gain 1 Intangible. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Kuluta."
   },
   "Ghostly Armor": {
     "NAME": "Aavemainen haarniska",
-    "DESCRIPTION": "Aineeton. NL Saa !B! Torjuntaa."
+    "DESCRIPTION": "Eteerinen. NL Saa !B! Torjuntaa."
   },
   "Glacier": {
     "NAME": "Jäätikkö",
@@ -1223,7 +1223,7 @@
   },
   "Void": {
     "NAME": "Tyhjyys",
-    "DESCRIPTION": "Ei-pelattava. NL Aineeton. NL Kun tämä kortti nostetaan, menetä 1 Energia."
+    "DESCRIPTION": "Ei-pelattava. NL Eteerinen. NL Kun tämä kortti nostetaan, menetä 1 Energia."
   },
   "Warcry": {
     "NAME": "Sotahuuto",
@@ -1413,7 +1413,7 @@
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
-    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
+    "DESCRIPTION": "Eteerinen. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
   },
   "Flare": {
@@ -1493,7 +1493,7 @@
   },
   "DevaForm": {
     "NAME": "Deva Form",
-    "DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
+    "DESCRIPTION": "Eteerinen. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
     "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] NL and increase this gain by !M!."
   },
   "Wireheading": {
