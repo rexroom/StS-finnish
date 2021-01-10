@@ -16,4 +16,3 @@ Seuraaviin tarvitaan kääntäjiä:
 * events.json
 * powers.json
 * relics.json (uudemmat reliikit vielä kääntämättä)
-* run_mods.json
