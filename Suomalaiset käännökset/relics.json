@@ -890,7 +890,7 @@
     "FLAVOR": "\"Varhaisihmisten typerä pakkomielle aikaan sai heidät etsimään taivaalta opastusta, etsimään jotain pysyvää.\" - Zoroth",
     "DESCRIPTIONS": [
       "Joka #b",
-      " kerta kun sekoitat pakkaasi, saa [E] [E] ."
+      " kerta kun sekoitat pakkaasi, NL saa [E] [E] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1067,8 +1067,8 @@
     "NAME": "Vajra",
     "FLAVOR": "Koristeellinen sotureille annettava reliikki, joka kuvastaa taistelusta saatua kunniaa.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yStrength."
+      "Aloita taistelu #b",
+      " #yVahvuudella."
     ]
   },
   "Velvet Choker": {
@@ -1093,7 +1093,7 @@
     "NAME": "Hiomakivi",
     "FLAVOR": "\"Teräs voittaa aina lihan.\" - Kublai Suuri",
     "DESCRIPTIONS": [
-      "Poimiessasi hiomakiven, #yPäivitä #b",
+      "Poimiessasi hiomakiven, #yParantele #b",
       " satunnaista #yHyökkäystä."
     ]
   },

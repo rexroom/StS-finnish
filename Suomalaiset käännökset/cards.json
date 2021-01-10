@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Luotiaika",
-    "DESCRIPTION": "Et voi nostaa lisäkortteja tällä vuorolla. Laske kaikkien käsikorttien hinnat 0 tällä vuorolla."
+    "DESCRIPTION": "Et voi nostaa lisäkortteja tällä vuorolla. Laske kaikkien käsikorttien hinnaksi 0 tällä vuorolla."
   },
   "Burn": {
     "NAME": "Palovamma",
@@ -206,7 +206,7 @@
   },
   "Caltrops": {
     "NAME": "Jalkapiikit",
-    "DESCRIPTION": "Kun sinua hyökätään, tee !M! vauriota hyökkääjälle."
+    "DESCRIPTION": "Kun sinua hyökätään, tee !M! vahinkoa hyökkääjälle."
   },
   "Capacitor": {
     "NAME": "Capacitor",
@@ -368,7 +368,7 @@
     "DESCRIPTION": "Saa !B! Torjuntaa."
   },
   "Deflect": {
-    "NAME": "Deflect",
+    "NAME": "Torju",
     "DESCRIPTION": "Saa !B! Torjuntaa."
   },
   "Defragment": {
@@ -827,8 +827,8 @@
   },
   "Outmaneuver": {
     "NAME": "Päihitä",
-    "DESCRIPTION": "Seuraavalla vuorolla NL saa [G] [G].",
-    "UPGRADE_DESCRIPTION": "Seuraavalla vuorolla NL saa [G] [G] [G]."
+    "DESCRIPTION": "Saa [G] [G] NL seuraavalla vuorolla.",
+    "UPGRADE_DESCRIPTION": "Saa [G] [G] [G] NL seuraavalla vuorolla."
   },
   "Pain": {
     "NAME": "Kipu",
@@ -882,7 +882,7 @@
     "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poista !M! korttia."
   },
   "Pummel": {
-    "NAME": "Nuiji",
+    "NAME": "Nuija",
     "DESCRIPTION": "Tee !D! vahinkoa !M! kertaan. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa !M! kertaan. NL Kuluta."
   },

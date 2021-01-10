@@ -145,6 +145,7 @@
     "POISON": {
       "NAMES": [
         "myrkky",
+        "myrkkyä",
         "myrkytetty"
       ],
       "DESCRIPTION": "Myrkytetyt olennot menettävät OP:ta heti vuoronsa alussa. Myrkky vähenee joka vuorolla #b1:llä."
