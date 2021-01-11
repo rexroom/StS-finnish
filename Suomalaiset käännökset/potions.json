@@ -9,8 +9,8 @@
   "AttackPotion": {
     "NAME": "Hyökkäysjuoma",
     "DESCRIPTIONS": [
-      "Valitse #b1 #b3:sta satunnaisista #yHyökkäyskorteista käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b1 #b3:sta satunnaisista #yHyökkäyskorteista ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisesta #yHyökkäyksistä #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisesta #yHyökkäyksistä #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "Block Potion": {
@@ -150,8 +150,8 @@
   "PowerPotion": {
     "NAME": "Voimaliemi",
     "DESCRIPTIONS": [
-      "Valitse #b1 #b3:sta satunnaisista #yVoimakorteista käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b1 #b3:sta satunnaisista #yVoimakorteista ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisesta #yVoimista #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisesta #yVoimista #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "Regen Potion": {
@@ -165,8 +165,8 @@
   "SkillPotion": {
     "NAME": "Taitojuoma",
     "DESCRIPTIONS": [
-      "Valitse #b1 #b3:sta satunnaisista #yTaitokorteista käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b1 #b3:sta satunnaisista #yTaitokorteista ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisesta #yTaidoista #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisesta #yTaidoista ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "SmokeBomb": {
@@ -225,7 +225,7 @@
   "StancePotion": {
     "NAME": "Asennejuoma",
     "DESCRIPTIONS": [
-      "Ota asennoksi #yTyyneys tai #yRaivo."
+      "Ota Asennoksi #yTyyneys tai #yRaivo."
     ]
   },
   "DuplicationPotion": {
@@ -279,7 +279,7 @@
   "Ambrosia": {
     "NAME": "Ambrosia",
     "DESCRIPTIONS": [
-      "Mene #yJumaluus Asentoon."
+      "Ota Asennoksi #yJumaluus."
     ]
   },
   "DistilledChaos": {
@@ -307,8 +307,8 @@
   "ColorlessPotion": {
     "NAME": "Väritön pullo",
     "DESCRIPTIONS": [
-      "Valitse #b1 #b3:sta satunnaisista #yVärittömistä korteista käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b1 #b3:sta satunnaisista #yVärittömistä korteista ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisesta #yVärittömistä korteista #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisesta #yVärittömistä korteista #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "BlessingOfTheForge": {
