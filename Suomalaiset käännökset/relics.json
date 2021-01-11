@@ -463,7 +463,7 @@
   },
   "Magic Flower": {
     "NAME": "Taikakukka",
-    "FLAVOR": "Pitkään sukupuuttoon kuolleeksi kuultu kukka, jotenkin säilynyt täydellisessä kunnossa.",
+    "FLAVOR": "Pitkään sukupuuttoon kuolleeksi luultu kukka, jotenkin säilynyt täydellisessä kunnossa.",
     "DESCRIPTIONS": [
       "Parantaminen on #b50% tehokkaampaa taistelun aikana."
     ]
@@ -1003,7 +1003,7 @@
   },
   "Tiny House": {
     "NAME": "Pikkuruinen talo",
-    "FLAVOR": "\"Lähes täydellinen pienoiskokoamisen toteutus. Tähän mennessä paras suoritukseni, mutta ei siltikään riittävä.\" - Arkkitehti",
+    "FLAVOR": "\"Lähes täydellinen pienoiskokoamisen toteutus. Paras suoritukseni, mutta ei siltikään riittävä.\" - Arkkitehti",
     "DESCRIPTIONS": [
       "Poimiessasi talon, saa #b1 pullo. NL Saa #b",
       " #yKultaa. NL Nosta Maksimi OP #b",

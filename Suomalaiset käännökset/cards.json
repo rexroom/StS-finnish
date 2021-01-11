@@ -151,7 +151,7 @@
     "UPGRADE_DESCRIPTION": "Menetä 3 OP:tä. NL Saa [R] [R] [R]."
   },
   "Bludgeon": {
-    "NAME": "Nuiji",
+    "NAME": "Nuija",
     "DESCRIPTION": "Tee !D! vahinkoa."
   },
   "Blur": {
@@ -314,7 +314,7 @@
     "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin kahdesti."
   },
   "Dagger Throw": {
-    "NAME": "Tikariheitto",
+    "NAME": "Tikarinheitto",
     "DESCRIPTION": "Tee !D! vauriota. NL Nosta 1 kortti. NL Poista 1 kortti."
   },
   "Dark Embrace": {
@@ -683,7 +683,7 @@
   },
   "Intimidate": {
     "NAME": "Uhkailu",
-    "DESCRIPTION": "Lisää !M! Heikennystä KAIKILLE vihollisille. NL Kuluta."
+    "DESCRIPTION": "Lisää !M! Heikkoutta KAIKILLE vihollisille. NL Kuluta."
   },
   "Iron Wave": {
     "NAME": "Rauta-aalto",
@@ -848,8 +848,8 @@
   },
   "Perfected Strike": {
     "NAME": "Hiottu isku",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Antaa !M! lisävahinkoa KAIKISTA \"Isku\"-korteistasi.",
-    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Antaa !M! lisävahinkoa KAIKISTA \"Isku\"-korteistasi."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Tekee !M! lisävahinkoa JOKAISESTA \"Isku\"-kortistasi.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Tekee !M! lisävahinkoa JOKAISESTA \"Isku\"-kortistasi."
   },
   "Phantasmal Killer": {
     "NAME": "Aavemainen tappaja",
@@ -896,7 +896,7 @@
   },
   "Rage": {
     "NAME": "Raivo",
-    "DESCRIPTION": "Kun pelaat tällä vuorolla Hyökkäyskortin, saa !M! Torjuntaa."
+    "DESCRIPTION": "Kun pelaat tällä vuorolla Hyökkäyksen, saa !M! Torjuntaa."
   },
   "Rainbow": {
     "NAME": "Sateenkaari",

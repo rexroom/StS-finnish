@@ -85,7 +85,7 @@
   },
   "My True Form": {
     "NAME": "Todellinen muotoni",
-    "DESCRIPTION": "Aloita Demonimuoto-, Henkimuoto-, Kaikumuoto-, and Deva-muoto -korteilla."
+    "DESCRIPTION": "Aloita Demonimuoto-, Henkimuoto-, Kaikumuoto-, ja Deva-muoto -korteilla."
   },
   "Night Terrors": {
     "NAME": "Yön kauhut",
@@ -93,7 +93,7 @@
   },
   "One Hit Wonder": {
     "NAME": "Yhden hitin ihme",
-    "DESCRIPTION": "Aloita peli 1 Maksi OP:llä."
+    "DESCRIPTION": "Aloita peli 1 Maksimi OP:llä."
   },
   "Praise Snecko": {
     "NAME": "Khärmelle kiitos",
@@ -161,7 +161,7 @@
   },
   "DeadlyEvents": {
     "NAME": "Vaarallisia tapahtumia",
-    "DESCRIPTION": "?-huoneet voivat nyt sisältää Eliittejä, mutta voivat myös todennäköisemmin sisältää Aarrehuoneita."
+    "DESCRIPTION": "?-huoneet voivat nyt sisältää Eliittejä, mutta myös todennäköisemmin Aarrehuoneita."
   },
   "Daily Mods": {
     "NAME": "Päivittäiset muunnelmat",

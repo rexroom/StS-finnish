@@ -123,7 +123,7 @@
       "14. Pienempi Maksimi OP.",
       "15. Kielteisiä tapahtumia.",
       "16. Kaupat ovat kalliimpia.",
-      "17. Normaaleilla vihollisilla on haastavampia liikesarjoja ja kykyjä.",
+      "17. Normaaleilla vihollisilla haastavampia liikesarjoja ja kykyjä.",
       "18. Eliiteillä on haastavampia liikesarjoja ja kykyjä.",
       "19. Pomoilla on haastavampia liikesarjoja ja kykyjä.",
       "20. (Ääritaso) Tuplapomo."
@@ -1203,16 +1203,16 @@
   "SingleViewRelicPopup": {
     "TEXT": [
       "Pomo",
-      "Yleinen",
-      "Vanhentunut",
-      "Harvinainen+",
+      "Yleinen ",
+      "Vanhentunut ",
+      "Harvinainen+ ",
       "Kauppa",
       "Tapahtuma",
       "Aloitus",
-      "Harvinainen",
+      "Harvinainen ",
       "Lukittu",
       "Tuntematon",
-      " Reliikki",
+      "reliikki",
       "Tätä reliikkiä ei ole vielä avattu.",
       "Tätä reliikkiä ei ole vielä nähty."
     ]
