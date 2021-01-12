@@ -1,9 +1,9 @@
 {
   "Accuracy": {
-    "NAME": "Accuracy",
+    "NAME": "Tarkkuus",
     "DESCRIPTIONS": [
-      "#yShivs deal #b",
-      " additional damage."
+      "#yPuukot tekevät #b",
+      " lisävahinkoa."
     ]
   },
   "After Image": {
@@ -14,7 +14,7 @@
     ]
   },
   "Amplify": {
-    "NAME": "Amplify",
+    "NAME": "Vahvistus",
     "DESCRIPTIONS": [
       "Your next #yPower card is played twice this turn.",
       "Your next ",
@@ -37,7 +37,7 @@
     ]
   },
   "Artifact": {
-    "NAME": "Artifact",
+    "NAME": "Artefakti",
     "DESCRIPTIONS": [
       "Negates #b",
       " debuff.",
@@ -102,7 +102,7 @@
     ]
   },
   "Bullet Time": {
-    "NAME": "Bullet Time",
+    "NAME": "Luotiaika",
     "DESCRIPTIONS": [
       "The energy cost of all Green cards are now #b0."
     ]
@@ -159,7 +159,7 @@
     ]
   },
   "Creative AI": {
-    "NAME": "Creative AI",
+    "NAME": "Luova AI",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
       " random #yPower card into your hand.",
@@ -174,7 +174,7 @@
     ]
   },
   "Curl Up": {
-    "NAME": "Curl Up",
+    "NAME": "Käpertyvä",
     "DESCRIPTIONS": [
       "On receiving attack damage, rolls up and gains #b",
       " #yBlock. (Once per combat)"
@@ -198,7 +198,7 @@
     ]
   },
   "Demon Form": {
-    "NAME": "Demon Form",
+    "NAME": "Demonimuoto",
     "DESCRIPTIONS": [
       "At the start of your turn, gain #b",
       " #yStrength."
@@ -212,7 +212,7 @@
     ]
   },
   "Dexterity": {
-    "NAME": "Dexterity",
+    "NAME": "Näppäryys",
     "DESCRIPTIONS": [
       "Increases #yBlock gained from cards by #b",
       "Decreases #yBlock gained from cards by #b",
@@ -236,7 +236,7 @@
     ]
   },
   "Draw": {
-    "NAME": "Draw",
+    "NAME": "Nosta",
     "DESCRIPTIONS": [
       "At the start of your turn, draw #b",
       " additional card.",
@@ -246,7 +246,7 @@
     ]
   },
   "Draw Card": {
-    "NAME": "Draw Card",
+    "NAME": "Nosta kortti",
     "DESCRIPTIONS": [
       "Draw #b",
       " additional cards next turn.",
@@ -304,9 +304,9 @@
     ]
   },
   "Entangled": {
-    "NAME": "Entangled",
+    "NAME": "Sotkeutunut",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "Et voi pelata #yHyökkäyksiä tällä vuorolla."
     ]
   },
   "Envenom": {
@@ -325,7 +325,7 @@
     ]
   },
   "Explosive": {
-    "NAME": "Explosive",
+    "NAME": "Räjähde",
     "DESCRIPTIONS": [
       "Explodes in #b",
       " turns, dealing #b",
@@ -377,7 +377,7 @@
     ]
   },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "Fokus",
     "DESCRIPTIONS": [
       "Increases the effectiveness of Orbs by #b",
       "Decreases the effectiveness of Orbs by #b",
@@ -385,11 +385,11 @@
     ]
   },
   "Frail": {
-    "NAME": "Frail",
+    "NAME": "Hauras",
     "DESCRIPTIONS": [
-      "Gain #b25% less #yBlock from cards for #b",
-      " turn.",
-      " turns."
+      "Saa #b25% vähemmän #yTorjuntaa korteista #b",
+      " vuoroon.",
+      " vuoroon."
     ]
   },
   "Gambit": {
@@ -409,10 +409,10 @@
     ]
   },
   "GrowthPower": {
-    "NAME": "Growth",
+    "NAME": "Kasvu",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "Saa vuoron lopussa #b",
+      " #yVahvuutta."
     ]
   },
   "Heatsink": {
@@ -432,10 +432,10 @@
     ]
   },
   "Hex": {
-    "NAME": "Hex",
+    "NAME": "Noiduttu",
     "DESCRIPTIONS": [
-      "Whenever you play a #ynon-Attack card, shuffle #b",
-      " #yDazed into your draw pile."
+      "Kun pelaat kortin joka ei ole #yHyökkäys, sekoita #b",
+      " #yDazed nostopinoosi."
     ]
   },
   "Hide": {
@@ -449,13 +449,13 @@
   "Infinite Blades": {
     "NAME": "Infinite Blades",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " #yShivs into your hand.",
-      " #yShiv into your hand."
+      "Lisää vuorosi alussa #b",
+      " #yPuukkoa käteesi.",
+      " #yPuukko käteesi."
     ]
   },
   "Intangible": {
-    "NAME": "Intangible",
+    "NAME": "Aineeton",
     "DESCRIPTIONS": [
       "Reduce ALL damage taken and HP loss to #b1 this turn. #yIntangible is reapplied every other turn."
     ]
@@ -476,7 +476,7 @@
     ]
   },
   "IntangiblePlayer": {
-    "NAME": "Intangible",
+    "NAME": "Aineeton",
     "DESCRIPTIONS": [
       "Reduce ALL damage taken and HP loss to #b1."
     ]
@@ -508,7 +508,7 @@
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "Lukittu",
     "DESCRIPTIONS": [
       "Receives #b",
       "% more damage from Orbs for #b",
@@ -541,7 +541,7 @@
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "Magnetismi",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b%s random Colorless card into your hand.",
       "At the start of your turn, add #b%s random Colorless cards into your hand."
@@ -574,9 +574,9 @@
     ]
   },
   "Minion": {
-    "NAME": "Minion",
+    "NAME": "Käskyläinen",
     "DESCRIPTIONS": [
-      "Minions abandon combat without their leader."
+      "Käskyläiset ilman johtajaansa jättävät taistelun."
     ]
   },
   "Mode Shift": {
@@ -594,7 +594,7 @@
     ]
   },
   "Night Terror": {
-    "NAME": "Nightmare",
+    "NAME": "Painajainen",
     "DESCRIPTIONS": [
       "Add #b",
       " cards into your hand next turn."
@@ -626,9 +626,9 @@
     ]
   },
   "Painful Stabs": {
-    "NAME": "Painful Stabs",
+    "NAME": "Kivuliaat puukotukset",
     "DESCRIPTIONS": [
-      "Whenever you receive attack damage from this enemy, add a #yWound into your discard pile."
+      "Kun saat vahinkoa tältä viholliselta, lisää #yHaava poistopinoosi."
     ]
   },
   "Panache": {
@@ -664,7 +664,7 @@
     ]
   },
   "Poison": {
-    "NAME": "Poison",
+    "NAME": "Myrkky",
     "DESCRIPTIONS": [
       "At the start of your turn, lose #b",
       " HP, then reduce #yPoison by #b1.",
@@ -738,7 +738,7 @@
     ]
   },
   "Retain Cards": {
-    "NAME": "Retain Cards",
+    "NAME": "Säilytä kortteja",
     "DESCRIPTIONS": [
       "At the end of your turn, you may retain #b",
       " card.",
@@ -746,7 +746,7 @@
     ]
   },
   "Retain Hand": {
-    "NAME": "Retain Hand",
+    "NAME": "Säilytä käsi",
     "DESCRIPTIONS": [
       "For the next #b ",
       "turns, do not discard your hand",
@@ -761,7 +761,7 @@
     ]
   },
   "Ritual": {
-    "NAME": "Ritual",
+    "NAME": "Rituaali",
     "DESCRIPTIONS": [
       "At the end of its turn, gains #b",
       " #yStrength.",
@@ -827,14 +827,14 @@
     ]
   },
   "Split": {
-    "NAME": "Split",
+    "NAME": "Jakaudu",
     "DESCRIPTIONS": [
       "When its HP is at or below #b50%, will split into #b2 smaller slimes with ",
       "'s current HP."
     ]
   },
   "Spore Cloud": {
-    "NAME": "Spore Cloud",
+    "NAME": "Itiöpilvi",
     "DESCRIPTIONS": [
       "On death, applies #b",
       " #yVulnerable."
@@ -862,7 +862,7 @@
     ]
   },
   "Strength": {
-    "NAME": "Strength",
+    "NAME": "Vahvuus",
     "DESCRIPTIONS": [
       "Increases attack damage by #b",
       "Decreases attack damage by #b",
@@ -870,7 +870,7 @@
     ]
   },
   "TheBomb": {
-    "NAME": "The Bomb",
+    "NAME": "Pommi",
     "DESCRIPTIONS": [
       "At the end of #b%1$s turns, deal #b%2$s damage to ALL enemies.",
       "At the end of this turn, deal #b%1$s damage to ALL enemies."
@@ -884,7 +884,7 @@
     ]
   },
   "Thorns": {
-    "NAME": "Thorns",
+    "NAME": "Piikit",
     "DESCRIPTIONS": [
       "When attacked, deals #b",
       " damage back."
@@ -922,7 +922,7 @@
     ]
   },
   "Unstable": {
-    "NAME": "Unstable",
+    "NAME": "Epävakaa",
     "DESCRIPTIONS": [
       ""
     ]
@@ -944,7 +944,7 @@
     ]
   },
   "Weakened": {
-    "NAME": "Weakened",
+    "NAME": "Heikennetty",
     "DESCRIPTIONS": [
       "#yAttacks deal #b",
       "% less damage for #b",
@@ -1005,7 +1005,7 @@
     ]
   },
   "Surrounded": {
-    "NAME": "Surrounded",
+    "NAME": "Saarrettu",
     "DESCRIPTIONS": [
       "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
     ]
@@ -1176,7 +1176,7 @@
   ]
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
+    "NAME": "Taisteluhymni",
     "DESCRIPTIONS": [
      "At the start of your turn, add #b",
      " #ySmites into your hand.",
