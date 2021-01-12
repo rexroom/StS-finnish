@@ -732,7 +732,7 @@
   },
   "Red Mask": {
     "NAME": "Punanaamio",
-    "FLAVOR": "Tämä hyvin tyylikäs naamio kuuluu punanaamiorosvojen johtajalle. Muodollisesti ottaen taidat siis olla nyt heidän johtajansa?",
+    "FLAVOR": "Tämä tyylikäs naamio kuuluu punanaamioiden johtajalle. Taidat muodollisesti olla nyt heidän johtajansa?",
     "DESCRIPTIONS": [
       "Jokaisen taistelun alussa anna #b",
       " #yHeikennystä KAIKILLE vihollisille."

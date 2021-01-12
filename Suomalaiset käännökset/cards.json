@@ -77,7 +77,7 @@
   },
   "Ball Lightning": {
     "NAME": "Pallosalama",
-    "DESCRIPTION": "Tee !D! vahinkoa. Kanavoi !M! Salamaa."
+    "DESCRIPTION": "Tee !D! vahinkoa. Kanavoi !M! Salama."
   },
   "Bandage Up": {
     "NAME": "Sido haavat",
@@ -257,7 +257,7 @@
     "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Lisää !M! *Puukkoa käteesi."
   },
   "Clothesline": {
-    "NAME": "Clothesline",
+    "NAME": "Pyykkinaru",
     "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää !M! Heikkoutta."
   },
   "Clumsy": {
@@ -432,7 +432,7 @@
     "UPGRADE_DESCRIPTION": "Valitse Hyökkäys tai Voima kortti. Lisää 2 kopiota siitä käteesi."
   },
   "Dualcast": {
-    "NAME": "Dualcast",
+    "NAME": "Kaksoistaikomus",
     "DESCRIPTION": "Manaa seuraava Pallosi kahdesti."
   },
   "Echo Form": {
@@ -852,7 +852,7 @@
     "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Tekee !M! lisävahinkoa JOKAISESTA \"Isku\"-kortistasi."
   },
   "Phantasmal Killer": {
-    "NAME": "Aavemainen tappaja",
+    "NAME": "Haamutappaja",
     "DESCRIPTION": "Seuraavalla vuorolla sinun Hyökkäksesi tekevät tuplasti vahinkoa."
   },
   "PiercingWail": {
