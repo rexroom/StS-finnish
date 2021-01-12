@@ -1,14 +1,14 @@
 {
   "A Thousand Cuts": {
     "NAME": "Tuhat viiltoa",
-    "DESCRIPTION": "Kun pelaat kortin, jaa !M! vahinkoa KAIKKIIN vihollisiin."
+    "DESCRIPTION": "Kun pelaat kortin, tee !M! vahinkoa KAIKKIIN vihollisiin."
   },
   "Accuracy": {
     "NAME": "Tarkkuus",
     "DESCRIPTION": "*Puukot tekevät !M! enemmän vahinkoa."
   },
   "Acrobatics": {
-    "NAME": "Akrobatiikkaa",
+    "NAME": "Akrobatia",
     "DESCRIPTION": "Nosta !M! korttia. NL Poista 1 korttia."
   },
   "Adrenaline": {
@@ -56,7 +56,7 @@
     "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Parantele kaikki kortit kädessäsi taistelun ajaksi."
   },
   "AscendersBane": {
-    "NAME": "Nousukkaan myrkky",
+    "NAME": "Nousukkaan turma",
     "DESCRIPTION": "Ei-pelattava. NL Eteerinen. NL Ei voi poistaa pakasta."
   },
   "Auto Shields": {
@@ -84,7 +84,7 @@
     "DESCRIPTION": "Paranna !M! OP:tä. NL Kuluta."
   },
   "Bane": {
-    "NAME": "Tappava kirous",
+    "NAME": "Turma",
     "DESCRIPTION": "Tee !D! vahinkoa. NL Jos vihollinen on myrkytetty, tee !D! vahinkoa lisää."
   },
   "Barrage": {
@@ -277,7 +277,7 @@
     "DESCRIPTION": "Poista !M! korttia. NL Saa [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Varaa patterit",
+    "NAME": "Varaa akku",
     "DESCRIPTION": "Saa !B! Torjuntaa. NL Saa seuraavalla vuorolla [B]."
   },
   "Consume": {
@@ -335,7 +335,7 @@
     "DESCRIPTION": "Saa !B! Torjuntaa. NL Tee !D! vahinkoa."
   },
   "Dazed": {
-    "NAME": "Pyörällä päästä",
+    "NAME": "Pää pyörällä",
     "DESCRIPTION": "Ei-pelattava. NL Eteerinen."
   },
   "Deadly Poison": {
@@ -658,7 +658,7 @@
   },
   "Immolate": {
     "NAME": "Uhrituli",
-    "DESCRIPTION": "Jaa !D! vahinkoa KAIKKIIN vihollisiin. NL Lisää *Palovamma poistopinoosi."
+    "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin. NL Lisää *Palovamma poistopinoosi."
   },
   "Impervious": {
     "NAME": "Läpäisemätön",
@@ -839,8 +839,8 @@
     "DESCRIPTION": "Saa !M! Artefaktia. NL Kuluta."
   },
   "Panache": {
-    "NAME": "Loistokkuus",
-    "DESCRIPTION": "Aina kun pelaat 5 korttia vuorosi aikana, jaa !M! vahinkoa KAIKKIIN vihollisiin."
+    "NAME": "Itsevarmuus",
+    "DESCRIPTION": "Aina kun pelaat 5 korttia vuorosi aikana, tee !M! vahinkoa KAIKKIIN vihollisiin."
   },
   "Parasite": {
     "NAME": "Loinen",
@@ -882,7 +882,7 @@
     "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poista !M! korttia."
   },
   "Pummel": {
-    "NAME": "Nuija",
+    "NAME": "Mukilointi",
     "DESCRIPTION": "Tee !D! vahinkoa !M! kertaan. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa !M! kertaan. NL Kuluta."
   },
@@ -921,7 +921,7 @@
   },
   "Reckless Charge": {
     "NAME": "Uhkarohkea rynnäkkö",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Sekoita *Päältä pyörällä nostopinoosi."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Sekoita *Pää *pyörällä nostopinoosi."
   },
   "Recycle": {
     "NAME": "Kierrätä",
@@ -1152,7 +1152,7 @@
   },
   "The Bomb": {
     "NAME": "Pommi",
-    "DESCRIPTION": "Jaa !M! vahinkoa KAIKILLE vihollisille 3 vuoron kuluttua."
+    "DESCRIPTION": "Tee !M! vahinkoa KAIKILLE vihollisille 3 vuoron kuluttua."
   },
   "Thinking Ahead": {
     "NAME": "Etukäteisvalmistelu",
@@ -1384,409 +1384,409 @@
   },
   "Ragnarok": {
     "NAME": "Ragnarök",
-    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+    "DESCRIPTION": "Tee !D! vahinkoa satunnaiselle viholliselle !M! kertaan."
   },
   "FlameMastery": {
-    "NAME": "DEPRECATED Flame Mastery",
-    "DESCRIPTION": "Gain !M! Strength."
+    "NAME": "VANHENTUNUT Tulen hallinta",
+    "DESCRIPTION": "Saa !M! Vahvuutta."
   },
   "StepAndStrike": {
-    "NAME": "DEPRECATED Step and Strike",
-    "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
+    "NAME": "VANHENTUNUT Askel ja isku",
+    "DESCRIPTION": "Maksaa 1 vähemmän per vaihdettu Asento tällä vuorolla. NL Saa !B! Torjuntaa. NL Tee !D! vahinkoa."
   },
   "Survey": {
-    "NAME": "DEPRECATED Survey",
-    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+    "NAME": "VANHENTUNUT Silmäile",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Saa !M! Tarmoa."
   },
   "Swipe": {
-    "NAME": "DEPRECATED Swipe",
-    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+    "NAME": "VANHENTUNUT Huitaisu",
+    "DESCRIPTION": "Tee !D! vahinkoa. Tee puolet vähemmän vahinkoa muihin vihollisiin."
   },
   "Blessed": {
-    "NAME": "DEPRECATED Blessed",
-    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Shuffle !M! *Miracles+ into your draw pile. NL Kuluta."
+    "NAME": "VANHENTUNUT Siunattu",
+    "DESCRIPTION": "Sekoita !M! *Ihmettä nostopinoosi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Sekoita !M! *Ihmettä+ nostopinoosi. NL Kuluta."
   },
   "LetFateDecide": {
-    "NAME": "DEPRECATED Let Fate Decide",
-    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
+    "NAME": "VANHENTUNUT Anna kohtalon määrittää",
+    "DESCRIPTION": "Pelaa X nostopinosi päällimmäistä korttia. Jos X on 3 tai enemmän, Säilytä X korttia."
   },
   "RetreatingHand": {
-    "NAME": "DEPRECATED Retreating Hand",
-    "DESCRIPTION": "Eteerinen. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
+    "NAME": "VANHENTUNUT Vetäytyvä käsi",
+    "DESCRIPTION": "Eteerinen. NL Saa !B! Torjuntaa. Jos edellinen pelaamasi kortti oli Hyökkäys, palauta tämä kortti käteesi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. Jos edellinen pelaamasi kortti oli Hyökkäys, palauta tämä kortti käteesi."
   },
   "Flare": {
-    "NAME": "DEPRECATED Flare",
-    "DESCRIPTION": "DEPRECATED."
+    "NAME": "VANHENTUNUT Leimahdus",
+    "DESCRIPTION": "VANHENTUNUT."
   },
   "PerfectedForm": {
-    "NAME": "DEPRECATED Perfected Form",
-    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+    "NAME": "VANHENTUNUT Täydellinen muoto",
+    "DESCRIPTION": "Jos astuis kaikkiin perusAsentoihin tällä vuorolla, astu Jumaluuteen. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Jos astuis kaikkiin perusAsentoihin tällä vuorolla, astu Jumaluuteen."
   },
   "AwakenedStrike": {
-    "NAME": "DEPRECATED Awakened Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "VANHENTUNUT Herännyt isku",
+    "DESCRIPTION": "Tee !D! vahinkoa."
   },
   "EmptyMind": {
-    "NAME": "Empty Mind",
-    "DESCRIPTION": "Draw !M! cards. NL Exit your Stance.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Exit your Stance."
+    "NAME": "Tyhjä mieli",
+    "DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennostasi.",
+    "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennostasi."
   },
   "Experienced": {
-    "NAME": "DEPRECATED Experienced",
-    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+    "NAME": "VANHENTUNUT Kokenut",
+    "DESCRIPTION": "Saa !B! Torjuntaa jokaisesta Parannellusta kortista kädessäsi."
   },
   "Judgement": {
     "NAME": "Tuomio",
-    "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0.",
+    "DESCRIPTION": "Jos vihollisella on !M! tai vähemmän OP:tä, aseta heidän OP nollaan.",
     "EXTENDED_DESCRIPTION": [
-      "JUDGED"
+      "TUOMITTU"
     ]
   },
   "Pray": {
     "NAME": "Rukous",
-    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
+    "DESCRIPTION": "Saa !M! Mantraa. NL Sekoita *Oivallus nostopinoosi.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Conclude": {
-    "NAME": "Conclude",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL End your turn."
+    "NAME": "Lopeta",
+    "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin. NL Lopeta vuorosi."
   },
   "LessonLearned": {
-    "NAME": "Lesson Learned",
-    "DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Kuluta."
+    "NAME": "Ymmärrys",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos Kuolettava, Parantele satunnainen kortti pakassasi. NL Kuluta."
   },
   "CutThroughFate": {
-    "NAME": "Cut Through Fate",
-    "DESCRIPTION": "Deal !D! damage. NL Scry !M!. NL Draw 1 card."
+    "NAME": "Leikkaa läpi kohtalon",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Ennusta !M!. NL Nosta 1 kortti."
   },
   "ThirdEye": {
     "NAME": "Kolmas silmä",
-    "DESCRIPTION": "Gain !B! Block. NL Scry !M!."
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Ennusta !M!."
   },
   "SublimeSlice": {
-    "NAME": "DEPRECATED Sublime Slice",
-    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
+    "NAME": "VANHENTUNUT Ylevä leikkaus",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Astu satunnaiseen Asentoon."
   },
   "SignatureMove": {
-    "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. NL Deal !D! damage." 
+    "NAME": "Tunnusliike",
+    "DESCRIPTION": "Voidaan pelata vain jos on ainoa Hyökkäys kädessäsi. NL Tee !D! vahinkoa." 
   },
   "Prediction": {
-    "NAME": "DEPRECATED Prediction",
-    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+    "NAME": "VANHENTUNUT Ennustus",
+    "DESCRIPTION": "Saa !B! Torjuntaa seuraavan vuorosi alussa."
   },
   "Worship": {
     "NAME": "Palvonta",
-    "DESCRIPTION": "Gain !M! Mantra.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
+    "DESCRIPTION": "Saa !M! Mantraa.",
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Saa !M! Mantraa."
   },
   "Fasting": {
-    "NAME": "DEPRECATED",
-    "DESCRIPTION": "DEPRECATED"
+    "NAME": "VANHENTUNUT",
+    "DESCRIPTION": "VANHENTUNUT"
   },
   "Fasting2": {
     "NAME": "Paasto",
-    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+    "DESCRIPTION": "Saa !M! Vahvuutta. NL Saa !M! Näppäryyttä. NL Saa 1 vähemmän [W] vuorosi alussa."
   },
   "DevaForm": {
     "NAME": "Deva-muoto",
-    "DESCRIPTION": "Eteerinen. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
-    "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] NL and increase this gain by !M!."
+    "DESCRIPTION": "Eteerinen. NL Saa vuorosi alussa [W] NL ja lisää !M! tämän kortin hyötyyn.",
+    "UPGRADE_DESCRIPTION": "Saa vuorosi alussa [W] NL ja lisää !M! tämän kortin hyötyyn."
   },
   "Wireheading": {
-    "NAME": "Foresight",
-    "DESCRIPTION": "At the start of your turn, Scry !M!.",
+    "NAME": "Kaukokatseisuus",
+    "DESCRIPTION": "Ennusta !M! vuorosi alussa.",
     "UPGRADE_DESCRIPTION": ""
   },
   "ReachHeaven": {
-    "NAME": "Reach Heaven",
-    "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
+    "NAME": "Yllä taivaaseen",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Sekoita *Väkivalloin nostopinoosi.",
 	"UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
-    "NAME": "Through Violence",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Kuluta."
+    "NAME": "Väkivalloin",
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Kuluta."
   },
   "Clarity": {
-    "NAME": "Clarity",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the other.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the rest."
+    "NAME": "Kirkkaus",
+    "DESCRIPTION": "Katso !M! nostopinosi päällimmäistä korttia. Lisää 1 käteesi. NL Kuluta toinen.",
+    "UPGRADE_DESCRIPTION": "Katso !M! nostopinosi päällimmäistä korttia. Lisää 1 käteesi. NL Kuluta toiset."
   },
   "Thwack": {
-    "NAME": "DEPRECATED Thwack",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "VANHENTUNUT Pöks",
+    "DESCRIPTION": "Tee !D! vahinkoa."
   },
   "Meditate": {
     "NAME": "Meditoi",
-    "DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
-    "UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
+    "DESCRIPTION": "Ota kortti poistopinostasi, laita se käteesi ja Säilytä se. NL Astu Tyyneyteen. NL Lopeta vuorosi.",
+    "UPGRADE_DESCRIPTION": "Ota 2 korttia poistopinostasi, laita ne käteesi ja Säilytä ne. NL Astu Tyyneyteen. NL Lopeta vuorosi."
   },
   "Miracle": {
     "NAME": "Ihme",
-    "DESCRIPTION": "Retain. NL Gain [W]. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Gain [W] [W]. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Saa [W]. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Saa [W] [W]. NL Kuluta."
   },
   "Vault": {
-    "NAME": "Vault",
-    "DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Kuluta."
+    "NAME": "Ponnahdus",
+    "DESCRIPTION": "Ota ylimääräinen vuoro tämän jälkeen. NL Lopeta vuorosi. NL Kuluta."
   },
   "Flow": {
-    "NAME": "DEPRECATED Flow",
-    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+    "NAME": "VANHENTUNUT Virtaus",
+    "DESCRIPTION": "Kun pelaat Hyökkäyksen, saa 1 väliaikaisen Näppäryyden. Kun pelaat Taidon, saa 1 väliaikaisen Vahvuuden."
   },
   "CarveReality": {
-    "NAME": "Carve Reality",
-    "DESCRIPTION": "Deal !D! damage. NL Add a *Smite into your hand.",
+    "NAME": "Luo todellisuus",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää *Valloita käteesi.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Smite": {
-    "NAME": "Smite",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Kuluta."
+    "NAME": "Valloita",
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Kuluta."
   },
   "Truth": {
     "NAME": "Totuus",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! card. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! cards. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Nosta !M! korttia. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa. NL Nosta !M! korttias. NL Kuluta."
   },
   "Insight": {
     "NAME": "Oivallus",
-    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw !M! cards. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Nosta !M! korttia. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Nosta !M! korttia. NL Kuluta."
   },
   "DeceiveReality": {
-    "NAME": "Deceive Reality",
-    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
+    "NAME": "Huijaa todellisuutta",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Lisää *Turva NL käteesi.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Safety": {
-    "NAME": "Safety",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Kuluta."
+    "NAME": "Turva",
+    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Kuluta."
   },
   "Wisdom": {
     "NAME": "Viisaus",
-    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Nosta !M! korttia. NL Kuluta."
   },
   "Peace": {
     "NAME": "Rauha",
-    "DESCRIPTION": "Retain. NL ALL enemies lose !M! Strength this turn. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL KAIKKI viholliset menettävät !M! Vahvuutta tällä vuorolla. NL Kuluta."
   },
   "WindmillStrike": {
-    "NAME": "Windmill Strike",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
+    "NAME": "Tuulimyllyisku",
+    "DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa. NL Nostaa Säilytettynä tämän kortin vahinkoa !M! tämän taistelun."
   },
   "Establishment": {
-    "NAME": "Establishment",
-    "DESCRIPTION": "Whenever a card is Retained, reduce its cost by !M! this combat.",
-	  "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, reduce its cost by !M! this combat."
+    "NAME": "Uskonlaitos",
+    "DESCRIPTION": "Kun kortti Säilytetään, vähennä sen hinta !M! tämän taistelun.",
+	  "UPGRADE_DESCRIPTION": "Luontainen. NL Kun kortti Säilytetään, vähennä sen hinta !M! tämän taistelun."
   },
   "WardAura": {
-    "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
+    "NAME": "VANHENTUNUT Torjuva aura",
+    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Saa vuorosi alussa !M! Torjuntaa."
   },
   "Metaphysics": {
-    "NAME": "DEPRECATED",
-    "DESCRIPTION": "DEPRECATED",
-	"UPGRADE_DESCRIPTION": "DEPRECATED"
+    "NAME": "VANHENTUNUT",
+    "DESCRIPTION": "VANHENTUNUT",
+	"UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Evaluate": {
-    "NAME": "Evaluate",
-    "DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
+    "NAME": "Arviointi",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Sekoita *Oivallus nostopinoosi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Sekoita *Oivallus+ nostopinoosi."
   },
   "Devotion": {
-    "NAME": "Devotion",
-    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
+    "NAME": "Hartaus",
+    "DESCRIPTION": "Saa vuorosi alussa !M! Mantraa."
   },
   "SoothingAura": {
-    "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
+    "NAME": "VANHENTUNUT Tyynnyttävä aura",
+    "DESCRIPTION": "Säilytä. NL Lisää !M! Heikkoutta. NL Lisää vuorosi alussa 1 Heikkous satunnaiseen viholliseen."
   },
   "BrillianceAura": {
-    "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "DEPRECATED"
+    "NAME": "VANHENTUNUT Kirkas aura",
+    "DESCRIPTION": "VANHENTUNUT"
   },
   "FuryAura": {
-    "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Retain. NL Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength."
+    "NAME": "VANHENTUNUT Raivottaren aura",
+    "DESCRIPTION": "Säilytä. NL Saa !M! väliaikaista Vahvuutta. NL Saa vuorosi alussa 1 väliaikaista Vahvuutta."
   },
   "DeusExMachina": {
     "NAME": "Deus Ex Machina",
-    "DESCRIPTION": "Ei-pelattava. NL When you draw this card, add !M! *Miracles to your hand and Kuluta."
+    "DESCRIPTION": "Ei-pelattava. NL Kun nostat tämän kortin, lisää !M! *Ihmettä käteesi ja Kuluta."
   },
   "CleanseEvil": {
-    "NAME": "Cleanse Evil",
-    "DESCRIPTION": "Add X *Smite into your hand.",
-    "UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
+    "NAME": "Puhdista pahuudesta",
+    "DESCRIPTION": "Lisää X *Valloitaa käteesi.",
+    "UPGRADE_DESCRIPTION": "Lisää X *Valloittaa+ käteesi."
   },
   "Torrent": {
-    "NAME": "DEPRECATED Torrent",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Kuluta."
+    "NAME": "VANHENTUNUT Tulva",
+    "DESCRIPTION": "Tee !M! vahinkoa KAIKKIIN vihollisiin !M! kertaa. NL Kuluta."
   },
   "Windup": {
-    "NAME": "DEPRECATED Windup",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+    "NAME": "VANHENTUNUT Windup",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Saa !M! Tarmokkuutta."
   },
   "Shield": {
-    "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Kuluta."
+    "NAME": "VANHENTUNUT Kilpi",
+    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Kuluta."
   },
   "CrescentKick": {
-    "NAME": "DEPRECATED Crescent Kick",
-    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+    "NAME": "VANHENTUNUT Nouseva potku",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos sinulla on Tarmokkuutta, NL saa [W] ja NL nosta 1 kortti."
   },
   "TalkToTheHand": {
     "NAME": "Puhu kädelle",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you attack this enemy, gain !M! Block. NL Kuluta."
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Kun hyökkäät tätä vihollista, saa !M! Torjuntaa. NL Kuluta."
   },
   "BattleHymn": {
     "NAME": "Taisteluhymni",
-    "DESCRIPTION": "At the start of each turn, add a *Smite into your hand.",
-	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *Smite into your hand."
+    "DESCRIPTION": "Lisää vuorosi alussa *Valloita käteesi.",
+	"UPGRADE_DESCRIPTION": "Luontainen. NL Lisää vuorosi alussa *Valloita käteesi."
   },
   "Prostrate": {
-    "NAME": "Prostrate",
-    "DESCRIPTION": "Gain !M! Mantra. NL Gain !B! Block.",
-    "UPGRADE_DESCRIPTION": "DEPRECATED"
+    "NAME": "Heittäytyminen",
+    "DESCRIPTION": "Saa !M! Mantra. NL Saa !B! Torjuntaa.",
+    "UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Punishment": {
-    "NAME": "DEPRECATED Punishment",
-    "DESCRIPTION": "Enter Punishment Stance."
+    "NAME": "VANHENTUNUT Rangaistus",
+    "DESCRIPTION": "Astu Rangaistus Asentoon."
   },
   "Eruption": {
-    "NAME": "Eruption",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+    "NAME": "Leimahdus",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Astu Raivoon."
   },
   "ClearTheMind": {
-    "NAME": "Tranquility",
-    "DESCRIPTION": "Retain. NL Enter Calm. NL Kuluta."
+    "NAME": "Levollisuus",
+    "DESCRIPTION": "Säilytä. NL Astu Tyyneyteen. NL Kuluta."
   },
   "WaveOfTheHand": {
-    "NAME": "Wave of the Hand",
-    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
+    "NAME": "Kädenheilautus",
+    "DESCRIPTION": "Kun saat Torjuntaa tällä vuorolla, lisää !M! Heikkoutta KAIKILLE vihollisille."
   },
   "SpiritShield": {
-    "NAME": "Spirit Shield",
-    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "NAME": "Henkikilpi",
+    "DESCRIPTION": "Saa !M! Torjuntaa jokaisesta kortista kädessäsi.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gain !B! Block.)"
+      " NL (Saa !B! Torjuntaa.)"
     ]
   },
   "Vigilance": {
-    "NAME": "Vigilance",
-    "DESCRIPTION": "Gain !B! Block. NL Enter Calm.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
+    "NAME": "Valppaus",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Astu Tyyneyteen.",
+    "UPGRADE_DESCRIPTION": "Vanhentunut."
   },
   "Serenity": {
-    "NAME": "DEPRECATED Serenity",
-    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+    "NAME": "VANHENTUNUT Seesteisyys",
+    "DESCRIPTION": "Kun olet Tyyni, OP menetyksesi vähentyy !M!."
   },
   "Crescendo": {
     "NAME": "Crescendo",
-    "DESCRIPTION": "Retain. NL Enter Wrath. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Astu Raivoon. NL Kuluta."
   },
   "Transcendence": {
-    "NAME": "Transcendence",
-    "DESCRIPTION": "Upgrade all cards that Retain in your hand."
+    "NAME": "Transsendenssi",
+    "DESCRIPTION": "Parantele kaikki kortit jotka Säilyvät kädessäsi."
   },
   "FollowUp": {
-    "NAME": "Follow-Up",
-    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, gain [W]."
+    "NAME": "Jatko-osa",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, saa [W]."
   },
   "Perseverance": {
-    "NAME": "Perseverance",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
+    "NAME": "Sinnikkyys",
+    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Lisää tämän Torjuntaa !M! tässä taistelussa kun Säilytetään."
   },
   "CrushJoints": {
-    "NAME": "Crush Joints",
-    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was a Skill, apply !M! Vulnerable."
+    "NAME": "Murra nivelet",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, lisää !M! Haavoittuvuus."
   },
   "SashWhip": {
-    "NAME": "Sash Whip",
-    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, apply !M! Weak."
+    "NAME": "Vyönauhan lyönti",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, lisää !M! Heikkous."
   },
   "Sanctity": {
-    "NAME": "Sanctity",
-    "DESCRIPTION": "Gain !B! Block. NL If the last card played this combat was a Skill, draw !M! cards."
+    "NAME": "Pyhyys",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, nosta !M! korttia."
   },
   "Omniscience": {
-    "NAME": "Omniscience",
-    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Kuluta.",
+    "NAME": "Kaikkitietävyys",
+    "DESCRIPTION": "Valitse kortti nostopinostasi. NL Pelaa valittu kortti kahdesti ja kuluta se. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Scrawl": {
-    "NAME": "Scrawl",
-    "DESCRIPTION": "Draw cards until your hand is full. NL Kuluta.",
+    "NAME": "Raapustukset",
+    "DESCRIPTION": "Nosta kortteja kunnes kätesi on täynnä. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Swivel": {
-    "NAME": "Swivel",
-    "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
+    "NAME": "Pyörähdys",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Seuraava pelattava Hyökkäys maksaa 0."
   },
   "Protect": {
     "NAME": "Suojele",
-    "DESCRIPTION": "Retain. NL Gain !B! Block."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa."
   },
   "FlyingSleeves": {
-    "NAME": "Flying Sleeves",
-    "DESCRIPTION": "Retain. NL Deal !D! damage twice."
+    "NAME": "Lentävät hihat",
+    "DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa kahdesti."
   },
   "MasterReality": {
-    "NAME": "Master Reality",
-    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
+    "NAME": "Hallitse todellisuutta",
+    "DESCRIPTION": "Kun kortti luodaan taistelun aikana, Parantele se."
   },
   "BowlingBash": {
     "NAME": "Keilailuisku",
-    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+    "DESCRIPTION": "Tee !M! vahinkoa jokaista taistelun vihollista kohden."
   },
   "Unraveling": {
-    "NAME": "Unraveling",
-    "DESCRIPTION": "Play all of your cards from left to right. Targets are chosen randomly. NL Kuluta."
+    "NAME": "Purkautuminen",
+    "DESCRIPTION": "Pelaa kaikki korttisi vasemmasta oikeaan. Kohteet valitaan satunnaisesti. NL Kuluta."
   },
   "BigBrain": {
-    "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Retain. NL Draw 1 card. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw 1 card."
+    "NAME": "VANHENTUNUT Isot aivot",
+    "DESCRIPTION": "Säilytä. NL Nosta 1 kortti. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Nosta 1 kortti."
   },
   "SandsOfTime": {
     "NAME": "Ajan hiekat",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
+    "DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa. NL Vähennä tämän kortin hinta 1 kun Säilytetään taistelun aikana."
   },
   "Brilliance": {
     "NAME": "Loistokkuus",
-    "DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Tee lisävahinkoa jokaista taistelun aikana kerättyä Mantraa kohden.",
     "EXTENDED_DESCRIPTION": [
       "",
       ""
     ]
   },
   "Retribution": {
-    "NAME": "DEPRECATED Retribution",
-    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+    "NAME": "VANHENTUNUT Kosto",
+    "DESCRIPTION": "Kun menetät OP:tä, saa !M! Tarmokkuutta."
   },
   "JustLucky": {
-    "NAME": "Just Lucky",
-    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
+    "NAME": "Onnetar",
+    "DESCRIPTION": "Ennusta !M!. NL Saa !B! Torjuntaa. NL Tee !D! vahinkoa."
   },
   "Weave": {
-    "NAME": "Weave",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
+    "NAME": "Pujotus",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Kun Ennustat, palauta tämä kortti poistopinostasi käteesi."
   },
   "Adaptation": {
     "NAME": "Rushdown",
-    "DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "DEPRECATED"
+    "DESCRIPTION": "Kun astut Raivoon, nosta !M! korttia.",
+    "UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Causality": {
     "NAME": "Kausaalius",
-    "DESCRIPTION": "Draw cards until your hand is full. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw cards until your hand is full. NL Kuluta."
+    "DESCRIPTION": "Nosta kortteja kunnes kätesi on täynnä. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Säilytä. Nosta kortteja kunnes kätesi on täynnä. NL Kuluta."
   },
   "Wish": {
-    "NAME": "Wish",
-    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Kuluta.",
+    "NAME": "Toivomus",
+    "DESCRIPTION": "Valitse yksi: NL Saa !B! Panssarilevyä, !D! Vahvuutta tai !M! Kultaa. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1795,92 +1795,92 @@
   },
   "InnerPeace": {
     "NAME": "Sisäinen rauha",
-    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
+    "DESCRIPTION": "Jos olet Tyyni, nosta !M! korttia, muussa tapauksessa astu Tyyneyteen."
   },
   "Tantrum": {
-    "NAME": "Tantrumi",
-    "DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+    "NAME": "Raivonpuuska",
+    "DESCRIPTION": "Tee !M! vahinkoa NL !M! kertaa. NL Astu Raivoon. NL Sekoita tämä kortti nostopinoosi."
   },
   "Alpha": {
     "NAME": "Alfa",
-    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Kuluta."
+    "DESCRIPTION": "Sekoita *Beeta nostopinoosi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Luontainen. NL Sekoita *Beeta nostopinoosi. NL Kuluta. NL Kuluta."
   },
-  "Beta": {
+  "Beeta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Kuluta.",
+    "DESCRIPTION": "Sekoita *Omega nostopinoosi. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+    "DESCRIPTION": "Tee vuorosi lopussa !M! vahinkoa KAIKKIIN vihollisiin."
   },
   "Vengeance": {
-    "NAME": "Simmering Fury",
-    "DESCRIPTION": "At the start of your next turn, enter Wrath and draw !M! cards."
+    "NAME": "Kihisevä raivo",
+    "DESCRIPTION": "Seuraavan vuorosi alussa astu Raivoon ja nosta !M! korttia."
   },
   "PathToVictory": {
-    "NAME": "Pressure Points",
-    "DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
+    "NAME": "Hermopisteet",
+    "DESCRIPTION": "Lisää !M! *Jälkeä. NL KAIKKI viholliset menettävät *Jälkien verran OP:tä.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Wallop": {
-    "NAME": "Wallop",
-    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
+    "NAME": "Kumautus",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Saa Torjuntaa saman verrain kuin torjumatonta vahinkoa."
   },
   "Halt": {
-    "NAME": "Halt",
-    "DESCRIPTION": "Gain !B! Block. NL If you are in Wrath, gain !M! additional Block."
+    "NAME": "Seis",
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Jos olet Raivossa, saa !M! lisäTorjuntaa."
   },
   "WheelKick": {
-    "NAME": "Wheel Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "NAME": "Kiertopotku",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Nosta !M! korttia.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
-    "NAME": "Indignation",
-    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
+    "NAME": "Tuohtumus",
+    "DESCRIPTION": "Jos olet Raivossa, lisää !M! Haavoittuvuutta KAIKKIIN vihollisiin, muuten astu Raivoon."
   },
   "BecomeAlmighty": {
-    "NAME": "Become Almighty",
-    "DESCRIPTION": "Gain !M! Strength."
+    "NAME": "Kaikkivaltiaaksi",
+    "DESCRIPTION": "Saa !M! Vahvuutta."
   },
   "LiveForever": {
     "NAME": "Elä ikuisesti",
-    "DESCRIPTION": "Gain !M! *Plated *Armor."
+    "DESCRIPTION": "Saa !M! *Panssarilevyä."
   },
   "FameAndFortune": {
-    "NAME": "Fame and Fortune",
-    "DESCRIPTION": "Gain !M! Gold."
+    "NAME": "Kultaa ja kunniaa",
+    "DESCRIPTION": "Saa !M! Kultaa."
   },
   "ConjureBlade": {
-    "NAME": "Conjure Blade",
-    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Kuluta."
+    "NAME": "Loihdi terä",
+    "DESCRIPTION": "Sekoita *Häätäjä nostopinoosi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Sekoita *Häätäjä arvolla X+1 nostopinoosi. NL Kuluta."
   },
   "Expunger": {
-    "NAME": "Expunger",
-    "DESCRIPTION": "Deal !D! damage X times.",
+    "NAME": "Häätäjä",
+    "DESCRIPTION": "Tee !M! vahinkoa X kertaa.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times.",
-      "Deal !D! damage !M! time."
+      "Tee !M! vahinkoa !M! kertaa.",
+      "Tee !M! vahinkoa !M! kerran."
     ]
   },
   "WaveOfTheHand2": {
-    "NAME": "DEPRECATED",
-    "DESCRIPTION": "DEPRECATED"
+    "NAME": "VANHENTUNUT",
+    "DESCRIPTION": "VANHENTUNUT"
   },
   "Discipline": {
-    "NAME": "DEPRECATED Discipline",
-    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+    "NAME": "VANHENTUNUT Itsekuri",
+    "DESCRIPTION": "Jos lopetat vuorosi käyttämättömällä [W] , nosta sen verran lisäkortteja seuraavalla vuorolla."
   },
   "Flick": {
-    "NAME": "DEPRECATED Flick",
-    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+    "NAME": "VANHENTUNUT Näpäytys",
+    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos vihollista on *Näpäytetty 3 kertaa, he ottavat !M! vahinkoa."
   },
   "LikeWater": {
     "NAME": "Kuin vettä",
-    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+    "DESCRIPTION": "Jos olet Tyyni vuorosi lopussa, saa !M! Torjuntaa."
   }
 }
