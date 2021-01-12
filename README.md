@@ -12,7 +12,6 @@ Tällä hetkellä noin 2/3 osaa tekstistä on käännetty, mutta siitä suurinos
 
 Seuraaviin tarvitaan kääntäjiä:
 
-* cards.json (The Defect ja The Watcher -kortit kääntämättä)
 * events.json
 * powers.json
 * relics.json (uudemmat reliikit vielä kääntämättä)
