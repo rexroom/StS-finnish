@@ -72,7 +72,7 @@
     "NAME": "Romeo",
     "DIALOG": [
       "~Nappaa~ ~se~ ~Otso!!~",
-      "~Saat~ ~vielä~ ~katua~ ~tätä!!~",
+      "~Saat~ ~vielä~ ~katua~ ~siitä!!~",
       "~Eiiiiii,~ ~Otso!~"
     ]
   },
@@ -167,18 +167,18 @@
     ],
     "NAME": "Kultisti",
     "DIALOG": [
-      "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
-      "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
-      "~My~ ~powers~ NL ~were~ ~matched...~"
+      "@SINUSTA@ @EI@ @OLE@ NL @VERTAISTANI!@",
+      "@ET@ @KUULU@ @TÄNNE@",
+      "~Minun~ ~voimani~ NL ~kohtasivat~ ~vertaisensa...~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Chomp! Chomp!"
+      "Rousk! Rousk!"
     ],
-    "NAME": "Darkling",
+    "NAME": "Pimeyden olio",
     "DIALOG": [
-      "Regrowing..."
+      "Kasvan takaisin..."
     ]
   },
   "Deca": {
@@ -655,7 +655,7 @@
     "NAME": "Ajansyöjä",
     "DIALOG": [
       "~Aaa..~ NL ~..seuraa...~",
-      "~Typerää..~ NL @TY-PE-RÄÄ!@",
+      "~Naurettavaa..~ NL @NAU-RET-TAVAA!@",
       "~Koskaan....~ NL ~...pitänyt..~ NL ~..sinusta...~"
     ]
   },
