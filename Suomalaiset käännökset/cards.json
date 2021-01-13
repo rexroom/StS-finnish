@@ -1081,8 +1081,8 @@
   },
   "Storm": {
     "NAME": "Myrsky",
-    "DESCRIPTION": "Kun pelaat Voima-kortin, Kanavoi 1 Salama.",
-    "UPGRADE_DESCRIPTION": "Luontainen. NL Kun pelaat Voima-kortin, Kanavoi 1 Salama."
+    "DESCRIPTION": "Kun pelaat Voiman, Kanavoi 1 Salama.",
+    "UPGRADE_DESCRIPTION": "Luontainen. NL Kun pelaat Voiman, Kanavoi 1 Salama."
   },
   "Storm of Steel": {
     "NAME": "Teräsmyrsky",
@@ -1775,7 +1775,7 @@
     "DESCRIPTION": "Tee !M! vahinkoa. NL Kun Ennustat, palauta tämä kortti poistopinostasi käteesi."
   },
   "Adaptation": {
-    "NAME": "Rushdown",
+    "NAME": "Syöksyisku",
     "DESCRIPTION": "Kun astut Raivoon, nosta !M! korttia.",
     "UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },

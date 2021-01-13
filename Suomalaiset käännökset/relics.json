@@ -386,7 +386,7 @@
   },
   "Happy Flower": {
     "NAME": "Onnellinen kukka",
-    "FLAVOR": "Tämä loputtoman hilpeä on suosittu koriste-esine aatelisten keskuudessa.",
+    "FLAVOR": "Tämä loputtoman hilpeä koriste-esine on suosittu aatelisten keskuudessa.",
     "DESCRIPTIONS": [
       "Joka #b",
       " vuoron välein saa [E] ."
@@ -790,7 +790,7 @@
     "NAME": "Riimukupu",
     "FLAVOR": "Riimuista on mahdotonta ottaa selvää.",
     "DESCRIPTIONS": [
-      " vuorosi alussa. Et enää näe vihollisen aikomuksia.",
+      " vuorosi alussa. Et enää näe vihollisten aikomuksia.",
       "Saa [E]"
     ]
   },
@@ -1136,7 +1136,7 @@
   },
   "Empty Cage": {
     "NAME": "Tyhjä häkki",
-    "FLAVOR": "\"Miten kummallista pistää häkkiin, mitä palvot.\" - Ranwid",
+    "FLAVOR": "\"Miten kummallista laittaa häkkiin sitä, mitä palvot.\" - Ranwid",
     "DESCRIPTIONS": [
       "Poimiessasi häkin, poista #b2 korttia pakastasi.",
       "Valitse 2 korttia poistettavaksi."
@@ -1383,7 +1383,7 @@
     "NAME": "Pyhä kaarna",
     "FLAVOR": "Maailman puusta väitetysti tullutta kaarnaa.",
     "DESCRIPTIONS": [
-      "Tuplaa taikaliemien vaikutusta."
+      "Tuplaa taikaliemien vaikutuksia."
     ]
   },
   "InkBottle": {
