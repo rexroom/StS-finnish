@@ -478,8 +478,8 @@
   },
   "Evolve": {
     "NAME": "Kehity",
-    "DESCRIPTION": "Aina kun nostat Statuskortin, nosta !M! korttia.",
-    "UPGRADE_DESCRIPTION": "Aina kun nostat Statuskortin, nosta !M! korttia."
+    "DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! korttia.",
+    "UPGRADE_DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! korttia."
   },
   "Exhume": {
     "NAME": "Kaiva haudasta",
@@ -1764,7 +1764,7 @@
   },
   "Retribution": {
     "NAME": "VANHENTUNUT Kosto",
-    "DESCRIPTION": "Kun menetät OP:tä, saa !M! Tarmokkuutta."
+    "DESCRIPTION": "Kun menetät OP:tä, saa !M! Tarmoa."
   },
   "JustLucky": {
     "NAME": "Onnetar",

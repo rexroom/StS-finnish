@@ -9,175 +9,175 @@
   "After Image": {
     "NAME": "Jälkikuva",
     "DESCRIPTIONS": [
-      "Whenever you play a card, gain #b",
-      " #yBlock."
+      "Kun pelaat kortin, saa #b",
+      " #yTorjuntaa."
     ]
   },
   "Amplify": {
     "NAME": "Vahvistus",
     "DESCRIPTIONS": [
-      "Your next #yPower card is played twice this turn.",
-      "Your next ",
-      " #yPower cards are played twice this turn."
+      "Seuraava #yVoima pelataan kahdesti tällä vuorolla.",
+      "Seuraavat ",
+      " #yVoimaa pelataan kahdesti tällä vuorolla."
     ]
   },
   "Anger": {
     "NAME": "Raivostuva",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, gains #b",
-      " #yStrength."
+      "Kun pelaat #yTaidon, saa #b",
+      " #yVahvuutta."
     ]
   },
   "Angry": {
     "NAME": "Vihainen",
     "DESCRIPTIONS": [
       "",
-      "Upon receiving attack damage, gains #b",
-      " #yStrength."
+      "Saadessaan hyökkäysvahinkoa, saa #b",
+      " #yVahvuutta."
     ]
   },
   "Artifact": {
     "NAME": "Artefakti",
     "DESCRIPTIONS": [
-      "Negates #b",
-      " debuff.",
-      " debuffs."
+      "Mitätöi #b",
+      " haitan.",
+      " haittaa."
     ]
   },
   "Attack Burn": {
     "NAME": "Attack Burn",
     "DESCRIPTIONS": [
-      "For #b",
-      " turn, whenever you play an #yAttack, #yExhaust it.",
-      "For the next #b",
-      " turns, whenever you play an #yAttack, #yExhaust it."
+      "Seuraavaan #b",
+      " vuoroon, kun pelaat #yHyökkäyksen, #yKuluta se.",
+      "Seuraaviin #b",
+      " vuoroon, kun pelaat #yHyökkäyksen, #yKuluta se."
     ]
   },
   "Barricade": {
     "NAME": "Barrikadi",
     "DESCRIPTIONS": [
-      "#yBlock is not removed at the start of your turn.",
-      "#yBlock is not removed at the start of its turn."
+      "#yTorjuntaa ei poisteta vuorosi alussa.",
+      "#yTorjuntaa ei poisteta vuoronsa alussa."
     ]
   },
   "Berserk": {
     "NAME": "Raivohullu",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain ",
+      "Saa vuorosi alussa ",
       ""
     ]
   },
   "Bias": {
     "NAME": "Vinouma",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "Menetä vuorosi alussa #b",
+      " #yFokusta."
     ]
   },
   "Blur": {
     "NAME": "Sumea",
     "DESCRIPTIONS": [
-      "#yBlock is not removed at the start of your next turn.",
-      "#yBlock is not removed at the start of your next #b",
-      " turns."
+      "#yTorjuntaa ei poisteta seuraavan vuorosi alussa.",
+      "#yTorjuntaa ei poisteta seuraavien #b",
+      " vuoron alussa."
     ]
   },
   "Brutality": {
     "NAME": "Brutaalius",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " HP and draw #b",
-      " card.",
-      "At the start of your turn, lose #b",
-      " HP and draw #b",
-      " cards."
+      "Menetä vuorosi alussa #b",
+      " OP:tä ja nosta #b",
+      " kortti.",
+      "Menetä vuorosi alussa #b",
+      " OP:tä ja nosta #b",
+      " korttia."
     ]
   },
   "Buffer": {
     "NAME": "Puskuri",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "Estää sinua menettämästä OP:tä seuraavan kerran.",
+      "Estää sinua menettämästä OP:tä seuraavat #b",
+      " kertaa."
     ]
   },
   "Bullet Time": {
     "NAME": "Luotiaika",
     "DESCRIPTIONS": [
-      "The energy cost of all Green cards are now #b0."
+      "Vihreiden korttien energiahinta on nyt #b0."
     ]
   },
   "Burst": {
     "NAME": "Syöksy",
     "DESCRIPTIONS": [
-      "Your next #ySkill is played twice this turn.",
-      "Your next ",
-      " #ySkills are played twice this turn."
+      "Seuraava #yTaitosi pelataan kahdesti tällä vuorolla.",
+      "Seuraavat ",
+      " #yTaitoasi pelataan kahdesti tällä vuorolla."
     ]
   },
   "Choked": {
     "NAME": "Kuristusote",
     "DESCRIPTIONS": [
-      "Whenever you play a card this turn, loses #b",
-      " HP."
+      "Kun pelaat kortin tällä vuorolla, menettää #b",
+      " OP:tä."
     ]
   },
   "Combust": {
     "NAME": "Liekeissä",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " HP and deal #b",
-      " damage to ALL enemies."
+      "Menetä vuorosi lopussa #b",
+      " OP:tä ja tee #b",
+      " vahinkoa KAIKILLE vihollisille."
     ]
   },
   "Confusion": {
     "NAME": "Sekaisin",
     "DESCRIPTIONS": [
-      "Whenever you draw a card, randomize its cost."
+      "Kun nostat kortin, satunnaista sen hinta."
     ]
   },
   "Conserve": {
     "NAME": "Säilö",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "#yEnergiaa säilytetään tämän vuoron.",
+      "#yEnergiaa säilytetään seuraavat #b",
+      " vuoroa."
     ]
   },
   "Constricted": {
     "NAME": "Kuristuksessa",
     "DESCRIPTIONS": [
-      "At the end of your turn, take #b",
-      " damage."
+      "Ota vuorosi lopussa #b",
+      " vahinkoa."
     ]
   },
   "Corruption": {
     "NAME": "Korruptio",
     "DESCRIPTIONS": [
-      "#ySkills cost #b0. Whenever you play a #ySkill, #yExhaust it.",
-      "Whenever you play a #ySkill, #yExhaust it."
+      "#yTaidot maksavat #b0. Kun pelaat #yTaidon, #yKuluta se.",
+      "Kun pelaat #yTaidon, #yKuluta se."
     ]
   },
   "Creative AI": {
     "NAME": "Luova AI",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random #yPower card into your hand.",
-      " random #yPower cards into your hand."
+      "Lisää vuorosi alussa #b",
+      " satunnainen #yVoima käteesi.",
+      " satunnaista #yVoimaa käteesi."
     ]
   },
   "Curiosity": {
     "NAME": "Uteliaisuus",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, gains #b",
-      " #yStrength."
+      "Kun pelaat #yVoiman, saa #b",
+      " #yVahvuutta."
     ]
   },
   "Curl Up": {
     "NAME": "Käpertyvä",
     "DESCRIPTIONS": [
-      "On receiving attack damage, rolls up and gains #b",
-      " #yBlock. (Once per combat)"
+      "Ottaessaan hyökkäysvahinkoa, rullautuu kasaan ja saa #b",
+      " #yTorjuntaa. (Kerran taistelussa)"
     ]
   },
   "Dance Puppet": {
@@ -192,95 +192,95 @@
   "Dark Embrace": {
     "NAME": "Pimeän syleily",
     "DESCRIPTIONS": [
-      "Whenever a card is #yExhausted, draw #b1 card.",
-      "Whenever a card is #yExhausted, draw #b",
-      " cards."
+      "Kun kortti on #yKulutettu, nosta #b1 kortti.",
+      "Kun kortti on #yKulutettu, nosta #b",
+      " korttia."
     ]
   },
   "Demon Form": {
     "NAME": "Demonimuoto",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yStrength."
+      "Saa vuorosi alussa #b",
+      " #yVahvuutta."
     ]
   },
   "DexLoss": {
     "NAME": "Näppäryys alas",
     "DESCRIPTIONS": [
-      "At the end of this turn, lose #b",
-      " #yDexterity."
+      "Menetä vuorosi lopussa #b",
+      " #yNäppäryyttä."
     ]
   },
   "Dexterity": {
     "NAME": "Näppäryys",
     "DESCRIPTIONS": [
-      "Increases #yBlock gained from cards by #b",
-      "Decreases #yBlock gained from cards by #b",
+      "Nostaa korttien #yTorjuntaa #b",
+      "Laskee korttien #yTorjuntaa #b",
       "."
     ]
   },
   "Double Damage": {
-    "NAME": "Tuplavahinko",
+    "NAME": "Tuplavahinkoa",
     "DESCRIPTIONS": [
-      "#yAttacks deal double damage for #b",
-      " turn.",
-      " turns."
+      "#yHyökkäykset tekevät tuplasti enemmän vahinkoa #b",
+      " vuoron.",
+      " vuoroon."
     ]
   },
   "Double Tap": {
     "NAME": "Varmistuslaukaus",
     "DESCRIPTIONS": [
-      "Your next #yAttack is played twice this turn.",
-      "Your next ",
-      " #yAttacks are played twice this turn."
+      "Seuraava #yHyökkäyksesi pelataan kahdesti tällä vuorolla.",
+      "Seuraavat ",
+      " #yHyökkäystä pelataan kahdesti tällä vuorolla."
     ]
   },
   "Draw": {
     "NAME": "Nosta",
     "DESCRIPTIONS": [
-      "At the start of your turn, draw #b",
-      " additional card.",
-      " less card.",
-      " additional cards.",
-      " less cards."
+      "Nosta vuorosi alussa #b",
+      " lisäkortin.",
+      " kortin vähemmän.",
+      " lisäkorttia.",
+      " korttia vähemmän."
     ]
   },
   "Draw Card": {
     "NAME": "Nosta kortti",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional cards next turn.",
-      " additional card next turn."
+      "Nosta #b",
+      " lisäkorttia seuraavalla vuorolla.",
+      " lisäkortin seuraavalla vuorolla."
     ]
   },
   "Draw Down": {
     "NAME": "Nosta alas",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " less card next turn.",
-      " less cards next turn."
+      "Nosta #b",
+      " kortin vähemmän seuraavalla vuorolla.",
+      " korttia vähemmän seuraavalla vuorolla."
     ]
   },
   "Draw Reduction": {
     "NAME": "Nostovähennys",
     "DESCRIPTIONS": [
-      "Draw #b1 less card next turn.",
-      "Draw #b1 less card for #b",
-      " turns."
+      "Nosta #b1 kortti vähemmän seuraavalla vuorolla.",
+      "Nosta #b1 kortti vähemmän seuraavat #b",
+      " vuoroa."
     ]
   },
   "Echo Form": {
     "NAME": "Kaikumuoto",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played twice.",
-      "The first #b",
-      " cards you play each turn are played twice."
+      "Vuoron ensimmäinen pelattu kortti pelataan kahdesti.",
+      "Vuoron ensimmäiset #b",
+      " pelattua korttia pelataan kahdesti."
     ]
   },
   "Electro": {
     "NAME": "Elektro",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
+      "#ySalama iskee KAIKKIIN vihollisiin.",
       "",
       ""
     ]
@@ -288,18 +288,18 @@
   "Energized": {
     "NAME": "Lisätarmoa",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [G] next turn.",
-      " additional [G] next turn.",
+      "Saa #b",
+      " [G] lisää seuraavalla vuorolla.",
+      " [G] lisää seuraavalla vuorolla.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "EnergizedBlue": {
     "NAME": "Lisävirtaa",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
+      "Saa #b",
+      " [B] lisää seuraavalla vuorolla.",
+      " [B] lisää seuraavalla vuorolla.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
@@ -312,75 +312,75 @@
   "Envenom": {
     "NAME": "Myrkytä",
     "DESCRIPTIONS": [
-      "Whenever you deal unblocked attack damage, apply #b",
-      " #yPoison."
+      "Kun hyökkäys tekee torjumatonta vauriota, lisää #b",
+      " #yMyrkkyä."
     ]
   },
   "Evolve": {
     "NAME": "Kehity",
     "DESCRIPTIONS": [
-      "Whenever you draw a #yStatus card, draw #b1 card.",
-      "Whenever you draw a #yStatus card, draw #b",
-      " cards."
+      "Kun nostat #yStatuksen, nosta #b1 kortti.",
+      "Kun nostat #yStatuksen, nosta #b",
+      " korttia."
     ]
   },
   "Explosive": {
     "NAME": "Räjähde",
     "DESCRIPTIONS": [
-      "Explodes in #b",
-      " turns, dealing #b",
-      " damage.",
-      "Explodes this turn, dealing #b"
+      "Räjähtää #b",
+      " vuoron päästä, tekee #b",
+      " vahinkoa.",
+      "Räjähtää tällä vuorolla, tekee #b"
     ]
   },
   "Extra Cards": {
     "NAME": "Lisäkortteja",
     "DESCRIPTIONS": [
-      "Draw #b1 additional card next turn.",
-      "Draw #b",
-      " additional cards next turn."
+      "Nosta #b1 lisäkortti seuraavalla vuorolla.",
+      "Nosta #b",
+      " lisäkorttia seuraavalla vuorolla."
     ]
   },
   "Feel No Pain": {
     "NAME": "Ei tunnu missään",
     "DESCRIPTIONS": [
-      "Whenever a card is #yExhausted, gain #b",
-      " #yBlock."
+      "Kun kortti #yKulutetaan, saa #b",
+      " #yTorjuntaa."
     ]
   },
   "Fire Breathing": {
     "NAME": "Tulenhenkäys",
     "DESCRIPTIONS": [
-      "Whenever you draw a #yStatus or #yCurse card, deal #b",
-      " damage to ALL enemies."
+      "Kun nostat #yStatuksen tai #yKirouksen, tee #b",
+      " vahinkoa KAIKILLE vihollisille."
     ]
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
     "DESCRIPTIONS": [
-      "When attacked, deals #b",
-      " damage back."
+      "Kun hyökkäyksen kohteena, antaa #b",
+      " vahinkoa takaisin."
     ]
   },
   "Flex": {
     "NAME": "Vahvuus alas",
     "DESCRIPTIONS": [
-      "At the end of this turn, lose #b",
-      " #yStrength."
+      "Menettää vuoron lopussa #b",
+      " #yVahvuutta."
     ]
   },
   "Flight": {
     "NAME": "Lento",
     "DESCRIPTIONS": [
-      "Receives 50% less attack damage. Cancelled if dealt attack damage #b",
-	  " times in one turn."
+      "Ottaa 50% vähemmän hyökkäysvahinkoa. Peruttu jos ottaa hyökkäysvahinkoa #b",
+	  " kertaa vuoron aikana."
     ]
   },
   "Focus": {
     "NAME": "Fokus",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "Parantaa Pallojen tehokkuutta #b",
+      "Heikentää Pallojen tehokkuutta #b",
       "."
     ]
   },
@@ -395,17 +395,17 @@
   "Gambit": {
     "NAME": "Gambit",
     "DESCRIPTIONS": [
-      "After #b",
-      " turn, gain ",
-      " turns, gain ",
+      "Saa #b",
+      " vuoron jälkeen ",
+      " vuoron jälkeen ",
       " [B] ."
     ]
   },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "Saa vuoron lopussa #b",
+      " #yVahvuutta."
     ]
   },
   "GrowthPower": {
@@ -418,17 +418,17 @@
   "Heatsink": {
     "NAME": "Jäähdytyslevy",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, draw #b",
-      " card.",
-      " cards."
+      "Kun pelaat #yVoiman, nosta #b",
+      " kortti.",
+      " korttia."
     ]
   },
   "Hello": {
-    "NAME": "Hei",
+    "NAME": "Tervehdys",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards into your hand.",
-      " random Common card into your hand."
+      "Lisää vuorosi alussa #b",
+      " satunnaista Yleiskorttia käteesi.",
+      " satunnaisen Yleiskortin käteesi."
     ]
   },
   "Hex": {
@@ -457,120 +457,120 @@
   "Intangible": {
     "NAME": "Aineeton",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1 this turn. #yIntangible is reapplied every other turn."
+      "Muuta KAIKKI otettu vahinko ja OP:n menetykset #b1 tällä vuorolla. #yAineeton tulee voimaan joka toinen vuoro."
     ]
   },
   "Invincible": {
     "NAME": "Voittamaton",
     "DESCRIPTIONS": [
-      "Can only lose #b",
-	    " more HP this turn.",
-	    "Can no longer be harmed this turn."
+      "Voi menettää vielä #b",
+	    " OP:tä tällä vuorolla.",
+	    "Ei voi enää vahingoittaa tällä vuorolla."
     ]
   },
   "BeatOfDeath": {
     "NAME": "Kuoleman rytmi",
     "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage."
+      "Kun pelaat kortin, ota #b",
+      " vahinkoa."
     ]
   },
   "IntangiblePlayer": {
     "NAME": "Aineeton",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "Muuta KAIKKI otettu vahinko ja OP:n menetykset #b1."
     ]
   },
   "Inverted": {
     "NAME": "Nurinpäin",
     "DESCRIPTIONS": [
-      "Immune to damage. Whenever you gain #yBlock, loses that much HP."
+      "Immuuni vahingolle. Kun saat #yTorjuntaa, menettää yhtä paljon OP:tä."
     ]
   },
   "Juggernaut": {
     "NAME": "Pysäyttämätön voima",
     "DESCRIPTIONS": [
-      "Whenever you gain #yBlock, deal #b",
-      " damage to a random enemy."
+      "Kun saat #yTorjuntaa, tee #b",
+      " vahinkoa satunnaiselle viholliselle."
     ]
   },
   "Knowledge": {
     "NAME": "Tietoisuus",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, draw #b",
-      " cards."
+      "Kun pelaat #yVoiman, nosta #b",
+      " korttia."
     ]
   },
   "Life Link": {
     "NAME": "Henkiyhteys",
     "DESCRIPTIONS": [
-      "If other enemies are still alive, revives in #b2 turns at #b50% HP."
+      "Jos toiset viholliset ovat vielä elossa, elpyy #b2 vuoron kuluttua #b50% OP:llä."
     ]
   },
   "Lockon": {
     "NAME": "Lukittu kohde",
     "DESCRIPTIONS": [
-      "Receives #b",
-      "% more damage from Orbs for #b",
-      " turn.",
-      " turns."
+      "Saa #b",
+      "% enemmän vahinkoa Palloilta #b",
+      " vuoroon.",
+      " vuoroon."
     ]
   },
   "Loop": {
     "NAME": "Kierre",
     "DESCRIPTIONS": [
-      "At the start of your turn, trigger the passive ability of your next Orb.",
-      "At the start of your turn, trigger the passive ability of your next Orb #b",
-      " times."
+      "Aktivoi vuorosi alussa seuraavan Pallon passiivisen kyvyn.",
+      "Aktivoi vuorosi alussa seuraavan Pallon passiivisen kyvyn #b",
+      " kertaan."
     ]
   },
   "Machine Learning": {
     "NAME": "Koneoppiminen",
     "DESCRIPTIONS": [
-      "At the start of your turn, draw #b",
-      " additional card.",
-      " additional cards."
+      "Nosta vuorosi alussa #b",
+      " lisäkortin.",
+      " lisäkorttia."
     ]
   },
   "Study": {
     "NAME": "Tutkimus",
     "DESCRIPTIONS": [
-	  "At the end of your turn, shuffle #b",
-      " #yInsight into your draw pile.",
-      " #yInsights into your draw pile."
+	  "Sekoita vuorosi lopussa #b",
+      " #yOivalluksen nostopinoosi.",
+      " #yOivallusta nostopinoosi."
     ]
   },
   "Magnetism": {
     "NAME": "Magnetismi",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random Colorless card into your hand.",
-      "At the start of your turn, add #b%s random Colorless cards into your hand."
+      "Lisää vuorosi alussa #b%s satunnaisen Värittömän kortin käteesi.",
+      "Lisää vuorosi alussa #b%s satunnaista Väritöntä korttia käteesi."
     ]
   },
   "Malleable": {
     "NAME": "Taipuisa",
     "DESCRIPTIONS": [
-      "Upon receiving attack damage, gains #b",
-      " #yBlock. #yBlock gain increases as ",
-      " is triggered. Resets to #b",
-      " at the start of your turn."
+      "Ottaessaan hyökkäysvahinkoa, saa #b",
+      " #yTorjuntaa. #yTorjunnan saanti lisääntyy kun ",
+      " aktivoituu. Asetetaan #b",
+      " vuorosi alussa."
     ]
   },
   "Mayhem": {
     "NAME": "Sekasorto",
     "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
+      "Pelaa vuorosi alussa nostopinosi päällimmäisen kortin.",
+      "Pelaa vuorosi alussa nostopinosi #b",
+      " päällimmäistä korttia."
     ]
   },
   "Metallicize": {
     "NAME": "Metallisoi",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yBlock.",
-      "At the end of its turn, gains #b",
-      " #yBlock."
+      "Saa vuorosi lopussa #b",
+      " #yTorjuntaa.",
+      "Saa vuoronsa lopussa #b",
+      " #yTorjuntaa."
     ]
   },
   "Minion": {
@@ -582,47 +582,47 @@
   "Mode Shift": {
     "NAME": "Tilanmuutos",
     "DESCRIPTIONS": [
-      "After receiving #b",
-      " damage, changes to a defensive mode."
+      "Astuu puolustustilaan saatuaan #b",
+      " vahinkoa."
     ]
   },
   "Next Turn Block": {
     "NAME": "Seuraavan vuoron Torjunta",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yBlock next turn."
+      "Saa #b",
+      " #yTorjuntaa seuraavalla vuorolla."
     ]
   },
   "Night Terror": {
     "NAME": "Painajainen",
     "DESCRIPTIONS": [
-      "Add #b",
-      " cards into your hand next turn."
+      "Lisää #b",
+      " korttia käteesi seuraavalla vuorolla."
     ]
   },
   "No Attack": {
     "NAME": "Ei hyökkäystä",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "Et voi pelata #yHyökkäyksiä tällä vuorolla."
     ]
   },
   "No Draw": {
     "NAME": "Ei nostoa",
     "DESCRIPTIONS": [
-      "You cannot draw cards this turn."
+      "Et voi nostaa kortteja tällä vuorolla."
     ]
   },
   "Noxious Fumes": {
     "NAME": "Myrkylliset kaasut",
     "DESCRIPTIONS": [
-      "At the start of your turn, apply #b",
-      " #yPoison to ALL enemies."
+      "Lisää vuorosi alussa #b",
+      " #yMyrkkyä KAIKKIIN vihollisiin."
     ]
   },
   "Nullify Attack": {
     "NAME": "Nollaa hyökkäys",
     "DESCRIPTIONS": [
-      "Fully #yBlocks one #yAttack each turn."
+      "Kokonaan #yTorjuu yhden #yHyökkäyksen joka vuoro."
     ]
   },
   "Painful Stabs": {
@@ -643,63 +643,63 @@
   "Pen Nib": {
     "NAME": "Kynänterä",
     "DESCRIPTIONS": [
-      "Your next #yAttack deals double damage."
+      "Seuraava #yHyökkäyksesi tekee kaksinkertaisesti vahinkoa."
     ]
   },
   "Phantasmal": {
     "NAME": "Haamu",
     "DESCRIPTIONS": [
-      "Deal #yDouble #yDamage next turn.",
-      "Deal #yDouble #yDamage for the next ",
-      " turns."
+      "Tee #ytuplasti #yvahinkoa seuraavalla vuorolla.",
+      "Tee #ytuplasti #yvahinkoa seuraavat ",
+      " vuoroa."
     ]
   },
   "Plated Armor": {
-    "NAME": "Levypanssari",
+    "NAME": "Panssarilevy",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yBlock. Receiving unblocked attack damage reduces #yPlated #yArmor by #b1.",
-      "At the end of its turn, gains #b",
-      " #yBlock. Receiving unblocked attack damage reduces #yPlated #yArmor by #b1."
+      "Saa vuorosi lopussa #b",
+      " #yTorjuntaa. Saatuasi suoraa hyökkäysvahinkoa, vähennä #b1 #yPanssarilevy.",
+      "Saa vuoronsa lopussa #b",
+      " #yTorjuntaa. Saatuaan suoraa hyökkäysvahinkoa, vähennä #b1 #yPanssarilevy."
     ]
   },
   "Poison": {
     "NAME": "Myrkky",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " HP, then reduce #yPoison by #b1.",
-      "At the start of its turn, loses #b"
+      "Menetä vuorosi alussa #b",
+      " OP:tä, sitten vähennä #b1 #yMyrkky.",
+      "Menettää vuoronsa alussa #b"
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "Viritys",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
+      "Kun #yKanavoit Pallon, nosta #b",
+      " kortti.",
+      " korttia."
     ]
   },
   "Primitive": {
     "NAME": "Primitiivinen",
     "DESCRIPTIONS": [
-      "Whenever you play a #yCommon card, draw #b",
-      " card.",
-      " cards."
+      "Kun pelaat #yYleisen kortin, nosta #b",
+      " kortti.",
+      " korttia."
     ]
   },
   "Rage": {
     "NAME": "Raivo",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack this turn, gain #b",
-      " #yBlock."
+      "Kun pelaat #yHyökkäyksen tällä vuorolla, saa #b",
+      " #yTorjuntaa."
     ]
   },
   "Rebound": {
     "NAME": "Paluukiekko",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "Seuraava pelattava kortti tällä vuorolla laitetaan nostopinosi päällimmäiseksi.",
+      "Seuraaavat #b",
+      " pelattavaa korttia tällä vuorolla laitetaan nostopinosi päällimmäisiksi."
     ]
   },
   "Reduce Damage": {
@@ -711,23 +711,23 @@
   "Regenerate": {
     "NAME": "Regeneroi",
     "DESCRIPTIONS": [
-      "At the end of its turn, heals #b",
-      " #yHP."
+      "Parantaa vuoronsa lopussa #b",
+      " #yOP:tä."
     ]
   },
   "Regeneration": {
     "NAME": "Regen",
     "DESCRIPTIONS": [
-      "At the end of your turn, heal #b",
-      " #yHP, then reduce #yRegen by #b1.",
+      "Paranna vuorosi lopussa #b",
+      " #yOP:tä, sitten vähennä #b1 #yRegenerointia.",
       ""
     ]
   },
   "Repair": {
     "NAME": "Kunnossapito",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "Paranna taistelun lopussa #b",
+      " OP:tä."
     ]
   },
     "Repulse": {
@@ -740,17 +740,17 @@
   "Retain Cards": {
     "NAME": "Säilytä kortteja",
     "DESCRIPTIONS": [
-      "At the end of your turn, you may retain #b",
-      " card.",
-      " cards."
+      "Voit vuorosi lopussa säilyttää #b",
+      " kortin.",
+      " korttia."
     ]
   },
   "Retain Hand": {
     "NAME": "Säilytä käsi",
     "DESCRIPTIONS": [
-      "For the next #b ",
-      "turns, do not discard your hand",
-      "Do not discard your hand at the end of this turn."
+      "Älä tyhjennä kättäsi seuraavien #b",
+      " vuoron aikana.",
+      "Älä tyhjennä kättäsi vuorosi lopussa."
     ]
   },
   "Riposte": {
@@ -763,49 +763,49 @@
   "Ritual": {
     "NAME": "Rituaali",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength.",
-      "At the end of your turn, gain #b"
+      "Saa vuoronsa lopussa #b",
+      " #yVahvuutta.",
+      "Saa vuorosi lopussa #b"
     ]
   },
   "Rupture": {
     "NAME": "Repeytymä",
     "DESCRIPTIONS": [
-      "Whenever you lose HP from a card, gain #b",
-      " #yStrength."
+      "Kun menetät OP:tä kortista, saa #b",
+      " #yVahvuutta."
     ]
   },
   "Sadistic": {
     "NAME": "Sadistinen",
     "DESCRIPTIONS": [
-      "Whenever you apply a debuff to an enemy, deal #b",
-      " damage."
+      "Kun annat haitan viholliselle, tee #b",
+      " vahinkoa."
     ]
   },
   "Serpentine": {
     "NAME": "Käärmemäinen",
     "DESCRIPTIONS": [
-      "Immune to #yPotions."
+      "Immuuni #yTaikaliemille."
     ]
   },
   "Shackled": {
     "NAME": "Kahlittu",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "Saa vuoronsa lopussa #b",
+      " #yVahvuutta."
     ]
   },
   "Sharp Hide": {
     "NAME": "Terävä talja",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack, take #b",
-      " damage."
+      "Kun pelaat #yHyökkäyksen, ota #b",
+      " vahinkoa."
     ]
   },
   "Shriek From Beyond": {
     "NAME": "Kirkaisu tuonpuoleisesta",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack, discard a random card."
+      "Kun pelaat #yHyökkäyksen, poista satunnainen kortti."
     ]
   },
   "Skill Burn": {
@@ -820,105 +820,105 @@
   "Slow": {
     "NAME": "Hidastus",
     "DESCRIPTIONS": [
-      "Whenever you play a card, ",
-      " receives #b10% more damage from #yAttacks this turn.",
-      " (Receives #b",
-      "% more damage)"
+      "Aina kun pelaat kortin, ",
+      " vastaanottaa #b10% enemmän vahinkoa #yHyökkäyksiltä vuoron aikana.",
+      " (Vastaanottaa #b",
+      "% enemmän vahinkoa)"
     ]
   },
   "Split": {
     "NAME": "Jakaudu",
     "DESCRIPTIONS": [
-      "When its HP is at or below #b50%, will split into #b2 smaller slimes with ",
-      "'s current HP."
+      "Kun OP on #b50% tai vähemmän, jakautuu #b2 pienempään limaan ",
+      "n nykyisellä OP:llä."
     ]
   },
   "Spore Cloud": {
     "NAME": "Itiöpilvi",
     "DESCRIPTIONS": [
-      "On death, applies #b",
-      " #yVulnerable."
+      "Antaa kuollessaan #b",
+      " #yHaavoittuvaa."
     ]
   },
   "Stasis": {
     "NAME": "Staasi",
     "DESCRIPTIONS": [
-      "On death, ",
-      " is returned to your hand."
+      "",
+      " palautuu kuollessaan käteesi."
     ]
   },
   "StaticDischarge": {
     "NAME": "Staattinen purkaus",
     "DESCRIPTIONS": [
-      "Whenever you receive attack damage, #yChannel #b",
-      " #yLightning."
+      "Kun saat hyökkäysvahinkoa, #yKanavoi #b",
+      " #ySalamaa."
     ]
   },
   "Storm": {
     "NAME": "Myrsky",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, #yChannel #b",
-      " #yLightning."
+      "Kun pelaat #yVoimaa, #yKanavoi #b",
+      " #ySalamaa."
     ]
   },
   "Strength": {
     "NAME": "Vahvuus",
     "DESCRIPTIONS": [
-      "Increases attack damage by #b",
-      "Decreases attack damage by #b",
-      "."
+      "Lisää #b",
+      "Vähentää #b",
+      " pisteellä hyökkäysvahinkoa."
     ]
   },
   "TheBomb": {
     "NAME": "Pommi",
     "DESCRIPTIONS": [
-      "At the end of #b%1$s turns, deal #b%2$s damage to ALL enemies.",
-      "At the end of this turn, deal #b%1$s damage to ALL enemies."
+      "Tekee #b%2$s vahinkoa KAIKILLE vihollisille #b%1$s vuoron päästä lopussa.",
+      "Tekee #b%1$s vahinkoa KAIKILLE vihollisille vuoron lopulla."
     ]
   },
   "Thievery": {
     "NAME": "Varkaus",
     "DESCRIPTIONS": [
-      " steals #b",
-      " #yGold whenever it attacks."
+      " varastaa #b",
+      " #yKultaa kun hyökkää."
     ]
   },
   "Thorns": {
     "NAME": "Piikit",
     "DESCRIPTIONS": [
-      "When attacked, deals #b",
-      " damage back."
+      "Kun hyökättynä, tekee #b",
+      " vahinkoa takaisin."
     ]
   },
   "Thousand Cuts": {
     "NAME": "Tuhat viiltoa",
     "DESCRIPTIONS": [
-      "Whenever you play a card, deal #b",
-      " damage to ALL enemies."
+      "Kun pelaat kortin, tekee #b",
+      " vahinkoa KAIKILLE vihollisille."
     ]
   },
   "Time Warp": {
     "NAME": "Aikavääristymä",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, ends your turn and gains #b",
-      " #yStrength."
+      "Kun pelaat #b",
+      " korttia, lopettaa vuorosi ja saa #b",
+      " #yVahvuutta."
     ]
   },
   "Tools Of The Trade": {
     "NAME": "Alan työkalut",
     "DESCRIPTIONS": [
-      "At the start of your turn, draw #b",
-      " card and discard #b",
-      " card.",
-      " cards and discard #b",
-      " cards."
+      "Nosta vuorosi alussa #b",
+      " kortti ja poista #b",
+      " kortti.",
+      " korttia ja poista #b",
+      " korttia."
     ]
   },
   "Unawakened": {
     "NAME": "Heräämätön",
     "DESCRIPTIONS": [
-      "This enemy hasn't awakened yet..."
+      "Tämä vihollinen ei ole vielä herätetty..."
     ]
   },
   "Unstable": {
@@ -930,168 +930,168 @@
   "Venomology": {
     "NAME": "Toksikologia",
     "DESCRIPTIONS": [
-      "#yPoison grows stronger by #b",
-      " instead of lowering each turn."
+      "#yMyrkky kasvaa joka vuoro #b",
+      " vähenemisen sijaan."
     ]
   },
   "Vulnerable": {
     "NAME": "Haavoittuva",
     "DESCRIPTIONS": [
-      "Receive #b",
-      "% more damage from #yAttacks for #b",
-      " turn.",
-      " turns."
+      "Ota #b",
+      "% enemmän vahinkoa #yHyökkäyksiltä #b",
+      " vuoroon.",
+      " vuoroon."
     ]
   },
   "Weakened": {
     "NAME": "Heikko",
     "DESCRIPTIONS": [
-      "#yAttacks deal #b",
-      "% less damage for #b",
-      " turn.",
-      " turns."
+      "#yHyökkäykset tekevät #b",
+      "% vähemmän vahinkoa #b",
+      " vuoroon.",
+      " vuoroon."
     ]
   },
   "Wraith Form v2": {
     "NAME": "Henkimuoto",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "Menetä vuorosi lopussa #b",
+      " #yNäppäryyttä."
     ]
   },
-  "Mielenrauha": {
-    "NAME": "Equilibrium",
+  "Equilibrium": {
+    "NAME": "Mielenrauha",
     "DESCRIPTIONS": [
-      "#yRetain your hand this turn.",
-      "#yRetain your hand for #b",
-      " turns."
+      "#ySäilytä kätesi tämän vuoron.",
+      "#ySäilytä kätesi seuraavat #b",
+      " vuoroa."
     ]
   },
   "Fading": {
     "NAME": "Himmeneminen",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Kuolee #b",
+      " vuoron päästä.",
+      "Kuolee tällä vuorolla."
     ]
   },
   "Shifting": {
     "NAME": "Muuttuva",
     "DESCRIPTIONS": [
       "",
-      "Upon losing HP, loses that much #yStrength until the end of the turn."
+      "Menettää saman verran #yVahvuutta kuin OP:tä vuoron loppuun saakka."
     ]
   },
   "TimeMazePower": {
     "NAME": "Aikasokkelo",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Kun pelaat #b",
+      " korttia, vuorosi päättyy"
     ]
   },
   "NoBlockPower": {
     "NAME": "Ei torjuntaa",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock from cards."
+      "Et voi saada #yTorjuntaa korteista."
     ]
   },
   "CorpseExplosionPower": {
     "NAME": "Puhkeava ruumis",
     "DESCRIPTIONS": 
     [
-      "On death, deal damage equal to its Max HP to ALL enemies.",
-      "On death, deal damage equal to its Max HP #b",
-      " times to ALL enemies."
+      "Tekee kuollessaan saman verran vahinkoa kuin Maksimi OP:tä KAIKILLE vihollisille.",
+      "Tekee kuollessaan saman verran vahinkoa kuin Maksimi OP:tä #b",
+      " kertaa KAIKILLE vihollisille."
     ]
   },
   "Surrounded": {
     "NAME": "Saarrettu",
     "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+      "Saa #b50% enemmän vahinkoa jos hyökätään takaa. Käytä kohdennuskortteja tai taikaliemiä vaihtaaksesi suuntasi."
     ]
   },
   "Compulsive": {
     "NAME": "Reagoiva",
     "DESCRIPTIONS": [
-      "Upon receiving attack damage, changes its intent."
+      "Vaihtaa aikomuksensa vastaanottaessaan hyökkäysvahinkoa."
     ]
   },
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Whenever you Scry, gain #b",
-	  " #yBlock."
+      "Kun Ennustat, saa #b",
+	  " #yTorjuntaa."
     ]
   },
   "BackAttack": {
     "NAME": "Takaa hyökkäys",
     "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
+      "Tekee #b50% enemmän vahinkoa koska on hyökkäämässä takaa."
     ]
   },
   "Vigor": {
     "NAME": "Tarmo",
     "DESCRIPTIONS": [
-      "Your next Attack deals #b",
-      " additional damage."
+      "Seuraava Hyökkäyksesi tekee #b",
+      " lisävahinkoa."
     ]
   },
   "Condense": {
     "NAME": "VANHENTUNUT Tiivistä",
     "DESCRIPTIONS": [
-      "You cannot take more than #b",
-      " from any attack."
+      "Et voi saada enemmän kuin #b",
+      " mistään hyökkäyksestä."
     ]
   },
   "Grounded": {
     "NAME": "VANHENTUNUT Maanläheinen",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, enter #yCalm."
+      "Kun pelaat #yTaidon, astu #yTyyneyteen."
     ]
   },
   "Adaptation": {
     "NAME": "Syöksyisku",
     "DESCRIPTIONS": [
-      "Whenever you enter #yWrath, draw #b",
-      " card.",
-      " cards."
+      "Kun astut #yRaivoon, nosta #b",
+      " kortti.",
+      " korttia."
     ]
   },
   "Mastery": {
-    "NAME": "DEPRECATED Hallinta",
+    "NAME": "VANHENTUNUT Hallinta",
     "DESCRIPTIONS": [
-      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      "Kun yrität vaihtaa Asentoa nykyiseen Asentoon, saa #b",
       " [W]."
     ]
   },
   "Controlled": {
     "NAME": "Mielenlinnake",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, gain #b",
-      " #yBlock."
+      "Kun vaihdat #yAsentoa, saa #b",
+      " #yTorjuntaa."
     ]
   },
   "HotHot": {
     "NAME": "VANHENTUNUT Kuuma",
     "DESCRIPTIONS": [
-      "While you are in #yWrath, deal #b",
-      " damage back whenever you receive attack damage."
+      "Kun olet #yRaivossa, tee #b",
+      " vahinkoa takaisin aina kun vastaanotat hyökkäysvahinkoa."
     ]
   },
   "FreeToPlayPower": {
     "NAME": "VANHENTUNUT FreeToPlayPower",
     "DESCRIPTIONS": [
-      "Ignore energy costs on the next card you play this turn.",
-      "Ignore energy costs on the next #b",
-      " cards you play this turn."
+      "Älä huomioi seuraavan pelattavan kortin energiahintaa tällä vuorolla.",
+      "Älä huomioi seuraavien #b",
+      " korttien energiahintaa tällä vuorolla."
     ]
   },
   "Collect": {
     "NAME": "Kerää",
     "DESCRIPTIONS": [
-      "At the start of your next turn, put a #yMiracle+ into your hand.",
-      "At the start of your next #b",
-      " turns, put a #yMiracle+ into your hand."
+      "Laita seuraavan vuoron alussa #yIhme+ käteesi.",
+      "Laita seuraavien #b",
+      " vuorojen alussa #yIhme+ käteesi."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1109,7 +1109,7 @@
   "EndTurnDeath": {
     "NAME": "Rienaaja",
     "DESCRIPTIONS": [
-      "At the start of your turn, die."
+      "Kuole seuraavan vuorosi alussa."
     ]
   },
   "AlwaysMad": {
@@ -1121,29 +1121,29 @@
   "Mantra": {
     "NAME": "Mantra",
     "DESCRIPTIONS": [
-      "When you obtain #b",
-      " #yMantra, enter #yDivinity."
+      "Kun keräät #b",
+      " #yMantraa, astu #yJumaluuteen."
     ]
   },
   "AngelForm": {
     "NAME": "Elä ikuisesti",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yPlated #yArmor."
+      "Saa vuorosi lopussa #b",
+      " #yPanssarilevyä."
     ]
   },
   "WireheadingPower": {
     "NAME": "Kaukokatseisuus",
 	"DESCRIPTIONS": [
-    "At the start of your turn, #yScry #b",
-    "."
+    "#yEnnusta vuorosi alussa #b",
+    " korttia."
 	]
   },
   "Vault": {
     "NAME": "Ponnahdus",
   "DESCRIPTIONS": [
-    "Receives #b",
-    " damage at the start of your next turn."
+    "Ottaa #b",
+    " vahinkoa seuraavan vuorosi alussa."
   ]
   },
   "FlowPower": {
@@ -1157,50 +1157,50 @@
   "EstablishmentPower": {
     "NAME": "Uskonlaitos",
     "DESCRIPTIONS": [
-    "Whenever a card is #yRetained, lower its cost by #b",
-    "."
+    "Kun kortti #ySäilytetään, vähennä sen hinnasta #b",
+    " energia."
 	]
   },
   "DevotionPower": {
     "NAME": "Hartaus",
     "DESCRIPTIONS": [
-    "At the start of your turn, gain #b",
-    " #yMantra."
+    "Saa vuorosi alussa #b",
+    " #yMantraa."
 	]
   },
   "BlockReturnPower": {
     "NAME": "Torju takaisin",
     "DESCRIPTIONS": [
-    "When attacked, you gain #b",
-    " #yBlock."
+    "Saa hyökättynä #b",
+    " #yTorjuntaa."
   ]
   },
   "BattleHymn": {
     "NAME": "Taisteluhymni",
     "DESCRIPTIONS": [
-     "At the start of your turn, add #b",
-     " #ySmites into your hand.",
-     " #ySmite into your hand."
+     "Lisää vuorosi alussa #b",
+     " #yValloittaa käteesi.",
+     " #yValloita käteesi."
   ]
   },
   "FreeAttackPower": {
     "NAME": "Ilmainen hyökkäys",
     "DESCRIPTIONS": [
-      "Ignore energy cost on the next #yAttack you play.",
-      "Ignore energy cost on the next #b",
-      " #yAttacks you play."
+      "Älä huomioi seuraavan pelattavan #yHyökkäyksen energiahintaa.",
+      "Älä huomioi seuraavien #b",
+      " pelattavien #yHyökkäyksien energiahintaa."
     ]
   },
   "NoSkills": {
     "NAME": "Ei taitoja",
     "DESCRIPTIONS": [
-      "You cannot play #ySkills this turn."
+      "Et voi pelata #yTaitoja tällä vuorolla."
     ]
   },
   "MasterRealityPower": {
     "NAME": "Hallitse todellisuutta",
     "DESCRIPTIONS": [
-      "Whenever a card is created, it is #yUpgraded.",
+      "Kun kortti on luotu, #yParantele se.",
       "deprecated",
       "deprecated",
       "deprecated"
@@ -1209,8 +1209,8 @@
   "StrikeUp": {
     "NAME": "Isku Ylös",
     "DESCRIPTIONS": [
-      "Cards containing #yStrike deal #b",
-      " additional damage."
+      "Kortit jotka sisältävät #yIskun tekevät #b",
+      " lisävahinkoa."
     ]
   },
   "Retribution": {
@@ -1223,37 +1223,37 @@
   "CannotChangeStancePower": {
     "NAME": "Ei voi vaihtaa asentoa",
     "DESCRIPTIONS": [
-      "Cannot change your stance this turn."
+      "Et voi vaihtaa asentoasi tällä vuorolla."
     ]
   },
   "OmegaPower": {
     "NAME": "Omega",
     "DESCRIPTIONS": [
-      "At the end of your turn, deal #b",
-      " damage to ALL enemies."
+      "Tee vuorosi lopussa #b",
+      " vahinkoa KAIKKIIN vihollisiin."
     ]
   },
   "DuplicationPower": {
     "NAME": "Toisto",
     "DESCRIPTIONS": [
-      "Your next card is played twice this turn.",
-      "Your next #b",
-      " cards are played twice this turn."
+      "Seuraava korttisi pelataan kahdesti tällä vuorolla.",
+      "Seuraavat #b",
+      " korttiasi pelataan kahdesti tällä vuorolla."
     ]
   },
   "WrathNextTurnPower": {
     "NAME": "Kihisevä raivo",
     "DESCRIPTIONS": [
-      "Enter #yWrath at the start of your turn."
+      "Astu #yRaivoon vuorosi alussa."
     ]
   },
   "DevaForm": {
     "NAME": "Deva",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain [W] ",
-      "At the start of your turn, gain [W] #b",
-      " times ",
-      "and increase this by #b",
+      "Saa vuorosi alussa [W] ",
+      "Saa vuorosi alussa [W] #b",
+      " kertaa ",
+      "ja lisää tätä arvoa #b",
       ".",
       "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
     ]
@@ -1261,15 +1261,15 @@
   "OmnisciencePower": {
     "NAME": "Kaikkitietävyys",
     "DESCRIPTIONS": [
-      "DEPERCATED",
-      "DEPRECATED"
+      "VANHENTUNUT",
+      "VANHENTUNUT"
     ]
   },
   "WaveOfTheHandPower": {
     "NAME": "Kädenheilautus",
     "DESCRIPTIONS": [
-      "Whenever you gain #yBlock, apply #b",
-      " #yWeak to ALL enemies."
+      "Kun saat #yTorjuntaa, lisää #b",
+      " #yHeikkoutta KAIKKIIN vihollisiin."
     ]
   },
   "WaveOfTheHandPower2": {
@@ -1282,7 +1282,7 @@
   "EnergyDownPower": {
     "NAME": "Paasto",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose ",
+      "Menetä vuorosi alussa ",
       ""
     ]
   },
@@ -1304,15 +1304,15 @@
   "PathToVictoryPower": {
     "NAME": "Jälki",
     "DESCRIPTIONS": [
-      "Whenever you play #yPressure #yPoints, loses #b",
-      " HP."
+      "Menettää #b",
+      " OP:tä kun pelaat #yHermopisteet."
     ]
   },
   "LikeWaterPower": {
     "NAME": "Kuin vettä",
     "DESCRIPTIONS": [
-      "At the end of your turn, if you are in #yCalm, gain #b",
-      " #yBlock."
+      "Jos olet #yTyyni vuorosi lopussa, saa #b",
+      " #yTorjuntaa."
     ]
   }
 }
