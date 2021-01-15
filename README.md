@@ -13,4 +13,3 @@ Tällä hetkellä noin 2/3 osaa tekstistä on käännetty, mutta siitä suurinos
 Seuraaviin tarvitaan kääntäjiä:
 
 * events.json
-* powers.json
