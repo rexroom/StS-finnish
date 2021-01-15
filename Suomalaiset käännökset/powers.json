@@ -96,7 +96,7 @@
   "Buffer": {
     "NAME": "Puskuri",
     "DESCRIPTIONS": [
-      "Estää sinua menettämästä OP:tä seuraavan kerran.",
+      "Estää sinua menettämästä OP:tä kerran.",
       "Estää sinua menettämästä OP:tä seuraavat #b",
       " kertaa."
     ]
@@ -550,9 +550,9 @@
   "Malleable": {
     "NAME": "Taipuisa",
     "DESCRIPTIONS": [
-      "Ottaessaan hyökkäysvahinkoa, saa #b",
-      " #yTorjuntaa. #yTorjunnan saanti lisääntyy kun ",
-      " aktivoituu. Asetetaan #b",
+      "Saa #b",
+      " #yTorjuntaa ottaessaan hyökkäysvahinkoa. #yTorjunnan saanti lisääntyy kun ",
+      " aktivoituu. Nollautuu arvoon #b",
       " vuorosi alussa."
     ]
   },
@@ -830,7 +830,7 @@
     "NAME": "Jakaudu",
     "DESCRIPTIONS": [
       "Kun OP on #b50% tai vähemmän, jakautuu #b2 pienempään limaan ",
-      "n nykyisellä OP:llä."
+      " nykyisellä OP:llä."
     ]
   },
   "Spore Cloud": {
@@ -864,9 +864,9 @@
   "Strength": {
     "NAME": "Vahvuus",
     "DESCRIPTIONS": [
-      "Lisää #b",
-      "Vähentää #b",
-      " pisteellä hyökkäysvahinkoa."
+      "Lisää hyökkäysvahinkoa #b",
+      "Vähentää hyökkäysvahinkoa #b",
+      " pisteellä."
     ]
   },
   "TheBomb": {

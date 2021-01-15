@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Lumimyrsky",
-    "DESCRIPTION": "Tee vahinkoa !M! kertaa taistelun Kanavoidut Pakkaset KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Deal damage equal to !M! times the number of Frost Channeled this combat to ALL enemies.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vahinkoa.)",
@@ -228,7 +228,7 @@
     "UPGRADE_DESCRIPTION": "Kanavoi !M! satunnaista Energiapalloa."
   },
   "Chill": {
-    "NAME": "Jäähdytä",
+    "NAME": "Jäädytä",
     "DESCRIPTION": "Kanavoi !M! Pakkasta jokaista vihollista kohden. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Luontainen. NL Kanavoi !M! Pakkasta jokaista vihollista kohden. NL Kuluta."
   },
@@ -242,9 +242,9 @@
   },
   "Clash": {
     "NAME": "Yhteenotto",
-    "DESCRIPTION": "Saa pelata vain, jos kädessäsi on pelkästään hyökkäyskortteja. NL Tee !D! vahinkoa.",
+    "DESCRIPTION": "Saa pelata vain, jos kädessäsi on pelkästään Hyökkäyksiä. NL Tee !D! vahinkoa.",
     "EXTENDED_DESCRIPTION": [
-      "Kädessäni on muitakin kuin hyökkäyskortteja."
+      "Kädessäni on muitakin kuin hyökkäyksiä."
     ]
   },
   "Cleave": {
@@ -406,8 +406,8 @@
   },
   "Double Energy": {
     "NAME": "Tuplaenergia",
-    "DESCRIPTION": "Kaksinkertaista Energiaasi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Kaksinkertaista Energiaasi."
+    "DESCRIPTION": "Kaksinkertaista Energiasi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Kaksinkertaista Energiasi."
   },
   "Double Tap": {
     "NAME": "Varmistuslaukaus",
@@ -525,7 +525,7 @@
   },
   "Fire Breathing": {
     "NAME": "Tulenhenkäys",
-    "DESCRIPTION": "Kun nostat Status- tai Kirouskortin, tee !M! vahinkoa KAIKILLE vihollisille."
+    "DESCRIPTION": "Kun nostat Statuksen tai Kirouksen, tee !M! vahinkoa KAIKILLE vihollisille."
   },
   "Fission": {
     "NAME": "Fissio",
@@ -627,8 +627,8 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M! -kertaisesti.",
-    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M! -kertaisesti."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M!-kertaiseksi.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M!-kertaiseksi."
   },
   "Heel Hook": {
     "NAME": "Kantapääkoukku",
@@ -666,7 +666,7 @@
   },
   "Infernal Blade": {
     "NAME": "Hornan terä",
-    "DESCRIPTION": "Lisää käteesi satunnainen hyökkäyskortti. NL Sen hinta on tällä vuorolla 0. NL Kuluta."
+    "DESCRIPTION": "Lisää satunnainen Hyökkäys käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
   },
   "Infinite Blades": {
     "NAME": "Loputtomasti teriä",
@@ -711,7 +711,7 @@
     "DESCRIPTION": "Lisää !M! Heikkoutta. NL Lisää !B! Torjuntaa."
   },
   "Limit Break": {
-    "NAME": "Limit Break",
+    "NAME": "Turpasauna",
     "DESCRIPTION": "Tuplaa Vahvuutesi. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Tuplaa Vahvuutesi."
   },
@@ -720,7 +720,7 @@
     "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää !M! Lukittua."
   },
   "Loop": {
-    "NAME": "Kierre",
+    "NAME": "Silmukka",
     "DESCRIPTION": "Aktivoi vuorosi alussa seuraavan Pallon passiiviset kyvyt.",
     "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa seuraavan Pallon passiiviset kyvyt !M! kertaan."
   },
@@ -1241,7 +1241,7 @@
   },
   "White Noise": {
     "NAME": "Kohina",
-    "DESCRIPTION": "Add a random Power card into your hand. NL It costs 0 this turn. NL Kuluta."
+    "DESCRIPTION": "Lisää satunnainen Voima käteesi. NL Se maksaa 0 tämän kierroksen. NL Kuluta."
   },
   "Wild Strike": {
     "NAME": "Villi isku",

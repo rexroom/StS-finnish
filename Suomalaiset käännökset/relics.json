@@ -97,7 +97,7 @@
     "NAME": "Pullotettu liekki",
     "FLAVOR": "Pullon sisällä on ikuisesti liekehtivä tuli.",
     "DESCRIPTIONS": [
-      "Poimiessasi tämän valitse #yHyökkäys. Aloita jokainen taistelu tämä kortti kädessäsi.",
+      "Valitse #yhyökkäys poimiessasi tämän. Aloita jokainen taistelu tämä kortti kädessäsi.",
       "Valitse kortti ",
       "Aloita jokainen taistelu lisäämällä ",
       " käteesi."
@@ -107,7 +107,7 @@
     "NAME": "Pullotettu salama",
     "FLAVOR": "Tuijottaessasi myrskyn pyörteisiin näet jonkin osan itsestäsi katsovan takaisin.",
     "DESCRIPTIONS": [
-      "Poimiessasi tämän valitse #yTaito. Aloita jokainen taistelu tämä kortti kädessäsi.",
+      "Valitse #yTaito poimiessasi tämän. Aloita jokainen taistelu tämä kortti kädessäsi.",
       "Valitse kortti ",
       "Aloita jokainen taistelu lisäämällä ",
       " käteesi."
@@ -117,7 +117,7 @@
     "NAME": "Pullotettu tornado",
     "FLAVOR": "Pullo humisee ja hurisee hellästi.",
     "DESCRIPTIONS": [
-      "Poimiessasi tämän valitse #yVoima. Aloita jokainen taistelu tämä kortti kädessäsi.",
+      "Valitse #yVoima poimiessasi tämän. Aloita jokainen taistelu tämä kortti kädessäsi.",
       "Valitse kortti ",
       "Aloita jokainen taistelu lisäämällä ",
       " käteesi."
@@ -350,7 +350,7 @@
   },
   "Gambling Chip": {
     "NAME": "Pelipoletti",
-    "FLAVOR": "Näet toisella puolella pienen kaiverruksen. Siinä lukee: \"Otson Onnenraha!\"",
+    "FLAVOR": "Näet toisella puolella pienen kaiverruksen. Siinä lukee: \"Otson onnenraha!\"",
     "DESCRIPTIONS": [
       "Jokaisen taistelun alussa poista haluamasi määrä kortteja ja nosta yhtä monta."
     ]
@@ -371,7 +371,7 @@
   },
   "Golden Idol": {
     "NAME": "Kultainen idoli",
-    "FLAVOR": "Tehty umpikullasta. Tunnet itsesi rikkaammaksi ihan vaan pidellessäsi sitä.",
+    "FLAVOR": "Tehty umpikullasta. Tunnet itsesi rikkaammaksi ihan vain pidellessäsi sitä.",
     "DESCRIPTIONS": [
       "Viholliset pudottavat #b25% enemmän #yKultaa."
     ]
@@ -503,7 +503,7 @@
     "NAME": "Lääkintäpakkaus",
     "FLAVOR": "\"Kaikkea mitä tarvitsee! Lääkettä kutinaan, palovammoihin, myrkkyyn ja muuhunkin!\"",
     "DESCRIPTIONS": [
-      "#yEi-pelattavia #yStatus kortteja voi nyt pelata. Aina kun pelaat #yStatus kortin, #Kuluta se."
+      "#yEi-pelattavia #yStatuksia voi nyt pelata. Aina kun pelaat #yStatuksen, #yKuluta se."
     ]
   },
   "Membership Card": {
@@ -612,10 +612,10 @@
   },
   "Omamori": {
     "NAME": "Omamori",
-    "FLAVOR": "Yleinen suojariipus joka pitää loitolla pahoja henkejä. Tämä näyttäisi olevan kipinää jumalallisesta energiasta.",
+    "FLAVOR": "Yleinen suojariipus joka pitää loitolla pahoja henkejä. Tässä näyttäisi olevan kipinää jumalallisesta energiasta.",
     "DESCRIPTIONS": [
-      "Estää #b2 seuraavaa saamaasi #rKirousta.",
-      "Estää seuraavan saamasi #rKirousta.",
+      "Estää saamasta seuraavat #b2 #rKirousta.",
+      "Estää saamasta seuraavan #rKirouksen.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
@@ -689,7 +689,7 @@
   },
   "Pen Nib": {
     "NAME": "Kynänterä",
-    "FLAVOR": "Pitäessäsi terää näet edessäsi kaikki, jotka sen edellinen omistaja on listinyt. Väkivaltainen menneisyys.",
+    "FLAVOR": "Pitäessäsi terää näet edessäsi kaikki, jonka sen edellinen omistaja on listinyt. Väkivaltainen menneisyys.",
     "DESCRIPTIONS": [
       "Joka #b10. #yHyökkäys tekee tuplasti enemmän vahinkoa."
     ]
@@ -812,7 +812,7 @@
   },
   "Shovel": {
     "NAME": "Lapio",
-    "FLAVOR": "Torni pitää sisällään kaikenlaisia reliikkejä muinaisilta kansoilta sekä ajan unohtamilta voimakkailta seikkailijoilta. Aika kaivaa ne esiin!",
+    "FLAVOR": "Torni pitää sisällään reliikkejä muinaisilta kansoilta sekä ajan unohtamilta sankareilta. Aika kaivaa ne esiin!",
     "DESCRIPTIONS": [
       "Voit nyt #yKaivaa reliikkejä lepopaikoilla."
     ]
@@ -858,7 +858,7 @@
   },
   "Sozu": {
     "NAME": "Sozu",
-    "FLAVOR": "Huomaat että maagiset nesteet menettävät tehoaan tämän reliikin lähellä.",
+    "FLAVOR": "Huomaat, että maagiset nesteet menettävät tehoaan tämän reliikin lähellä.",
     "DESCRIPTIONS": [
       " vuorosi alussa. Et voi enää saada taikaliemiä.",
       "Saa [E]"
@@ -978,7 +978,7 @@
   },
   "Thread and Needle": {
     "NAME": "Neula ja lanka",
-    "FLAVOR": "Kietoessasi maagisen langan vartalosi ympärille, tunnet itsesi kovettuneeksi.",
+    "FLAVOR": "Kietoessasi maagisen langan vartalosi ympärille, tunnet itsesi kovettuvan.",
     "DESCRIPTIONS": [
       "Aloita taistelu #b",
       " #yPanssarilevyllä."
@@ -1005,7 +1005,7 @@
     "NAME": "Pikkuruinen talo",
     "FLAVOR": "\"Lähes täydellinen pienoiskokoamisen toteutus. Paras suoritukseni, mutta ei siltikään riittävä.\" - Arkkitehti",
     "DESCRIPTIONS": [
-      "Poimiessasi talon, saa #b1 pullo. NL Saa #b",
+      "Poimiessasi talon, ota #b1 taikaliemi. NL Saa #b",
       " #yKultaa. NL Nosta Maksimi OP #b",
       " pisteellä. NL Ota #b1 kortti. NL Parantele #b1 satunnainen kortti.",
       "Pikkuriikkinen talo!"
@@ -1028,7 +1028,7 @@
   },
   "Tough Bandages": {
     "NAME": "Kestävät siteet",
-    "FLAVOR": "Menetys antaa voimaa.",
+    "FLAVOR": "Saat mistä luovut.",
     "DESCRIPTIONS": [
       "Aina kun laitat kortin pois vuorollasi, saa #b",
       " #yTorjuntaa."
@@ -1060,7 +1060,7 @@
     "NAME": "Lakkaamaton hyrrä",
     "FLAVOR": "Hyrrä jatkaa pyörimistään kuin olisit unessa.",
     "DESCRIPTIONS": [
-      "Aina kun kädessäsi ei ole vuorosi aikana kortteja, nosta kortti."
+      "Aina kun kädessäsi ei ole vuoron aikana kortteja, nosta kortti."
     ]
   },
   "Vajra": {
@@ -1131,7 +1131,7 @@
     "NAME": "Suitsukepoltin",
     "FLAVOR": "Savu täyttää sen omistajan poltettujen sieluilla.",
     "DESCRIPTIONS": [
-      "Joka #b6 kierros, saa #b1 #yAineeton."
+      "Saa #b1 #yAineeton joka #b6. vuoro."
     ]
   },
   "Empty Cage": {
@@ -1381,14 +1381,14 @@
   },
   "SacredBark": {
     "NAME": "Pyhä kaarna",
-    "FLAVOR": "Maailman puusta väitetysti tullutta kaarnaa.",
+    "FLAVOR": "Väitetysti maailman puusta tullutta kaarnaa.",
     "DESCRIPTIONS": [
       "Tuplaa taikaliemien vaikutuksia."
     ]
   },
   "InkBottle": {
     "NAME": "Mustepullo",
-    "FLAVOR": "Tyhjentyessään ilmeisesti täyttää itsensä uudelleen erivärisenä.",
+    "FLAVOR": "Tyhjentyessään näyttää täyttävän itsensä uudelleen erivärisenä.",
     "DESCRIPTIONS": [
       "Kun pelaat #b10 korttia, nosta #b1 kortti."
     ]
