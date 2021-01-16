@@ -12,7 +12,7 @@
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Tuonpuoleisen eliittejä tapettu",
+    "NAME": "Tuonpuoleiseliittejä tapettu",
     "DESCRIPTIONS": []
   },
   "Beyond Perfect": {
@@ -78,7 +78,7 @@
   "Highlander": {
     "NAME": "Ylänkömaalainen",
     "DESCRIPTIONS": [
-      "Pakassasi ei ole kaksoiskappaleita (lukuunottamatta aloituskortteja)."
+      "Pakassasi ei ole kaksoiskappaleita (aloituskortteja lukuunottamatta)."
     ]
   },
   "I Like Gold": {
@@ -106,7 +106,7 @@
     ]
   },
   "Money Money": {
-    "NAME": "Rahaa rahaa",
+    "NAME": "Tilipäivä",
     "DESCRIPTIONS": [
       "Tienattu 1 000 kultaa."
     ]
