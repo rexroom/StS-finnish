@@ -10,11 +10,11 @@
       "There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
     ],
     "OPTIONS": [
-      "[Forge] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
-      "[Rummage] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rPain.",
-      "[Leave]",
-      "Choose a Card to Upgrade",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Tao] #gParantele #gkortti #gpakastasi.",
+      "[Pengo] #gOta #gerikoisreliikki. #rTule #rKirotuksi #r- #rKipu.",
+      "[Poistu]",
+      "Valitse paranneltava kortti",
+      "[Lukittu] Vaatii: Paranneltavia kortteja"
     ]
   },
   "Addict": {
@@ -25,32 +25,32 @@
       "You snatch the precious #yrelic from his clutches and walk away. NL From behind you hear, NL \"Have you no shame? ~HAVE~ ~YOU~ ~NO~ ~SHAAAAAME?!\"~ NL You have some #pshame."
     ],
     "OPTIONS": [
-      "[Offer Gold] #y",
-      " #yGold: #gObtain #ga #gRelic.",
-      "[Locked] Requires: ",
-      " Gold.",
-      "[Rob] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rShame.",
-      "[Leave]",
+      "[Tarjoa Kultaa] #y",
+      " #yKultaa: #gSaa #gReliikki.",
+      "[Lukittu] Vaatii: ",
+      " Kultaa.",
+      "[Ryöstä] #gOta #gReliikki. #rTule #rKirotuksi #r- #rHäpeä.",
+      "[Poistu]",
 	  "",
 	  ""
     ]
   },
   "Back to Basics": {
-    "NAME": "Ancient Writing",
+    "NAME": "Muinaista kirjoitusta",
     "DESCRIPTIONS": [
       "Scaling the city, you notice a wall covered in the writing of #y~Ancients.~ As you try to wrap your head around what the puzzling symbols and glyphs could mean, the writing begins to #b~glow.~ NL Suddenly, the message becomes clear...",
       "The answer was elegance. NL Of course.",
       "The truth is always simple."
     ],
     "OPTIONS": [
-      "[Elegance] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Simplicity] #gUpgrade #gall #gStrikes #gand #gDefends.",
-      "Select a Card to Remove.",
-      "[Leave]"
+      "[Eleganssi] #gPoista #gpakastasi #gkortti.",
+      "[Yksinkertaisuus] #gParantele #gkaikki #gIsku- #gja #gPuolusta-kortit.",
+      "Valitse poistettava kortti.",
+      "[Poistu]"
     ]
   },
   "Beggar": {
-    "NAME": "Old Beggar",
+    "NAME": "Vanha kerjäläinen",
     "DESCRIPTIONS": [
       "An old beggar cloaked in fur reaches his hands out towards you as you pass. \"Spare some coin, child?\"",
       "The beggar looks to the floor as you pass. NL \"You will never make a difference... You never do.\"",
@@ -58,17 +58,17 @@
       "@\"I@ @hope@ @you@ @do@ @better@ @this@ @time,@ @friend!\"@ he shouts. NL Wondering what was implied by this, you push forward."
     ],
     "OPTIONS": [
-      "[Offer Gold] #y",
-      " #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Locked] Requires: ",
-      " Gold.",
-      "[Continue]",
-      "[Leave]",
-      "Select a Card to Remove."
+      "[Tarjoa Kultaa] #y",
+      " #yKultaa: #gPoista #gpakastasi #gkortti.",
+      "[Lukittu] Vaatii: ",
+      " Kultaa.",
+      "[Jatka]",
+      "[Poistu]",
+      "Valitse poistettava kortti."
     ]
   },
   "Big Fish": {
-    "NAME": "Big Fish",
+    "NAME": "Vonkale",
     "DESCRIPTIONS": [
       "As you make your way down a long corridor you see a #ybanana, a #ydonut, and a #ybox ~floating~ about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet @cackling@ from above as you approach the objects. NL What do you do?",
       "You eat the #ybanana. It is nutritious and slightly #bmagical, healing you.",
@@ -78,16 +78,16 @@
       " NL However, you really craved the donut... NL You are filled with ~sadness,~ but mostly #rregret."
     ],
     "OPTIONS": [
-      "[Banana] #gHeal #g",
-      " #gHP.",
-      "[Donut] #gMax #gHP #g+",
+      "[Banaani] #gParanna #g",
+      " #gOP:tä.",
+      "[Donitsi] #gMaksimi #gOP #g+",
       ".",
-      "[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+      "[Laatikko] #gOta #gReliikki. #rTule #rKirotuksi #r- #rKatumus.",
       "[Leave]"
     ]
   },
   "Bonfire Elementals": {
-    "NAME": "Bonfire Spirits",
+    "NAME": "Roviohenget",
     "DESCRIPTIONS": [
       "You happen upon a group of what looks like #ppurple #pfire #pspirits ~dancing~ around a large bonfire. NL ",
       "The spirits toss small bones and fragments into the fire, which ~brilliantly~ ~erupts~ each time. NL As you approach, the spirits all turn to you, expectantly...",
@@ -99,14 +99,14 @@
       "The flames @burst,@ nearly knocking you off your feet, as the fire @doubles@ in strength. NL The spirits dance around you excitedly before ~merging~ ~into~ ~your~ ~form,~ filling you with warmth and strength. NL Your Max HP increases by #b10 and you are #ghealed to full HP."
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Leave]",
-      "[Offer] Receive a reward based on the offer.",
-      "Select a Card to Offer."
+      "[Jatka]",
+      "[Poistu]",
+      "[Uhraa] Saa palkinto riippuen uhrauksesta.",
+      "Valitse kortti uhrattavaksi."
     ]
   },
   "Cursed Tome": {
-    "NAME": "Cursed Tome",
+    "NAME": "Kirottu opus",
     "DESCRIPTIONS": [
       "In an abandoned temple, you find a giant book, open, riddled with #p@cryptic@ #p@writings.@ NL NL As you try to interpret the elaborate script, it begins to #b~shift~ and #b~morph~ into writing you are familiar with.",
       "Odd. The book seems to be about an #yAncient named #yNeow. NL NL This piques your interest, but you have a general feeling of #p~malaise.~",
@@ -118,14 +118,14 @@
       "With incredible strain and willpower, you resist the trance of the tome and @SLAM@ it shut. NL You turn and exit the temple, feeling #b~drained...~"
     ],
     "OPTIONS": [
-      "[Read]",
-      "[Continue] #rLose #r1 #rHP.",
-      "[Continue] #rLose #r2 #rHP.",
-      "[Continue] #rLose #r3 #rHP.",
-      "[Stop] #rLose #r3 #rHP.",
-      "[Take] #gObtain #gthe #gBook. #rLose #r",
-      " #rHP.",
-      "[Leave]"
+      "[Lue]",
+      "[Jatka] #rMenetä #r1 #rOP.",
+      "[Jatka] #rMenetä #r2 #rOP:tä.",
+      "[Jatka] #rMenetä #r3 #rOP:tä.",
+      "[Lopeta] #rMenetä #r3 #rOP:tä.",
+      "[Ota] #gOta #gKirja. #rMenetä #r",
+      " #rOP:tä.",
+      "[Poistu]"
     ]
   },
   "Dead Adventurer": {
@@ -144,11 +144,11 @@
       "Looks like you searched all his belongings without a hitch!"
     ],
     "OPTIONS": [
-      "[Search] #gFind #gLoot. #r",
-      "[Leave]",
-      "[Fight]",
-      "[Continue] #gFind #gLoot. #r",
-      "%: #rmonster #rreturns."
+      "[Kolua] #gEtsi #gsaalista. #r",
+      "[Poistu]",
+      "[Taistele]",
+      "[Jatka] #gEtsi #gsaalista. #r",
+      "%: #rhirviö #rpalaa."
     ]
   },
   "Drug Dealer": {
@@ -160,25 +160,25 @@
       "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
     ],
     "OPTIONS": [
-      "[Test J.A.X.] #gGet #gJAXXED.",
-	  "[Become Test Subject] #gTransform #g2 #gcards.",
-	  "[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
-	  "[Leave]",
-	  "[Locked] Requires: 2 or more cards in deck.",
-	  "Select Cards to Transform."
+      "[Kokeile H.A.B.A.] #gSaa #gHABAA.",
+	  "[Ryhdy tutkimuskohteeksi] #gMuunna #g2 #gkorttia.",
+	  "[Niele mutageenejä] #gSaa #gerikoisreliikin.",
+	  "[Poistu]",
+	  "[Lukittu] Vaatii: 2 tai enemmän kortteja pakassa.",
+	  "Valitse muutettavat kortit."
     ]
   },
   "Duplicator": {
-    "NAME": "Duplicator",
+    "NAME": "Kopiokone",
     "DESCRIPTIONS": [
       "Before you lies a decorated altar to some ancient entity.",
       "You kneel respectfully. A ghastly mirror image appears from the shrine and collides into you.",
       "You ignore the shrine, confident in your choice."
     ],
     "OPTIONS": [
-      "[Pray] #gDuplicate #ga #gcard #gin #gyour #gdeck.",
-      "[Leave]",
-      "Select a Card to Duplicate."
+      "[Rukoile] #gKopioi #gpakastasi #gkortti.",
+      "[Poistu]",
+      "Valitse kopioitava kortti."
     ]
   },
   "Falling": {
@@ -192,19 +192,19 @@
 	  "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Land] #rLose ",
-      "[Locked] Requires: Skill Card",
-      "[Channel] #rLose ",
-      "[Locked] Requires: Power Card",
-      "[Strike] #rLose ",
-      "[Locked] Requires: Attack Card",
-      "[Leave]",
-	  "[Land] "
+      "[Jatka]",
+      "[Laskeudu] #rMenetä ",
+      "[Lukittu] Vaatii: Taito-kortin",
+      "[Kanavoi] #rMenetä ",
+      "[Lukittu] Vaatii: Voima-kortin",
+      "[Iske] #rMenetä ",
+      "[Lukittu] Vaatii: Hyökkäys-kortin",
+      "[Poistu]",
+	  "[Laskeudu] "
     ]
   },
   "Forgotten Altar": {
-    "NAME": "Forgotten Altar",
+    "NAME": "Unhoittunut alttari",
     "DESCRIPTIONS": [
       "In front of you sits an altar to a forgotten god. NL Atop the altar sits an ornate female statue with arms outstretched. NL She calls out to you, demanding sacrifice.",
       "As you gently set the idol onto the altar a #bcold wind swirls throughout the room. NL The arms of the statue begin to discolor and crumble. NL NL Your #ygolden #yidol begins to dull in color and begins bleeding from its eyes. NL The bleeding never ceases.",
@@ -212,13 +212,13 @@
       "You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
     ],
     "OPTIONS": [
-      "[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
-      "[Locked] Requires: Golden Idol.",
-      "[Sacrifice] #gGain #g",
-      " #gMax #gHP. #rLose #r",
-      " #rHP.",
-      "[Locked] Requires: Humanity.",
-      "[Desecrate] #rBecome #rCursed #r- #rDecay."
+      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikin. #rMenetä #rKultainen #ridoli.",
+      "[Lukittu] Vaatii: Kultaisen idolin.",
+      "[Uhraa] #gSaa #g",
+      " #gMaksimi #gOP:tä. #rMenetä #r",
+      " #rOP:tä.",
+      "[Lukittu] Vaatii: Ihmisyyttä.",
+      "[Häpäise] #rTule #rKirotuksi #r- #rLahoaminen."
     ]
   },
   "Fountain of Cleansing": {
@@ -229,12 +229,12 @@
       "Unsure of the nature of this water, you continue on your way, parched."
     ],
     "OPTIONS": [
-      "[Drink] #gRemove #gall #gCurses #gfrom #gyour #gdeck.",
-      "[Leave]"
+      "[Juo] #gPoista #gpakastasi #gkaikki #gKiroukset.",
+      "[Poistu]"
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Aaveiden neuvosto",
     "DESCRIPTIONS": [
       "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKES@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
       "",
@@ -243,12 +243,12 @@
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gReceive #g5 Apparition. #rLose #r",
-      " #rMax #rHP.",
-      "[Refuse]",
-      "[Accept] #gReceive #g3 Apparition. #rLose #r",
+      "[Hyväksy] #gSaa #g5 Haamua. #rMenetä #r",
+      " #rMaksimi #rOP:tä.",
+      "[Kieltäydy]",
+      "[Hyväksy] #gSaa #g3 Haamua. #rMenetä #r",
       "",
-      "[Leave]"
+      "[Poistu]"
     ]
   },
   "Golden Idol": {
@@ -272,7 +272,7 @@
     ]
   },
   "Golden Shrine": {
-    "NAME": "Golden Shrine",
+    "NAME": "Kultainen pyhättö",
     "DESCRIPTIONS": [
       "Before you lies an elaborate shrine to an ancient spirit. ",
       "As your hand touches the shrine, #ygold rains from the ceiling ~showering~ ~you~ ~in~ ~riches.~ ",
@@ -280,14 +280,14 @@
       "You ignore the shrine."
     ],
     "OPTIONS": [
-      "[Pray] #gGain #g",
-      " #gGold.",
-      "[Desecrate] #gGain #g275 #gGold. #rBecome #rCursed #r- #rRegret.",
-      "[Leave]"
+      "[Rukoile] #gSaa #g",
+      " #gKultaa.",
+      "[Häpäise] #gOta #g275 #gKultaa. #rTule #rKirotuksi #r- #rKatumus.",
+      "[Poistu]"
     ]
   },
   "Golden Wing": {
-    "NAME": "Wing Statue",
+    "NAME": "Siipipatsas",
     "DESCRIPTIONS": [
       "Among the stone and boulders, you notice an intricate large blue statue resembling a wing. NL You find #ygold spilling from its cracks. Maybe there is more inside...",
       "Someone once told you of a cult that worshipped a giant bird. As you kneel in prayer, you begin to ~feel~ ... ~lightheaded~ . NL NL You wake up some time later, feeling strangely fleet of foot.",
@@ -295,20 +295,20 @@
       "The statue makes you feel ~uneasy.~ You walk past and continue onward."
     ],
     "OPTIONS": [
-      "[Pray] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rLose #r",
+      "[Rukoile] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rLose #r",
       " #rHP.",
-      "[Destroy] #gGain #g",
+      "[Tuhoa] #gGain #g",
       " #g- #g",
       " #gGold.",
-      "[Locked] Requires: Card with ",
+      "[Lukittu] Requires: Card with ",
       " or more damage.",
-      "[Leave]",
-      "[Continue]",
+      "[Poistu]",
+      "[Jatka]",
       "Select a Card to Remove."
     ]
   },
   "Knowing Skull": {
-    "NAME": "Knowing Skull",
+    "NAME": "Tietävä pääkallo",
     "DESCRIPTIONS": [
       "You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you.",
       "\"WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?\" NL In sync with its final words, the door behind you @slams@ @shut.@",
@@ -320,19 +320,19 @@
       "\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."
     ],
     "OPTIONS": [
-      "[Continue]",
-      " #rHP.",
-      "[Information?] #gReveal #gthe #gBoss. #rLose #r",
+      "[Jatka]",
+      " #rOP.",
+      "[Tietoa?] #gReveal #gthe #gBoss. #rLose #r",
       "[Success?] #gGet #ga #gColorless #gCard. #rLose #r",
       "[A Pick Me Up?] #gGet #ga #gPotion. #rLose #r",
-      "[Riches?] #gGain #g",
-      " #gGold. #rLose #r",
-      "[How do I leave?] #rLose #r",
-      "[Leave]"
+      "[Rikkauksia?] #gSaa #g",
+      " #gKultaa. #rMenetä #r",
+      "[Miten poistun?] #rMenetä #r",
+      "[Poistu]"
     ]
   },
   "Lab": {
-    "NAME": "Lab",
+    "NAME": "Labra",
     "DESCRIPTIONS": [
       "You find yourself in a room filled with racks of test tubes, beakers, flasks, forceps, pinch clamps, stirring rods, tongs, goggles, funnels, pipets, cylinders, condensers, and even a rare spiral tube of glass. NL NL Why do you know the name of all these tools? It doesn't matter, you take a look around."
     ],
@@ -363,18 +363,18 @@
       "Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
     ],
     "OPTIONS": [
-      "[Forget] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Change] #gTransform #ga #gcard #gin #gyour #gdeck.",
-      "[Grow] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
+      "[Unhoita] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+      "[Muutu] #gTransform #ga #gcard #gin #gyour #gdeck.",
+      "[Kasva] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
       "Select a Card to Remove.",
       "Choose a Card to Transform.",
       "Choose a Card to Upgrade.",
-      "[Leave]",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Poistu]",
+      "[Lukittu] Requires: Upgradeable Cards"
     ]
   },
   "Masked Bandits": {
-    "NAME": "Masked Bandits",
+    "NAME": "Naamioidut bandiitit",
     "DESCRIPTIONS": [
       "Hehehe.. Thanks for the #ygold! NL Oh, I love #ygold. It's so nice. NL #y~shiny~ #y~shiny~ chits they are!",
       "Hey #bBear, hey! NL This guy gave us all his #ygold! What a sucker, right? NL Get this, I just had to ask nicely. Who knew?! NL I certainly didn't! What a chump!",
@@ -383,10 +383,10 @@
       "You encounter a group of bandits wearing large #rred #rmasks. NL \"Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!\""
     ],
     "OPTIONS": [
-      "[Pay] #rLose #rALL of your #yGold.",
-      "[Fight!]",
-      "[Continue]",
-      "[Leave]"
+      "[Maksa] #rMenetä #rKAIKKI #yKultasi.",
+      "[Taistele!]",
+      "[Jatka]",
+      "[Poistu]"
     ]
   },
   "Match and Keep!": {
@@ -397,9 +397,9 @@
       "A gremlin is madly shuffling cards on a table. This monster seems to be a harmless one. You approach him out of curiosity."
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Leave]",
-      "[Play]",
+      "[Jatka]",
+      "[Poistu]",
+      "[Pelaa]",
       "Remaining Attempts: #y"
     ]
   },
@@ -411,11 +411,11 @@
       "You enter a corridor full of #b~hypnotizing~ #b~colored~ #b~mushrooms.~ NL Due to your lack of specialization in mycology you are unable to identify the specimens. NL You want to escape, but feel oddly compelled to eat a #b~mushroom...~"
     ],
     "OPTIONS": [
-      "[Stomp] #rAnger #rthe #rMushrooms.",
-      "[Eat] #gHeal #g",
-      " #gHP. #rBecome #rCursed #r- #rParasite.",
-      "[Fight]",
-      "[Leave]"
+      "[Polje] #rSuututa #rsienet.",
+      "[Syö] #gParane #g",
+      " #gOP:llä. #rTule #rKirotuksi #r- #rLoinen.",
+      "[Taistele]",
+      "[Poistu]"
     ]
   },
   "Mysterious Sphere": {
@@ -426,9 +426,9 @@
       "No need to be greedy."
     ],
     "OPTIONS": [
-      "[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
-      "[Leave]",
-      "[Fight]"
+      "[Avaa pallo] #rTaistele. #gPalkinto: #gErittäin #gharvinainen #greliikki.",
+      "[Poistu]",
+      "[Taistele]"
     ]
   },
   "N'loth": {
@@ -439,14 +439,14 @@
       "You shake your head. N'loth hunches even further and sighs, then scuttles away."
     ],
     "OPTIONS": [
-      "[Offer: ",
-      "] #rLose #rthis #rrelic. #gObtain #ga #gspecial #grelic.",
+      "[Tarjoa: ",
+      "] #rMenetä #rtämä #rreliikki. #gSaa #gerikoisreliikki.",
       "[Leave]"
     ]
   },
   "Proceed Screen": {
     "DESCRIPTIONS": [
-      "[Leave]"
+      "[Poistu]"
     ]
   },
   "Purifier": {
@@ -457,8 +457,8 @@
       "You ignore the shrine."
     ],
     "OPTIONS": [
-      "[Pray] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Leave]",
+      "[Rukoile] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+      "[Poistu]",
       "Select a Card to Remove."
     ]
   },
@@ -486,8 +486,8 @@
       "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
     ],
     "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
+      "[Astu portaaliin] Matkusta HETI vihollispomon luo.",
+      "[Poistu]"
     ]
   },
   "SensoryStone": {
@@ -526,28 +526,28 @@
   "Spire Heart": {
     "NAME": "Tornin sydän",
     "DESCRIPTIONS": [
-      "@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL A deep pulsing dread can be felt throughout the room... NL Is this the #r~heart~ of the Spire? The source of this evil?",
-      "You deal #b",
-      " damage! NL The heart #r@squirms@ and #r~bleeds~ ...but is ultimately still pounding. NL Are your mightiest attacks not enough?",
-      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~ NL You feel that you have dealt a total of #b",
-      " damage to the heart.",
-      " NL A total of #b",
-      " damage has been dealt by all who have challenged it.",
-      " NL The heart pulses louder and louder as your #y~consciousness~ #y~fades...~",
-      "NL You ready your blade...",
-      "NL You prepare your daggers...",
-      "NL You charge your core to its maximum...",
-      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
-      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
-      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
-      " NL The heart #gretreats upwards! A large door is revealed in its place.",
-	  "NL You prime your staff with divine energy..."
+      "@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Syvästi sykkivää pelkoa voi tuntea huoneessa läpikotaisin... NL Onko tämä Tornin #r~sydän~? Kaiken pahuuden alkulähde?",
+      "Teit #b",
+      " vahinkoa! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole tarpeeksi?",
+      "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
+      " vahinkoa sydämelle.",
+      " NL Yhteensä #b",
+      " vahinkoa ovat tehneet kaikki, jotka ovat haastaneet sen.",
+      " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~vaipuu...~",
+      "NL Nostat teräasettasi iskuun...",
+      "NL Asetat tikarisi valmiuteen...",
+      "NL Lataat ydintäsi täyteen tehoon...",
+      "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~",
+      " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~vaipuu...~",
+      " NL Äkillinen purkaus #y@energiaa@ säteilee sisältäsi, #b@säpsähtäen@ sinut hereille.",
+      " NL Sydän #gperäytyy ylöspäin! Paljastaen suuren oven sen tilalla.",
+	  "NL Virität sauvasi jumalallisella energialla..."
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Attack] #b???",
-      "[Sleep]",
-      "[Approach Door]"
+      "[Jatka]",
+      "[Hyökkää] #b???",
+      "[Nuku]",
+      "[Lähesty ovea]"
     ]
   },
   "The Cleric": {
@@ -571,7 +571,7 @@
     ]
   },
   "The Joust": {
-    "NAME": "The Joust",
+    "NAME": "Turnajaiset",
     "DESCRIPTIONS": [
       "As you make your way through the large buildings you come across a long narrow bridge and spot knights on either side, facing one another. You approach... NL @\"Halt!\"@ NL NL A knight forcefully gestures you to stop with its giant lance.",
       "\"Today is the day I must settle the score with the #rmurderer of my beloved pet, #yNoodles. Until then, you may not pass. NL NL Fellow witness, why don't you #bbet on who you think will emerge victorious?\"",
@@ -579,19 +579,19 @@
       "\"Give me strength, #yNoodles!\" NL NL Clamping down his helmet, the knight charges forward.",
       "NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
       "The nemesis was slain. NL NL ",
-      "The owner died. NL NL ",
+      "Omistaja kuoli. NL NL ",
       "You #gwin the bet. Unsure what to think, you grab your winnings and leave.",
       "You #rlost the bet, but at least you weren't gouged by a lance."
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Murderer] #yBet #y",
-      " #yGold - #g70%: #gwin #g",
-      " #gGold.",
-      "[Owner] #yBet #y",
-      " #yGold - #g30%: #gwin #g",
-      "[Watch]",
-      "[Leave]"
+      "[Jatka]",
+      "[Murhaaja] #yLyö #y",
+      " #yKultaa #yvetoa - #g70%: #gvoitto #g",
+      " #gKultaa.",
+      "[Omistaja] #yLyö #y",
+      " #yKultaa #yvetoa - #g30%: #gvoitto #g",
+      "[Katso]",
+      "[Poistu]"
     ]
   },
   "The Library": {
@@ -604,10 +604,10 @@
       "The story takes place in a giant isolated building underground as the outside conditions have become unbearable. The novel is mired with conspiracies, propaganda, and injustice. You ponder if similar dynamics are at play within the Spire. NL Unsettling."
     ],
     "OPTIONS": [
-      "[Read] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
-      "[Sleep] #gHeal #g",
+      "[Lue] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
+      "[Nuku] #gHeal #g",
       " #gHP.",
-      "[Leave]",
+      "[Poistu]",
       "Add a card to your deck."
     ]
   },
@@ -620,13 +620,13 @@
       "You continue along your way, leaving the forgotten dead undisturbed."
     ],
     "OPTIONS": [
-      "[Open Coffin] #gObtain #ga #gRelic. #r",
-      "%: #rBecome #rCursed #r- #rWrithe.",
+      "[Avaa ruumisarkku] #gOta #greliikki. #r",
+      "%: #rTule #rKirotuksi #r- #rNoidannuoli.",
       "[Leave]"
     ]
   },
   "The Moai Head": {
-    "NAME": "The Moai Head",
+    "NAME": "Moai-pää",
     "DESCRIPTIONS": [
       "You stumble across something that feels *very* out of place. Before you, an enormous stony head emerges from a large wall segment that does not shift and change like the rest of this area. NL The head's mouth is wide open, and it reveals large intimidating teeth stained red with blood. The surface of the statue is riddled with pictographs that seem to indicate people throwing themselves into the mouth of this head and being devoured. Why would anyone do that?",
       "At first when you step up into the mouth of the statue, nothing happens. As you start to feel more than a little foolish, the huge molars slam down from above, crushing you whole. NL @Darkness.@ NL Sometime later from within the dark, you see a sliver of light, and hear what you now realize is the sound of stony teeth slowly rising upwards. NL NL NL You leave confused.",
@@ -634,28 +634,28 @@
       "You leave, wondering what could have been."
     ],
     "OPTIONS": [
-      "[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
+      "[Hyppää sisään] #gHeal #gto #gfull #gHP. #rLose #r",
       " #rMax #rHP.",
-      "[Offer: Golden Idol] #gGain #g333 #gGold. #rLose #rGolden #rIdol.",
-      "[Locked] Requires: Golden Idol.",
-      "[Leave]"
+      "[Tarjoa: Kultainen idoli] #gSaa #g333 #gkultaa. #rMenetä #rKultainen #ridoli.",
+      "[Lukittu] Vaatii: Kultaisen idolin.",
+      "[Poistu]"
     ]
   },
   "The Woman in Blue": {
-    "NAME": "The Woman in Blue",
+    "NAME": "Nainen sinisissä",
     "DESCRIPTIONS": [
       "From the darkness, an arm pulls you into a small shop. As your eyes adjust, you see a pale woman in sharp clothes gesturing towards a wall of potions. NL \"Buy a potion. Now!\" she states.",
       "\"Good. Now leave.\" NL You exit the shop cautiously.",
       "#r@WHAM@ NL Her gloved fist collides with your face, nearly knocking you off your feet. NL \"Get out before I litter the floor with your guts.\" You take her word and exit with your guts still safely in your body."
     ],
     "OPTIONS": [
-      "[Buy 1 Potion] #y",
-      "[Buy 2 Potions] #y",
-      "[Buy 3 Potions] #y",
-      " #yGold.",
-      "[Leave]",
-      "[Leave] #rTake #r",
-      " #rDamage."
+      "[Osta 1 liemi] #y",
+      "[Osta 2 lientä] #y",
+      "[Osta 3 lientä] #y",
+      " #yKultaa.",
+      "[Poistu]",
+      "[Poistu] #rOta #r",
+      " #rvahinkoa."
     ]
   },
   "Thinking with Puddles": {
@@ -695,9 +695,9 @@
       "You ignore the shrine."
     ],
     "OPTIONS": [
-      "[Pray] #gTransform #ga #gcard.",
-      "[Leave]",
-      "Select a Card to Transform."
+      "[Rukoile] #gMuunna #gkortti.",
+      "[Poistu]",
+      "Valitse kortti muutettavaksi."
     ]
   },
   "Upgrade Shrine": {
@@ -708,10 +708,10 @@
       "You ignore the shrine."
     ],
     "OPTIONS": [
-      "[Pray] #gUpgrade #ga #gcard.",
-      "[Leave]",
-      "Select a Card to Upgrade.",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Rukoile] #gParantele #gkortti.",
+      "[Poistu]",
+      "Valitse kortti paranneltavaksi.",
+      "[Lukittu] Vaatii: Paranneltavan kortin"
     ]
   },
   "Vampires": {
@@ -725,37 +725,37 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
-      " #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall Strikes. #gReceive #g5 Bites.",
-      "[Leave]"
+      "[Hyväksy] #gPoista #gkaikki Iskut. #gSaa #g5 Puremaa. #rMenetä #r",
+      " #rMaksimi #rOP:tä.",
+      "[Kieltäydy]",
+      "[Menetä ",
+      "] #gPoista #gkaikki Iskut. #gSaa #g5 Puremaa.",
+      "[Poistu]"
     ]
   },
   "Wheel of Change": {
-    "NAME": "Wheel of Change",
+    "NAME": "Muutoksen pyörä",
     "DESCRIPTIONS": [
-      "You come upon a dapper looking, cheery gremlin. NL \"It's time to spin the wheel! Are you ~R~ ~E~ ~A~ ~D~ ~Y~ ~?~ Of course you are!\"",
-      "\"You win some #yGOLD! NL YAY!!!!\"",
-      "\"Ah, a #ggift! NL Enjoy!\"",
-      "\"Oooh, a free #gHeal for you!\"",
-      "\"Looks like you won a #pCurse! NL That's not good. NL Oh well! Better luck next time!\"",
-      "\"Ohh, the power of #r~darkness...~ NL Choose a card to remove from your deck!\"",
-      "\"Uh oh! NL You lose!\" NL You spot him readying a shiv...",
-      "You slash at the crazy gremlin but he's simply too quick! NL He gets you a few times with a crude shiv. NL \"The price has been paid!!\" NL and with that, both the gremlin and its wheel disappear in a puff of smoke."
+      "Kohtaat sattumoisin pirteän, huolitellun näköisen irviön. NL \"Aika pyörittää muutoksen pyörää! Oletko ~V~ ~A~ ~L~ ~M~ ~I~ ~S~ ~?~ Tottakai olet!\"",
+      "\"Voitit #yKULTAA! NL JIPII!!!!\"",
+      "\"Aa, #glahja! NL Ole hyvä!\"",
+      "\"Oho, sait ilmaisen #gParantamisen!\"",
+      "\"Näyttää siltä että voitit #pKirouksen! NL Sepä kurjaa. NL Noh, parempi onni seuraavalla kerralla!\"",
+      "\"Huhuu, sinua auttavat #r~pimeyden~ ~voimat...~ NL Valitse kortti pakastasi poistettavaksi!\"",
+      "\"Aijai! NL Hävisit!\" NL Huomaat hänen kaivavan esiin puukkoa...",
+      "Teet viillon hullua irviötä kohti, mutta hän on liian nopea! NL Hän ehtii tehdä pari iskua karkeatekoisella puukollaan. NL \"Velat on kuitattu!!\" NL ja sen myötä irviö ja pyörä katoavat savuna ilmaan."
     ],
     "OPTIONS": [
-      "[Play]",
-      "[Prize!] YAY!!!!",
-      "[Prize!] #gObtain #ga #gRelic.",
-      "[Prize!] #gHeal #gto #gfull #ghealth.",
-      "[Prize?] #rCurse #r- #rDecay.",
-      "[Prize!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Prize?] #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "Select a Card to Remove."
+      "[Pelaa]",
+      "[Palkinto!] JIPII!!!!",
+      "[Palkinto!] #gSaat #gReliikin.",
+      "[Palkinto!] #gParanna #gitsesi #gtäyteen #gkuntoon.",
+      "[Palkinto?] #rKirous #r- #rHajoaminen.",
+      "[Palkinto!] #gPoista #gkortti #gpakastasi.",
+      "[Palkinto?] #rMenetä #r",
+      " #rOP:tä.",
+      "[Poistu]",
+      "Valitse kortti poistettavaksi."
     ]
   },
   "Winding Halls": {
@@ -772,7 +772,7 @@
       "[Embrace Madness] #gReceive #g2 Madness. #rLose #r",
       " #rHP.",
       "[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
-      "[Leave]",
+      "[Poistu]",
       " #gHP.",
 	  "[Retrace Your Steps] #rLose #r",
 	  " #rMax #rHP."
@@ -802,11 +802,11 @@
       "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
     ],
     "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",  
-      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
-      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[Olen Sota] #rTaistele #rPomoa #rvastaan #rensimmäisestä #rnäytöksestä. #gVoita #gerittäin #gharvinaisen #gReliikin.",  
+      "[Olen Rikas] #gSaa #g999 #gKultaa. #rKirottu #r- #r2 #rNormaaliutta.",
+      "[Olen Terve] #gParane #gtäyteen #gOP:siin. #rKirottu #r- #rEpävarmuus.",
+      "[Olen Valveilla] #gParantele #gkaikki #gkortit. #rEt #rvoi #renää #rparantua.",
+      "[Poistu]"
     ]
   },
   "Nest": {
@@ -820,16 +820,16 @@
       ""
     ],
     "OPTIONS": [
-      "[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
-      " #rHP.",
-      "[Smash and Grab] #gObtain #g",
-	  " #gGold.",
-      "[Leave]",
-      "[Continue]"
+      "[Pysy jonossa] #gSaa Rituaalisen tikarin. #rMenetä #r",
+      " #rOP:tä.",
+      "[Rahalipasmurto] #gOta #g",
+	  " #gKultaa.",
+      "[Poistu]",
+      "[Jatka]"
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Naamojen kaupustelija",
     "DESCRIPTIONS": [
       "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
       "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
@@ -838,28 +838,28 @@
       "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
-      "[Touch] #rLose #r",
-      " #gGold.",
-      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
-      "[Leave]",
-	  "[Continue]",
-	  " #rHP, #ggain #g"
+      "[Kosketa] #rMenetä #r",
+      " #gKultaa.",
+      "[Käy kauppaa] #g50%: #gHyvä #gnaama. #r50%: #rPaha #rnaama.",
+      "[Poistu]",
+	  "[Jatka]",
+	  " #rOP:tä, #gsaa #g"
     ]
   },
   "NoteForYourself": {
     "NAME": "Lappu itsellesi",
     "DESCRIPTIONS": [
-      "You spot a loose brick within a pillar that catches your eye.",
-      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
-      "Choose a Card to Store.",
-      "What is going on?"
+      "Huomiosi kiinnittyy pylvääseen, josta huomaat löysästi istuvan tiilin.",
+      "Löydät sen takaa taitetun lapun ja #ykortin sen sisällä. Siinä lukee, NL \"Sydän odottaa.\" NL NL Tämä on sinun käsialaasi.",
+      "Valitse kortti varastoitavaksi.",
+      "Mitä täällä on meneillään?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Take and Give] #gReceive ",
-      " #gand #gStore #ga #gCard.",
-      "[Ignore]",
-      "[Leave]"
+      "[Jatka]",
+      "[Ota ja jätä] #gOta ",
+      " #gja #gvarastoi #gkortti.",
+      "[Sivuuta]",
+      "[Poistu]"
     ]
   },
   "WeMeetAgain": {
@@ -873,16 +873,16 @@
       "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
     ],
     "OPTIONS": [
-      "[Give Potion] #rLose ",
-      "[Locked] Requires: Potion.",
-      "[Give Gold] #rLose #r",
-      "[Locked] Requires: At least 50 Gold.",
-      "[Give Card] #rLose ",
-      "[Locked] Requires: Card.",
-      ". #gObtain #ga #gRelic.",
-      "[Attack]",
-      "[Leave]",
-      " #rGold"
+      "[Anna pullo] #rMenetä ",
+      "[Lukittu] Vaatii: Pullon.",
+      "[Anna kultaa] #rMenetä #r",
+      "[Lukittu] Vaatii: Vähintään 50 Kultaa.",
+      "[Anna kortti] #rMenetä ",
+      "[Lukittu] Vaatii: Kortin.",
+      ". #gSaa #gReliikin.",
+      "[Hyökkää]",
+      "[Poistu]",
+      " #rKultaa"
     ]
   },
   "Designer": {
@@ -894,7 +894,7 @@
       "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
     ],
     "OPTIONS": [
-      "[Continue]",
+      "[Jatka]",
       "[Adjustments] #rLose #r",
       "[Clean Up] #rLose #r",
       "[Full Service] #rLose #r",
@@ -908,7 +908,7 @@
       "#gTransform #g",
       " #gcards.",
       "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
-      "[Leave]",
+      "[Poistu]",
       "Choose a Card to Upgrade",
       "Choose 2 Cards to Transform",
       "Choose a Card to Remove"
@@ -917,17 +917,17 @@
   "Colosseum": {
     "NAME": "Colosseum",
     "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
+      "@KOPS!!!@ NL .. NL ...... NL ... NL ~Sinut~ ~lyötiin~ ~tajuttomaksi...~",
 	  "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
 	  " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
 	  "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
 	  "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
     ],
     "OPTIONS": [
-      "[Continue]",
-	  "[Fight]",
-	  "[COWARDICE] Escape.",
-	  "[VICTORY] A powerful fight with many rewards."
+      "[Jatka]",
+	  "[Taistele]",
+	  "[PELKURUUS] Pakene.",
+	  "[VOITTO] Mahtava taistelu useilla palkinnoilla."
     ]
   }
 }
