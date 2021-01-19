@@ -1,13 +1,13 @@
 {
   "Accursed Blacksmith": {
-    "NAME": "Ominous Forge",
+    "NAME": "Pahaenteinen paja",
     "DESCRIPTIONS": [
-      "You duck into a small hut. Inside, you find what appears to be a forge. The smithing tools are covered with dust, yet a fire roars inside the furnace. You feel on edge...",
-      "You decide to put the forge to use and... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...improve your arsenal!",
-      "You decide to see if you can find anything of use. After uncovering tarps, looking through boxes, and checking nooks and crannies, you find a dust covered #y~relic!~ ",
-      "As you go through the finishing touches, the flames of the forge jump out at you, #r@burning@ #r@and@ #r@scarring@ your arms..",
-      "NL NL Taking the relic, you can't shake a sudden feeling of #r~sharp~ #r~pain~ as you exit the hut. Maybe you disturbed some sort of spirit?",
-      "There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
+      "Pujahdat pieneen vajaan. Sisällä huomaat mikä näyttäisi olevan työpaja. Sepän työkalut ovat pölyn peitossa, mutta silti tuli roihuaa ahjossa. Tunnet itsesi hermostuneeksi...",
+      "Päätät käyttää pajaa hyödyksi ja... NL #y@KLANG@ #y@KLAAANG@ #y@KLANG!@ NL ...paransit arsenaaliasi!",
+      "Päätät etsiä mitään, mikä olisi hyödyksi. Sen jälkeen, kun vedit suojapeitteitä, kävit läpi laatikoita ja tutkit kaikki nurkat, löydät pölyn peittämän #y~reliikin!~ ",
+      "Kun olet tekemässä viimeisteleviä muokkauksia, tuli ahjosta loikkaa päällesi, #r@polttaen@ #r@ja@ #r@arpeuttaen@ käsivarsiasi...",
+      "NL NL Ottaessasi reliikin, et voi olla tuntematta yhtäkkisen #r~terävän~ #r~kivun~ poistuessasi vajasta. Ehkä olet tavallasi häirinnyt eräänlaisen henkiolennon?",
+      "Siellä ei tunnu olevan mitään hyödyllistä. Poistut samaa tietä mistä tulitkin, ahjon tulen heittäessä #p~aavemaisia~ #p~varjoja~ vajan seinille..."
     ],
     "OPTIONS": [
       "[Tao] #gParantele #gkortti #gpakastasi.",
@@ -18,11 +18,11 @@
     ]
   },
   "Addict": {
-    "NAME": "Pleading Vagrant",
+    "NAME": "Aneleva kiertolainen",
     "DESCRIPTIONS": [
-      "While sneaking past a group of shrouded figures, one of them approaches you. NL \"Got anything for me friend? Please... maybe some #yCoin?\" NL \"I just need somewhere to stay, I have treasures I can trade...\" NL He seems delusional, but harmless.",
-      "\"Oh yes, ~yes!~ Here here, a fair trade!\"",
-      "You snatch the precious #yrelic from his clutches and walk away. NL From behind you hear, NL \"Have you no shame? ~HAVE~ ~YOU~ ~NO~ ~SHAAAAAME?!\"~ NL You have some #pshame."
+      "Hiiviskellessäsi verhottujen hahmojen ohi, yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan minulle mitään, ystävä? Ole hyvä... ehkäpä joku #yKolikko?\" NL \"Tarvitsen vain paikan jossa oleskella, minulla on vaihtokauppaa varten aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
+      "\"Voi kyllä, ~kyllä!~ Ota ota, reilu kauppa!\"",
+      "Nappaat arvokkaan #yreliikin hänen otteestaan ja kävelet pois. NL Kuulet takaa, NL \"Eikö sinua hävetä? ~EIKÖ~ ~SINUA~ ~HÄVETÄ~ ~LAINKAAAAAN?!\"~ NL Sinua #phävettää jonkin verran."
     ],
     "OPTIONS": [
       "[Tarjoa Kultaa] #y",
@@ -38,9 +38,9 @@
   "Back to Basics": {
     "NAME": "Muinaista kirjoitusta",
     "DESCRIPTIONS": [
-      "Scaling the city, you notice a wall covered in the writing of #y~Ancients.~ As you try to wrap your head around what the puzzling symbols and glyphs could mean, the writing begins to #b~glow.~ NL Suddenly, the message becomes clear...",
-      "The answer was elegance. NL Of course.",
-      "The truth is always simple."
+      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~Muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä, viestin sisältö muuttuu selväksi...",
+      "Vastaus oli eleganssi. NL Tietenkin.",
+      "Totuus on aina yksinkertainen."
     ],
     "OPTIONS": [
       "[Eleganssi] #gPoista #gpakastasi #gkortti.",
@@ -52,10 +52,10 @@
   "Beggar": {
     "NAME": "Vanha kerjäläinen",
     "DESCRIPTIONS": [
-      "An old beggar cloaked in fur reaches his hands out towards you as you pass. \"Spare some coin, child?\"",
-      "The beggar looks to the floor as you pass. NL \"You will never make a difference... You never do.\"",
-      "The beggar takes off its cloak to reveal that he is #bCleric! NL @\"You@ @are@ @a@ @kind@ @soul.@ @Receive@ @my@ @purification!\"@ he screams. NL You are unsure if he is grateful or mad.",
-      "@\"I@ @hope@ @you@ @do@ @better@ @this@ @time,@ @friend!\"@ he shouts. NL Wondering what was implied by this, you push forward."
+      "Vanha kerjäläinen turkisten peitossa ojentaa kätensä sinua kohti ohittaessasi. \"Irtoaisiko kolehti, lapsi?\"",
+      "Kerjäläinen katsoo lattiaa mennessäsi ohi. NL \"Et tule koskaan tekemään vaikutusta... Et koskaan teekkään.\"",
+      "Kerjäläinen pudottaa viittansa paljastaakseen olevansa #bPappi! NL @\@Olet@ @hyväsydäminen@ @sielu.@ @Ota@ @vastaan@ @puhdistukseni!\"@ hän kiljuu. NL Et ole varma, onko hän kiitollinen vai hullu.",
+      "@\"Toivottavasti@ @pystyt@ @parempaan@ @tällä@ @kertaa,@ @ystävä!\"@ hän huutaa. NL Ihmetellen, mitä hän tarkoitti sillä, jatkat matkaasi."
     ],
     "OPTIONS": [
       "[Tarjoa Kultaa] #y",
@@ -70,12 +70,12 @@
   "Big Fish": {
     "NAME": "Vonkale",
     "DESCRIPTIONS": [
-      "As you make your way down a long corridor you see a #ybanana, a #ydonut, and a #ybox ~floating~ about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet @cackling@ from above as you approach the objects. NL What do you do?",
-      "You eat the #ybanana. It is nutritious and slightly #bmagical, healing you.",
-      "You eat the #ydonut. It really hits the spot! Your Max HP increases.",
+      "Kulkiessasi alas pitkää käytävää, näet #ybanaanin, #ydonitsin ja #ylaatikon ~kelluvan~ paikallaan. Ei... tarkempi tarkastelu paljastaa niiden olevan sidottu katon rei'istä tuleviin lankoihin. Samalla kun lähestyt esineitä, kuulet hiljaista @käkätystä@ yläpuolelta. NL Mitä teet?",
+      "Syöt #ybanaanin. Se on ravitsevaa ja hiukan #bmaaginen, parantaen sinua.",
+      "Syöt #ydonitsin. Sepä tuli hyvään saumaan! Sinun Maksimi OP:si nousi.",
       "",
-      "You grab the box. Inside you find a #yrelic!",
-      " NL However, you really craved the donut... NL You are filled with ~sadness,~ but mostly #rregret."
+      "Tartut laatikkoon. Sisältä löydät #yreliikin!",
+      " NL Kuitenkin, olisit todellakin halunnut donitsia... NL Sinut valtaa ~suru,~ mutta lähinnä #rkatumus."
     ],
     "OPTIONS": [
       "[Banaani] #gParanna #g",
@@ -89,14 +89,14 @@
   "Bonfire Elementals": {
     "NAME": "Roviohenget",
     "DESCRIPTIONS": [
-      "You happen upon a group of what looks like #ppurple #pfire #pspirits ~dancing~ around a large bonfire. NL ",
-      "The spirits toss small bones and fragments into the fire, which ~brilliantly~ ~erupts~ each time. NL As you approach, the spirits all turn to you, expectantly...",
-      "You toss an offering into the bonfire. NL NL ",
-      "However, the spirits aren't happy that you offered a #pCurse... The card fizzles a meek black smoke. You receive a... #p~something~ in return.",
-      "Nothing happens... NL The spirits seem to be ignoring you now. Disappointing...",
-      "The flames grow slightly brighter. NL The spirits continue dancing. You feel slightly warmer from their presence.. NL You #gheal #b5 HP.",
-      "The flames erupt, growing significantly stronger! NL The spirits dance around you excitedly, filling you with a ~sense~ ~of~ ~warmth.~ NL You are #ghealed to full HP.",
-      "The flames @burst,@ nearly knocking you off your feet, as the fire @doubles@ in strength. NL The spirits dance around you excitedly before ~merging~ ~into~ ~your~ ~form,~ filling you with warmth and strength. NL Your Max HP increases by #b10 and you are #ghealed to full HP."
+      "Löydät sattumoisin mitä ilmeisesti näyttää joukolta #ppurppuraväristen #ptulihenkiä ~tanssimassa~ ison rovion ympärillä. NL ",
+      "Henget viskaavat pieniä luita ja sirpaleita tuleen, joka ~kirkkaasti~ ~purkautuu~ joka kerta. NL Kun lähestyt, henget kääntyvät puoleesi, odottavaisesti...",
+      "Heität uhrilahjan rovioon. NL NL ",
+      "Mutta henget eivät ole tyytyväisiä siitä, että tarjosit #pKirouksen... Kortti sihisee säyseää mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
+      "Mitään ei tapahtu... NL Henget näyttävät jättävän sinua nyt huomiotta. Masentavaa...",
+      "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet itsesi hiukan lämpimäksi heidän läsnäolostaan... NL #gParanet #b5 OP:tä.",
+      "Liekit purkautuvat merkittävän voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valtaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
+      "Liekit @räjähtävät,@ miltei kumoten sinut kumoon, kun tuli vahvistuu @kaksinkerroin.@ NL Henget tanssivat innostuneesti ympärilläsi ennenkuin ~sulautuvat~ ~sinun~ ~hahmoosi,~ täyttäen sinut lämmöllä ja voimalla. NL Sinun Maksimi OP nousee #b10 ja #gparanet täyteen OP:siin."
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -262,13 +262,13 @@
       "If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
     ],
     "OPTIONS": [
-      "[Take] #gObtain #gGolden #gIdol. #rTrigger #ra #rtrap.",
-      "[Leave]",
-      "[Outrun] #rBecome #rCursed #r- #rInjury.",
-      "[Smash] #rTake #r",
-      " #rDamage.",
-      "[Hide] #rLose #r",
-      " #rMax #rHP."
+      "[Ota] #gSaat #gKultaisen #gidolin. #rLaukaise #ransa.",
+      "[Poistu]",
+      "[Pakene] #rTule #rKirotuksi #r- #rVamma.",
+      "[Särje] #rOta #r",
+      " #rvahinkoa.",
+      "[Piiloudu] #rMenetä #r",
+      " #rMaksimi #rOP:tä."
     ]
   },
   "Golden Shrine": {
@@ -295,16 +295,16 @@
       "The statue makes you feel ~uneasy.~ You walk past and continue onward."
     ],
     "OPTIONS": [
-      "[Rukoile] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rLose #r",
-      " #rHP.",
-      "[Tuhoa] #gGain #g",
+      "[Rukoile] #gPoista #gpakastasi #gkortti. #rMenetä #r",
+      " #rOP:tä.",
+      "[Tuhoa] #gSaa #g",
       " #g- #g",
-      " #gGold.",
-      "[Lukittu] Requires: Card with ",
-      " or more damage.",
+      " #gKultaa.",
+      "[Lukittu] Vaatii: Kortin jossa ",
+      " tai enemmän vahinkoa.",
       "[Poistu]",
       "[Jatka]",
-      "Select a Card to Remove."
+      "Valitse poistettava kortti."
     ]
   },
   "Knowing Skull": {
@@ -321,10 +321,10 @@
     ],
     "OPTIONS": [
       "[Jatka]",
-      " #rOP.",
-      "[Tietoa?] #gReveal #gthe #gBoss. #rLose #r",
-      "[Success?] #gGet #ga #gColorless #gCard. #rLose #r",
-      "[A Pick Me Up?] #gGet #ga #gPotion. #rLose #r",
+      " #rOP:tä.",
+      "[Tietoa?] #gPaljasta #gPomo. #rMenetä #r",
+      "[Menestystä?] #gSaa #gVärittömän #gkortin. #rMenetä #r",
+      "[Piristyksen?] #gSaa #gtaikaliemi. #rMenetä #r",
       "[Rikkauksia?] #gSaa #g",
       " #gKultaa. #rMenetä #r",
       "[Miten poistun?] #rMenetä #r",
@@ -337,7 +337,7 @@
       "You find yourself in a room filled with racks of test tubes, beakers, flasks, forceps, pinch clamps, stirring rods, tongs, goggles, funnels, pipets, cylinders, condensers, and even a rare spiral tube of glass. NL NL Why do you know the name of all these tools? It doesn't matter, you take a look around."
     ],
     "OPTIONS": [
-      "[Search] #gFind #gsome #gPotions!"
+      "[Etsi] #gLöydä #gtaikaliemiä!"
     ]
   },
   "Liars Game": {
@@ -349,11 +349,11 @@
       "The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
     ],
     "OPTIONS": [
-      "[Agree] #gGain #g",
-      " #gGold. #rBecome #rCursed #r- #rDoubt.",
-      "[Disagree]",
-      "[Continue]",
-      "[Leave]"
+      "[Samaa mieltä] #gSaa #g",
+      " #gKultaa. #rTule #rKirotuksi #r- #rEpäilys.",
+      "[Eri mieltä]",
+      "[Jatka]",
+      "[Poistu]"
     ]
   },
   "Living Wall": {
@@ -366,11 +366,11 @@
       "[Unhoita] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
       "[Muutu] #gTransform #ga #gcard #gin #gyour #gdeck.",
       "[Kasva] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
-      "Select a Card to Remove.",
-      "Choose a Card to Transform.",
-      "Choose a Card to Upgrade.",
+      "Valitse kortti poistettavaksi.",
+      "Valitse kortti muutettavaksi.",
+      "Valitse kortti paranneltavaksi.",
       "[Poistu]",
-      "[Lukittu] Requires: Upgradeable Cards"
+      "[Lukittu] Vaatii: Paranneltavia kortteja"
     ]
   },
   "Masked Bandits": {
@@ -400,7 +400,7 @@
       "[Jatka]",
       "[Poistu]",
       "[Pelaa]",
-      "Remaining Attempts: #y"
+      "Yrityksiä jäljellä: #y"
     ]
   },
   "Mushrooms": {
@@ -457,9 +457,9 @@
       "You ignore the shrine."
     ],
     "OPTIONS": [
-      "[Rukoile] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+      "[Rukoile] #gPoista #gpakastasi #gkortti.",
       "[Poistu]",
-      "Select a Card to Remove."
+      "Valitse poistettava kortti."
     ]
   },
   "Scrap Ooze": {
@@ -517,25 +517,25 @@
       "You walk around it, wondering what could have been."
     ],
     "OPTIONS": [
-      "[Enter] #gUpgrade #g2 #grandom #gcards. #rLose #r",
-      " #rHP.",
-      "[Leave]",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Astu sisään] #gParantele #g2 #gsatunnaista #gkorttia. #rMenetä #r",
+      " #rOP:tä.",
+      "[Poistu]",
+      "[Lukittu] Vaatii: Paranneltavia kortteja"
     ]
   },
   "Spire Heart": {
     "NAME": "Tornin sydän",
     "DESCRIPTIONS": [
-      "@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Syvästi sykkivää pelkoa voi tuntea huoneessa läpikotaisin... NL Onko tämä Tornin #r~sydän~? Kaiken pahuuden alkulähde?",
+      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivää kammoa voi tuntea läpikotaisin huoneessa... NL Onko tämä Tornin #r~sydän~? Kaiken pahuuden alkulähde?",
       "Teit #b",
-      " vahinkoa! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole tarpeeksi?",
+      " vahinkoa! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole riittäviä?",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
       " vahinkoa sydämelle.",
       " NL Yhteensä #b",
       " vahinkoa ovat tehneet kaikki, jotka ovat haastaneet sen.",
       " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~vaipuu...~",
       "NL Nostat teräasettasi iskuun...",
-      "NL Asetat tikarisi valmiuteen...",
+      "NL Asetat tikarisi valmiiksi...",
       "NL Lataat ydintäsi täyteen tehoon...",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~",
       " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~vaipuu...~",
@@ -551,23 +551,23 @@
     ]
   },
   "The Cleric": {
-    "NAME": "The Cleric",
+    "NAME": "Pappi",
     "DESCRIPTIONS": [
-      "A strange blue humanoid with a golden helm(?) approaches you with a huge smile. NL @\"Hello@ @friend!@ I am #bCleric! Are you interested in my services?!\" the creature shouts, loudly.",
-      "A warm golden light envelops your body and dissipates. NL The creature grins. \"Cleric best healer. @Have@ @a@ @good@ @day!\"@",
-      "A cold blue flame envelops your body and dissipates. NL The creature grins. \"Cleric talented. @Have@ @a@ @good@ @day!\"@",
-      "You don't trust this #b\"Cleric\", so you leave."
+      "Omituinen sininen humanoidi kultaisella kypärällä(?) lähestyy sinua valtavalla hymyllä. NL @\"Terve@ @ystävä!@ Olen #bPappi! Oletko kiinnostunut palveluistani?!\" otus huutaa kovaa.",
+      "Lämmin, kultainen valo peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi paras parantaja. @Hyvää@ @päivän@ @jatkoa!\"@",
+      "Kylmä, sininen liemmi peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi taitava. @Hyvää@ @päivän@ @jatkoa!\"@",
+      "Et luota tähän #b\"Pappiin\", joten poistut."
     ],
     "OPTIONS": [
-      "[Heal] #y35 #yGold: #gHeal #g",
-      "[Locked] Requires: ",
-      " Gold.",
-      "[Purify] #y",
-      " #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Locked] Requires: 50 Gold.",
-      "[Leave]",
-      "Select a Card to Remove.",
-      " #gHP."
+      "[Paranna] #y35 #yKultaa: #gParane #g",
+      "[Lukittu] Vaatii: ",
+      " Kultaa.",
+      "[Puhdista] #y",
+      " #yKultaa: #gPoista #gpakastasi #gkortti.",
+      "[Lukittu] Vaatii: 50 Kultaa.",
+      "[Poistu]",
+      "Valitse poistettava kortti.",
+      " #gOP:tä."
     ]
   },
   "The Joust": {
@@ -604,11 +604,11 @@
       "The story takes place in a giant isolated building underground as the outside conditions have become unbearable. The novel is mired with conspiracies, propaganda, and injustice. You ponder if similar dynamics are at play within the Spire. NL Unsettling."
     ],
     "OPTIONS": [
-      "[Lue] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
-      "[Nuku] #gHeal #g",
-      " #gHP.",
+      "[Lue] #gValitse #g20 #gkortista #g1 #glisättäväksi #gpakkaasi.",
+      "[Nuku] #gParane #g",
+      " #gOP:tä.",
       "[Poistu]",
-      "Add a card to your deck."
+      "Lisää kortti pakkaasi."
     ]
   },
   "The Mausoleum": {
@@ -622,7 +622,7 @@
     "OPTIONS": [
       "[Avaa ruumisarkku] #gOta #greliikki. #r",
       "%: #rTule #rKirotuksi #r- #rNoidannuoli.",
-      "[Leave]"
+      "[Poistu]"
     ]
   },
   "The Moai Head": {
@@ -769,13 +769,13 @@
     ],
     "OPTIONS": [
       "...",
-      "[Embrace Madness] #gReceive #g2 Madness. #rLose #r",
-      " #rHP.",
-      "[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
+      "[Antaudu hulluudelle] #gSaa #g2 Hulluutta. #rMenetä #r",
+      " #rOP:tä.",
+      "[Keskity] #rTule #rKirotuksi #r- #rNoidannuoli. #gParane #g",
       "[Poistu]",
-      " #gHP.",
-	  "[Retrace Your Steps] #rLose #r",
-	  " #rMax #rHP."
+      " #gOP:tä.",
+	  "[Palaa samaa tietä] #rMenetä #r",
+	  " #rMaksimi #rOP:tä."
     ]
   },
   "World of Goop": {
@@ -895,23 +895,23 @@
     ],
     "OPTIONS": [
       "[Jatka]",
-      "[Adjustments] #rLose #r",
-      "[Clean Up] #rLose #r",
-      "[Full Service] #rLose #r",
-      "[Punch] #rLose #r",
-      " #rHP.",
-      " #rGold. ",
-      "#gUpgrade #g",
-      " #grandom #gcards.",
-      "#gUpgrade #ga #gcard.",
-      "#gRemove #ga #gcard.",
-      "#gTransform #g",
-      " #gcards.",
-      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
+      "[Sovitus] #rMenetä #r",
+      "[Puhdistus] #rMenetä #r",
+      "[Täyspalvelu] #rMenetä #r",
+      "[Lyö] #rMenetä #r",
+      " #rOP:tä.",
+      " #rKultaa. ",
+      "#gParantele #g",
+      " #gsatunnaista #gkorttia.",
+      "#gParantele #gkortti.",
+      "#gPoista #gkortti.",
+      "#gMuunna #g",
+      " #gkorttia.",
+      "#gPoista #gkortti #gja #gparantele #gsatunnainen #gkortti.",
       "[Poistu]",
-      "Choose a Card to Upgrade",
-      "Choose 2 Cards to Transform",
-      "Choose a Card to Remove"
+      "Valitse paranneltava kortti",
+      "Valitse 2 muutettavaa korttia",
+      "Valitse poistettava kortti"
     ]
   },
   "Colosseum": {
