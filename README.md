@@ -8,8 +8,4 @@ Tämä on jatkumo Murasaki#6571 aloittamalle lokalisointityölle, pyrkimyksenä 
 
 Jos haluat auttaa lokalisoinnissa, ota ensin yhteyttä ylläoleviin.
 
-Tällä hetkellä noin 2/3 osaa tekstistä on käännetty, mutta siitä suurinosa on ollut vanhan työn sovittamista uuteen versioon.
-
-Seuraaviin tarvitaan kääntäjiä:
-
-* events.json
+Tällä hetkellä *kaikki* tekstit on käännetty, mutta vielä pitää hioa ja parannella tekstiä.
