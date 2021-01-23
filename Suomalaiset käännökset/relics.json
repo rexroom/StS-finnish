@@ -244,7 +244,8 @@
     "NAME": "Yökiviriipus",
     "FLAVOR": "Kivi saa voimiaan pimeistä voimista ja muuntaa niitä kantajansa elinvoimaksi.",
     "DESCRIPTIONS": [
-      "Aina kun saat #yKirouksen lisää #b Maksimi OP"
+      "Aina kun saat #yKirouksen, lisää Maksimi OP #b",
+      " pisteellä."
     ]
   },
   "DataDisk": {

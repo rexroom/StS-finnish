@@ -156,7 +156,7 @@
     "DESCRIPTIONS": [
       "Silmälapullinen mies pirullisella virnullaan astelee sinun luoksesi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä teistä vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
 	  "~\"Erinomaista.\"~ NL Mies ojentaa sinulle vaarallisen näköisen ruiskun täynnä #b~loistavaa~ #b~nestettä~ ennenkuin luistaa varjoiseen kujaan.",
-      "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolme tuntematonta ainetta ja kaivaa esiin muistion. Samalla kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadottaen täydellisesti ajantajusi, kun viimein palaudut tajuihisi on hämäräperäinen hahmo jo kadonnut.",
+      "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolme tuntematonta ainetta ja kaivaa esiin muistion. Samalla kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadotat täydellisesti ajantajusi, ja kun viimein palaudut tajuihisi, on hämäräperäinen hahmo jo kadonnut.",
       "~\"Mainiota.\"~ NL Huikkaat salaperäistä ainetta. Koet itsesi välittömästi itsesi virkeäksi ja tunnet lihassäkeesi @nykivän.@"
     ],
     "OPTIONS": [
@@ -526,7 +526,7 @@
   "Spire Heart": {
     "NAME": "Tornin sydän",
     "DESCRIPTIONS": [
-      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivää kammoa tuntuu läpikotaisin huoneessa... NL Onko tämä Tornin #r~sydän~? Kaiken pahuuden lähde?",
+      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivää kammoa tuntuu läpikotaisin huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
       "Teit #b",
       " vahinkoa! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole tarpeeksi?",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
@@ -553,7 +553,7 @@
   "The Cleric": {
     "NAME": "Pappi",
     "DESCRIPTIONS": [
-      "Omituinen sininen humanoidi kultaisella kypärällä(?) lähestyy sinua valtavalla hymyllä. NL @\"Terve@ @ystävä!@ Olen #bPappi! Oletko kiinnostunut palveluistani?!\" otus huutaa lujaa.",
+      "Omituinen sininen humanoidi kultaisella kypärällä(?) lähestyy sinua valtavalla hymyllä. NL @\"Terve@ @ystävä!@ Olen #bPappi! Oletko kiinnostunut palveluistani?!\", otus huutaa lujaa.",
       "Lämmin, kultainen valo peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi paras parantaja. @Hyvää@ @päivän@ @jatkoa!\"@",
       "Kylmä, sininen liemmi peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi taitava. @Hyvää@ @päivän@ @jatkoa!\"@",
       "Et luota tähän #b\"Pappiin\", joten poistut."

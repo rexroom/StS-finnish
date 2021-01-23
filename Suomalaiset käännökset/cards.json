@@ -85,7 +85,7 @@
   },
   "Bane": {
     "NAME": "Turma",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos vihollinen on myrkytetty, tee !D! vahinkoa lisää."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos vihollinen on myrkytetty, tee !D! lisävahinkoa."
   },
   "Barrage": {
     "NAME": "Sulkutuli",
@@ -117,7 +117,7 @@
   },
   "Bite": {
     "NAME": "Puraisu",
-    "DESCRIPTION": "Tee !D! vauriota. NL Paranna !M! OP:tä."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Paranna !M! OP:tä."
   },
   "Blade Dance": {
     "NAME": "Terien tanssi",
@@ -160,7 +160,7 @@
   },
   "Body Slam": {
     "NAME": "Vartalotaklaus",
-    "DESCRIPTION": "Tee Torjuntasi verran vauriota.",
+    "DESCRIPTION": "Tee Torjuntasi verran vahinkoa.",
     "UPGRADE_DESCRIPTION": " NL (Tekee !D! vahinkoa.)"
   },
   "BootSequence": {
@@ -173,8 +173,8 @@
   },
   "Brutality": {
     "NAME": "Brutaalius",
-    "DESCRIPTION": "Vuorosi alussa menetä 1 OP ja nosta 1 kortti.",
-    "UPGRADE_DESCRIPTION": "Luontainen. NL Vuorosi alussa menetä 1 HP ja nosta 1 kortti."
+    "DESCRIPTION": "Menetä vuorosi alussa 1 OP ja nosta 1 kortti.",
+    "UPGRADE_DESCRIPTION": "Luontainen. NL Menetä vuorosi alussa 1 OP ja nosta 1 kortti."
   },
   "Buffer": {
     "NAME": "Puskuri",
@@ -269,8 +269,8 @@
     "DESCRIPTION": "Tee !D! vahinkoa. Kanavoi !M! Pakkasta."
   },
   "Combust": {
-    "NAME": "Syty palamaan",
-    "DESCRIPTION": "Vuorosi lopussa menetä 1 OP ja tee !M! vauriota KAIKILLE vihollisille."
+    "NAME": "Ihmisahjo",
+    "DESCRIPTION": "Vuorosi lopussa menetä 1 OP ja tee !M! vahinkoa KAIKILLE vihollisille."
   },
   "Concentrate": {
     "NAME": "Keskity",
@@ -306,7 +306,7 @@
     "DESCRIPTION": "Lisää vuorosi alussa satunnainen Voima käteesi."
   },
   "Crippling Poison": {
-    "NAME": "Lamaannuttava Pilvi",
+    "NAME": "Lamaannuttava pilvi",
     "DESCRIPTION": "Lisää !M! Myrkkyä ja 2 Heikkoutta KAIKKIIN vihollisiin. NL Kuluta."
   },
   "Dagger Spray": {
@@ -315,10 +315,10 @@
   },
   "Dagger Throw": {
     "NAME": "Tikarinheitto",
-    "DESCRIPTION": "Tee !D! vauriota. NL Nosta 1 kortti. NL Poista 1 kortti."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta 1 kortti. NL Poista 1 kortti."
   },
   "Dark Embrace": {
-    "NAME": "Pimeän syleily",
+    "NAME": "Synkkyyden syleily",
     "DESCRIPTION": "Kun kortti Kulutetaan, NL nosta 1 kortti."
   },
   "Dark Shackles": {
@@ -377,7 +377,7 @@
   },
   "Demon Form": {
     "NAME": "Demonimuoto",
-    "DESCRIPTION": "Vuorosi alussa saa !M! Vahvuutta."
+    "DESCRIPTION": "Saa vuorosi alussa !M! Vahvuutta."
   },
   "Die Die Die": {
     "NAME": "Kuole kuole kuole",
@@ -466,7 +466,7 @@
   },
   "Envenom": {
     "NAME": "Myrkytä",
-    "DESCRIPTION": "Kun hyökkäys tekee torjumatonta vauriota, lisää 1 Myrkky."
+    "DESCRIPTION": "Kun hyökkäys tekee torjumatonta vahinkoa, lisää 1 Myrkky."
   },
   "Escape Plan": {
     "NAME": "Pakosuunnitelma",
@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Ruoki",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos Kuolettava, saa !M! Maksimi OP. Kuluta."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos Kuolettava, saa !M! Maksimi OP:tä. Kuluta."
   },
   "Feel No Pain": {
     "NAME": "Ei tunnu missään",
@@ -538,11 +538,11 @@
   },
   "Flash of Steel": {
     "NAME": "Teräksen väläys",
-    "DESCRIPTION": "Tee !D! vauriota. NL Nosta 1 kortti."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta 1 kortti."
   },
   "Flechettes": {
     "NAME": "Nuoliammukset",
-    "DESCRIPTION": "Tee !D! vahinkoa jokaista kätesi Taitokorttia kohden.",
+    "DESCRIPTION": "Tee !D! vahinkoa jokaista kätesi Taitoa kohden.",
     "EXTENDED_DESCRIPTION": [
       " NL (Sinulla on ",
       " Taito).",
@@ -559,7 +559,7 @@
   },
   "Flying Knee": {
     "NAME": "Lentävä polvi",
-    "DESCRIPTION": "Tee !D! vauriota. NL Saa seuraavalla vuorolla [G]."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Saa seuraavalla vuorolla [G]."
   },
   "Footwork": {
     "NAME": "Jalkatyö",
@@ -614,7 +614,7 @@
   },
   "Havoc": {
     "NAME": "Sekasorto",
-    "DESCRIPTION": "Pelaa nostopinosi ylin kortti ja Kuluta se."
+    "DESCRIPTION": "Pelaa nostopinosi päällimmäinen kortti ja Kuluta se."
   },
   "Headbutt": {
     "NAME": "Pääpusku",
@@ -627,8 +627,8 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M!-kertaiseksi.",
-    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa !M!-kertaiseksi."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa kertaa !M! .",
+    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa kertaa !M! ."
   },
   "Heel Hook": {
     "NAME": "Kantapääkoukku",
@@ -666,7 +666,7 @@
   },
   "Infernal Blade": {
     "NAME": "Hornan terä",
-    "DESCRIPTION": "Lisää satunnainen Hyökkäys käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
+    "DESCRIPTION": "Lisää satunnainen Hyökkäys käteesi. NL Sen hinta on 0 tämän vuoron. NL Kuluta."
   },
   "Infinite Blades": {
     "NAME": "Loputtomasti teriä",
@@ -695,7 +695,7 @@
   },
   "Jack Of All Trades": {
     "NAME": "Jokapaikanhöylä",
-    "DESCRIPTION": "Lisää !M! satunnaista Väritöntä korttia käteesi. NL Kuluta.",
+    "DESCRIPTION": "Lisää !M! satunnainen Väritön kortti käteesi. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Lisää !M! satunnaista Väritöntä korttia käteesi. NL Kuluta."
   },
   "Juggernaut": {
@@ -711,7 +711,7 @@
     "DESCRIPTION": "Lisää !M! Heikkoutta. NL Lisää !B! Torjuntaa."
   },
   "Limit Break": {
-    "NAME": "Turpasauna",
+    "NAME": "Rajan rike",
     "DESCRIPTION": "Tuplaa Vahvuutesi. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Tuplaa Vahvuutesi."
   },
@@ -731,7 +731,7 @@
   },
   "Study": {
     "NAME": "Tutkimus",
-    "DESCRIPTION": "Vuorosi lopussa sekoita *Oivallus nostopinoosi."
+    "DESCRIPTION": "Sekoita vuorosi lopussa *Oivallus nostopinoosi."
   },
   "Madness": {
     "NAME": "Hulluus",
@@ -739,7 +739,7 @@
   },
   "Magnetism": {
     "NAME": "Magnetismi",
-    "DESCRIPTION": "Vuorosi alussa lisää satunnainen Väritön kortti käteesi."
+    "DESCRIPTION": "Lisää vuorosi alussa satunnainen Väritön kortti käteesi."
   },
   "Malaise": {
     "NAME": "Pahoinvointi",
@@ -777,7 +777,7 @@
   },
   "Mind Blast": {
     "NAME": "Mielenräjäytin",
-    "DESCRIPTION": "Luontainen. NL Tee yhtä paljon vauriota kuin nostopinossasi on kortteja.",
+    "DESCRIPTION": "Luontainen. NL Tee yhtä paljon vahinkoa kuin nostopinossasi on kortteja.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vahinkoa.)"
@@ -909,7 +909,7 @@
   },
   "Reaper": {
     "NAME": "Niittäjä",
-    "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin. Paranna OP:tä torjumattoman vaurion verran. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin. Paranna tehdyn vahingon verran OP:tä. NL Kuluta."
   },
   "Reboot": {
     "NAME": "Uudelleenkäynnistys",
@@ -970,7 +970,7 @@
   },
   "Scrape": {
     "NAME": "Kaavi",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta !M! korttia. NL Poista kaikki nostetut kortit jotka eivät maksa 0."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta !M! korttia. NL Poista kaikki nostetut kortit jotka ei maksa 0."
   },
   "Searing Blow": {
     "NAME": "Kärventävä lyönti",
@@ -1024,14 +1024,14 @@
   },
   "Shame": {
     "NAME": "Häpeä",
-    "DESCRIPTION": "Ei-pelattava. NL Saa vuorosi lopussa 1 Haurauden."
+    "DESCRIPTION": "Ei-pelattava. NL Saa vuorosi lopussa 1 Hauras."
   },
   "Shiv": {
     "NAME": "Puukko",
     "DESCRIPTION": "Tee !D! vahinkoa. NL Kuluta."
   },
   "Shockwave": {
-    "NAME": "Iskuaalto",
+    "NAME": "Paineaalto",
     "DESCRIPTION": "Lisää !M! Heikkoutta ja Haavoittuvuutta KAIKILLE vihollisille. NL Kuluta."
   },
   "Shrug It Off": {
@@ -1115,7 +1115,7 @@
   },
   "Sunder": {
     "NAME": "Halkaise",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL If this kills an enemy, gain [B] [B] [B]."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos tämä tappaa vihollisen, saa [B] [B] [B]."
   },
   "Survivor": {
     "NAME": "Selviytyjä",
@@ -1161,7 +1161,7 @@
   },
   "Thunder Strike": {
     "NAME": "Salamanisku",
-    "DESCRIPTION": "Tee !D! vahinkoa satunnaiselle vihollisille jokaisesta Kanavoidusta Salamasta taistelun aikana.",
+    "DESCRIPTION": "Tee !D! vahinkoa satunnaiselle vihollisille per Kanavoitu Salama taistelun aikana.",
     "EXTENDED_DESCRIPTION": [
       " (Kanavoitu !M! Salamaa.)"
     ]
@@ -1281,7 +1281,7 @@
   },
   "PanicButton": {
     "NAME": "Paniikkinappi",
-    "DESCRIPTION": "Saa !B! Torjuntaa. Et voi saada lisää Torjuntaa !M! vuoroon. NL Kuluta."
+    "DESCRIPTION": "Saa !B! Torjuntaa. NL Et voi saada lisää Torjuntaa !M! vuoroon. NL Kuluta."
   },
   "HandOfGreed": {
     "NAME": "Ahneuden käsi",
@@ -1302,8 +1302,8 @@
   },
   "Discovery": {
     "NAME": "Löytö",
-    "DESCRIPTION": "Valitse 3 satunnaisesta korteista 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Valitse 3 satunnaisesta korteista 1 käteesi. Sen hinta on 0 tällä vuorolla."
+    "DESCRIPTION": "Valitse 3 satunnaisesta kortista 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Valitse 3 satunnaisesta kortista 1 käteesi. Sen hinta on 0 tällä vuorolla."
   },
   "Nirvana": {
     "NAME": "Nirvana",
@@ -1436,7 +1436,7 @@
   },
   "Experienced": {
     "NAME": "VANHENTUNUT Kokenut",
-    "DESCRIPTION": "Saa !B! Torjuntaa jokaisesta Parannellusta kortista kädessäsi."
+    "DESCRIPTION": "Saa !B! Torjuntaa per Paranneltu kortti kädessäsi."
   },
   "Judgement": {
     "NAME": "Tuomio",
@@ -1669,7 +1669,7 @@
   },
   "SpiritShield": {
     "NAME": "Henkikilpi",
-    "DESCRIPTION": "Saa !M! Torjuntaa jokaisesta kortista kädessäsi.",
+    "DESCRIPTION": "Saa !M! Torjuntaa per kortti kädessäsi.",
     "EXTENDED_DESCRIPTION": [
       " NL (Saa !B! Torjuntaa.)"
     ]
@@ -1817,7 +1817,7 @@
   },
   "Vengeance": {
     "NAME": "Kihisevä raivo",
-    "DESCRIPTION": "Seuraavan vuorosi alussa astu Raivoon ja nosta !M! korttia."
+    "DESCRIPTION": "Astu seuraavan vuorosi alussa Raivoon ja nosta !M! korttia."
   },
   "PathToVictory": {
     "NAME": "Hermopisteet",
