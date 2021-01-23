@@ -322,7 +322,7 @@
     "DESCRIPTION": "Kun kortti Kulutetaan, NL nosta 1 kortti."
   },
   "Dark Shackles": {
-    "NAME": "Tummat kahleet",
+    "NAME": "Synkät kahleet",
     "DESCRIPTION": "Vihollinen menettää !M! Vahvuutta tällä vuorolla. NL Kuluta."
   },
   "Darkness": {
@@ -1574,7 +1574,7 @@
     "DESCRIPTION": "Säilytä. NL KAIKKI viholliset menettävät !M! Vahvuutta tällä vuorolla. NL Kuluta."
   },
   "WindmillStrike": {
-    "NAME": "Tuulimyllyisku",
+    "NAME": "Tuulimylly",
     "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Nostaa Säilytettynä tämän kortin vahinkoa !M! tämän taistelun."
   },
   "Establishment": {
@@ -1648,7 +1648,7 @@
   },
   "Prostrate": {
     "NAME": "Heittäytyminen",
-    "DESCRIPTION": "Saa !M! Mantra. NL Saa !B! Torjuntaa.",
+    "DESCRIPTION": "Saa !M! Mantraa. NL Saa !B! Torjuntaa.",
     "UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Punishment": {
@@ -1752,7 +1752,7 @@
   },
   "SandsOfTime": {
     "NAME": "Ajan hiekat",
-    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Vähennä tämän kortin hinta 1 kun Säilytetään taistelun aikana."
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Vähennä tämän kortin hinnasta 1 kun Säilyy taistelun aikana."
   },
   "Brilliance": {
     "NAME": "Loistokkuus",
@@ -1826,7 +1826,7 @@
   },
   "Wallop": {
     "NAME": "Kumautus",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Saa Torjuntaa saman verrain kuin torjumatonta vahinkoa."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Saa Torjuntaa saman verran kuin torjumatonta vahinkoa."
   },
   "Halt": {
     "NAME": "Seis",
