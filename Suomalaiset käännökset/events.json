@@ -254,10 +254,10 @@
   "Golden Idol": {
     "NAME": "Kultainen idoli",
     "DESCRIPTIONS": [
-      "Löydät huomiota heräämättömän jalustan jonka päällä istuu rauhassa #ykiiltävä #ykultaidoli. Se näyttää uskomattoman arvokkaalta. NL NL Et oikein näe missään ansoja lähistöllä.",
-      "Tarttuessasi idoliin ja pakatessasi sen, valtava lohkare iskeytyy katon läpi sinun viereiseen maahan. NL Tajuat lattian vietävän alaspäin lohkareen alkaessa hitaasti vierivän sinua kohti.",
+      "Löydät huomiota heräämättömän jalustan, jonka päällä istuu rauhassa #ykiiltävä #ykultaidoli. Se näyttää uskomattoman arvokkaalta. NL NL Et oikein näe ansoja missään lähistöllä.",
+      "Tarttuessasi idoliin ja pakatessasi sen, valtava lohkare iskeytyy katon läpi sinusta viereiseen maahan. NL Tajuat lattian vietävän alaspäin lohkareen alkaessa vierivän hitaasti sinua kohden.",
       "@PAKOOOOOOON!@ NL Hädintuskin ehdit loikkaamaan sivukäytävälle turvaan, kun lohkare vyöryy sinun ohitsesi. Harmittavasti tuntuu siltä, kuin olisit reväyttänyt jotain lihasta.",
-      "Heittäydyt lohkaretta päin kaikilla, mitä kykenet. Pölyn asettuessa, kykenet poistumaan turvallisesti.",
+      "Heittäydyt lohkaretta päin kaikella, millä kykenet. Pölyn asettuessa kykenet poistumaan turvallisesti.",
       "@LITS!@ NL Lohkare pusertaa sinua vähän mennessään yli, mutta muutoin pystyt poistumaan täältä.",
       "Jos missään olisi mitä ilmeisin ansa, se olisi tässä. NL Päätät olla häiritsemättä jalustojen päällä olevia esineitä."
     ],
@@ -359,7 +359,7 @@
   "Living Wall": {
     "NAME": "Elävä seinä",
     "DESCRIPTIONS": [
-      "Päätyessäsi umpikujaan ja olet aikeissasi kääntyä takaisin, seinät @paiskautuvat@ @alas@ katosta, loukuttaen sinut! NL NL Kolme naamaa ilmestyy seinistä ja puhuvat. NL #b\"Unohda #bmitä #btiedät, #bniin #bminä #bannan #bsinun #bmennä.\" NL #p\"Minä #pvaadin #pmuutosta #pnähdäkseni #puuden #ptilan.\" NL #y\"Jos #yhaluat #yohittaa #yminut, #ysinun #yon #ykasvettava.\"",
+      "Päätyessäsi umpikujaan ja aikeissasi kääntyä takaisin, seinät @paiskautuvat@ @alas@ katosta, loukuttaen sinut! NL NL Kolme kasvoa ilmestyvät seinistä ja puhuvat. NL #b\"Unohda #bmitä #btiedät, #bniin #bminä #bannan #bsinun #bmennä.\" NL #p\"Minä #pvaadin #pmuutosta #pnähdäkseni #puuden #ptilan.\" NL #y\"Jos #yhaluat #yohittaa #yminut, #ysinun #yon #ykasvettava.\"",
       "Vakuuttuneina, seinät edessäsi sulautuvat takaisin kattoon, avaten polun eteenpäin."
     ],
     "OPTIONS": [
@@ -465,8 +465,8 @@
   "Scrap Ooze": {
     "NAME": "Romulieju",
     "DESCRIPTIONS": [
-      "Kävellessäsi huoneeseen kuulet ~pulputusta~ ja metallien @hankausta.@ Edessäsi on liman kaltainen olio, joka on ahminut liikaa romua kuin mikä olisi hyväksi. Näet olion sisältä välähdyksiä oudosta valosta, ehkäpä jostain maagisesta? Näyttää siltä että voit saada jonkin verran #yaarteita jos vain ojennat kätesi sisään sen... aukkoon. Silti, happo ja terävät esineet saattavat #rsatuttaa.",
-      "#r@Auts!@ NL Löydät vain syöpynyttä metallia ja hieman #r@polttavaa@ #r@kipua.@ NL Siitä huolimatta, olet silti varma että siellä on #yreliikki...",
+      "Kävellessäsi huoneeseen kuulet ~pulputusta~ ja metallien @hankausta.@ Edessäsi on liman kaltainen olio, joka on ahminut liikaa romua kuin mikä olisi hyväksi. Näet olion sisältä välähdyksiä oudosta valosta, ehkäpä jostain maagisesta? Näyttää siltä että voit saada jonkin verran #yaarteita jos vain ojennat kätesi sisään sen... aukkoon. Happo ja terävät esineet saattavat tosin #rsatuttaa.",
+      "#r@Auts!@ NL Löydät vain syöpynyttä metallia ja jonkin verran #r@polttavaa@ #r@kipua.@ NL Siitä huolimatta, olet silti varma että siellä on #yreliikki...",
       "#gMenestys! NL Penkoessasi läpi metallin ja polttavan hapon, saat vihdoinkin otteen #yreliikistä ja revit sen ulos. NL Nostat itsesi ulos liejusta #rvahingoittuneena mutta palkittuna.",
       "Päätät poistua alueesta. NL Lima ei välitä, vaan jatkaa ateriansa sulattamista."
     ],

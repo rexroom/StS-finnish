@@ -1459,7 +1459,7 @@
     "DESCRIPTION": "Tee !D! vahinkoa. NL Jos Kuolettava, Parantele satunnainen kortti pakassasi. NL Kuluta."
   },
   "CutThroughFate": {
-    "NAME": "Leikkaa läpi kohtalon",
+    "NAME": "Oikaise kohtalo",
     "DESCRIPTION": "Tee !D! vahinkoa. NL Ennusta !M!. NL Nosta 1 kortti."
   },
   "ThirdEye": {
@@ -1575,7 +1575,7 @@
   },
   "WindmillStrike": {
     "NAME": "Tuulimyllyisku",
-    "DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa. NL Nostaa Säilytettynä tämän kortin vahinkoa !M! tämän taistelun."
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Nostaa Säilytettynä tämän kortin vahinkoa !M! tämän taistelun."
   },
   "Establishment": {
     "NAME": "Uskonlaitos",
@@ -1623,11 +1623,11 @@
   },
   "Torrent": {
     "NAME": "VANHENTUNUT Tulva",
-    "DESCRIPTION": "Tee !M! vahinkoa KAIKKIIN vihollisiin !M! kertaa. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vahinkoa KAIKKIIN vihollisiin !M! kertaa. NL Kuluta."
   },
   "Windup": {
     "NAME": "VANHENTUNUT Windup",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Saa !M! Tarmokkuutta."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Saa !M! Tarmokkuutta."
   },
   "Shield": {
     "NAME": "VANHENTUNUT Kilpi",
@@ -1635,11 +1635,11 @@
   },
   "CrescentKick": {
     "NAME": "VANHENTUNUT Nouseva potku",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos sinulla on Tarmokkuutta, NL saa [W] ja NL nosta 1 kortti."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos sinulla on Tarmokkuutta, NL saa [W] ja NL nosta 1 kortti."
   },
   "TalkToTheHand": {
     "NAME": "Puhu kädelle",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Kun hyökkäät tätä vihollista, saa !M! Torjuntaa. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Kun hyökkäät tätä vihollista, saa !M! Torjuntaa. NL Kuluta."
   },
   "BattleHymn": {
     "NAME": "Taisteluhymni",
@@ -1657,7 +1657,7 @@
   },
   "Eruption": {
     "NAME": "Leimahdus",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Astu Raivoon."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Astu Raivoon."
   },
   "ClearTheMind": {
     "NAME": "Levollisuus",
@@ -1693,7 +1693,7 @@
   },
   "FollowUp": {
     "NAME": "Jatko-osa",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, saa [W]."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, saa [W]."
   },
   "Perseverance": {
     "NAME": "Sinnikkyys",
@@ -1701,11 +1701,11 @@
   },
   "CrushJoints": {
     "NAME": "Murra nivelet",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, lisää !M! Haavoittuvuus."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, lisää !M! Haavoittuvuus."
   },
   "SashWhip": {
     "NAME": "Vyönauhan lyönti",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, lisää !M! Heikkous."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, lisää !M! Heikkous."
   },
   "Sanctity": {
     "NAME": "Pyhyys",
@@ -1731,7 +1731,7 @@
   },
   "FlyingSleeves": {
     "NAME": "Lentävät hihat",
-    "DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa kahdesti."
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa kahdesti."
   },
   "MasterReality": {
     "NAME": "Hallitse todellisuutta",
@@ -1739,7 +1739,7 @@
   },
   "BowlingBash": {
     "NAME": "Keilailuisku",
-    "DESCRIPTION": "Tee !M! vahinkoa jokaista taistelun vihollista kohden."
+    "DESCRIPTION": "Tee !D! vahinkoa jokaista taistelun vihollista kohden."
   },
   "Unraveling": {
     "NAME": "Purkautuminen",
@@ -1752,11 +1752,11 @@
   },
   "SandsOfTime": {
     "NAME": "Ajan hiekat",
-    "DESCRIPTION": "Säilytä. NL Tee !M! vahinkoa. NL Vähennä tämän kortin hinta 1 kun Säilytetään taistelun aikana."
+    "DESCRIPTION": "Säilytä. NL Tee !D! vahinkoa. NL Vähennä tämän kortin hinta 1 kun Säilytetään taistelun aikana."
   },
   "Brilliance": {
     "NAME": "Loistokkuus",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Tee lisävahinkoa jokaista taistelun aikana kerättyä Mantraa kohden.",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Tee lisävahinkoa jokaista taistelun aikana kerättyä Mantraa kohden.",
     "EXTENDED_DESCRIPTION": [
       "",
       ""
@@ -1772,7 +1772,7 @@
   },
   "Weave": {
     "NAME": "Pujotus",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Kun Ennustat, palauta tämä kortti poistopinostasi käteesi."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Kun Ennustat, palauta tämä kortti poistopinostasi käteesi."
   },
   "Adaptation": {
     "NAME": "Syöksyisku",
@@ -1799,7 +1799,7 @@
   },
   "Tantrum": {
     "NAME": "Raivonpuuska",
-    "DESCRIPTION": "Tee !M! vahinkoa NL !M! kertaa. NL Astu Raivoon. NL Sekoita tämä kortti nostopinoosi."
+    "DESCRIPTION": "Tee !D! vahinkoa NL !M! kertaa. NL Astu Raivoon. NL Sekoita tämä kortti nostopinoosi."
   },
   "Alpha": {
     "NAME": "Alfa",
@@ -1826,7 +1826,7 @@
   },
   "Wallop": {
     "NAME": "Kumautus",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Saa Torjuntaa saman verrain kuin torjumatonta vahinkoa."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Saa Torjuntaa saman verrain kuin torjumatonta vahinkoa."
   },
   "Halt": {
     "NAME": "Seis",
@@ -1834,7 +1834,7 @@
   },
   "WheelKick": {
     "NAME": "Kiertopotku",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Nosta !M! korttia.",
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta !M! korttia.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
@@ -1863,8 +1863,8 @@
     "DESCRIPTION": "Tee !M! vahinkoa X kertaa.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Tee !M! vahinkoa !M! kertaa.",
-      "Tee !M! vahinkoa !M! kerran."
+      "Tee !D! vahinkoa !M! kertaa.",
+      "Tee !D! vahinkoa !M! kerran."
     ]
   },
   "WaveOfTheHand2": {
@@ -1877,7 +1877,7 @@
   },
   "Flick": {
     "NAME": "VANHENTUNUT Näpäytys",
-    "DESCRIPTION": "Tee !M! vahinkoa. NL Jos vihollista on *Näpäytetty 3 kertaa, he ottavat !M! vahinkoa."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos vihollista on *Näpäytetty 3 kertaa, he ottavat !M! vahinkoa."
   },
   "LikeWater": {
     "NAME": "Kuin vettä",
