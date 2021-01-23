@@ -51,7 +51,7 @@
     "FLAVOR": "Uurnassa on kuvattuna varisjumala Mazaleth pahanilkisine ilmeineen.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #yVoimakortin, paranna #b",
-      " OP."
+      " OP:tä."
     ]
   },
   "Black Blood": {
@@ -59,7 +59,7 @@
     "FLAVOR": "Raivo vaan synkkenee.",
     "DESCRIPTIONS": [
       "Korvaa #rPolttavan veren. Taistelun lopuksi paranna #b",
-      " OP."
+      " OP:tä."
     ]
   },
   "Black Star": {
@@ -556,7 +556,7 @@
     "NAME": "Koodeksi Nilris", 
     "FLAVOR": "Itse pahamaineisen pelimestarin tekemä. Sanotaan laajentavan lukijansa mieltä.",
     "DESCRIPTIONS": [
-      "Voit vuorosi lopussa sekoittaa #b1 #b3:sta satunnaisesta kortista nostopinoosi."
+      "Voit vuorosi lopussa sekoittaa #b3 satunnaisesta kortista #b1 nostopinoosi."
     ]
   },
   "Ninja Scroll": {
@@ -592,7 +592,7 @@
     "NAME": "Omituinen sieni",
     "FLAVOR": "\"Syötyäni trichella parastius -sienen, tunsin itseni suuremmaksi ja vähemmän ... vaikutuksille alttiiksi.\" - Ranwid ",
     "DESCRIPTIONS": [
-      "Kun olet #yHaavoittuva, otat vain #b25% enemmän vauriota etkä #b50%."
+      "Kun olet #yHaavoittuva, otat vain #b25% enemmän vauriota #b50% sijaan."
     ]
   },
   "Oddly Smooth Stone": {
@@ -1171,8 +1171,8 @@
     "FLAVOR": "\"Tulokset näyttäytyvät hetkellisinä, aktivoituen silloin kun kohde on vaarassa.\" - Tuntematon",
     "DESCRIPTIONS": [
       "Aloita taistelu #b",
-      " #yVahvuudella. Ensimmäisen vuorosi lopussa, menetä #b",
-      " #yVahvuutta."
+      " #yVahvuudella. Menetä #b",
+      " #yVahvuutta ensimmäisen vuorosi lopussa."
     ]
   },
   "FaceOfCleric": {

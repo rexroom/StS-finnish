@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Lumimyrsky",
-    "DESCRIPTION": "Deal damage equal to !M! times the number of Frost Channeled this combat to ALL enemies.",
+    "DESCRIPTION": "Tee vahinkoa !M! kertaa Kanavoidut Pakkaset taistelun aikana KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vahinkoa.)",
@@ -327,8 +327,8 @@
   },
   "Darkness": {
     "NAME": "Pimeys",
-    "DESCRIPTION": "Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Channel !M! Dark. NL Trigger the passive ability of all Dark orbs."
+    "DESCRIPTION": "Kanavoi !M! Pimeys.",
+    "UPGRADE_DESCRIPTION": "Kanavoi !M! Pimeys. NL Aktivoi kaikkien Pimeyspallojen passiivisen kyvyn."
   },
   "Dash": {
     "NAME": "Ryntäys",
@@ -1002,7 +1002,7 @@
   },
   "Seek": {
     "NAME": "Etsi",
-    "DESCRIPTION": "Laita !M! korttia nostopinostasi käteesi. NL Kuluta.",
+    "DESCRIPTION": "Laita !M! kortti nostopinostasi käteesi. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Laita !M! korttia nostopinostasi käteesi. NL Kuluta."
   },
   "Self Repair": {

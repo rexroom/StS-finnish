@@ -154,7 +154,7 @@
   "Drug Dealer": {
     "NAME": "Kasvattaja",
     "DESCRIPTIONS": [
-      "Silmälapullinen mies pirullisella virnullaan astelee sinun luoksessi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä teistä vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
+      "Silmälapullinen mies pirullisella virnullaan astelee sinun luoksesi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä teistä vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
 	  "~\"Erinomaista.\"~ NL Mies ojentaa sinulle vaarallisen näköisen ruiskun täynnä #b~loistavaa~ #b~nestettä~ ennenkuin luistaa varjoiseen kujaan.",
       "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolme tuntematonta ainetta ja kaivaa esiin muistion. Samalla kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadottaen täydellisesti ajantajusi, kun viimein palaudut tajuihisi on hämäräperäinen hahmo jo kadonnut.",
       "~\"Mainiota.\"~ NL Huikkaat salaperäistä ainetta. Koet itsesi välittömästi itsesi virkeäksi ja tunnet lihassäkeesi @nykivän.@"
@@ -677,7 +677,7 @@
     "DESCRIPTIONS": [
       "Hyvin arvovaltaisesti koristeltu hautamuistimerkki näkyy kelluvan polun toisessa päässä. Saapuessasi haudan luo, huomaat raon #ykultakolikoille ja sen yllä yliraavitun kirjoituksen.",
       "Puet naamion ja hauta alkaa ~mureta~ ~pois...~ salainen käytävä! NL NL Käytävä on lukemattomien varastettujen höydykkeiden ja #ykultapinojen reunustamat!",
-      "Aukko ilmestyy haudassa ja ulos liukuu pieni punainen naamio kirjelappu liitettynä. \"Ota muilta niin kuin minä olen ottanut sinulta!\""
+      "Aukko ilmestyy hautaan, ja ulos liukuu pieni punainen naamio kirjelappu liitettynä. \"Ota muilta niin kuin minä olen ottanut sinulta!\""
     ],
     "OPTIONS": [
       "[Pue punanaamio] #gSaa #g222 #gKultaa.",
@@ -802,7 +802,7 @@
       "Nyt ymmärrät kaiken. NL Muistojen puuttuminen, kiipeäminen, #yMuinainen. NL NL Näin on aina ollut. NL Näin on aina tuleva. NL Kaikki unhoittuu pian uudestaan..."
     ],
     "OPTIONS": [
-      "[Olen Sota] #rTaistele #rPomoa #rvastaan #rensimmäisestä #rnäytöksestä. #gVoita #gerittäin #gharvinaisen #gReliikin.",  
+      "[Olen Sota] #rTaistele #rPomoa #rvastaan #r1. #rnäytöksestä. #gVoita #gerittäin #gharvinaisen #gReliikin.",  
       "[Olen Rikas] #gSaa #g999 #gKultaa. #rKirottu #r- #r2 #rNormaaliutta.",
       "[Olen Terve] #gParane #gtäyteen #gOP:siin. #rKirottu #r- #rEpävarmuus.",
       "[Olen Valveilla] #gParantele #gkaikki #gkortit. #rEt #rvoi #renää #rparantua.",
@@ -849,7 +849,7 @@
   "NoteForYourself": {
     "NAME": "Lappu itsellesi",
     "DESCRIPTIONS": [
-      "Huomiosi kiinnittyy pylväässä olevaan löysästi istuvan tiiliin.",
+      "Huomiosi kiinnittyy pylväässä löysästi istuvaan tiileen.",
       "Löydät sen takaa taitetun lapun ja #ykortin sen välissä. Siinä lukee, NL \"Sydän odottaa.\" NL NL Tämä on sinun käsialaasi.",
       "Valitse kortti varastoitavaksi.",
       "Mitä täällä tapahtuu?"
