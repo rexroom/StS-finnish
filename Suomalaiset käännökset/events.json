@@ -70,12 +70,12 @@
   "Big Fish": {
     "NAME": "Vonkale",
     "DESCRIPTIONS": [
-      "Kulkiessasi alas pitkää käytävää, näet #ybanaanin, #ydonitsin ja #ylaatikon ~kelluvan~ paikallaan. Ei... tarkempi tarkastelu paljastaa niiden olevan sidottu katon rei'istä tuleviin lankoihin. Samalla kun lähestyt esineitä, kuulet hiljaista @käkätystä@ yläpuolelta. NL Mitä teet?",
-      "Syöt #ybanaanin. Se on ravitsevaa ja hiukan #bmaaginen, parantaen sinua.",
+      "Kulkiessasi alas pitkää käytävää näet #ybanaanin, #ydonitsin ja #ylaatikon ~kelluvan~ paikallaan. Ei... tarkempi tarkastelu paljastaa niiden olevan sidottu katon rei'istä tuleviin lankoihin. Lähestyessäsi esineitä kuulet hiljaista @käkätystä@ yläpuolelta. NL Mitä teet?",
+      "Syöt #ybanaanin. Se on ravitseva ja hiukan #bmaaginen, parantaen sinua.",
       "Syöt #ydonitsin. Sepä tuli hyvään saumaan! Sinun Maksimi OP:si nousi.",
       "",
       "Tartut laatikkoon. Sisältä löydät #yreliikin!",
-      " NL Kuitenkin, olisit todellakin halunnut donitsia... NL Sinut valtaa ~suru,~ mutta lähinnä #rkatumus."
+      " NL Olisit kuitenkin todella halunnut donitsia... NL Sinut valtaa ~suru,~ mutta lähinnä #rkatumus."
     ],
     "OPTIONS": [
       "[Banaani] #gParanna #g",
@@ -89,14 +89,14 @@
   "Bonfire Elementals": {
     "NAME": "Roviohenget",
     "DESCRIPTIONS": [
-      "Löydät sattumoisin mitä ilmeisesti näyttää joukolta #ppurppuraväristen #ptulihenkiä ~tanssimassa~ ison rovion ympärillä. NL ",
-      "Henget viskaavat pieniä luita ja sirpaleita tuleen, joka ~kirkkaasti~ ~purkautuu~ joka kerta. NL Kun lähestyt, henget kääntyvät puoleesi, odottavaisesti...",
+      "Löydät sattumoisin jonkinlaisen joukon #pvioletteja #ptulihenkiä ~tanssimassa~ ison rovion ympärillä. NL ",
+      "Henget viskaavat pieniä luita ja sirpaleita tuleen, joka ~leimahtaa~ ~kirkkaasti~ joka kerta. NL Kun lähestyt, henget kääntyvät puoleesi odottavaisesti...",
       "Heität uhrilahjan rovioon. NL NL ",
-      "Mutta henget eivät ole tyytyväisiä siitä, että tarjosit #pKirouksen... Kortti sihisee säyseää mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
-      "Mitään ei tapahtu... NL Henget näyttävät jättävän sinua nyt huomiotta. Masentavaa...",
-      "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet itsesi hiukan lämpimäksi heidän läsnäolostaan... NL #gParanet #b5 OP:tä.",
-      "Liekit purkautuvat merkittävän voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valtaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
-      "Liekit @räjähtävät,@ miltei kumoten sinut kumoon, kun tuli vahvistuu @kaksinkerroin.@ NL Henget tanssivat innostuneesti ympärilläsi ennenkuin ~sulautuvat~ ~sinun~ ~hahmoosi,~ täyttäen sinut lämmöllä ja voimalla. NL Sinun Maksimi OP nousee #b10 ja #gparanet täyteen OP:siin."
+      "Mutta henget eivät ole tyytyväisiä siihen, että tarjosit #pKirouksen... Kortti sihisee ponnetonta mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
+      "Mitään ei tapahtu... NL Henget näyttävät jättävän sinut nyt huomiotta. Masentavaa...",
+      "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet heidän läsnäolonsa lämmittävän sinua hiukan... NL #gParanet #b5 OP:tä.",
+      "Liekit purkautuvat yltyen voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
+      "Liekit @räjähtävät,@ miltei kaataen sinut kumoon, kun tuli yltyy @kaksinkertaiseksi.@ NL Henget tanssivat innostuneesti ympärilläsi ennenkuin ~sulautuvat~ ~sinun~ ~hahmoosi,~ täyttäen sinut lämmöllä ja voimalla. NL Sinun Maksimi OP:si nousee #b10 ja #gparanet täyteen OP:siin."
     ],
     "OPTIONS": [
       "[Jatka]",
