@@ -207,7 +207,7 @@
     "NAME": "Kemikaali X",
     "FLAVOR": "VAROITUS: Älä yhdistä sokeriin, kukkasiin, inkivääriin ja kaneliin.",
     "DESCRIPTIONS": [
-      "Nostaa #bX -hintaisten korttien vaikutuksia kertoimella #b.",
+      "Nostaa #bX -hintaisten korttien vaikutuksia kertoimella #b",
       ""
     ]
   },
@@ -234,7 +234,7 @@
   },
   "Cursed Key": {
     "NAME": "Kirottu avain",
-    "FLAVOR": "Aistit avaimesta huokuvan pahantahtoista energiaa. Voimalla on hintansa.",
+    "FLAVOR": "Aistit pahantahtoista energiaa huokuvan avaimesta. Voimalla on hintansa.",
     "DESCRIPTIONS": [
       " vuorosi alussa. Aina kun avaat arkun, joka ei ole Pomon vartioima, ota #rKirous.",
       "Saa [E]"
@@ -1124,7 +1124,7 @@
     "NAME": "Rikkinäinen kruunu",
     "FLAVOR": "Mestarin kruunu... vai köyhä kopio?",
     "DESCRIPTIONS": [
-      " vuorosi alussa. Tulevissa palkinnoissa on #b2 vähemmin korttia valittavana.",
+      " vuorosi alussa. Tulevissa palkinnoissa on #b2 korttia vähemmän valittavana.",
       "Saa [E]"
     ]
   },
@@ -1268,7 +1268,7 @@
   },
   "OrangePellets": {
     "NAME": "Oranssinväriset pelletit",
-    "FLAVOR": "\"Valmistettu Tornin ympäristöstä löytyneistä sienistä, ne pitävät loitolla kaikenlaisia kärsimyksiä.\"",
+    "FLAVOR": "\"Valmistettu Tornin ympäristöstä löytyneistä sienistä, ne pitävät loitolla kaikenlaisia vaivoja.\"",
     "DESCRIPTIONS": [
       "Kun pelaat #yVoiman, #yHyökkäyksen ja #yTaidon samalla vuorolla, poista kaikki haittasi."
     ]
@@ -1418,7 +1418,7 @@
   },
   "VioletLotus": {
     "NAME": "Violetti lootus",
-    "FLAVOR": "Vanhat tekstit kuvailevat \"mana altaiden\" pintojen olleen näiden kukkien peitossa.",
+    "FLAVOR": "Vanhat tekstit kuvailevat \"mana-altaiden\" pintojen olleen näiden kukkien peitossa.",
     "DESCRIPTIONS": [
       "Kun poistut #yTyyneydestä, saa [E] lisää."
     ]
@@ -1479,7 +1479,7 @@
   },
   "CaptainsWheel": {
     "NAME": "Kapteenin pyörä",
-    "FLAVOR": "Puinen hienostuneesti kaiverrettu rihkama. Nii on kaiverrettu siihen, mutta kieli on vieras.",
+    "FLAVOR": "Puinen hienostuneesti kaiverrettu rihkama. Nimi on kaiverrettu siihen, mutta kieli on vieras.",
     "DESCRIPTIONS": [
       "Saa 3. vuorosi alussa #b",
       " #yTorjuntaa."

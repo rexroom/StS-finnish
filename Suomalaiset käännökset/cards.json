@@ -627,8 +627,8 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa kertaa !M! .",
-    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa kertaa !M! ."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa kertaa !M!.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vahinkoa. NL Vahvuus lisää kortin tehoa kertaa !M!."
   },
   "Heel Hook": {
     "NAME": "Kantapääkoukku",
