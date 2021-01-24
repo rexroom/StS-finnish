@@ -20,7 +20,7 @@
   "Addict": {
     "NAME": "Aneleva kiertolainen",
     "DESCRIPTIONS": [
-      "Hiiviskellessäsi verhottujen hahmojen ohi, yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan mitään minulle, ystävä? Ole kiltti... ehkäpä joku #yKolikko?\" NL \"Tarvitsen vain paikan jossa oleskella, minulla on vaihtokauppaa varten aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
+      "Hiiviskellessäsi verhottujen hahmojen ohi yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan mitään minulle, ystävä? Ole kiltti... ehkäpä jokunen #yKolikko?\" NL \"Tarvitsen vain majapaikan, voin antaa vastineeksi aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
       "\"Voi kyllä, ~kyllä!~ Ota ota, reilu kauppa!\"",
       "Nappaat arvokkaan #yreliikin hänen otteestaan ja kävelet pois. NL Kuulet takaa, NL \"Eikö sinua hävetä? ~EIKÖ~ ~SINUA~ ~HÄVETÄ~ ~LAINKAAAAAN?!\"~ NL Sinua #phävettää jonkin verran."
     ],
@@ -38,7 +38,7 @@
   "Back to Basics": {
     "NAME": "Muinaista kirjoitusta",
     "DESCRIPTIONS": [
-      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~Muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä, viestin sisältö muuttuu selväksi...",
+      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~Muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä viestin sisältö selkenee...",
       "Vastaus oli eleganssi. NL Tietenkin.",
       "Totuus on aina yksinkertainen."
     ],
@@ -52,9 +52,9 @@
   "Beggar": {
     "NAME": "Vanha kerjäläinen",
     "DESCRIPTIONS": [
-      "Vanha kerjäläinen turkisten peitossa ojentaa kätensä sinua kohti ohittaessasi. \"Irtoaisiko kolehti, lapsi?\"",
-      "Kerjäläinen katsoo lattiaa mennessäsi ohi. NL \"Et tule koskaan tekemään vaikutusta... Et koskaan teekkään.\"",
-      "Kerjäläinen pudottaa viittansa, paljastaen itsensä #bPapiksi! NL @\"Olet@ @hyväsydäminen@ @sielu.@ @Ota@ @vastaan@ @puhdistukseni!\"@ hän kiljuu. NL Et ole varma, onko hän kiitollinen vai hullu.",
+      "Vanha turkiksiin kääriytynyt kerjäläinen ojentaa kätensä sinua kohti kulkiessasi ohi. \"Irtoaisiko almuja, lapsi?\"",
+      "Kerjäläinen katsoo lattiaa mennessäsi ohi. NL \"Et tule koskaan muuttamaan mitään... Et koskaan.\"",
+      "Kerjäläinen pudottaa viittansa paljastaen itsensä #bPapiksi! NL @\"Olet@ @hyväsydäminen@ @sielu.@ @Ota@ @vastaan@ @puhdistukseni!\"@ hän kiljuu. NL Et ole varma, onko hän kiitollinen vai hullu.",
       "@\"Toivottavasti@ @pystyt@ @parempaan@ @tällä@ @kertaa,@ @ystävä!\"@ hän huutaa. NL Ihmetellen, mitä hän tarkoitti sillä, jatkat matkaasi."
     ],
     "OPTIONS": [
