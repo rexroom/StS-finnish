@@ -171,9 +171,9 @@
   "Duplicator": {
     "NAME": "Kopiokone",
     "DESCRIPTIONS": [
-      "Edessäsi seisoo koristeltu alttari jollekin muinaiselle entiteetille.",
-      "Polvistut kunnoitettavasti. Kauhistuttava peilikuva ilmestyy pyhätöstä ja törmää sinuun.",
-      "Jätät pyhätön rauhaan, itsevarmana päätöksestä."
+      "Edessäsi seisoo jollekin muinaiselle entiteetille omistettu koristeltu alttari.",
+      "Polvistut kunnioittavasti. Kauhistuttava peilikuva ilmestyy pyhätöstä ja törmää sinuun.",
+      "Jätät pyhätön rauhaan varmana päätöksestäsi."
     ],
     "OPTIONS": [
       "[Rukoile] #gKopioi #gpakastasi #gkortti.",
@@ -184,12 +184,12 @@
   "Falling": {
     "NAME": "Putoaminen",
     "DESCRIPTIONS": [
-      "Pyrkiessäsi ylöspäin loikkaamalla yhdestä leijuvasta muodosta toiselle, liukastut. NL NL Olet putoamassa.",
+      "Pyrkiessäsi ylöspäin loikkimalla yhdeltä leijuvalta kappaleelta toiselle liukastut. NL NL Olet putoamassa.",
       "Alat harkita vaihtoehtoja vapaassa pudotuksessa: NL Laskeudu turvallisesti käyttäen parhaimpia taitojasi. NL Kanavoi Voimaa selviytyäksesi pudotuksesta. NL Iske seinää tarrautuaksesi siihen.",
-      "Laskeudut äärimmäisen sulavalinjaisesti ennen kuin jatkat matkaasi.",
-      "Valjastaen ja kuluttaen jonkin määrän raakaa voimaasi, onnistut laskeutumaan maahan ilman vahinkoa.",
-      "Pystyt takertumaan seinään kiinni, ja pääset lyhyellä loikalla toiseen vakaaseen alustaan.",
-	  "Tunnut putoavan hitaasti kuin höyhen, saapuen lopulta pohjalle ilman naarmua."
+      "Laskeudut äärimmäisen sulavasti ja jatkat matkaasi.",
+      "Valjastaen ja kuluttaen jonkin verran raakaa voimaasi onnistut laskeutumaan maahan ilman vahinkoa.",
+      "Pystyt takertumaan seinään kiinni, ja pääset lyhyellä loikalla toiselle vakaalle alustalle.",
+	  "Tunnut putoavan hitaasti kuin höyhen saapuen lopulta pohjalle ilman naarmua."
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -206,13 +206,13 @@
   "Forgotten Altar": {
     "NAME": "Unhoittunut alttari",
     "DESCRIPTIONS": [
-      "Edessäsi seisoo unohtuneen jumalan alttari. NL Alttarin päällä istuu koristeellinen naispatsas ojennettuin käsivarsin. NL Hän kehottaa sinua, pyytäen uhrausta.",
-      "Kun hellävaraisesti lasket idolin alttariin, #bkylä tuuli pyörii läpi huoneen. NL Patsaan käsivarret alkavat värjääntyä ja murentua. NL NL Sinun #ykultainen #yidolisi alkaa himmetä väriltään ja vuotaa silmistään. NL Vuotaminen ei lopu milloinkaan.",
-      "Seisot alttarin päällä ja leikkaat ranteesi. NL #rVeren virratessa uhrauksena, patsaan kädet ojentautuvat ja sulkeutuvat silmäsi ympärille. NL Kaikki menee pimeäksi. NL Heräät lyhyen ajan päästä tuntien uuden piilevän kyvyn tulvahtavan sinun läpi.",
-      "Hyökkäät ja rikot edessäsi olevan patsaan, rikkoen lumoavan otteen minkä huone oli asettanut sinuun. NL Synkkä kiljahdus kaikuu ympärilläsi, ja tunnet #p~kirotun~ #p~magian~ tunkeutuvan luihisi."
+      "Edessäsi seisoo unohtuneen jumalan alttari. NL Alttarin päällä istuu koristeellinen naispatsas ojennettuin käsivarsin. NL Hän kehottaa sinua pyytäen uhrausta.",
+      "Kun hellävaraisesti lasket idolin alttarille, #bkylmä tuuli kiertää läpi huoneen. NL Patsaan käsivarret alkavat värjääntyä ja murentua. NL NL Sinun #ykultainen #yidolisi alkaa himmetä väriltään ja vuotaa verta silmistään. NL Vuotaminen ei lopu milloinkaan.",
+      "Seisot alttarin päällä ja leikkaat ranteesi. NL #rVeren virratessa uhrauksena patsaan kädet ojentautuvat ja sulkeutuvat silmiesi ympärille. NL Kaikki pimenee. NL Heräät lyhyen ajan päästä tuntien uuden piilevän kyvyn aaltoilevan sisälläsi.",
+      "Hyökkäät ja rikot edessäsi olevan patsaan murtaen lumoavan otteen, jolla huone oli tarttunut sinuun. NL Synkkä kiljahdus kaikuu ympärilläsi, ja tunnet #p~kirotun~ #p~magian~ tunkeutuvan luihisi."
     ],
     "OPTIONS": [
-      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikin. #rMenetä #rKultainen #ridoli.",
+      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikki. #rMenetä #rKultainen #ridoli.",
       "[Lukittu] Vaatii: Kultaisen idolin.",
       "[Uhraa] #gSaa #g",
       " #gMaksimi #gOP:tä. #rMenetä #r",
@@ -224,9 +224,9 @@
   "Fountain of Cleansing": {
     "NAME": "Ylimaallinen lähde ",
     "DESCRIPTIONS": [
-      "Huomaat sattumalta #b~kimmeltävää~ #b~vettä~ laskeutuvan tauotta läheisen seinän suihkulähteestä.",
-      "Juodessasi #b~vettä,~ tunnet #ppimeän #potteen höllentyvän.",
-      "Epävarma veden laadusta, jatkat matkaasi janoisena."
+      "Huomaat sattumalta #b~kimmeltävää~ #b~vettä~, jota virtaa tauotta läheisen seinän suihkulähteestä.",
+      "Juodessasi #b~vettä~ tunnet #ppimeän #potteen höllentyvän.",
+      "Veden olemus epäilyttää sinua, joten jatkat matkaasi janoisena."
     ],
     "OPTIONS": [
       "[Juo] #gPoista #gpakastasi #gkaikki #gKiroukset.",
