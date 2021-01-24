@@ -154,15 +154,15 @@
   "Drug Dealer": {
     "NAME": "Kasvattaja",
     "DESCRIPTIONS": [
-      "Silmälapullinen mies pirullisella virnullaan astelee sinun luoksesi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä teistä vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
-	  "~\"Erinomaista.\"~ NL Mies ojentaa sinulle vaarallisen näköisen ruiskun täynnä #b~loistavaa~ #b~nestettä~ ennenkuin luistaa varjoiseen kujaan.",
-      "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolme tuntematonta ainetta ja kaivaa esiin muistion. Samalla kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadotat täydellisesti ajantajusi, ja kun viimein palaudut tajuihisi, on hämäräperäinen hahmo jo kadonnut.",
-      "~\"Mainiota.\"~ NL Huikkaat salaperäistä ainetta. Koet itsesi välittömästi itsesi virkeäksi ja tunnet lihassäkeesi @nykivän.@"
+      "Pirullisesti virnuileva silmälapullinen mies astelee sinun luoksesi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä sinusta vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä, jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
+	  "~\"Erinomaista.\"~ NL Mies ojentaa sinulle vaarallisen näköisen ruiskun täynnä #b~loistavaa~ #b~nestettä~ ja luistaa varjoiseelle kujalle.",
+      "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolmea tuntematonta ainetta ja kaivaa esiin muistion. Kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadotat täydellisesti ajantajusi ja kun viimein palaudut tajuihisi, on hämäräperäinen hahmo jo kadonnut.",
+      "~\"Mainiota.\"~ NL Nielaiset salaperäisen aineen. Koet itsesi välittömästi virkeäksi ja tunnet lihassäikeidesi @nykivän.@"
     ],
     "OPTIONS": [
       "[Kokeile H.A.B.A.] #gSaa #gHABAA.",
 	  "[Ryhdy tutkimuskohteeksi] #gMuunna #g2 #gkorttia.",
-	  "[Niele mutageenejä] #gSaa #gerikoisreliikin.",
+	  "[Niele mutageenejä] #gSaa #gerikoisreliikki.",
 	  "[Poistu]",
 	  "[Lukittu] Vaatii: 2 tai enemmän kortteja pakassa.",
 	  "Valitse muutettavat kortit."
