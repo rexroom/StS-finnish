@@ -2,12 +2,12 @@
   "Accursed Blacksmith": {
     "NAME": "Pahaenteinen paja",
     "DESCRIPTIONS": [
-      "Pujahdat pieneen vajaan. Sisällä huomaat mikä näyttäisi olevan työpaja. Sepän työkalut ovat pölyn peitossa, mutta silti tuli roihuaa ahjossa. Tunnet itsesi hermostuneeksi...",
+      "Pujahdat pieneen vajaan. Sisällä huomaat sen vaikuttavan työpajalta. Sepän työkalut ovat pölyn peitossa, mutta silti tuli roihuaa ahjossa. Tunnet itsesi hermostuneeksi...",
       "Päätät käyttää pajaa hyödyksi ja... NL #y@KLANG@ #y@KLAAANG@ #y@KLANG!@ NL ...paransit arsenaaliasi!",
-      "Päätät etsiä mitään, mikä olisi hyödyksi. Sen jälkeen, kun vedit suojapeitteitä, kävit läpi laatikoita ja tutkit kaikki nurkat, löydät pölyn peittämän #y~reliikin!~ ",
+      "Päätät etsiä jotain joka voisi olla hyödyksi. Nosteltuasi suojapeitteitä, kaiveltuasi laatikoita ja tutkittuasi kaikki nurkat, löydät pölyn peittämän #y~reliikin!~ ",
       "Kun olet tekemässä viimeisteleviä muokkauksia, tuli ahjosta loikkaa päällesi, #r@polttaen@ #r@ja@ #r@arpeuttaen@ käsivarsiasi...",
-      "NL NL Ottaessasi reliikin, et voi olla tuntematta yhtäkkisen #r~terävän~ #r~kivun~ poistuessasi vajasta. Ehkä olet tavallasi häirinnyt eräänlaisen henkiolennon?",
-      "Siellä ei tunnu olevan mitään hyödyllistä. Poistut samaa tietä mistä tulitkin, ahjon tulen heittäessä #p~aavemaisia~ #p~varjoja~ vajan seinille..."
+      "NL NL Ottaessasi reliikin, et voi olla tuntematta yhtäkkistä #r~terävää~ #r~kipua~ poistuessasi vajasta. Häiritsitköhän jonkinlaista henkiolentoa?",
+      "Täällä ei tunnu olevan mitään hyödyllistä. Poistut samaa tietä jota tulitkin, ahjon tulen heittäessä #p~aavemaisia~ #p~varjoja~ vajan seinille..."
     ],
     "OPTIONS": [
       "[Tao] #gParantele #gkortti #gpakastasi.",
