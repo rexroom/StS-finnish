@@ -44,7 +44,7 @@
   },
   "Anger": {
     "NAME": "Viha",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää kopio tästä kortista poistopakkaasi."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää kopio tästä kortista poistopinoosi."
   },
   "Apotheosis": {
     "NAME": "Apotheosis",
@@ -105,7 +105,7 @@
   },
   "Beam Cell": {
     "NAME": "Sädekenno",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Anna !M! Haavoittuvaa."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Lisää !M! Haavoittuvaa."
   },
   "Berserk": {
     "NAME": "Raivohullu",
@@ -344,7 +344,7 @@
   },
   "Decay": {
     "NAME": "Lahoaminen",
-    "DESCRIPTION": "Ei-pelattava. NL Vuorosi lopussa ota 2 vahinkoa."
+    "DESCRIPTION": "Ei-pelattava. NL Ota vuorosi lopussa 2 vahinkoa."
   },
   "Deep Breath": {
     "NAME": "Syvä henkäys",
@@ -970,7 +970,7 @@
   },
   "Scrape": {
     "NAME": "Kaavi",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta !M! korttia. NL Poista kaikki nostetut kortit jotka ei maksa 0."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Nosta !M! korttia. NL Poista nostetut kortit jotka eivät maksa 0."
   },
   "Searing Blow": {
     "NAME": "Kärventävä lyönti",
