@@ -108,14 +108,14 @@
   "Cursed Tome": {
     "NAME": "Kirottu opus",
     "DESCRIPTIONS": [
-      "Hylätyssä temppelissä löydät valtavan kirjan avoimena, täynnä #p@kryptistä@ #p@kirjoitusta.@ NL NL Yrittäessäsi tulkita koristeellista käsialaa, se alkaa #b~muuttua~ ja #b~muotoutua~ sinulle tutumpaan tekstiin.",
+      "Hylätyssä temppelissä löydät valtavan kirjan avoimena, täynnä #p@kryptistä@ #p@kirjoitusta.@ NL NL Yrittäessäsi tulkita koristeellista käsialaa se alkaa #b~muuttua~ ja #b~muotoutua~ sinulle tutumpaan tekstiin.",
       "Outoa. Kirja näyttää kertovan #yMuinaisesta nimeltä #yNeow. NL NL Tämä herättää kiinnostuksesi, mutta tunnet itsesi hieman #p~huonovointiseksi.~",
-      "Uudelleenheräämisen Muinainen #yNeow karkotettiin Tornin pohjalle. NL NL Tunnet pakonomaisen halun lukea lisää, mutta vartaloasi alkaa #r~särkeä.~",
-      "Tavoitellen kostoa, #yNeow siunaa ulkopuolisia omiin päämääriinsä. NL NL Alat tuntea itsesi erittäin #r~heikoksi~ #r~ja~ #r~väsyneeksi...~",
-      "#yNeow'n henkiinherättämät muistavat vain katkelmia menneistä minuuksista, kirottuina taistelemaan ikuisesti. NL NL Kun lähestyt viimeistä sivua, sinun #r@vanhat@ #r@haavasi@ #r@alkavat@ #r@aueta@ #r@uudestaan!@",
-      "Lopetettuasi opuksen lukemisen, päätät ottaa sen mukaasi. Todiste mukanasi, kykenetkö pitämään mielessä muistosi?",
-      "Poistut, tuntien #p~uhkaavan~ #p~energian~ #p~säteilevän~ jalustan päällä olevasta kirjasta.",
-      "Suunnattomalla rasituksella ja tahdonvoimalla vastustat opuksen transsin ja @LYÖT@ sen kiinni. NL Käännyt ja poistut temppelistä, tuntien itsesi #b~uupuneelta...~"
+      "Uudelleenheräämisen Muinainen, #yNeow, karkotettiin Tornin pohjalle. NL NL Tunnet pakonomaisen halun lukea lisää, mutta vartaloasi alkaa #r~särkeä.~",
+      "Kostoa tavoitteleva #yNeow siunaa ulkopuolisia saavuttaaksen omia päämääriään. NL NL Alat tuntea itsesi erittäin #r~heikoksi~ #r~ja~ #r~väsyneeksi...~",
+      "#yNeow'n henkiinherättämät muistavat vain katkelmia menneistä minuuksistaan, kirottuina taistelemaan ikuisesti. NL NL Kun lähestyt viimeistä sivua, sinun #r@vanhat@ #r@haavasi@ #r@alkavat@ #r@aueta@ #r@uudestaan!@",
+      "Lopetettuasi opuksen lukemisen päätät ottaa sen mukaasi. Auttaako todisteen kantaminen mukana säilyttämään muistosi?",
+      "Poistut tuntien #p~uhkaavan~ #p~energian~ #p~säteilevän~ jalustan päällä olevasta kirjasta.",
+      "Suunnattomalla tahdonvoiman ponnistuksella torjut opuksen transsin ja @LYÖT@ sen kiinni. NL Käännyt ja poistut temppelistä tuntien itsesi #b~uupuneeksi...~"
     ],
     "OPTIONS": [
       "[Lue]",
@@ -131,17 +131,17 @@
   "Dead Adventurer": {
     "NAME": "Kuollut seikkailija",
     "DESCRIPTIONS": [
-      "Tutkiessasi seikkailijaa sinut yllätettiin!",
-      "Poistuit ilman ääntä.",
-      "Löydät sattumoisin #rkuolleen #rseikkailijan lattiasta. NL Hänen #bhousunsa on varastettu! Sen lisäksi ",
+      "Tutkiessasi seikkailijaa sinut yllätetään!",
+      "Poistut ääneti.",
+      "Löydät sattumoisin #rkuolleen #rseikkailijan lattialta. NL Hänen #bhousunsa on varastettu! Sen lisäksi ",
       "hänen haarniskansa ja kasvonsa näyttävät olevan #r@liekkien@ #r@polttamia.@ ",
-      "ilmeisesti hänet on #r@koverrettu@ #r@ja@ #r@tallottu@ sarvipäisen pedon toimesta. ",
+      "ilmeisesti hänet on #r@kovertanu@ #r@ja@ #r@tallonut@ sarvipäinen peto. ",
       "hänet on #r@suolistettu@ #r@ja@ #r@paloiteltu@ valtavilla saksilla. ",
-      "NL Vaikka hänen #yomaisuutensa #yovat #yvielä #ytallessa, sinulla ei ole malttia selvittää mitä täällä tapahtui...",
+      "NL Vaikka hänen #yomaisuutensa #yon #yvielä #ytallessa, sinua ei houkuta selvittää mitä täällä tapahtui...",
       "Löysit #ykultaa! NL Jatka tutkimista?",
-      "Hmm, en löytänyt mitään... NL Jatka tutkimista?",
+      "Hmm, ei löytynyt mitään... NL Jatka tutkimista?",
       "Löysit #yreliikin! NL Jatka tutkimista?",
-      "Vaikuttaa siltä että tutkit kaikki tavarat läpi ilman ongelmia!"
+      "Vaikuttaa siltä, että tutkit kaikki tavarat läpi ilman ongelmia!"
     ],
     "OPTIONS": [
       "[Kolua] #gEtsi #gsaalista. #r",
