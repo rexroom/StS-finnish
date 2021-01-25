@@ -20,7 +20,7 @@
   "Addict": {
     "NAME": "Aneleva kiertolainen",
     "DESCRIPTIONS": [
-      "Hiiviskellessäsi verhottujen hahmojen ohi, yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan mitään minulle, ystävä? Ole kiltti... ehkäpä joku #yKolikko?\" NL \"Tarvitsen vain paikan jossa oleskella, minulla on vaihtokauppaa varten aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
+      "Hiiviskellessäsi verhottujen hahmojen ohi yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan mitään minulle, ystävä? Ole kiltti... ehkäpä jokunen #yKolikko?\" NL \"Tarvitsen vain majapaikan, voin antaa vastineeksi aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
       "\"Voi kyllä, ~kyllä!~ Ota ota, reilu kauppa!\"",
       "Nappaat arvokkaan #yreliikin hänen otteestaan ja kävelet pois. NL Kuulet takaa, NL \"Eikö sinua hävetä? ~EIKÖ~ ~SINUA~ ~HÄVETÄ~ ~LAINKAAAAAN?!\"~ NL Sinua #phävettää jonkin verran."
     ],
@@ -38,7 +38,7 @@
   "Back to Basics": {
     "NAME": "Muinaista kirjoitusta",
     "DESCRIPTIONS": [
-      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~Muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä, viestin sisältö muuttuu selväksi...",
+      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~Muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä viestin sisältö selkenee...",
       "Vastaus oli eleganssi. NL Tietenkin.",
       "Totuus on aina yksinkertainen."
     ],
@@ -52,9 +52,9 @@
   "Beggar": {
     "NAME": "Vanha kerjäläinen",
     "DESCRIPTIONS": [
-      "Vanha kerjäläinen turkisten peitossa ojentaa kätensä sinua kohti ohittaessasi. \"Irtoaisiko kolehti, lapsi?\"",
-      "Kerjäläinen katsoo lattiaa mennessäsi ohi. NL \"Et tule koskaan tekemään vaikutusta... Et koskaan teekkään.\"",
-      "Kerjäläinen pudottaa viittansa, paljastaen itsensä #bPapiksi! NL @\"Olet@ @hyväsydäminen@ @sielu.@ @Ota@ @vastaan@ @puhdistukseni!\"@ hän kiljuu. NL Et ole varma, onko hän kiitollinen vai hullu.",
+      "Vanha turkiksiin kääriytynyt kerjäläinen ojentaa kätensä sinua kohti kulkiessasi ohi. \"Irtoaisiko almuja, lapsi?\"",
+      "Kerjäläinen katsoo lattiaa mennessäsi ohi. NL \"Et tule koskaan muuttamaan mitään... Et koskaan.\"",
+      "Kerjäläinen pudottaa viittansa paljastaen itsensä #bPapiksi! NL @\"Olet@ @hyväsydäminen@ @sielu.@ @Ota@ @vastaan@ @puhdistukseni!\"@ hän kiljuu. NL Et ole varma, onko hän kiitollinen vai hullu.",
       "@\"Toivottavasti@ @pystyt@ @parempaan@ @tällä@ @kertaa,@ @ystävä!\"@ hän huutaa. NL Ihmetellen, mitä hän tarkoitti sillä, jatkat matkaasi."
     ],
     "OPTIONS": [
@@ -70,12 +70,12 @@
   "Big Fish": {
     "NAME": "Vonkale",
     "DESCRIPTIONS": [
-      "Kulkiessasi alas pitkää käytävää, näet #ybanaanin, #ydonitsin ja #ylaatikon ~kelluvan~ paikallaan. Ei... tarkempi tarkastelu paljastaa niiden olevan sidottu katon rei'istä tuleviin lankoihin. Samalla kun lähestyt esineitä, kuulet hiljaista @käkätystä@ yläpuolelta. NL Mitä teet?",
-      "Syöt #ybanaanin. Se on ravitsevaa ja hiukan #bmaaginen, parantaen sinua.",
+      "Kulkiessasi alas pitkää käytävää näet #ybanaanin, #ydonitsin ja #ylaatikon ~kelluvan~ paikallaan. Ei... tarkempi tarkastelu paljastaa niiden olevan sidottu katon rei'istä tuleviin lankoihin. Lähestyessäsi esineitä kuulet hiljaista @käkätystä@ yläpuolelta. NL Mitä teet?",
+      "Syöt #ybanaanin. Se on ravitseva ja hiukan #bmaaginen, parantaen sinua.",
       "Syöt #ydonitsin. Sepä tuli hyvään saumaan! Sinun Maksimi OP:si nousi.",
       "",
       "Tartut laatikkoon. Sisältä löydät #yreliikin!",
-      " NL Kuitenkin, olisit todellakin halunnut donitsia... NL Sinut valtaa ~suru,~ mutta lähinnä #rkatumus."
+      " NL Olisit kuitenkin todella halunnut donitsia... NL Sinut valtaa ~suru,~ mutta lähinnä #rkatumus."
     ],
     "OPTIONS": [
       "[Banaani] #gParanna #g",
@@ -89,14 +89,14 @@
   "Bonfire Elementals": {
     "NAME": "Roviohenget",
     "DESCRIPTIONS": [
-      "Löydät sattumoisin mitä ilmeisesti näyttää joukolta #ppurppuraväristen #ptulihenkiä ~tanssimassa~ ison rovion ympärillä. NL ",
-      "Henget viskaavat pieniä luita ja sirpaleita tuleen, joka ~kirkkaasti~ ~purkautuu~ joka kerta. NL Kun lähestyt, henget kääntyvät puoleesi, odottavaisesti...",
+      "Löydät sattumoisin jonkinlaisen joukon #pvioletteja #ptulihenkiä ~tanssimassa~ ison rovion ympärillä. NL ",
+      "Henget viskaavat pieniä luita ja sirpaleita tuleen, joka ~leimahtaa~ ~kirkkaasti~ joka kerta. NL Kun lähestyt, henget kääntyvät puoleesi odottavaisesti...",
       "Heität uhrilahjan rovioon. NL NL ",
-      "Mutta henget eivät ole tyytyväisiä siitä, että tarjosit #pKirouksen... Kortti sihisee säyseää mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
-      "Mitään ei tapahtu... NL Henget näyttävät jättävän sinua nyt huomiotta. Masentavaa...",
-      "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet itsesi hiukan lämpimäksi heidän läsnäolostaan... NL #gParanet #b5 OP:tä.",
-      "Liekit purkautuvat merkittävän voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valtaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
-      "Liekit @räjähtävät,@ miltei kumoten sinut kumoon, kun tuli vahvistuu @kaksinkerroin.@ NL Henget tanssivat innostuneesti ympärilläsi ennenkuin ~sulautuvat~ ~sinun~ ~hahmoosi,~ täyttäen sinut lämmöllä ja voimalla. NL Sinun Maksimi OP nousee #b10 ja #gparanet täyteen OP:siin."
+      "Mutta henget eivät ole tyytyväisiä siihen, että tarjosit #pKirouksen... Kortti sihisee ponnetonta mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
+      "Mitään ei tapahtu... NL Henget näyttävät jättävän sinut nyt huomiotta. Masentavaa...",
+      "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet heidän läsnäolonsa lämmittävän sinua hiukan... NL #gParanet #b5 OP:tä.",
+      "Liekit purkautuvat yltyen voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
+      "Liekit @räjähtävät,@ miltei kaataen sinut kumoon, kun tuli yltyy @kaksinkertaiseksi.@ NL Henget tanssivat innostuneesti ympärilläsi ennenkuin ~sulautuvat~ ~sinun~ ~hahmoosi,~ täyttäen sinut lämmöllä ja voimalla. NL Sinun Maksimi OP:si nousee #b10 ja #gparanet täyteen OP:siin."
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -108,14 +108,14 @@
   "Cursed Tome": {
     "NAME": "Kirottu opus",
     "DESCRIPTIONS": [
-      "Hylätyssä temppelissä löydät valtavan kirjan avoimena, täynnä #p@kryptistä@ #p@kirjoitusta.@ NL NL Yrittäessäsi tulkita koristeellista käsialaa, se alkaa #b~muuttua~ ja #b~muotoutua~ sinulle tutumpaan tekstiin.",
+      "Hylätyssä temppelissä löydät valtavan kirjan avoimena, täynnä #p@kryptistä@ #p@kirjoitusta.@ NL NL Yrittäessäsi tulkita koristeellista käsialaa se alkaa #b~muuttua~ ja #b~muotoutua~ sinulle tutumpaan tekstiin.",
       "Outoa. Kirja näyttää kertovan #yMuinaisesta nimeltä #yNeow. NL NL Tämä herättää kiinnostuksesi, mutta tunnet itsesi hieman #p~huonovointiseksi.~",
-      "Uudelleenheräämisen Muinainen #yNeow karkotettiin Tornin pohjalle. NL NL Tunnet pakonomaisen halun lukea lisää, mutta vartaloasi alkaa #r~särkeä.~",
-      "Tavoitellen kostoa, #yNeow siunaa ulkopuolisia omiin päämääriinsä. NL NL Alat tuntea itsesi erittäin #r~heikoksi~ #r~ja~ #r~väsyneeksi...~",
-      "#yNeow'n henkiinherättämät muistavat vain katkelmia menneistä minuuksista, kirottuina taistelemaan ikuisesti. NL NL Kun lähestyt viimeistä sivua, sinun #r@vanhat@ #r@haavasi@ #r@alkavat@ #r@aueta@ #r@uudestaan!@",
-      "Lopetettuasi opuksen lukemisen, päätät ottaa sen mukaasi. Todiste mukanasi, kykenetkö pitämään mielessä muistosi?",
-      "Poistut, tuntien #p~uhkaavan~ #p~energian~ #p~säteilevän~ jalustan päällä olevasta kirjasta.",
-      "Suunnattomalla rasituksella ja tahdonvoimalla vastustat opuksen transsin ja @LYÖT@ sen kiinni. NL Käännyt ja poistut temppelistä, tuntien itsesi #b~uupuneelta...~"
+      "Uudelleenheräämisen Muinainen, #yNeow, karkotettiin Tornin pohjalle. NL NL Tunnet pakonomaisen halun lukea lisää, mutta vartaloasi alkaa #r~särkeä.~",
+      "Kostoa tavoitteleva #yNeow siunaa ulkopuolisia saavuttaaksen omia päämääriään. NL NL Alat tuntea itsesi erittäin #r~heikoksi~ #r~ja~ #r~väsyneeksi...~",
+      "#yNeow'n henkiinherättämät muistavat vain katkelmia menneistä minuuksistaan, kirottuina taistelemaan ikuisesti. NL NL Kun lähestyt viimeistä sivua, sinun #r@vanhat@ #r@haavasi@ #r@alkavat@ #r@aueta@ #r@uudestaan!@",
+      "Lopetettuasi opuksen lukemisen päätät ottaa sen mukaasi. Auttaako todisteen kantaminen mukana säilyttämään muistosi?",
+      "Poistut tuntien #p~uhkaavan~ #p~energian~ #p~säteilevän~ jalustan päällä olevasta kirjasta.",
+      "Suunnattomalla tahdonvoiman ponnistuksella torjut opuksen transsin ja @LYÖT@ sen kiinni. NL Käännyt ja poistut temppelistä tuntien itsesi #b~uupuneeksi...~"
     ],
     "OPTIONS": [
       "[Lue]",
@@ -131,17 +131,17 @@
   "Dead Adventurer": {
     "NAME": "Kuollut seikkailija",
     "DESCRIPTIONS": [
-      "Tutkiessasi seikkailijaa sinut yllätettiin!",
-      "Poistuit ilman ääntä.",
-      "Löydät sattumoisin #rkuolleen #rseikkailijan lattiasta. NL Hänen #bhousunsa on varastettu! Sen lisäksi ",
+      "Tutkiessasi seikkailijaa sinut yllätetään!",
+      "Poistut ääneti.",
+      "Löydät sattumoisin #rkuolleen #rseikkailijan lattialta. NL Hänen #bhousunsa on varastettu! Sen lisäksi ",
       "hänen haarniskansa ja kasvonsa näyttävät olevan #r@liekkien@ #r@polttamia.@ ",
-      "ilmeisesti hänet on #r@koverrettu@ #r@ja@ #r@tallottu@ sarvipäisen pedon toimesta. ",
+      "ilmeisesti hänet on #r@kovertanu@ #r@ja@ #r@tallonut@ sarvipäinen peto. ",
       "hänet on #r@suolistettu@ #r@ja@ #r@paloiteltu@ valtavilla saksilla. ",
-      "NL Vaikka hänen #yomaisuutensa #yovat #yvielä #ytallessa, sinulla ei ole malttia selvittää mitä täällä tapahtui...",
+      "NL Vaikka hänen #yomaisuutensa #yon #yvielä #ytallessa, sinua ei houkuta selvittää mitä täällä tapahtui...",
       "Löysit #ykultaa! NL Jatka tutkimista?",
-      "Hmm, en löytänyt mitään... NL Jatka tutkimista?",
+      "Hmm, ei löytynyt mitään... NL Jatka tutkimista?",
       "Löysit #yreliikin! NL Jatka tutkimista?",
-      "Vaikuttaa siltä että tutkit kaikki tavarat läpi ilman ongelmia!"
+      "Vaikuttaa siltä, että tutkit kaikki tavarat läpi ilman ongelmia!"
     ],
     "OPTIONS": [
       "[Kolua] #gEtsi #gsaalista. #r",
@@ -154,15 +154,15 @@
   "Drug Dealer": {
     "NAME": "Kasvattaja",
     "DESCRIPTIONS": [
-      "Silmälapullinen mies pirullisella virnullaan astelee sinun luoksesi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä teistä vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
-	  "~\"Erinomaista.\"~ NL Mies ojentaa sinulle vaarallisen näköisen ruiskun täynnä #b~loistavaa~ #b~nestettä~ ennenkuin luistaa varjoiseen kujaan.",
-      "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolme tuntematonta ainetta ja kaivaa esiin muistion. Samalla kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadotat täydellisesti ajantajusi, ja kun viimein palaudut tajuihisi, on hämäräperäinen hahmo jo kadonnut.",
-      "~\"Mainiota.\"~ NL Huikkaat salaperäistä ainetta. Koet itsesi välittömästi itsesi virkeäksi ja tunnet lihassäkeesi @nykivän.@"
+      "Pirullisesti virnuileva silmälapullinen mies astelee sinun luoksesi. NL \"Tervehdys, vieras. Kiinnostaako tieteen edistäminen? Voin tehdä sinusta vahvemman ilman harjoitusta tai siunauksia. Tulet tarvitsemaan sitä, jos olet yksi niistä kuolemanvietillä varustetuista sankareista.\" NL NL ~\"Mitäs~ ~sanot?\"~",
+	  "~\"Erinomaista.\"~ NL Mies ojentaa sinulle vaarallisen näköisen ruiskun täynnä #b~loistavaa~ #b~nestettä~ ja luistaa varjoiselle kujalle.",
+      "~\"Loistavaa.\"~ NL Mies ruiskuttaa sinuun kolmea tuntematonta ainetta ja kaivaa esiin muistion. Kun alat tuntea itsesi sekavaksi, hän alkaa kuumeisesti kirjoittaa alas muistiinpanoja. NL Kadotat täydellisesti ajantajusi ja kun viimein palaudut tajuihisi, on hämäräperäinen hahmo jo kadonnut.",
+      "~\"Mainiota.\"~ NL Nielaiset salaperäisen aineen. Koet itsesi välittömästi virkeäksi ja tunnet lihassäikeidesi @nykivän.@"
     ],
     "OPTIONS": [
       "[Kokeile H.A.B.A.] #gSaa #gHABAA.",
 	  "[Ryhdy tutkimuskohteeksi] #gMuunna #g2 #gkorttia.",
-	  "[Niele mutageenejä] #gSaa #gerikoisreliikin.",
+	  "[Niele mutageenejä] #gSaa #gerikoisreliikki.",
 	  "[Poistu]",
 	  "[Lukittu] Vaatii: 2 tai enemmän kortteja pakassa.",
 	  "Valitse muutettavat kortit."
@@ -171,9 +171,9 @@
   "Duplicator": {
     "NAME": "Kopiokone",
     "DESCRIPTIONS": [
-      "Edessäsi seisoo koristeltu alttari jollekin muinaiselle entiteetille.",
-      "Polvistut kunnoitettavasti. Kauhistuttava peilikuva ilmestyy pyhätöstä ja törmää sinuun.",
-      "Jätät pyhätön rauhaan, itsevarmana päätöksestä."
+      "Edessäsi seisoo jollekin muinaiselle entiteetille omistettu koristeltu alttari.",
+      "Polvistut kunnioittavasti. Kauhistuttava peilikuva ilmestyy pyhätöstä ja törmää sinuun.",
+      "Jätät pyhätön rauhaan varmana päätöksestäsi."
     ],
     "OPTIONS": [
       "[Rukoile] #gKopioi #gpakastasi #gkortti.",
@@ -184,12 +184,12 @@
   "Falling": {
     "NAME": "Putoaminen",
     "DESCRIPTIONS": [
-      "Pyrkiessäsi ylöspäin loikkaamalla yhdestä leijuvasta muodosta toiselle, liukastut. NL NL Olet putoamassa.",
+      "Pyrkiessäsi ylöspäin loikkimalla yhdeltä leijuvalta kappaleelta toiselle liukastut. NL NL Olet putoamassa.",
       "Alat harkita vaihtoehtoja vapaassa pudotuksessa: NL Laskeudu turvallisesti käyttäen parhaimpia taitojasi. NL Kanavoi Voimaa selviytyäksesi pudotuksesta. NL Iske seinää tarrautuaksesi siihen.",
-      "Laskeudut äärimmäisen sulavalinjaisesti ennen kuin jatkat matkaasi.",
-      "Valjastaen ja kuluttaen jonkin määrän raakaa voimaasi, onnistut laskeutumaan maahan ilman vahinkoa.",
-      "Pystyt takertumaan seinään kiinni, ja pääset lyhyellä loikalla toiseen vakaaseen alustaan.",
-	  "Tunnut putoavan hitaasti kuin höyhen, saapuen lopulta pohjalle ilman naarmua."
+      "Laskeudut äärimmäisen sulavasti ja jatkat matkaasi.",
+      "Valjastaen ja kuluttaen jonkin verran raakaa voimaasi onnistut laskeutumaan maahan ilman vahinkoa.",
+      "Pystyt takertumaan seinään kiinni, ja pääset lyhyellä loikalla toiselle vakaalle alustalle.",
+	  "Tunnut putoavan hitaasti kuin höyhen saapuen lopulta pohjalle ilman naarmua."
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -206,13 +206,13 @@
   "Forgotten Altar": {
     "NAME": "Unhoittunut alttari",
     "DESCRIPTIONS": [
-      "Edessäsi seisoo unohtuneen jumalan alttari. NL Alttarin päällä istuu koristeellinen naispatsas ojennettuin käsivarsin. NL Hän kehottaa sinua, pyytäen uhrausta.",
-      "Kun hellävaraisesti lasket idolin alttariin, #bkylä tuuli pyörii läpi huoneen. NL Patsaan käsivarret alkavat värjääntyä ja murentua. NL NL Sinun #ykultainen #yidolisi alkaa himmetä väriltään ja vuotaa silmistään. NL Vuotaminen ei lopu milloinkaan.",
-      "Seisot alttarin päällä ja leikkaat ranteesi. NL #rVeren virratessa uhrauksena, patsaan kädet ojentautuvat ja sulkeutuvat silmäsi ympärille. NL Kaikki menee pimeäksi. NL Heräät lyhyen ajan päästä tuntien uuden piilevän kyvyn tulvahtavan sinun läpi.",
-      "Hyökkäät ja rikot edessäsi olevan patsaan, rikkoen lumoavan otteen minkä huone oli asettanut sinuun. NL Synkkä kiljahdus kaikuu ympärilläsi, ja tunnet #p~kirotun~ #p~magian~ tunkeutuvan luihisi."
+      "Edessäsi seisoo unohtuneen jumalan alttari. NL Alttarin päällä istuu koristeellinen naispatsas ojennettuin käsivarsin. NL Hän kehottaa sinua pyytäen uhrausta.",
+      "Kun hellävaraisesti lasket idolin alttarille, #bkylmä tuuli kiertää läpi huoneen. NL Patsaan käsivarret alkavat värjääntyä ja murentua. NL NL Sinun #ykultainen #yidolisi alkaa himmetä väriltään ja vuotaa verta silmistään. NL Vuotaminen ei lopu milloinkaan.",
+      "Seisot alttarin päällä ja leikkaat ranteesi. NL #rVeren virratessa uhrauksena patsaan kädet ojentautuvat ja sulkeutuvat silmiesi ympärille. NL Kaikki pimenee. NL Heräät lyhyen ajan päästä tuntien uuden piilevän kyvyn aaltoilevan sisälläsi.",
+      "Hyökkäät ja rikot edessäsi olevan patsaan murtaen lumoavan otteen, jolla huone oli tarttunut sinuun. NL Synkkä kiljahdus kaikuu ympärilläsi, ja tunnet #p~kirotun~ #p~magian~ tunkeutuvan luihisi."
     ],
     "OPTIONS": [
-      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikin. #rMenetä #rKultainen #ridoli.",
+      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikki. #rMenetä #rKultainen #ridoli.",
       "[Lukittu] Vaatii: Kultaisen idolin.",
       "[Uhraa] #gSaa #g",
       " #gMaksimi #gOP:tä. #rMenetä #r",
@@ -224,9 +224,9 @@
   "Fountain of Cleansing": {
     "NAME": "Ylimaallinen lähde ",
     "DESCRIPTIONS": [
-      "Huomaat sattumalta #b~kimmeltävää~ #b~vettä~ laskeutuvan tauotta läheisen seinän suihkulähteestä.",
-      "Juodessasi #b~vettä,~ tunnet #ppimeän #potteen höllentyvän.",
-      "Epävarma veden laadusta, jatkat matkaasi janoisena."
+      "Huomaat sattumalta #b~kimmeltävää~ #b~vettä~, jota virtaa tauotta läheisen seinän suihkulähteestä.",
+      "Juodessasi #b~vettä~ tunnet #ppimeän #potteen höllentyvän.",
+      "Veden olemus epäilyttää sinua, joten jatkat matkaasi janoisena."
     ],
     "OPTIONS": [
       "[Juo] #gPoista #gpakastasi #gkaikki #gKiroukset.",
