@@ -274,8 +274,8 @@
   "Golden Shrine": {
     "NAME": "Kultainen pyhättö",
     "DESCRIPTIONS": [
-      "Edessäsi istuu koristeellinen pyhättö muinaiselle hengelle. ",
-      "Samalla kun kätesi koskettaa pyhättöä, #ykultaa sataa katosta, ~suihkuttaen~ ~sinut~ ~rikkauksilla.~ ",
+      "Edessäsi on koristeellinen pyhättö muinaiselle hengelle. ",
+      "Samalla kun kätesi koskettaa pyhättöä, #ykultaa alkaa sataa katosta ja ~rikkauksia~ ~suihkuaa~ ~päällesi.~ ",
       "Joka kerta kun isket pyhättöä, #ykultaa virtaa esiin uudestaan ja uudestaan! NL NL Poimiessasi kolikoita, jokin #rpainaa #rraskaasti #rsinua.",
       "Jätät pyhätön rauhaan."
     ],
@@ -289,9 +289,9 @@
   "Golden Wing": {
     "NAME": "Siipipatsas",
     "DESCRIPTIONS": [
-      "Huomaat kivien ja lohkareiden keskuudesta ison, monimutkaisen sinisen patsaan joka muistuttaa siipeä. NL Huomaat #ykultaa pursuavan sen raoista. Ehkä sen sisältä löytyy lisää...",
-      "Joku kerran kertoi sinulle kultista, joka palvoi valtavaa lintua. Kun polvistut rukoukseen, alat ~tuntea~ itsesi ... ~pökertyneeksi~ . NL NL Heräät jonkin ajan jälkeen, tuntien itsesi omituisen nopeajalkaiseksi.",
-      "Hakkaat kaikilla voimillasi patsasta. NL Se pian @murenee,@ paljastaen #ypinon #ykultaa. Haalit mahdollisimman paljon kuin kykenet ja jatkat matkaasi.",
+      "Huomaat kivien ja lohkareiden seassa ison, monimutkaisesti muotoillun sinisen patsaan, joka muistuttaa siipeä. NL Huomaat #ykultaa pursuavan sen raoista. Ehkä sen sisältä löytyy lisää...",
+      "Olet kuullut puhuttavan kultista, joka palvoi valtavaa lintua. Kun polvistut rukoukseen, alat ~tuntea~ itsesi ... ~pökertyneeksi~ . NL NL Heräät jonkin ajan päästä tuntien itsesi omituisen nopeajalkaiseksi.",
+      "Hakkaat kaikilla voimillasi patsasta. NL Se @murenee@ pian paljastaen #ypinon #ykultaa. Haalit niin paljon kuin kykenet ja jatkat matkaasi.",
       "Patsas saa sinut ~levottomaksi.~ Kävelet ohi ja jatkat etenemistäsi."
     ],
     "OPTIONS": [
@@ -310,14 +310,14 @@
   "Knowing Skull": {
     "NAME": "Tietävä pääkallo",
     "DESCRIPTIONS": [
-      "Löydät itsesi vanhasta, koristellusta kammiosta. Huoneen keskellä iso pääkallo istuu istuu kuvioidun jalustan päällä. Lähestyessäsi kallo #g@purskahtaa@ #g@liekkeihin@ ja kääntyy sinua päin.",
-      "\"MITÄ SE ON, MITÄ ETSIT? MITÄ SE ON, MITÄ TARJOAT?\" NL Samalla tahdilla sen viimeisten sanojen kanssa, ovi takanasi @paiskautuu@ @kiinni.@",
+      "Löydät itsesi vanhasta, koristellusta kammiosta. Huoneen keskellä iso pääkallo on asetettuna kuvioidun jalustan päälle. Lähestyessäsi kallo #g@leimahtaa@ #g@liekkeihin@ ja kääntyy sinua päin.",
+      "\"MITÄ SINÄ HALAJAT? MITÄ SIITÄ TARJOAT?\" NL Sen viimeisten sanojen kaikuessa korviisi ovi takanasi @paiskautuu@ @kiinni.@",
       " NL NL \"MITÄÄN MUUTA?\"",
       " ",
       "\"JUO POIS!\" NL Saat pullon.",
-      "\"EHKÄPÄ TÄMÄ VOI AUTTAA?\" NL Saat kortin.",
+      "\"EHKÄPÄ TÄMÄ AUTTAISI?\" NL Saat kortin.",
       "\"TE KUOLEVAISET ETTE KOSKAAN MUUTU. SE ON TEHTY.\" NL #yKultaa sataa päällesi!",
-      "\"TAKANASI, KUOLEVAINEN.\" NL Kurkkaat kallon taakse. Selvästi, siellä on ovi."
+      "\"TAKANASI, KUOLEVAINEN.\" NL Kurkkaat kallon taakse. Totta tosiaan, siellä on ovi."
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -334,7 +334,7 @@
   "Lab": {
     "NAME": "Labra",
     "DESCRIPTIONS": [
-      "Olet eksynyt huoneeseen, joka on täynnä telineitä erinäisille koeputkille, dekantterilaseja, pulloja, pinsettejä, letkupuristimia, sekoitussauvoja, pihtejä, suojalaseja, suppiloita, pipettejä, sylintereitä, lauhduttimia ja jopa harvinaisempi spiraalinen lasiputki. NL NL Miksi tiedät kaikkien näiden työkalujen nimet? Ei sillä väliä, katselet ympärillesi löytyykö mitään."
+      "Olet eksynyt huoneeseen, joka on täynnä telineittäin erinäisiä koeputkia, dekantterilaseja, pulloja, pinsettejä, letkupuristimia, sekoitussauvoja, pihtejä, suojalaseja, suppiloita, pipettejä, sylintereitä, lauhduttimia ja jopa jokunen spiraalinen lasiputki. NL NL Miksi tiedät kaikkien näiden työkalujen nimet? Ei sillä väliä, katselet ympärillesi löytyykö mitään."
     ],
     "OPTIONS": [
       "[Etsi] #gLöydä #gtaikaliemiä!"
@@ -343,10 +343,10 @@
   "Liars Game": {
     "NAME": "Käääääärme",
     "DESCRIPTIONS": [
-      "Kävelet huoneeseen, missä löydät ison onkalon maassa. Lähestyessäsi onkaloa, valtava käärmemäinen olio ilmestyy sen kätköstä. NL NL ~\"Ho~ ~hooo!~ ~Heipä~ ~hei!~ ~Mitäs~ ~meillä~ ~on~ ~tässä?~ Tervehdys seikkailija, kysyn yksinkertaisen kysymyksen. NL Kaikkein tyydyttävimmät elämät ovat sellaisia missä voit #y~ostaa~ #y~mitä~ #y~tahansa!~ NL Oletko samaa mieltä?\"",
+      "Kävelet huoneeseen, jonka lattiassa näet ison onkalon. Lähestyessäsi onkaloa valtava käärmemäinen olio ilmestyy sen kätköistä. NL NL ~\"Ho~ ~hooo!~ ~Heipä~ ~hei!~ ~Mitäs~ ~täältä~ ~löytyikään?~ Tervehdys seikkailija, kysyn yksinkertaisen kysymyksen. NL Elämistä tyydyttävin on sellainen, jossa voit #y~ostaa~ #y~mitä~ #y~tahansa!~ NL Oletko samaa mieltä?\"",
       "~\"Jeeeeeeessssssssssessss!~ NL ~Tämä~ ~kaikki~ ~on~ ~sssssen~ ~arvoisssss-ta.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
-      "Käärme tuijottaa sinua äärimmäisen pettyneellä ilmeellä.",
-      "Käärme nostaa päätään ja päästää purkauksen #ykultaa ylöspäin! NL Se on ällistyttävää ja kauhistuttavaa samanaikaisesti. NL Keräät kaiken #ykullan, kiität käärmettä ja painut menemään."
+      "Käärme tuijottaa sinua äärimmäisen pettyneen näköisenä.",
+      "Käärme nostaa päätään ja purskauttaa #ykultaa ilmaan! NL Se on ällistyttävää ja kauhistuttavaa samanaikaisesti. NL Keräät kaiken #ykullan, kiität käärmettä ja painut menemään."
     ],
     "OPTIONS": [
       "[Samaa mieltä] #gSaa #g",
@@ -359,8 +359,8 @@
   "Living Wall": {
     "NAME": "Elävä seinä",
     "DESCRIPTIONS": [
-      "Päätyessäsi umpikujaan, olet aikeissasi kääntyä takaisin, kun seinät @paiskautuvat@ @alas@ katosta, loukuttaen sinut! NL NL Kolme kasvoa ilmestyvät seinistä ja puhuvat. NL #b\"Unohda #bmitä #btiedät, #bniin #bminä #bannan #bsinun #bmennä.\" NL #p\"Minä #pvaadin #pmuutosta #pnähdäkseni #puuden #ptilan.\" NL #y\"Jos #yhaluat #yohittaa #yminut, #ysinun #yon #ykasvettava.\"",
-      "Vakuuttuneina, seinät edessäsi sulautuvat takaisin kattoon, avaten polun eteenpäin."
+      "Päädyttyäsi umpikujaan olet aikeissa kääntyä takaisin, kun seinät @paiskautuvat@ @alas@ katosta, ja jäät loukkuun! NL NL Kolmet kasvot ilmestyvät seinistä ja puhuvat. NL #b\"Unohda #bmitä #btiedät, #bniin #bminä #bannan #bsinun #bmennä.\" NL #p\"Minä #pvaadin #pmuutosta #pnähdäkseni #puuden #ptilan.\" NL #y\"Jos #yhaluat #yohittaa #yminut, #ysinun #yon #ykasvettava.\"",
+      "Seinät tyytyvät tähän ja sulautuvat edestäsi takaisin kattoon avaten polun eteenpäin."
     ],
     "OPTIONS": [
       "[Unhoita] #gPoista #gpakastasi #gkortti.",
