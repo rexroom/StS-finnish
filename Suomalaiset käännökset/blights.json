@@ -54,7 +54,7 @@
   "FullBelly": {
     "NAME": "Heikennys",
      "DESCRIPTION": [
-      "Et voi enää lisätä Maksimi OP:tä. Kaikki parantamiset ovat puolta heikompia."
+      "Et voi enää lisätä MaksimiOP:tä. Kaikki parantamiset ovat puolta heikompia."
     ]
   },
   "GrotesqueTrophy": {
@@ -69,7 +69,7 @@
     "NAME": "Jälkidurian",
      "DESCRIPTION": [
       "Menetä #b",
-	  "% Maksimi OP:stä."
+	  "% MaksimiOP:stä."
     ]
   },
   "VoidEssence": {

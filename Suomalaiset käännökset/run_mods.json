@@ -89,11 +89,11 @@
   },
   "Night Terrors": {
     "NAME": "Yön kauhut",
-    "DESCRIPTION": "Lepopaikoissa lepäminen parantaa 100% OP:täsi, mutta maksaa 5 Maksimi OP:tä."
+    "DESCRIPTION": "Lepopaikoissa lepäminen parantaa 100% OP:täsi, mutta maksaa 5 MaksimiOP:tä."
   },
   "One Hit Wonder": {
     "NAME": "Yhden hitin ihme",
-    "DESCRIPTION": "Aloita peli 1 Maksimi OP:llä."
+    "DESCRIPTION": "Aloita peli 1 MaksimiOP:llä."
   },
   "Praise Snecko": {
     "NAME": "Khärmelle kiitos",
@@ -113,7 +113,7 @@
   },
   "Terminal": {
     "NAME": "Parantumaton",
-    "DESCRIPTION": "Kun saavut uuteen huoneeseen, menetä 1 Maksimi OP. Aloita jokainen taistelu 5 Panssarilevyllä."
+    "DESCRIPTION": "Kun saavut uuteen huoneeseen, menetä 1 MaksimiOP. Aloita jokainen taistelu 5 Panssarilevyllä."
   },
   "Time Dilation": {
     "NAME": "Aikalaajentuma",

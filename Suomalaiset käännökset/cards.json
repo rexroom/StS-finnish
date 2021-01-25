@@ -291,7 +291,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Puhkeava ruumis",
-    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun vihollinen kuolee, tee vahinkoa yhtä paljon kuin sen Maksimi OP KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun vihollinen kuolee, tee vahinkoa yhtä paljon kuin sen MaksimiOP KAIKKIIN vihollisiin.",
     "UPGRADE_DESCRIPTION": "vanhentunut",
     "EXTENDED_DESCRIPTION": [
       "vanhentunut"
@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Ruoki",
-    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos Kuolettava, saa !M! Maksimi OP:tä. Kuluta."
+    "DESCRIPTION": "Tee !D! vahinkoa. NL Jos Kuolettava, saa !M! MaksimiOP:tä. Kuluta."
   },
   "Feel No Pain": {
     "NAME": "Ei tunnu missään",
@@ -844,7 +844,7 @@
   },
   "Parasite": {
     "NAME": "Loinen",
-    "DESCRIPTION": "Ei-pelattava. NL Jos muunnetaan tai poistetaan pakastasi, menetä 3 Maksimi OP:tä."
+    "DESCRIPTION": "Ei-pelattava. NL Jos muunnetaan tai poistetaan pakastasi, menetä 3 MaksimiOP:tä."
   },
   "Perfected Strike": {
     "NAME": "Hiottu isku",

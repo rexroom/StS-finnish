@@ -24,7 +24,7 @@
     "NAME": "Verijuoma",
     "DESCRIPTIONS": [
       "Parane #b",
-      "% Maksimi OP:stä."
+      "% MaksimiOP:stä."
     ]
   },
   "Dexterity Potion": {
@@ -75,7 +75,7 @@
     "NAME": "Keijukainen pullossa",
     "DESCRIPTIONS": [
 	  "Kun olet kuolemassa, parannu #b",
-      "% Maksimi OP:stä sen sijaan ja poista tämä pullo."
+      "% MaksimiOP:stä sen sijaan ja poista tämä pullo."
     ]
   },
   "FearPotion": {
@@ -103,7 +103,7 @@
     "NAME": "Hedelmämehu",
     "DESCRIPTIONS": [
       "Saa #b",
-      " Maksimi OP:tä."
+      " MaksimiOP:tä."
     ]
   },
   "GamblersBrew": {

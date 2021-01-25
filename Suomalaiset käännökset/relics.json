@@ -32,7 +32,7 @@
   },
   "Bag of Marbles": {
     "NAME": "Marmorikuulapussi",
-    "FLAVOR": "Oli aikanaan Kaupungissa suosittu lelu. Auttaa pitämään viholliset poissa tasapainosta.",
+    "FLAVOR": "Oli aikanaan Kaupungissa suosittu lelu. Auttaa pitämään viholliset epätasapainossa.",
     "DESCRIPTIONS": [
       "Taistelun alussa lisää #b",
       " #yHaavoittuvaa KAIKILLE vihollisille."
@@ -244,7 +244,7 @@
     "NAME": "Yökiviriipus",
     "FLAVOR": "Kivi saa voimiaan pimeistä voimista ja muuntaa niitä kantajansa elinvoimaksi.",
     "DESCRIPTIONS": [
-      "Aina kun saat #yKirouksen, lisää Maksimi OP #b",
+      "Aina kun saat #yKirouksen, lisää MaksimiOP #b",
       " pisteellä."
     ]
   },
@@ -436,7 +436,7 @@
     "NAME": "Leen vohveli",
     "FLAVOR": "\"Maistuvin herkku jonka koko Tornista voi löytää! Leivottu tänään juuri sinulle.\"",
     "DESCRIPTIONS": [
-      "Poimiessasi vohvelin, nosta Maksimi OP:ta #b",
+      "Poimiessasi vohvelin, nosta MaksimiOP:ta #b",
       " ja paranna kaikki OP:t."
     ]
   },
@@ -473,7 +473,7 @@
     "NAME": "Mango",
     "FLAVOR": "Kaikkein himotuin unohdettu hedelmä. Täydellisesti säilötty ilman merkkiäkään tornirutosta.",
     "DESCRIPTIONS": [
-      "Poimiessasi nosta Maksimi OP #b"
+      "Poimiessasi nosta MaksimiOP #b"
     ]
   },
   "Mark of Pain": {
@@ -685,7 +685,7 @@
     "NAME": "Päärynä",
     "FLAVOR": "Yleinen hedelmä ajalta ennen torniruttoa.",
     "DESCRIPTIONS": [
-      "Poimiessasi päärynän, nosta Maksimi OP:tä #b"
+      "Poimiessasi päärynän, nosta MaksimiOP:tä #b"
     ]
   },
   "Pen Nib": {
@@ -1007,7 +1007,7 @@
     "FLAVOR": "\"Lähes täydellinen pienoiskokoamisen toteutus. Paras suoritukseni, mutta ei siltikään riittävä.\" - Arkkitehti",
     "DESCRIPTIONS": [
       "Poimiessasi talon, ota #b1 taikaliemi. NL Saa #b",
-      " #yKultaa. NL Nosta Maksimi OP #b",
+      " #yKultaa. NL Nosta MaksimiOP #b",
       " pisteellä. NL Ota #b1 kortti. NL Parantele #b1 satunnainen kortti.",
       "Pikkuriikkinen talo!"
     ]
@@ -1180,7 +1180,7 @@
     "NAME": "Papin naama",
     "FLAVOR": "Kaikki rakastavat Pappia.",
     "DESCRIPTIONS": [
-      "Nosta taistelun lopussa Maksimi OP:tä #b1."
+      "Nosta taistelun lopussa MaksimiOP:tä #b1."
     ]
   },
   "NlothsMask": {
