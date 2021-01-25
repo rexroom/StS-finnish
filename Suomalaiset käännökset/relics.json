@@ -436,7 +436,7 @@
     "NAME": "Leen vohveli",
     "FLAVOR": "\"Maistuvin herkku jonka koko Tornista voi löytää! Leivottu tänään juuri sinulle.\"",
     "DESCRIPTIONS": [
-      "Poimiessasi vohvelin, nosta MaksimiOP:ta #b",
+      "Poimiessasi vohvelin, nosta MaksimiOP:tä #b",
       " ja paranna kaikki OP:t."
     ]
   },
@@ -471,9 +471,9 @@
   },
   "Mango": {
     "NAME": "Mango",
-    "FLAVOR": "Kaikkein himotuin unohdettu hedelmä. Täydellisesti säilötty ilman merkkiäkään tornirutosta.",
+    "FLAVOR": "Kaikkein himotuin unohdettu hedelmä. Täydellisesti säilynyt ilman merkkiäkään tornirutosta.",
     "DESCRIPTIONS": [
-      "Poimiessasi nosta MaksimiOP #b"
+      "Poimiessasi nosta MaksimiOP:tä #b"
     ]
   },
   "Mark of Pain": {

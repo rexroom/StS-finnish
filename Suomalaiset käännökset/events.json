@@ -80,10 +80,10 @@
     "OPTIONS": [
       "[Banaani] #gParanna #g",
       " #gOP:tä.",
-      "[Donitsi] #gMaksimi #gOP #g+",
+      "[Donitsi] #gMaksimiOP #g+",
       ".",
       "[Laatikko] #gOta #gReliikki. #rTule #rKirotuksi #r- #rKatumus.",
-      "[Leave]"
+      "[Poistu]"
     ]
   },
   "Bonfire Elementals": {
@@ -215,7 +215,7 @@
       "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikki. #rMenetä #rKultainen #ridoli.",
       "[Lukittu] Vaatii: Kultaisen idolin.",
       "[Uhraa] #gSaa #g",
-      " #gMaksimi #gOP:tä. #rMenetä #r",
+      " #gMaksimiOP:tä. #rMenetä #r",
       " #rOP:tä.",
       "[Lukittu] Vaatii: Ihmisyyttä.",
       "[Häpäise] #rTule #rKirotuksi #r- #rLahoaminen."
@@ -244,7 +244,7 @@
     ],
     "OPTIONS": [
       "[Hyväksy] #gSaa #g5 Haamua. #rMenetä #r",
-      " #rMaksimi #rOP:tä.",
+      " #rMaksimiOP:tä.",
       "[Kieltäydy]",
       "[Hyväksy] #gSaa #g3 Haamua. #rMenetä #r",
       "",
@@ -268,7 +268,7 @@
       "[Särje] #rOta #r",
       " #rvahinkoa.",
       "[Piiloudu] #rMenetä #r",
-      " #rMaksimi #rOP:tä."
+      " #rMaksimiOP:tä."
     ]
   },
   "Golden Shrine": {
@@ -635,7 +635,7 @@
     ],
     "OPTIONS": [
       "[Hyppää sisään] #gParane #gtäyteen #gOP:siin. #rMenetä #r",
-      " #rMaksimi #rOP:tä.",
+      " #rMaksimiOP:tä.",
       "[Tarjoa: Kultainen idoli] #gSaa #g333 #gkultaa. #rMenetä #rKultainen #ridoli.",
       "[Lukittu] Vaatii: Kultaisen idolin.",
       "[Poistu]"
@@ -726,7 +726,7 @@
     ],
     "OPTIONS": [
       "[Hyväksy] #gPoista #gkaikki Iskut. #gSaa #g5 Puremaa. #rMenetä #r",
-      " #rMaksimi #rOP:tä.",
+      " #rMaksimiOP:tä.",
       "[Kieltäydy]",
       "[Menetä ",
       "] #gPoista #gkaikki Iskut. #gSaa #g5 Puremaa.",
@@ -775,7 +775,7 @@
       "[Poistu]",
       " #gOP:tä.",
 	  "[Palaa samaa tietä] #rMenetä #r",
-	  " #rMaksimi #rOP:tä."
+	  " #rMaksimiOP:tä."
     ]
   },
   "World of Goop": {
