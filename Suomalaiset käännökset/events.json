@@ -236,10 +236,10 @@
   "Ghosts": {
     "NAME": "Aaveiden neuvosto",
     "DESCRIPTIONS": [
-      "Jatkaessasi nousua, #p~tiheää~ #p~mustaa~ #p~savua~ alkaa nousta ympärillä olevasta lattiasta ja seinistä, yhdistyen kolmeksi naamioiduksi hahmoksi jotka alkavat puhua. NL NL ~\"Taitaa~ ~olla~ #y~Neow'n~ ~uusi~ ~sätkynukke.\"~ NL #r@\"SAMAA@ #r@MIELTÄ!@ #r@HÄN@ #r@AINA@ #r@TEKEE@ #r@KIVOIMPIA@ #r@LEIKKIKALUJA!\"@ NL NL Huomaat inhottavan irvistyksen kun kolmas heistä alkaa puhutella sinua. NL \"Älä välitä toisista... Kiinnostaako maistaa meidän #y~voimaamme?\"~ ",
+      "Jatkaessasi nousua #p~tiheää~ #p~mustaa~ #p~savua~ alkaa kohota lattiasta ja seinistä ympärilläsi yhdistyen kolmeksi naamioiduksi hahmoksi, jotka alkavat puhua. NL NL ~\"Taitaa~ ~olla~ #y~Neow'n~ ~uusi~ ~sätkynukke.\"~ NL #r@\"SAMAA@ #r@MIELTÄ!@ #r@HÄN@ #r@AINA@ #r@TEKEE@ #r@KIVOIMPIA@ #r@LEIKKIKALUJA!\"@ NL NL Huomaat inhottavan irvistyksen kun kolmas heistä alkaa puhutella sinua. NL \"Älä välitä toisista... Kiinnostaako maistaa meidän #y~voimaamme?\"~ ",
       "",
-      "#y\"Oivallista!\" NL Huomaat aavemaisen hahmon puhuessa sen suuren suun avautuvan leveämmäksi ja leveämmäksi. #p~Tiheää~ #p~mustaa~ #p~savua~ syöksyy esiin ja peittää huoneen. Et voi nähdä tai hengittää... NL NL Juuri ennen kuin menetät tajuntasi, tunne loppuu. NL NL Mitä lie nuo oliot olivatkaan, heitä ei enää ole. Jatkat eteenpäin, tuntien melkoisen #bontoksi.",
-      "\"Mikä pettymys...\" NL ~\"Liityt~ ~meihin~ ~muutenkin~ ~ennemmin~ ~tai~ ~myöhemmin.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Hahmot häipyvät, jättäen vain pelottavan naurun soimaan korvissasi.",
+      "#y\"Oivallista!\" NL Huomaat aavemaisen hahmon puhuessa sen suuren suun avautuvan leveämmäksi ja leveämmäksi. #p~Tiheää~ #p~mustaa~ #p~savua~ syöksyy esiin ja peittää huoneen. Et voi nähdä tai hengittää... NL NL Juuri ennen kuin menetät tajuntasi, tunne loppuu. NL NL Mitä lie nuo oliot olivatkaan, heitä ei enää ole. Jatkat eteenpäin, tuntien itsesi melkoisen #bontoksi.",
+      "\"Mikä pettymys...\" NL ~\"Liityt~ ~meihin~ ~muutenkin~ ~ennemmin~ ~tai~ ~myöhemmin.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Hahmot häipyvät jättäen vain pelottavan naurun soimaan korvissasi.",
       ""
     ],
     "OPTIONS": [
@@ -254,12 +254,12 @@
   "Golden Idol": {
     "NAME": "Kultainen idoli",
     "DESCRIPTIONS": [
-      "Löydät huomiota heräämättömän jalustan, jonka päällä istuu rauhassa #ykiiltävä #ykultaidoli. Se näyttää uskomattoman arvokkaalta. NL NL Et oikein näe ansoja missään lähistöllä.",
-      "Tarttuessasi idoliin ja pakatessasi sen, valtava lohkare iskeytyy katon läpi sinusta viereiseen maahan. NL Tajuat lattian vietävän alaspäin lohkareen alkaessa vierivän hitaasti sinua kohden.",
-      "@PAKOOOOOOON!@ NL Hädintuskin ehdit loikkaamaan sivukäytävälle turvaan, kun lohkare vyöryy sinun ohitsesi. Harmittavasti tuntuu siltä, kuin olisit reväyttänyt jotain lihasta.",
-      "Heittäydyt lohkaretta päin kaikella, millä kykenet. Pölyn asettuessa kykenet poistumaan turvallisesti.",
-      "@LITS!@ NL Lohkare pusertaa sinua vähän mennessään yli, mutta muutoin pystyt poistumaan täältä.",
-      "Jos missään olisi mitä ilmeisin ansa, se olisi tässä. NL Päätät olla häiritsemättä jalustojen päällä olevia esineitä."
+      "Löydät huomiota herättämättömän jalustan, jonka päällä istuu rauhassa #ykiiltävä #ykultaidoli. Se näyttää uskomattoman arvokkaalta. NL NL Lähistöllä ei selvästikään ole ansan ansaa.",
+      "Tarttuessasi idoliin ja napatessasi sen mukaasi valtava lohkare romahtaa katon läpi aivan viereesi. NL Tajuat lattian viettävän alaspäin lohkareen alkaessa vieriä hitaasti sinua kohden.",
+      "@PAKOOOOOOON!@ NL Hädintuskin ehdit loikkaamaan sivukäytävälle turvaan, kun lohkare vyöryy sinun ohitsesi. Harmittavasti tuntuu siltä, kuin olisit reväyttänyt jonkin lihaksen.",
+      "Heittäydyt lohkaretta päin kaikin voimin. Pölyn laskeuduttua kykenet poistumaan turvallisesti.",
+      "@LITS!@ NL Lohkare pusertaa sinua hiukan lyttyyn vyöryessäsi ohitsesi, mutta muutoin pystyt poistumaan täältä.",
+      "Tämä jos mikä on aivan ilmeinen ansa. NL Päätät olla häiritsemättä jalustojen päällä olevia esineitä."
     ],
     "OPTIONS": [
       "[Ota] #gSaa #gKultainen #gidoli. #rLaukaise #ransa.",
