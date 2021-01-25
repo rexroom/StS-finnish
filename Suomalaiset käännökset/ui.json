@@ -102,7 +102,7 @@
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Parantele"
+      "paranneltavaksi"
     ]
   },
   "AscensionModeDescriptions": {
@@ -323,7 +323,7 @@
   },
   "CopyAction": {
     "TEXT": [
-      "Kopioi"
+      "kopioitavaksi"
     ]
   },
   "CreditsScreen": {
@@ -452,7 +452,7 @@
   },
   "DiscardAction": {
     "TEXT": [
-      "Laita pois"
+      "poistettavaksi"
     ]
   },
   "DiscardPilePanel": {
@@ -467,7 +467,7 @@
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Valitse kortti laitettavaksi nostopinosi päälle."
+      "Valitse kortti nostopinosi päälle laitettavaksi."
     ]
   },
   "DiscardPileViewScreen": {
@@ -492,7 +492,7 @@
   },
   "DualWieldAction": {
     "TEXT": [
-      "Kopioi"
+      "monistettavaksi"
     ]
   },
   "DungeonMapScreen": {
@@ -534,7 +534,7 @@
   },
   "ExhaustAction": {
     "TEXT": [
-      "Kulutettu"
+      "kulutettavaksi"
     ]
   },
   "ExhaustViewScreen": {
@@ -560,8 +560,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Korvaa (Pelipoletti)",
-      "Korvaa"
+      "vaihdettavaksi (Pelipoletti)",
+      "vaihdettavaksi"
     ]
   },
   "GameSavedEffect": {
@@ -600,7 +600,7 @@
   },
   "ImmolateAction": {
     "TEXT": [
-      "Kuluta"
+      "kulutettavaksi"
     ]
   },
   "InputKeyNames": {
@@ -927,7 +927,7 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "pistä nostopinosi päälle"
+      "nostopinon päälle laitettavaksi"
     ]
   },
   "Recall Option": {
@@ -938,7 +938,7 @@
   },
   "RecycleAction": {
     "TEXT": [
-      "Kuluta"
+      "kulutettavaksi"
     ]
   },
   "PotionViewScreen": {
@@ -1005,7 +1005,7 @@
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Säilytä"
+      "säilytettäväksi"
     ]
   },
   "RewardItem": {
@@ -1168,12 +1168,12 @@
   },
   "SetupAction": {
     "TEXT": [
-      "laita nostopinosi päälle."
+      "nostopinon päälle laitettavaksi."
     ]
   },
   "ForethoughtAction": {
     "TEXT": [
-      "laita nostopinosi pohjalle."
+      "nostopinon alle laitettavaksi."
     ]
   },
   "ShopRoom": {
