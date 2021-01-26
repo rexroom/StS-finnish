@@ -187,7 +187,7 @@
       "Pyrkiessäsi ylöspäin loikkimalla yhdeltä leijuvalta kappaleelta toiselle liukastut. NL NL Olet putoamassa.",
       "Alat harkita vaihtoehtoja vapaassa pudotuksessa: NL Laskeudu turvallisesti käyttäen parhaimpia taitojasi. NL Kanavoi Voimaa selviytyäksesi pudotuksesta. NL Iske seinää tarrautuaksesi siihen.",
       "Laskeudut äärimmäisen sulavasti ja jatkat matkaasi.",
-      "Valjastaen ja kuluttaen jonkin verran raakaa voimaasi onnistut laskeutumaan maahan ilman vahinkoa.",
+      "Valjastaen ja kuluttaen jonkin verran raakaa voimaasi onnistut laskeutumaan maahan ilman vauriota.",
       "Pystyt takertumaan seinään kiinni, ja pääset lyhyellä loikalla toiselle vakaalle alustalle.",
 	  "Tunnut putoavan hitaasti kuin höyhen saapuen lopulta pohjalle ilman naarmua."
     ],
@@ -266,7 +266,7 @@
       "[Poistu]",
       "[Pakene] #rTule #rKirotuksi #r- #rVamma.",
       "[Särje] #rOta #r",
-      " #rvahinkoa.",
+      " #rvauriota.",
       "[Piiloudu] #rMenetä #r",
       " #rMaksimiOP:tä."
     ]
@@ -301,7 +301,7 @@
       " #g- #g",
       " #gKultaa.",
       "[Lukittu] Vaatii: Kortin jossa ",
-      " tai enemmän vahinkoa.",
+      " tai enemmän vauriota.",
       "[Poistu]",
       "[Jatka]",
       "Valitse poistettava kortti."
@@ -528,11 +528,11 @@
     "DESCRIPTIONS": [
       "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivää kammoa tuntuu läpikotaisin huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
       "Teit #b",
-      " vahinkoa! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole tarpeeksi?",
+      " vauriota! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole tarpeeksi?",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
-      " vahinkoa sydämelle.",
+      " vauriota sydämelle.",
       " NL Yhteensä #b",
-      " vahinkoa ovat tehneet kaikki, jotka ovat haastaneet sen.",
+      " vauriota ovat tehneet kaikki, jotka ovat haastaneet sen.",
       " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~himmenee...~",
       "NL Nostat teräasettasi iskuun...",
       "NL Asetat tikarisi valmiiksi...",
@@ -655,7 +655,7 @@
       " #yKultaa.",
       "[Poistu]",
       "[Poistu] #rOta #r",
-      " #rvahinkoa."
+      " #rvauriota."
     ]
   },
   "Thinking with Puddles": {
@@ -668,7 +668,7 @@
     "OPTIONS": [
       "[Häkeltynyt] #rMenetä #rsatunnainen #rHarvinainen+ #rkortti.",
       "[Kaadu] #rOta #r",
-      " #rvahinkoa. #rTule #rKirotuksi #r- #rVamma.",
+      " #rvauriota. #rTule #rKirotuksi #r- #rVamma.",
       "[Poistu]"
     ]
   },

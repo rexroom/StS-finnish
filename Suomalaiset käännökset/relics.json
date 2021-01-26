@@ -200,7 +200,7 @@
     "FLAVOR": "Kharonin sanotaan olevan uudelleensyntymisen jumala joka aina kuolee ja syntyy sitten uudelleen liekeistä.",
     "DESCRIPTIONS": [
       "Aina kun #yKulutat kortin, tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Chemical X": {
@@ -445,7 +445,7 @@
     "FLAVOR": "Luonnottoman terävä.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #b3 #yTaitoa yhden vuoron aikana, tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Living Blade": {
@@ -519,7 +519,7 @@
     "FLAVOR": "Lumottu tiimalasi joka valuu loputtomasti.",
     "DESCRIPTIONS": [
       "Vuorosi alussa tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Molten Egg 2": {
@@ -664,7 +664,7 @@
     "NAME": "Paperikurki",
     "FLAVOR": "Menneitten aikojen olennosta tehty origami.",
     "DESCRIPTIONS": [
-      "#yHeikennetyt viholliset tekevät #b40% vähemmän vahinkoa #b25%:n sijaan."
+      "#yHeikennetyt viholliset tekevät #b40% vähemmän vauriota #b25%:n sijaan."
     ]
   },
   "Paper Frog": {
@@ -692,7 +692,7 @@
     "NAME": "Kynänterä",
     "FLAVOR": "Pitäessäsi terää näet edessäsi kaikki, jonka sen edellinen omistaja on listinyt. Väkivaltainen menneisyys.",
     "DESCRIPTIONS": [
-      "Joka #b10. #yHyökkäys tekee tuplasti enemmän vahinkoa."
+      "Joka #b10. #yHyökkäys tekee tuplasti enemmän vauriota."
     ]
   },
   "Philosopher's Stone": {
@@ -990,7 +990,7 @@
     "FLAVOR": "Tämän soittimen tuottama ääni pystyy nousemaan piinalliseen äänenvoimakkuuteen.",
     "DESCRIPTIONS": [
       "Aina kun laitat kortin pois vuorosi aikana, jaa #b",
-      " vahinkoa satunnaiselle viholliselle."
+      " vauriota satunnaiselle viholliselle."
     ]
   },
   "Tiny Chest": {
@@ -1110,7 +1110,7 @@
     "FLAVOR": "Kun vedetään avaimesta, kenkä kasvaa isommaksi.",
     "DESCRIPTIONS": [
       "Kun olet tekemässä #b",
-      " tai vähemmän torjumatonta hyökkäysvahinkoa, tee sen sijaan #b5 vahinkoa."
+      " tai vähemmän torjumatonta hyökkäysvauriota, tee sen sijaan #b5 vauriota."
     ]
   },
   "Mark of the Bloom": {
@@ -1277,7 +1277,7 @@
     "NAME": "Ranneterä",
     "FLAVOR": "Kätevä salamurhissa.",
     "DESCRIPTIONS": [
-      "#yHyökkäykset, jotka maksavat #b0, tekevät #b4 lisävahinkoa."
+      "#yHyökkäykset, jotka maksavat #b0, tekevät #b4 lisävauriota."
     ]
   },
   "StoneCalendar": {
@@ -1286,7 +1286,7 @@
     "DESCRIPTIONS": [
       "Vuoron #b",
       " lopussa tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Nunchaku": {
@@ -1413,7 +1413,7 @@
     "FLAVOR": "\"Ammuuu~\"",
     "DESCRIPTIONS": [
       "Taistelun ensimmäinen Hyökkäyksesi tekee #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "VioletLotus": {
@@ -1450,7 +1450,7 @@
     "FLAVOR": "Se on aika kulunut.",
     "DESCRIPTIONS": [
       "\"Isku\"-kortit antavat #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "CloakClasp": {

@@ -68,7 +68,7 @@
     "NAME": "Räjähtävä pullo",
     "DESCRIPTIONS": [
       "Jaa #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "FairyPotion": {
@@ -89,7 +89,7 @@
     "NAME": "Tuliliemi",
     "DESCRIPTIONS": [
       "Tee #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "FocusPotion": {

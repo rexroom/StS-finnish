@@ -2,7 +2,7 @@
   "Dark": {
     "NAME": "Pimeys",
     "DESCRIPTION": [
-      "#yPassiivinen: Lisää tämän pallon vahinkoa #b",
+      "#yPassiivinen: Lisää tämän pallon vauriota #b",
       ":lla vuoron lopussa. NL #yManaa: Jaa #b",
       " vauriota viholliselle, jolla on alhaisin OP."
     ]
@@ -25,8 +25,8 @@
     "NAME": "Salama",
     "DESCRIPTION": [
       "#yPassiivinen: Vuoron lopussa jaa #b",
-      " vahinkoa satunnaiselle viholliselle. NL #yManaa: jaa #b",
-      " vahinkoa satunnaiselle viholliselle."
+      " vauriota satunnaiselle viholliselle. NL #yManaa: jaa #b",
+      " vauriota satunnaiselle viholliselle."
     ]
   },
   "Plasma": {

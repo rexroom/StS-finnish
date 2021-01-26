@@ -18,7 +18,7 @@
   "Beyond Perfect": {
     "NAME": "Parempi kuin täydellinen",
     "DESCRIPTIONS": [
-      "Päihitä 3 pomoa ottamatta lainkaan vahinkoa."
+      "Päihitä 3 pomoa ottamatta lainkaan vauriota."
     ]
   },
   "Bosses Slain": {
@@ -28,7 +28,7 @@
   "Champion": {
     "NAME": "Mestari",
     "DESCRIPTIONS": [
-      "Päihitä Eliitti ottamatta lainkaan vahinkoa."
+      "Päihitä Eliitti ottamatta lainkaan vauriota."
     ]
   },
   "Cheater": {
@@ -126,7 +126,7 @@
   "Overkill": {
     "NAME": "Täystuho",
     "DESCRIPTIONS": [
-      "Tee 99 vahinkoa yhdellä hyökkäyksellä."
+      "Tee 99 vauriota yhdellä hyökkäyksellä."
     ]
   },
   "Pauper": {
@@ -138,7 +138,7 @@
   "Perfect": {
     "NAME": "Täydellinen",
     "DESCRIPTIONS": [
-      "Päihitä pomovastus kärsimättä vahinkoa."
+      "Päihitä pomovastus kärsimättä vauriota."
     ]
   },
   "Poopy": {

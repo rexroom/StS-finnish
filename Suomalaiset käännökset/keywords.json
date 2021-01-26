@@ -44,7 +44,7 @@
         "pimeys",
         "pimeys+"
       ],
-      "DESCRIPTION": "Pallo: Lisää vahinkoa jokaisella kierroksella. Kun #Manataan, iskee viholliseen jolla on vähiten OP."
+      "DESCRIPTION": "Pallo: Lisää vauriota jokaisella kierroksella. Kun #Manataan, iskee viholliseen jolla on vähiten OP."
     },
     "DAZED": {
       "NAMES": [
@@ -109,14 +109,14 @@
       "NAMES": [
         "aineeton"
       ],
-      "DESCRIPTION": "Pienennä KAIKKI otettu vahinko ja OP:n menetys #b1 pisteeseen."
+      "DESCRIPTION": "Pienennä KAIKKI otettu vauriot ja OP:n menetys #b1 pisteeseen."
     },
     "LIGHTNING": {
       "NAMES": [
         "salama",
         "salama+"
       ],
-      "DESCRIPTION": "Pallo: Jakaa vahinkoa satunnaisesti vihollisille."
+      "DESCRIPTION": "Pallo: Jakaa vauriota satunnaisesti vihollisille."
     },
     "LOCKED": {
       "NAMES": [
@@ -128,7 +128,7 @@
       "NAMES": [
         "lukittu"
       ],
-      "DESCRIPTION": "Lukitut kohteet saavat #b50% enemmän vahinkoa palloilta."
+      "DESCRIPTION": "Lukitut kohteet saavat #b50% enemmän vauriota palloilta."
     },
     "OPENER": {
       "NAMES": [
@@ -176,7 +176,7 @@
       "NAMES": [
         "vahvuus"
       ],
-      "DESCRIPTION": "Vahvuus antaa lisävahinkoa hyökkäyksiin."
+      "DESCRIPTION": "Vahvuus antaa lisävauriota hyökkäyksiin."
     },
     "STRIKE": {
       "NAMES": [
@@ -191,7 +191,7 @@
       "NAMES": [
         "piikit"
       ],
-      "DESCRIPTION": "Jakaa vahinkoa takaisin kun vastaanottaa #yHyökkäysvahinkoa.."
+      "DESCRIPTION": "Jakaa vauriota takaisin kun vastaanottaa #yHyökkäysvauriota.."
     },
     "TODO": {
       "NAMES": [
@@ -239,7 +239,7 @@
       "NAMES": [
         "haavoittuva"
       ],
-      "DESCRIPTION": "Haavoittuvat oliot ottavat #b50% enemmän vahinkoa Hyökkäyksiltä."
+      "DESCRIPTION": "Haavoittuvat oliot ottavat #b50% enemmän vauriota Hyökkäyksiltä."
     },
     "WEAK": {
       "NAMES": [
@@ -286,7 +286,7 @@
       "NAMES": [
         "jumaluus"
       ],
-      "DESCRIPTION": "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vahinkoa. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
+      "DESCRIPTION": "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vauriota. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
     },
     "PRAYER": {
       "NAMES": [
@@ -299,7 +299,7 @@
       "NAMES": [
         "tarmo"
       ],
-      "DESCRIPTION": "Sinun seuraava Hyökkäyksesi tuottaa lisävahinkoa."
+      "DESCRIPTION": "Sinun seuraava Hyökkäyksesi tuottaa lisävauriota."
     },
     "REGEN": {
       "NAMES": [

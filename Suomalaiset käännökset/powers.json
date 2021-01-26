@@ -3,7 +3,7 @@
     "NAME": "Tarkkuus",
     "DESCRIPTIONS": [
       "#yPuukot tekevät #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "After Image": {
@@ -32,7 +32,7 @@
     "NAME": "Vihainen",
     "DESCRIPTIONS": [
       "",
-      "Saadessaan hyökkäysvahinkoa, saa #b",
+      "Saadessaan hyökkäysvauriota, saa #b",
       " #yVahvuutta."
     ]
   },
@@ -127,7 +127,7 @@
     "DESCRIPTIONS": [
       "Menetä vuorosi lopussa #b",
       " OP:tä ja tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Confusion": {
@@ -148,7 +148,7 @@
     "NAME": "Kuristuksessa",
     "DESCRIPTIONS": [
       "Ota vuorosi lopussa #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "Corruption": {
@@ -176,7 +176,7 @@
   "Curl Up": {
     "NAME": "Käpertyvä",
     "DESCRIPTIONS": [
-      "Ottaessaan hyökkäysvahinkoa, rullautuu kasaan ja saa #b",
+      "Ottaessaan hyökkäysvauriota, rullautuu kasaan ja saa #b",
       " #yTorjuntaa. (Kerran taistelussa)"
     ]
   },
@@ -220,9 +220,9 @@
     ]
   },
   "Double Damage": {
-    "NAME": "Tuplavahinkoa",
+    "NAME": "Tuplavauriota",
     "DESCRIPTIONS": [
-      "#yHyökkäykset tekevät tuplasti enemmän vahinkoa #b",
+      "#yHyökkäykset tekevät tuplasti enemmän vauriota #b",
       " vuoron.",
       " vuoroon."
     ]
@@ -329,7 +329,7 @@
     "DESCRIPTIONS": [
       "Räjähtää #b",
       " vuoron päästä, tekee #b",
-      " vahinkoa.",
+      " vauriota.",
       "Räjähtää tällä vuorolla, tekee #b"
     ]
   },
@@ -352,14 +352,14 @@
     "NAME": "Tulenhenkäys",
     "DESCRIPTIONS": [
       "Kun nostat #yStatuksen tai #yKirouksen, tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
     "DESCRIPTIONS": [
       "Kun hyökkäyksen kohteena, antaa #b",
-      " vahinkoa takaisin."
+      " vauriota takaisin."
     ]
   },
   "Flex": {
@@ -372,7 +372,7 @@
   "Flight": {
     "NAME": "Lento",
     "DESCRIPTIONS": [
-      "Ottaa 50% vähemmän hyökkäysvahinkoa. Peruttu jos ottaa hyökkäysvahinkoa #b",
+      "Ottaa 50% vähemmän hyökkäysvauriota. Peruttu jos ottaa hyökkäysvauriota #b",
 	  " kertaa vuoron aikana."
     ]
   },
@@ -457,7 +457,7 @@
   "Intangible": {
     "NAME": "Aineeton",
     "DESCRIPTIONS": [
-      "Muuta KAIKKI otettu vahinko ja OP:n menetykset #b1 tällä vuorolla. #yAineeton tulee voimaan joka toinen vuoro."
+      "Muuta KAIKKI otettu vauriot ja OP:n menetykset #b1 tällä vuorolla. #yAineeton tulee voimaan joka toinen vuoro."
     ]
   },
   "Invincible": {
@@ -472,13 +472,13 @@
     "NAME": "Kuoleman rytmi",
     "DESCRIPTIONS": [
       "Kun pelaat kortin, ota #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "IntangiblePlayer": {
     "NAME": "Aineeton",
     "DESCRIPTIONS": [
-      "Muuta KAIKKI otettu vahinko ja OP:n menetykset #b1."
+      "Muuta KAIKKI otettu vauriot ja OP:n menetykset #b1."
     ]
   },
   "Inverted": {
@@ -491,7 +491,7 @@
     "NAME": "Pysäyttämätön voima",
     "DESCRIPTIONS": [
       "Kun saat #yTorjuntaa, tee #b",
-      " vahinkoa satunnaiselle viholliselle."
+      " vauriota satunnaiselle viholliselle."
     ]
   },
   "Knowledge": {
@@ -511,7 +511,7 @@
     "NAME": "Lukittu kohde",
     "DESCRIPTIONS": [
       "Saa #b",
-      "% enemmän vahinkoa Palloilta #b",
+      "% enemmän vauriota Palloilta #b",
       " vuoroon.",
       " vuoroon."
     ]
@@ -551,7 +551,7 @@
     "NAME": "Taipuisa",
     "DESCRIPTIONS": [
       "Saa #b",
-      " #yTorjuntaa ottaessaan hyökkäysvahinkoa. #yTorjunnan saanti lisääntyy kun ",
+      " #yTorjuntaa ottaessaan hyökkäysvauriota. #yTorjunnan saanti lisääntyy kun ",
       " aktivoituu. Nollautuu arvoon #b",
       " vuorosi alussa."
     ]
@@ -583,7 +583,7 @@
     "NAME": "Tilanmuutos",
     "DESCRIPTIONS": [
       "Astuu puolustustilaan saatuaan #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "Next Turn Block": {
@@ -628,7 +628,7 @@
   "Painful Stabs": {
     "NAME": "Kivuliaat puukotukset",
     "DESCRIPTIONS": [
-      "Kun saat vahinkoa tältä viholliselta, lisää #yHaava poistopinoosi."
+      "Kun saat vauriota tältä viholliselta, lisää #yHaava poistopinoosi."
     ]
   },
   "Panache": {
@@ -643,14 +643,14 @@
   "Pen Nib": {
     "NAME": "Kynänterä",
     "DESCRIPTIONS": [
-      "Seuraava #yHyökkäyksesi tekee kaksinkertaisesti vahinkoa."
+      "Seuraava #yHyökkäyksesi tekee kaksinkertaisesti vauriota."
     ]
   },
   "Phantasmal": {
     "NAME": "Haamu",
     "DESCRIPTIONS": [
-      "Tee #ytuplasti #yvahinkoa seuraavalla vuorolla.",
-      "Tee #ytuplasti #yvahinkoa seuraavat ",
+      "Tee #ytuplasti #yvauriota seuraavalla vuorolla.",
+      "Tee #ytuplasti #yvauriota seuraavat ",
       " vuoroa."
     ]
   },
@@ -658,9 +658,9 @@
     "NAME": "Panssarilevy",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #yTorjuntaa. Saatuasi suoraa hyökkäysvahinkoa, vähennä #b1 #yPanssarilevy.",
+      " #yTorjuntaa. Saatuasi suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy.",
       "Saa vuoronsa lopussa #b",
-      " #yTorjuntaa. Saatuaan suoraa hyökkäysvahinkoa, vähennä #b1 #yPanssarilevy."
+      " #yTorjuntaa. Saatuaan suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy."
     ]
   },
   "Poison": {
@@ -703,7 +703,7 @@
     ]
   },
   "Reduce Damage": {
-    "NAME": "Vähennä vahinkoa",
+    "NAME": "Vähennä vauriota",
     "DESCRIPTIONS": [
       ""
     ]
@@ -779,7 +779,7 @@
     "NAME": "Sadistinen",
     "DESCRIPTIONS": [
       "Kun annat haitan viholliselle, tee #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "Serpentine": {
@@ -799,7 +799,7 @@
     "NAME": "Terävä talja",
     "DESCRIPTIONS": [
       "Kun pelaat #yHyökkäyksen, ota #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "Shriek From Beyond": {
@@ -821,9 +821,9 @@
     "NAME": "Hidastus",
     "DESCRIPTIONS": [
       "Aina kun pelaat kortin, ",
-      " vastaanottaa #b10% enemmän vahinkoa #yHyökkäyksiltä vuoron aikana.",
+      " vastaanottaa #b10% enemmän vauriota #yHyökkäyksiltä vuoron aikana.",
       " (Vastaanottaa #b",
-      "% enemmän vahinkoa)"
+      "% enemmän vauriota)"
     ]
   },
   "Split": {
@@ -850,7 +850,7 @@
   "StaticDischarge": {
     "NAME": "Staattinen purkaus",
     "DESCRIPTIONS": [
-      "Kun saat hyökkäysvahinkoa, #yKanavoi #b",
+      "Kun saat hyökkäysvauriota, #yKanavoi #b",
       " #ySalamaa."
     ]
   },
@@ -864,16 +864,16 @@
   "Strength": {
     "NAME": "Vahvuus",
     "DESCRIPTIONS": [
-      "Lisää hyökkäysvahinkoa #b",
-      "Vähentää hyökkäysvahinkoa #b",
+      "Lisää hyökkäysvauriota #b",
+      "Vähentää hyökkäysvauriota #b",
       " pisteellä."
     ]
   },
   "TheBomb": {
     "NAME": "Pommi",
     "DESCRIPTIONS": [
-      "Tekee #b%2$s vahinkoa KAIKILLE vihollisille #b%1$s vuoron päästä lopussa.",
-      "Tekee #b%1$s vahinkoa KAIKILLE vihollisille vuoron lopulla."
+      "Tekee #b%2$s vauriota KAIKILLE vihollisille #b%1$s vuoron päästä lopussa.",
+      "Tekee #b%1$s vauriota KAIKILLE vihollisille vuoron lopulla."
     ]
   },
   "Thievery": {
@@ -887,14 +887,14 @@
     "NAME": "Piikit",
     "DESCRIPTIONS": [
       "Kun hyökättynä, tekee #b",
-      " vahinkoa takaisin."
+      " vauriota takaisin."
     ]
   },
   "Thousand Cuts": {
     "NAME": "Tuhat viiltoa",
     "DESCRIPTIONS": [
       "Kun pelaat kortin, tekee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Time Warp": {
@@ -938,7 +938,7 @@
     "NAME": "Haavoittuva",
     "DESCRIPTIONS": [
       "Ota #b",
-      "% enemmän vahinkoa #yHyökkäyksiltä #b",
+      "% enemmän vauriota #yHyökkäyksiltä #b",
       " vuoroon.",
       " vuoroon."
     ]
@@ -947,7 +947,7 @@
     "NAME": "Heikko",
     "DESCRIPTIONS": [
       "#yHyökkäykset tekevät #b",
-      "% vähemmän vahinkoa #b",
+      "% vähemmän vauriota #b",
       " vuoroon.",
       " vuoroon."
     ]
@@ -999,21 +999,21 @@
     "NAME": "Puhkeava ruumis",
     "DESCRIPTIONS": 
     [
-      "Tekee kuollessaan saman verran vahinkoa kuin MaksimiOP:tä KAIKILLE vihollisille.",
-      "Tekee kuollessaan saman verran vahinkoa kuin MaksimiOP:tä #b",
+      "Tekee kuollessaan saman verran vauriota kuin MaksimiOP:tä KAIKILLE vihollisille.",
+      "Tekee kuollessaan saman verran vauriota kuin MaksimiOP:tä #b",
       " kertaa KAIKILLE vihollisille."
     ]
   },
   "Surrounded": {
     "NAME": "Saarrettu",
     "DESCRIPTIONS": [
-      "Saa #b50% enemmän vahinkoa jos hyökätään takaa. Käytä kohdennuskortteja tai taikaliemiä vaihtaaksesi suuntasi."
+      "Saa #b50% enemmän vauriota jos hyökätään takaa. Käytä kohdennuskortteja tai taikaliemiä vaihtaaksesi suuntasi."
     ]
   },
   "Compulsive": {
     "NAME": "Reagoiva",
     "DESCRIPTIONS": [
-      "Vaihtaa aikomuksensa vastaanottaessaan hyökkäysvahinkoa."
+      "Vaihtaa aikomuksensa vastaanottaessaan hyökkäysvauriota."
     ]
   },
   "Nirvana": {
@@ -1026,14 +1026,14 @@
   "BackAttack": {
     "NAME": "Takaa hyökkäys",
     "DESCRIPTIONS": [
-      "Tekee #b50% enemmän vahinkoa koska on hyökkäämässä takaa."
+      "Tekee #b50% enemmän vauriota koska on hyökkäämässä takaa."
     ]
   },
   "Vigor": {
     "NAME": "Tarmo",
     "DESCRIPTIONS": [
       "Seuraava Hyökkäyksesi tekee #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "Condense": {
@@ -1075,7 +1075,7 @@
     "NAME": "VANHENTUNUT Kuuma",
     "DESCRIPTIONS": [
       "Kun olet #yRaivossa, tee #b",
-      " vahinkoa takaisin aina kun vastaanotat hyökkäysvahinkoa."
+      " vauriota takaisin aina kun vastaanotat hyökkäysvauriota."
     ]
   },
   "FreeToPlayPower": {
@@ -1143,7 +1143,7 @@
     "NAME": "Ponnahdus",
   "DESCRIPTIONS": [
     "Ottaa #b",
-    " vahinkoa seuraavan vuorosi alussa."
+    " vauriota seuraavan vuorosi alussa."
   ]
   },
   "FlowPower": {
@@ -1210,7 +1210,7 @@
     "NAME": "Isku Ylös",
     "DESCRIPTIONS": [
       "Kortit jotka sisältävät #yIskun tekevät #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "Retribution": {
@@ -1230,7 +1230,7 @@
     "NAME": "Omega",
     "DESCRIPTIONS": [
       "Tee vuorosi lopussa #b",
-      " vahinkoa KAIKKIIN vihollisiin."
+      " vauriota KAIKKIIN vihollisiin."
     ]
   },
   "DuplicationPower": {
