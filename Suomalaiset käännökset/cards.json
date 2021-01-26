@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Luotiaika",
-    "DESCRIPTION": "Et voi nostaa lisäkortteja tällä vuorolla. Laske kaikkien käsikorttien hinnaksi 0 tällä vuorolla."
+    "DESCRIPTION": "Et voi nostaa lisäkortteja tällä vuorolla. Laske käsikorttien hinnaksi 0 tällä vuorolla."
   },
   "Burn": {
     "NAME": "Palovamma",
@@ -196,8 +196,8 @@
   },
   "Burst": {
     "NAME": "Syöksy",
-    "DESCRIPTION": "Seuraava Taitokorttisi pelataan kahteen kertaan tällä vuorolla.",
-    "UPGRADE_DESCRIPTION": "Seuraavat !M! Taitokorttiasi pelataan kahteen kertaan tällä vuorolla."
+    "DESCRIPTION": "Seuraava Taitosi pelataan kahteen kertaan tällä vuorolla.",
+    "UPGRADE_DESCRIPTION": "Seuraavat !M! Taitosi pelataan kahteen kertaan tällä vuorolla."
   },
   "Calculated Gamble": {
     "NAME": "Laskelmoitu riski",
@@ -291,7 +291,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Puhkeava ruumis",
-    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun vihollinen kuolee, tee vahinkoa yhtä paljon kuin sen MaksimiOP KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kuolee, tee vahinkoa sen MaksimiOP:n verran KAIKKIIN vihollisiin.",
     "UPGRADE_DESCRIPTION": "vanhentunut",
     "EXTENDED_DESCRIPTION": [
       "vanhentunut"
@@ -752,7 +752,7 @@
   },
   "Masterful Stab": {
     "NAME": "Taiturimainen pistos",
-    "DESCRIPTION": "Maksaa 1 lisä- [G] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vahinkoa.",
+    "DESCRIPTION": "Maksaa 1 lisää [G] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vahinkoa.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {

@@ -781,8 +781,8 @@
   "World of Goop": {
     "NAME": "Mönjän maailma",
     "DESCRIPTIONS": [
-      "Kaadut lätäkköön. NL @SE@ @ON@ @TEHTY@ #g@LIMAMÖNJÄSTÄ!!@ NL Hätääntyneenä kaavit itsesi moneksi minuutiksi ulos, samalla kun tunnet mönjän alkavan polttaa. NL Tunnet mönjää korvissasi, mönjää nenässäsi, monjää kaikkialla. NL NL Kiivetessäsi ulos, huomaat että osa #ykullastasi on kadonnut. Vilkaistaessasi takaisin lätäkköön näet puuttuvat kolikkosi muiden huono-onnisten seikkailijoiden #ykullan kanssa sekoitettuna lätäkössä.",
-      "Tuntien mönjän pistoksen pitkittyneen altistuminen alkaessa sulattaa ihoasi pois, kykenet kalastamaan #ykullan pois.",
+      "Kaadut lätäkköön. NL @SE@ @KOOSTUU@ #g@LIMAMÖNJÄSTÄ!!@ NL Hätääntyneenä kaavit itsesi moneksi minuutiksi ulos, samalla kun tunnet mönjän alkavan polttaa. NL Tunnet mönjää korvissasi, mönjää nenässäsi, mönjää kaikkialla. NL NL Kiivetessäsi ulos, huomaat että osa #ykullastasi on kadonnut. Vilkaistaessasi takaisin lätäkköön näet puuttuvat kolikkosi muiden huono-onnisten seikkailijoiden #ykullan kanssa sekoitettuna lätäkössä.",
+      "Tuntien mönjän pistoksen pitkittyneen altistumisen sulattessa ihoasi pois, kykenet kalastamaan #ykullan pois.",
       "Päätät, ettei koko sotku ole vaivan arvoinen."
     ],
     "OPTIONS": [

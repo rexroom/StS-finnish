@@ -11,7 +11,7 @@
     "NAME": "Muinainen teeastiasto",
     "FLAVOR": "Avain rauhalliseen yöuneen.",
     "DESCRIPTIONS": [
-      "Aina kun saavut lepopaikkaan, saat seuraavan taistelun alussa [E] [E] ."
+      "Aina kun saavut lepopaikkaan, saa seuraavan taistelun alussa [E] [E] ."
     ]
   },
   "Art of War": {
@@ -26,7 +26,7 @@
     "NAME": "Astrolabi",
     "FLAVOR": "Väline korvaamattoman tiedon poimimiseen tähdistä.",
     "DESCRIPTIONS": [
-      "Saadessasi tämän valitse ja #yMuunna #b3 korttia ja #yParantele ne.",
+      "Saadessasi tämän, valitse ja #yMuunna #b3 korttia ja #yParantele ne.",
       "Valitse 3 korttia: "
     ]
   },
@@ -156,7 +156,7 @@
   },
   "Calling Bell": {
     "NAME": "Kutsukello",
-    "FLAVOR": "Tämä tumma rautainen kello soi kolmesti kun löysit sen mutta on nyt äänetön.",
+    "FLAVOR": "Tämä synkkä rautainen kello soi kolmesti kun löysit sen, mutta on nyt äänetön.",
     "DESCRIPTIONS": [
       "Poimiessasi kellon, ota uniikki #rKirous ja #b3 reliikkiä.",
       "Kello lyö...",
@@ -176,7 +176,7 @@
     "NAME": "Satavuotisarvoitus",
     "FLAVOR": "Ratkaistessasi pulman tunnet voimakasta lämpöä rinnassasi.",
     "DESCRIPTIONS": [
-      "Ensimmäisen kerran kun menetät kussakin taistelussa HP:ta, nosta #b",
+      "Ensimmäisen kerran kun menetät kussakin taistelussa OP:tä, nosta #b",
       " korttia."
     ]
   },
@@ -236,7 +236,7 @@
     "NAME": "Kirottu avain",
     "FLAVOR": "Aistit pahantahtoista energiaa huokuvan avaimesta. Voimalla on hintansa.",
     "DESCRIPTIONS": [
-      " vuorosi alussa. Aina kun avaat arkun, joka ei ole Pomon vartioima, ota #rKirous.",
+      " vuorosi alussa. Aina kun avaat arkun joka ei ole Pomon vartioima, ota #rKirous.",
       "Saa [E]"
     ]
   },
@@ -252,7 +252,7 @@
     "NAME": "Datalevy",
     "FLAVOR": "Tällä levyllä on arvokasta tietoa linnuista ja käärmeistä.",
     "DESCRIPTIONS": [
-      "Joka taistelun alussa saat #b",
+      "Saa joka taistelun alussa #b",
       " #yFokusta."
     ]
   },
@@ -267,7 +267,7 @@
     "NAME": "Hömelökivi",
     "FLAVOR": "Varattu",
     "DESCRIPTIONS": [
-      "Vuorosi alussa saat' #b",
+      "Saa vuorosi alussa #b",
       " Varausta. NL (Ei voi poistaa eikä muuntaa.)"
     ]
   },
@@ -297,7 +297,7 @@
     "NAME": "Du-vu nukke",
     "FLAVOR": "Nukke, joka on suunniteltu ottamaan voimansa pahansuovasta energiasta.",
     "DESCRIPTIONS": [
-      "Jokaista pakkasi #yKirousta kohden saat taistelun alussa #b",
+      "Saa jokaista pakkasi #yKirousta kohden taistelun alussa #b",
       " #yVahvuutta.",
       " Sinulla ei ole #rKirousta.",
       " Sinulla on #b",
@@ -381,8 +381,8 @@
     "NAME": "Irviönsarvi",
     "FLAVOR": "\"Irviöjehut saattavat kasvaa aina kuolemaansa saakka. Merkillistä.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Aina kun vihollinen kuolee, saat ",
-      "[E] ja nostat #b1 kortin."
+      "Aina kun vihollinen kuolee, saa ",
+      "[E] ja nosta #b1 kortin."
     ]
   },
   "Happy Flower": {
@@ -404,19 +404,19 @@
     "NAME": "Siirtäjä",
     "FLAVOR": "Työnnä. Vedä. Kasaa. Toista.",
     "DESCRIPTIONS": [
-      "Joka #b2 vuoron välein saat #b1 paikan energiapallolle."
+      "Saa joka #b2 vuoron välein #b1 paikka energiapallolle."
     ]
   },
   "Juzu Bracelet": {
     "NAME": "Juzu-ranneke",
     "FLAVOR": "Suoja tuntematonta vastaan.",
     "DESCRIPTIONS": [
-      "Et enää kohtaa normaaleja vihollisia #y? huoneissa."
+      "Et enää kohtaa normaaleja vihollisia #y?-huoneissa."
     ]
   },
   "Kunai": {
     "NAME": "Kunai",
-    "FLAVOR": "Salamurhaajien suosima tappava teräase sen toimintaetäisyyden takia.",
+    "FLAVOR": "Salamurhaajien suosima tappava teräase sen toimintaetäisyyden vuoksi.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #b",
       " #yHyökkäystä vuoron aikana, saa #b",
@@ -459,7 +459,7 @@
     "NAME": "Liskon häntä",
     "FLAVOR": "Valehäntä vihollisten hämäämiseen taistelun aikana.",
     "DESCRIPTIONS": [
-      "Kuolemisen sijaan parannu #b50%:n maksimiHP:stasi (toimii kerran)."
+      "Kuolemisen sijaan parannu #b50%:n maksimiOP:stasi (toimii kerran)."
     ]
   },
   "Magic Flower": {
@@ -487,8 +487,8 @@
     "NAME": "Maatuska",
     "FLAVOR": "Pinottavia, maalattuja nukkeja. Niiden kuvituksena on tuntematon lintu, jolla on valkoiset silmät ja siniset höyhenet.",
     "DESCRIPTIONS": [
-      "Seuraavat #b2 arkkua, jotka eivät ole pomon vartioimia, sisältävät #b2 #yReliikkiä.",
-      "Seuraava arkku, joka ei ole pomon vartioima, sisältää #b2 #yReliikkiä.",
+      "Seuraavat #b2 arkkua jotka eivät ole Pomon vartioimia sisältävät #b2 #yReliikkiä.",
+      "Seuraava arkku joka ei ole Pomon vartioima sisältää #b2 #yReliikkiä.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
@@ -496,7 +496,7 @@
     "NAME": "Lihaisa luu",
     "FLAVOR": "Tämän liha tuntuu palautuvan yhä uudelleen eikä tunnu koskaan loppuvan.",
     "DESCRIPTIONS": [
-      "Jos HP:si on alle #b50% taistelun lopussa, paranna #b",
+      "Jos OP:si on alle #b50% taistelun lopussa, paranna #b",
       " OP:tä."
     ]
   },
@@ -608,7 +608,7 @@
     "NAME": "Vanha kolikko",
     "FLAVOR": "Kauppiaat arvostavat ainutlaatuisia kolikoita niiden historiallisen arvon ja harvinaisten metallien takia.",
     "DESCRIPTIONS": [
-      "Poimiessa kolikon, saat #b300 #yKultaa."
+      "Poimiessa kolikon, saa #b300 #yKultaa."
     ]
   },
   "Omamori": {
@@ -632,7 +632,7 @@
     "NAME": "Koristeellinen viuhka",
     "FLAVOR": "Viuhka vaikuttaa kasvavan ja kovettuvan veren virratessa.",
     "DESCRIPTIONS": [
-      "Aina kun pelaat #b3 #yHyökkäystä vuoron aikana, saat #b",
+      "Aina kun pelaat #b3 #yHyökkäystä vuoron aikana, saa #b",
       " #yTorjuntaa."
     ]
   },
@@ -719,7 +719,7 @@
   },
   "Question Card": {
     "NAME": "Kysymyskortti",
-    "FLAVOR": "\"Ne joilla on enemmän vaihtoehtoja minimoivat kaaoksen vaikutuksen.\" - Kublai Suuri",
+    "FLAVOR": "\"Niillä joilla on enemmän vaihtoehtoja minimoivat kaaoksen vaikutuksen.\" - Kublai Suuri",
     "DESCRIPTIONS": [
       "Tulevissa korttipalkinnoissa on #b1 lisäkortti valittavana."
     ]
@@ -743,7 +743,7 @@
     "NAME": "Punainen kallo",
     "FLAVOR": "Koristeellisesti maalattujen kuvioiden peittämä pieni pääkallo.",
     "DESCRIPTIONS": [
-      "Kun OP on joko tai alle #b50%, saat #b",
+      "Kun OP on joko tai alle #b50%, saa #b",
       " lisää #yVahvuutta."
     ]
   },
@@ -751,7 +751,7 @@
     "NAME": "Kuninkaallinen tyyny",
     "FLAVOR": "Vihdoinkin kunnon yöunet.",
     "DESCRIPTIONS": [
-      "Paranna #b",
+      "Parantaa #b",
       " lisä-OP:tä aina kun #yLepäät."
     ]
   },
@@ -823,7 +823,7 @@
     "FLAVOR": "Keveitä heittoaseita. Suositellaan tähdättäviksi silmiin.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #b",
-      " #yHyökkäystä yhdessä vuorossa, saat #b",
+      " #yHyökkäystä yhdessä vuorossa, saa #b",
       " #yVahvuutta."
     ]
   },
@@ -891,7 +891,7 @@
     "FLAVOR": "\"Varhaisihmisten typerä pakkomielle aikaan sai heidät etsimään taivaalta opastusta, etsimään jotain pysyvää.\" - Zoroth",
     "DESCRIPTIONS": [
       "Joka #b",
-      " kerta kun sekoitat pakkaasi, NL saa [E] [E] ."
+      ". kerta kun sekoitat pakkaasi, NL saa [E] [E] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1110,7 +1110,7 @@
     "FLAVOR": "Kun vedetään avaimesta, kenkä kasvaa isommaksi.",
     "DESCRIPTIONS": [
       "Kun olet tekemässä #b",
-      " tai vähemmän torjumatonta hyökkäysvahinkoa, nosta se #b5."
+      " tai vähemmän torjumatonta hyökkäysvahinkoa, tee sen sijaan #b5 vahinkoa."
     ]
   },
   "Mark of the Bloom": {
@@ -1354,7 +1354,7 @@
     "FLAVOR": "Yllättävän suosittu, huolimatta kitahyökkäysten yleisyydestä.",
     "DESCRIPTIONS": [
       "Kun kiipeät kerroksen, saa #b",
-      " #yKultaa. Ei enää toimi kun kulutat #yKultaa kaupassa.",
+      " #yKultaa. Lakkaa toimimasta kun kulutat #yKultaa kaupassa.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
