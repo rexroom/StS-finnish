@@ -18,8 +18,8 @@
   },
   "After Image": {
     "NAME": "Jälkikuva",
-    "DESCRIPTION": "Kun pelaat kortin, saa 1 Torjunta.",
-    "UPGRADE_DESCRIPTION": "Luontainen. NL Kun pelaat kortin, saa 1 Torjunta."
+    "DESCRIPTION": "Kun pelaat kortin, saa 1 Suoja.",
+    "UPGRADE_DESCRIPTION": "Luontainen. NL Kun pelaat kortin, saa 1 Suoja."
   },
   "Aggregate": {
     "NAME": "Kokonaisuus",
@@ -52,8 +52,8 @@
   },
   "Armaments": {
     "NAME": "Aseistus",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Parantele kortti kädestäsi taistelun ajaksi.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Parantele kaikki kortit kädessäsi taistelun ajaksi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Parantele kortti kädestäsi taistelun ajaksi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Parantele kaikki kortit kädessäsi taistelun ajaksi."
   },
   "AscendersBane": {
     "NAME": "Nousukkaan turma",
@@ -61,7 +61,7 @@
   },
   "Auto Shields": {
     "NAME": "Auto-kilvet",
-    "DESCRIPTION": "Jos sinulla ei ole Torjuntaa, saa !B! Torjuntaa."
+    "DESCRIPTION": "Jos sinulla ei ole Suojaa, saa !B! Suojaa."
   },
   "Axe Kick": {
     "NAME": "Kirvespotku",
@@ -69,7 +69,7 @@
   },
   "Backflip": {
     "NAME": "Takaperinvoltti",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Nosta 2 korttia."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Nosta 2 korttia."
   },
   "Backstab": {
     "NAME": "Selkäänpuukotus",
@@ -93,7 +93,7 @@
   },
   "Barricade": {
     "NAME": "Barrikadi",
-    "DESCRIPTION": "Torjuntaa ei poisteta vuorosi alussa."
+    "DESCRIPTION": "Suojaa ei poisteta vuorosi alussa."
   },
   "Bash": {
     "NAME": "Murskaa",
@@ -156,16 +156,16 @@
   },
   "Blur": {
     "NAME": "Sumenna",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Torjuntaa ei poisteta seuraavan vuorosi alussa."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Suojaa ei poisteta seuraavan vuorosi alussa."
   },
   "Body Slam": {
     "NAME": "Vartalotaklaus",
-    "DESCRIPTION": "Tee Torjuntasi verran vauriota.",
+    "DESCRIPTION": "Tee Suojasi verran vauriota.",
     "UPGRADE_DESCRIPTION": " NL (Tekee !D! vauriota.)"
   },
   "BootSequence": {
     "NAME": "Käynnistysjärjestys",
-    "DESCRIPTION": "Luontainen. NL Saa !B! Torjuntaa. NL Kuluta."
+    "DESCRIPTION": "Luontainen. NL Saa !B! Suojaa. NL Kuluta."
   },
   "Bouncing Flask": {
     "NAME": "Pomppiva puteli",
@@ -253,8 +253,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "Salakähmintää",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Lisää !M! *Puukko käteesi.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Lisää !M! *Puukkoa käteesi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! *Puukko käteesi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! *Puukkoa käteesi."
   },
   "Clothesline": {
     "NAME": "Pyykkinaru",
@@ -278,7 +278,7 @@
   },
   "Conserve Battery": {
     "NAME": "Varaa akku",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Saa seuraavalla vuorolla [B]."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Saa seuraavalla vuorolla [B]."
   },
   "Consume": {
     "NAME": "Kuluta",
@@ -332,7 +332,7 @@
   },
   "Dash": {
     "NAME": "Ryntäys",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Tee !D! vauriota."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Tee !D! vauriota."
   },
   "Dazed": {
     "NAME": "Pää pyörällä",
@@ -353,23 +353,23 @@
   },
   "Defend_B": {
     "NAME": "Puolusta",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Defend_G": {
     "NAME": "Puolusta",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Defend_R": {
     "NAME": "Puolusta",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Defend_P": {
     "NAME": "Puolusta",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Deflect": {
     "NAME": "Torju",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Defragment": {
     "NAME": "Eheytys",
@@ -393,7 +393,7 @@
   },
   "Dodge and Roll": {
     "NAME": "Väistöliike",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Seuraavalla vuorolla saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Seuraavalla vuorolla saa !B! Suojaa."
   },
   "Doom and Gloom": {
     "NAME": "Pimeys ja perikato",
@@ -451,8 +451,8 @@
   },
   "Energy Pulse": {
     "NAME": "Energiapulssi",
-    "DESCRIPTION": "Saa Torjuntaa Energiaasi verran.",
-    "UPGRADE_DESCRIPTION": "Saa Torjuntaa kaksinkerroin Energiaasi verran."
+    "DESCRIPTION": "Saa Suojaa Energiaasi verran.",
+    "UPGRADE_DESCRIPTION": "Saa Suojaa kaksinkerroin Energiaasi verran."
   },
   "Enlightenment": {
     "NAME": "Valaistunut",
@@ -461,8 +461,8 @@
   },
   "Entrench": {
     "NAME": "Kaivaudu asemiin",
-    "DESCRIPTION": "Tuplaa Torjuntasi.",
-    "UPGRADE_DESCRIPTION": "Tuplaa Torjuntasi."
+    "DESCRIPTION": "Tuplaa Suojasi.",
+    "UPGRADE_DESCRIPTION": "Tuplaa Suojasi."
   },
   "Envenom": {
     "NAME": "Myrkytä",
@@ -470,7 +470,7 @@
   },
   "Escape Plan": {
     "NAME": "Pakosuunnitelma",
-    "DESCRIPTION": "Nosta 1 kortti. NL Jos nostit Kykykortin, saa  !B! Torjuntaa."
+    "DESCRIPTION": "Nosta 1 kortti. NL Jos nostit Kykykortin, saa  !B! Suojaa."
   },
   "Eviscerate": {
     "NAME": "Suolista",
@@ -504,7 +504,7 @@
   },
   "Feel No Pain": {
     "NAME": "Ei tunnu missään",
-    "DESCRIPTION": "Aina kun Kulutat kortin, NL saa !M! Torjuntaa."
+    "DESCRIPTION": "Aina kun Kulutat kortin, NL saa !M! Suojaa."
   },
   "Fiend Fire": {
     "NAME": "Pirunliekki",
@@ -512,7 +512,7 @@
   },
   "Finesse": {
     "NAME": "Taidokkuus",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Nosta 1 kortti."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Nosta 1 kortti."
   },
   "Finisher": {
     "NAME": "Lopetus",
@@ -534,7 +534,7 @@
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Kun kimppuusi hyökätään tällä vuorolla, anna !M! vauriota takaisin."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Kun kimppuusi hyökätään tällä vuorolla, anna !M! vauriota takaisin."
   },
   "Flash of Steel": {
     "NAME": "Teräksen väläys",
@@ -567,7 +567,7 @@
   },
   "Force Field": {
     "NAME": "Suojakenttä",
-    "DESCRIPTION": "Maksaa 1 vähemmän [B] jokaisesta pelatusta Voimasta taistelun aikana. NL Saa !B! Torjuntaa."
+    "DESCRIPTION": "Maksaa 1 vähemmän [B] jokaisesta pelatusta Voimasta taistelun aikana. NL Saa !B! Suojaa."
   },
   "Fusion": {
     "NAME": "Fuusio",
@@ -579,7 +579,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Geneettinen algoritmi",
-    "DESCRIPTION": "Saa !B! Torjuntaa. Lisää !M! tämän kortin Torjuntaan pysyvästi. NL Kuluta."
+    "DESCRIPTION": "Saa !B! Suojaa. Lisää !M! tämän kortin Suojaan pysyvästi. NL Kuluta."
   },
   "Ghostly": {
     "NAME": "Haamu",
@@ -588,12 +588,12 @@
   },
   "Ghostly Armor": {
     "NAME": "Aavemainen haarniska",
-    "DESCRIPTION": "Eteerinen. NL Saa !B! Torjuntaa."
+    "DESCRIPTION": "Eteerinen. NL Saa !B! Suojaa."
   },
   "Glacier": {
     "NAME": "Jäätikkö",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Kanavoi !M! Pakkasta.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Kanavoi !M! Pakkasta."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Kanavoi !M! Pakkasta.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Kanavoi !M! Pakkasta."
   },
   "Glass Knife": {
     "NAME": "Lasiveitsi",
@@ -605,7 +605,7 @@
   },
   "Good Instincts": {
     "NAME": "Hyvät vaistot",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Grand Finale": {
     "NAME": "Loppunäytös",
@@ -649,8 +649,8 @@
   },
   "Hologram": {
     "NAME": "Hologrammi",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Laita kortti poistopinostasi käteesi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Laita kortti poistopinostasi käteesi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Laita kortti poistopinostasi käteesi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Laita kortti poistopinostasi käteesi."
   },
   "Hyperbeam": {
     "NAME": "Hypersäde",
@@ -662,7 +662,7 @@
   },
   "Impervious": {
     "NAME": "Läpäisemätön",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Kuluta."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Kuluta."
   },
   "Infernal Blade": {
     "NAME": "Hornan terä",
@@ -687,7 +687,7 @@
   },
   "Iron Wave": {
     "NAME": "Rauta-aalto",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Tee !D! vauriota."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Tee !D! vauriota."
   },
   "J.A.X.": {
     "NAME": "H.A.B.A.",
@@ -700,15 +700,15 @@
   },
   "Juggernaut": {
     "NAME": "Pysäyttämätön voima",
-    "DESCRIPTION": "Kun saat Torjuntaa, tee !M! vauriota satunnaiselle viholliselle."
+    "DESCRIPTION": "Kun saat Suojaa, tee !M! vauriota satunnaiselle viholliselle."
   },
   "Leap": {
     "NAME": "Loikkaa",
-    "DESCRIPTION": "Saa !B! Torjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Leg Sweep": {
     "NAME": "Jalat alta",
-    "DESCRIPTION": "Lisää !M! Heikkoutta. NL Lisää !B! Torjuntaa."
+    "DESCRIPTION": "Lisää !M! Heikkoutta. NL Lisää !B! Suojaa."
   },
   "Limit Break": {
     "NAME": "Rajan rike",
@@ -765,7 +765,7 @@
   },
   "Metallicize": {
     "NAME": "Metallisoi",
-    "DESCRIPTION": "Saa !M! Torjuntaa vuorosi lopussa."
+    "DESCRIPTION": "Saa !M! Suojaa vuorosi lopussa."
   },
   "Metamorphosis": {
     "NAME": "Metamorfoosi",
@@ -870,7 +870,7 @@
   },
   "Power Through": {
     "NAME": "Sisukkuus",
-    "DESCRIPTION": "Lisää 2 *Haavaa käteesi. NL Saa !B! Torjuntaa."
+    "DESCRIPTION": "Lisää 2 *Haavaa käteesi. NL Saa !B! Suojaa."
   },
   "Predator": {
     "NAME": "Saalistaja",
@@ -896,7 +896,7 @@
   },
   "Rage": {
     "NAME": "Raivo",
-    "DESCRIPTION": "Kun pelaat tällä vuorolla Hyökkäyksen, saa !M! Torjuntaa."
+    "DESCRIPTION": "Kun pelaat tällä vuorolla Hyökkäyksen, saa !M! Suojaa."
   },
   "Rainbow": {
     "NAME": "Sateenkaari",
@@ -945,7 +945,7 @@
   },
   "Reinforced Body": {
     "NAME": "Vahvistettu runko",
-    "DESCRIPTION": "Saa !B! Torjuntaa X kertaa."
+    "DESCRIPTION": "Saa !B! Suojaa X kertaa."
   },
   "Reprogram": {
     "NAME": "Uudelleenohjelmoi",
@@ -978,7 +978,7 @@
   },
   "Second Wind": {
     "NAME": "Tasaantuminen",
-    "DESCRIPTION": "Kuluta kaikki kortit paitsi Hyökkäykset kädestäsi. Saat !B! Torjuntaa jokaisesta Kulutetusta kortista."
+    "DESCRIPTION": "Kuluta kaikki kortit paitsi Hyökkäykset kädestäsi. Saat !B! Suojaa jokaisesta Kulutetusta kortista."
   },
   "Secret Technique": {
     "NAME": "Salainen tekniikka",
@@ -1011,8 +1011,8 @@
   },
   "Sentinel": {
     "NAME": "Vartiomies",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Jos tämä kortti Kulutetaan, NL saa [R] [R].",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Jos tämä kortti Kulutetaan, NL saa [R] [R] [R]."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Jos tämä kortti Kulutetaan, NL saa [R] [R].",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Jos tämä kortti Kulutetaan, NL saa [R] [R] [R]."
   },
   "Setup": {
     "NAME": "Valmistelu",
@@ -1036,7 +1036,7 @@
   },
   "Shrug It Off": {
     "NAME": "Olankohautus",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Nosta 1 kortti."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Nosta 1 kortti."
   },
   "Skewer": {
     "NAME": "Varrasta",
@@ -1060,10 +1060,10 @@
   },
   "Stack": {
     "NAME": "Pino",
-    "DESCRIPTION": "Saa Torjuntaa saman verran kuin poistopinossasi on kortteja.",
-    "UPGRADE_DESCRIPTION": "Saa Torjuntaa saman verran kuin poistopinossasi on kortteja +3.",
+    "DESCRIPTION": "Saa Suojaa saman verran kuin poistopinossasi on kortteja.",
+    "UPGRADE_DESCRIPTION": "Saa Suojaa saman verran kuin poistopinossasi on kortteja +3.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Saa !B! Torjuntaa.)"
+      " NL (Saa !B! Suojaa.)"
     ]
   },
   "Static Discharge": {
@@ -1073,7 +1073,7 @@
   },
   "Steam": {
     "NAME": "Höyrymuuri",
-    "DESCRIPTION": "Saa !B! Torjuntaa. Vähennä tämän kortin Torjuntaa 1:llä taistelun aikana."
+    "DESCRIPTION": "Saa !B! Suojaa. Vähennä tämän kortin Suojaa 1:llä taistelun aikana."
   },
   "Steam Power": {
     "NAME": "Ylikellota",
@@ -1119,7 +1119,7 @@
   },
   "Survivor": {
     "NAME": "Selviytyjä",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Poista 1 kortti."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Poista 1 kortti."
   },
   "Sweeping Beam": {
     "NAME": "Kaartuva säde",
@@ -1186,8 +1186,8 @@
   },
   "True Grit": {
     "NAME": "Sisu",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Kuluta 1 satunnainen kortti.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Kuluta 1 kortti."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Kuluta 1 satunnainen kortti.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Kuluta 1 kortti."
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1207,7 +1207,7 @@
   },
   "Undo": {
     "NAME": "Mielenrauha",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Säilytä kätesi tämän vuoron."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Säilytä kätesi tämän vuoron."
   },
   "Unload": {
     "NAME": "Takki auki",
@@ -1281,7 +1281,7 @@
   },
   "PanicButton": {
     "NAME": "Paniikkinappi",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Et voi saada lisää Torjuntaa !M! vuoroon. NL Kuluta."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Et voi saada lisää Suojaa !M! vuoroon. NL Kuluta."
   },
   "HandOfGreed": {
     "NAME": "Ahneuden käsi",
@@ -1307,7 +1307,7 @@
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Kun Ennustat, lisää !M! Torjuntaa.",
+    "DESCRIPTION": "Kun Ennustat, lisää !M! Suojaa.",
     "UPGRADE_DESCRIPTION": ""
   },
   "EmptyFist": {
@@ -1316,7 +1316,7 @@
   },
   "EmptyBody": {
     "NAME": "Tyhjä ruumis",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Poistu Asennostasi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Poistu Asennostasi."
   },
   "WreathOfFlame": {
     "NAME": "Liekkiseppele",
@@ -1328,7 +1328,7 @@
   },
   "MentalFortress": {
     "NAME": "Mielenlinnake",
-    "DESCRIPTION": "Kun vaihdat Asentoa, saa !M! Torjuntaa."
+    "DESCRIPTION": "Kun vaihdat Asentoa, saa !M! Suojaa."
   },
   "Mastery": {
     "NAME": "Hallinta",
@@ -1392,11 +1392,11 @@
   },
   "StepAndStrike": {
     "NAME": "VANHENTUNUT Askel ja isku",
-    "DESCRIPTION": "Maksaa 1 vähemmän per vaihdettu Asento tällä vuorolla. NL Saa !B! Torjuntaa. NL Tee !D! vauriota."
+    "DESCRIPTION": "Maksaa 1 vähemmän per vaihdettu Asento tällä vuorolla. NL Saa !B! Suojaa. NL Tee !D! vauriota."
   },
   "Survey": {
     "NAME": "VANHENTUNUT Silmäile",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Saa !M! Tarmoa."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Saa !M! Tarmoa."
   },
   "Swipe": {
     "NAME": "VANHENTUNUT Huitaisu",
@@ -1413,8 +1413,8 @@
   },
   "RetreatingHand": {
     "NAME": "VANHENTUNUT Vetäytyvä käsi",
-    "DESCRIPTION": "Eteerinen. NL Saa !B! Torjuntaa. Jos edellinen pelaamasi kortti oli Hyökkäys, palauta tämä kortti käteesi.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. Jos edellinen pelaamasi kortti oli Hyökkäys, palauta tämä kortti käteesi."
+    "DESCRIPTION": "Eteerinen. NL Saa !B! Suojaa. Jos edellinen pelaamasi kortti oli Hyökkäys, palauta tämä kortti käteesi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. Jos edellinen pelaamasi kortti oli Hyökkäys, palauta tämä kortti käteesi."
   },
   "Flare": {
     "NAME": "VANHENTUNUT Leimahdus",
@@ -1436,7 +1436,7 @@
   },
   "Experienced": {
     "NAME": "VANHENTUNUT Kokenut",
-    "DESCRIPTION": "Saa !B! Torjuntaa per Paranneltu kortti kädessäsi."
+    "DESCRIPTION": "Saa !B! Suojaa per Paranneltu kortti kädessäsi."
   },
   "Judgement": {
     "NAME": "Tuomio",
@@ -1464,7 +1464,7 @@
   },
   "ThirdEye": {
     "NAME": "Kolmas silmä",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Ennusta !M!."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Ennusta !M!."
   },
   "SublimeSlice": {
     "NAME": "VANHENTUNUT Ylevä leikkaus",
@@ -1476,7 +1476,7 @@
   },
   "Prediction": {
     "NAME": "VANHENTUNUT Ennustus",
-    "DESCRIPTION": "Saa !B! Torjuntaa seuraavan vuorosi alussa."
+    "DESCRIPTION": "Saa !B! Suojaa seuraavan vuorosi alussa."
   },
   "Worship": {
     "NAME": "Palvonta",
@@ -1558,12 +1558,12 @@
   },
   "DeceiveReality": {
     "NAME": "Huijaa todellisuutta",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Lisää *Turva NL käteesi.",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää *Turva NL käteesi.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Safety": {
     "NAME": "Turva",
-    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Kuluta."
   },
   "Wisdom": {
     "NAME": "Viisaus",
@@ -1584,7 +1584,7 @@
   },
   "WardAura": {
     "NAME": "VANHENTUNUT Torjuva aura",
-    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Saa vuorosi alussa !M! Torjuntaa."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Saa vuorosi alussa !M! Suojaa."
   },
   "Metaphysics": {
     "NAME": "VANHENTUNUT",
@@ -1593,8 +1593,8 @@
   },
   "Evaluate": {
     "NAME": "Arviointi",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Sekoita *Oivallus nostopinoosi.",
-    "UPGRADE_DESCRIPTION": "Saa !B! Torjuntaa. NL Sekoita *Oivallus+ nostopinoosi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Sekoita *Oivallus nostopinoosi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Sekoita *Oivallus+ nostopinoosi."
   },
   "Devotion": {
     "NAME": "Hartaus",
@@ -1631,7 +1631,7 @@
   },
   "Shield": {
     "NAME": "VANHENTUNUT Kilpi",
-    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Kuluta."
   },
   "CrescentKick": {
     "NAME": "VANHENTUNUT Nouseva potku",
@@ -1639,7 +1639,7 @@
   },
   "TalkToTheHand": {
     "NAME": "Puhu kädelle",
-    "DESCRIPTION": "Tee !D! vauriota. NL Kun hyökkäät tätä vihollista, saa !M! Torjuntaa. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota. NL Kun hyökkäät tätä vihollista, saa !M! Suojaa. NL Kuluta."
   },
   "BattleHymn": {
     "NAME": "Taisteluhymni",
@@ -1648,7 +1648,7 @@
   },
   "Prostrate": {
     "NAME": "Heittäytyminen",
-    "DESCRIPTION": "Saa !M! Mantraa. NL Saa !B! Torjuntaa.",
+    "DESCRIPTION": "Saa !M! Mantraa. NL Saa !B! Suojaa.",
     "UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Punishment": {
@@ -1665,18 +1665,18 @@
   },
   "WaveOfTheHand": {
     "NAME": "Kädenheilautus",
-    "DESCRIPTION": "Kun saat Torjuntaa tällä vuorolla, lisää !M! Heikkoutta KAIKILLE vihollisille."
+    "DESCRIPTION": "Kun saat Suojaa tällä vuorolla, lisää !M! Heikkoutta KAIKILLE vihollisille."
   },
   "SpiritShield": {
     "NAME": "Henkikilpi",
-    "DESCRIPTION": "Saa !M! Torjuntaa per kortti kädessäsi.",
+    "DESCRIPTION": "Saa !M! Suojaa per kortti kädessäsi.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Saa !B! Torjuntaa.)"
+      " NL (Saa !B! Suojaa.)"
     ]
   },
   "Vigilance": {
     "NAME": "Valppaus",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Astu Tyyneyteen.",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Astu Tyyneyteen.",
     "UPGRADE_DESCRIPTION": "Vanhentunut."
   },
   "Serenity": {
@@ -1697,7 +1697,7 @@
   },
   "Perseverance": {
     "NAME": "Sinnikkyys",
-    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa. NL Lisää tämän Torjuntaa !M! tässä taistelussa kun Säilytetään."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Lisää tämän Suojaa !M! tässä taistelussa kun Säilytetään."
   },
   "CrushJoints": {
     "NAME": "Murra nivelet",
@@ -1709,7 +1709,7 @@
   },
   "Sanctity": {
     "NAME": "Pyhyys",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, nosta !M! korttia."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, nosta !M! korttia."
   },
   "Omniscience": {
     "NAME": "Kaikkitietävyys",
@@ -1723,11 +1723,11 @@
   },
   "Swivel": {
     "NAME": "Pyörähdys",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Seuraava pelattava Hyökkäys maksaa 0."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Seuraava pelattava Hyökkäys maksaa 0."
   },
   "Protect": {
     "NAME": "Suojele",
-    "DESCRIPTION": "Säilytä. NL Saa !B! Torjuntaa."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa."
   },
   "FlyingSleeves": {
     "NAME": "Lentävät hihat",
@@ -1768,7 +1768,7 @@
   },
   "JustLucky": {
     "NAME": "Onnetar",
-    "DESCRIPTION": "Ennusta !M!. NL Saa !B! Torjuntaa. NL Tee !D! vauriota."
+    "DESCRIPTION": "Ennusta !M!. NL Saa !B! Suojaa. NL Tee !D! vauriota."
   },
   "Weave": {
     "NAME": "Pujotus",
@@ -1826,11 +1826,11 @@
   },
   "Wallop": {
     "NAME": "Kumautus",
-    "DESCRIPTION": "Tee !D! vauriota. NL Saa Torjuntaa saman verran kuin torjumatonta vauriota."
+    "DESCRIPTION": "Tee !D! vauriota. NL Saa Suojaa saman verran kuin torjumatonta vauriota."
   },
   "Halt": {
     "NAME": "Seis",
-    "DESCRIPTION": "Saa !B! Torjuntaa. NL Jos olet Raivossa, saa !M! lisäTorjuntaa."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Jos olet Raivossa, saa !M! lisäSuojaa."
   },
   "WheelKick": {
     "NAME": "Kiertopotku",
@@ -1881,6 +1881,6 @@
   },
   "LikeWater": {
     "NAME": "Kuin vettä",
-    "DESCRIPTION": "Jos olet Tyyni vuorosi lopussa, saa !M! Torjuntaa."
+    "DESCRIPTION": "Jos olet Tyyni vuorosi lopussa, saa !M! Suojaa."
   }
 }

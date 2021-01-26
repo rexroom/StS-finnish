@@ -14,10 +14,10 @@
     ]
   },
   "Block Potion": {
-    "NAME": "Torjuntajuoma",
+    "NAME": "Suojajuoma",
     "DESCRIPTIONS": [
       "Saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "BloodPotion": {

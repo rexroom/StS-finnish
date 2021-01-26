@@ -10,7 +10,7 @@
     "NAME": "Jälkikuva",
     "DESCRIPTIONS": [
       "Kun pelaat kortin, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Amplify": {
@@ -56,8 +56,8 @@
   "Barricade": {
     "NAME": "Barrikadi",
     "DESCRIPTIONS": [
-      "#yTorjuntaa ei poisteta vuorosi alussa.",
-      "#yTorjuntaa ei poisteta vuoronsa alussa."
+      "#ySuojaa ei poisteta vuorosi alussa.",
+      "#ySuojaa ei poisteta vuoronsa alussa."
     ]
   },
   "Berserk": {
@@ -77,8 +77,8 @@
   "Blur": {
     "NAME": "Sumea",
     "DESCRIPTIONS": [
-      "#yTorjuntaa ei poisteta seuraavan vuorosi alussa.",
-      "#yTorjuntaa ei poisteta seuraavien #b",
+      "#ySuojaa ei poisteta seuraavan vuorosi alussa.",
+      "#ySuojaa ei poisteta seuraavien #b",
       " vuoron alussa."
     ]
   },
@@ -177,7 +177,7 @@
     "NAME": "Käpertyvä",
     "DESCRIPTIONS": [
       "Ottaessaan hyökkäysvauriota, rullautuu kasaan ja saa #b",
-      " #yTorjuntaa. (Kerran taistelussa)"
+      " #ySuojaa. (Kerran taistelussa)"
     ]
   },
   "Dance Puppet": {
@@ -214,8 +214,8 @@
   "Dexterity": {
     "NAME": "Näppäryys",
     "DESCRIPTIONS": [
-      "Nostaa korttien #yTorjuntaa #b",
-      "Laskee korttien #yTorjuntaa #b",
+      "Nostaa korttien #ySuojaa #b",
+      "Laskee korttien #ySuojaa #b",
       "."
     ]
   },
@@ -345,7 +345,7 @@
     "NAME": "Ei tunnu missään",
     "DESCRIPTIONS": [
       "Kun kortti #yKulutetaan, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Fire Breathing": {
@@ -387,7 +387,7 @@
   "Frail": {
     "NAME": "Hauras",
     "DESCRIPTIONS": [
-      "Saa #b25% vähemmän #yTorjuntaa korteista #b",
+      "Saa #b25% vähemmän #ySuojaa korteista #b",
       " vuoroon.",
       " vuoroon."
     ]
@@ -484,13 +484,13 @@
   "Inverted": {
     "NAME": "Nurinpäin",
     "DESCRIPTIONS": [
-      "Immuuni vahingolle. Kun saat #yTorjuntaa, menettää yhtä paljon OP:tä."
+      "Immuuni vahingolle. Kun saat #ySuojaa, menettää yhtä paljon OP:tä."
     ]
   },
   "Juggernaut": {
     "NAME": "Pysäyttämätön voima",
     "DESCRIPTIONS": [
-      "Kun saat #yTorjuntaa, tee #b",
+      "Kun saat #ySuojaa, tee #b",
       " vauriota satunnaiselle viholliselle."
     ]
   },
@@ -551,7 +551,7 @@
     "NAME": "Taipuisa",
     "DESCRIPTIONS": [
       "Saa #b",
-      " #yTorjuntaa ottaessaan hyökkäysvauriota. #yTorjunnan saanti lisääntyy kun ",
+      " #ySuojaa ottaessaan hyökkäysvauriota. #yTorjunnan saanti lisääntyy kun ",
       " aktivoituu. Nollautuu arvoon #b",
       " vuorosi alussa."
     ]
@@ -568,9 +568,9 @@
     "NAME": "Metallisoi",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #yTorjuntaa.",
+      " #ySuojaa.",
       "Saa vuoronsa lopussa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Minion": {
@@ -587,10 +587,10 @@
     ]
   },
   "Next Turn Block": {
-    "NAME": "Seuraavan vuoron Torjunta",
+    "NAME": "Seuraavan vuoron Suoja",
     "DESCRIPTIONS": [
       "Saa #b",
-      " #yTorjuntaa seuraavalla vuorolla."
+      " #ySuojaa seuraavalla vuorolla."
     ]
   },
   "Night Terror": {
@@ -658,9 +658,9 @@
     "NAME": "Panssarilevy",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #yTorjuntaa. Saatuasi suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy.",
+      " #ySuojaa. Saatuasi suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy.",
       "Saa vuoronsa lopussa #b",
-      " #yTorjuntaa. Saatuaan suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy."
+      " #ySuojaa. Saatuaan suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy."
     ]
   },
   "Poison": {
@@ -691,7 +691,7 @@
     "NAME": "Raivo",
     "DESCRIPTIONS": [
       "Kun pelaat #yHyökkäyksen tällä vuorolla, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Rebound": {
@@ -992,7 +992,7 @@
   "NoBlockPower": {
     "NAME": "Ei torjuntaa",
     "DESCRIPTIONS": [
-      "Et voi saada #yTorjuntaa korteista."
+      "Et voi saada #ySuojaa korteista."
     ]
   },
   "CorpseExplosionPower": {
@@ -1020,7 +1020,7 @@
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
       "Kun Ennustat, saa #b",
-	  " #yTorjuntaa."
+	  " #ySuojaa."
     ]
   },
   "BackAttack": {
@@ -1068,7 +1068,7 @@
     "NAME": "Mielenlinnake",
     "DESCRIPTIONS": [
       "Kun vaihdat #yAsentoa, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "HotHot": {
@@ -1172,7 +1172,7 @@
     "NAME": "Torju takaisin",
     "DESCRIPTIONS": [
     "Saa hyökättynä #b",
-    " #yTorjuntaa."
+    " #ySuojaa."
   ]
   },
   "BattleHymn": {
@@ -1268,7 +1268,7 @@
   "WaveOfTheHandPower": {
     "NAME": "Kädenheilautus",
     "DESCRIPTIONS": [
-      "Kun saat #yTorjuntaa, lisää #b",
+      "Kun saat #ySuojaa, lisää #b",
       " #yHeikkoutta KAIKKIIN vihollisiin."
     ]
   },
@@ -1312,7 +1312,7 @@
     "NAME": "Kuin vettä",
     "DESCRIPTIONS": [
       "Jos olet #yTyyni vuorosi lopussa, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   }
 }

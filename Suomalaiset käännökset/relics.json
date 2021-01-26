@@ -151,7 +151,7 @@
     "FLAVOR": "\"Mekaaninen tarkkuus johtaa suuruuteen\" - Arkkitehti",
     "DESCRIPTIONS": [
       "Vuorosi alussa menetä vain #b",
-      " #yTorjuntaa kaiken sijaan."
+      " #ySuojaa kaiken sijaan."
     ]
   },
   "Calling Bell": {
@@ -624,8 +624,8 @@
     "NAME": "Orikalkum",
     "FLAVOR": "Vihreähkö metalli, jonka alkuperää ei tunneta. Vaikuttaa tuhoutumattomalta.",
     "DESCRIPTIONS": [
-      "Jos päätät vuorosi ilman #yTorjuntaa, saa #b",
-      " #yTorjuntaa."
+      "Jos päätät vuorosi ilman #ySuojaa, saa #b",
+      " #ySuojaa."
     ]
   },
   "Ornamental Fan": {
@@ -633,7 +633,7 @@
     "FLAVOR": "Viuhka vaikuttaa kasvavan ja kovettuvan veren virratessa.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #b3 #yHyökkäystä vuoron aikana, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Orrery": {
@@ -808,7 +808,7 @@
     "FLAVOR": "\"Kuinka kummallista! Se tuntuu muotoutuvan ajatusteni mukaan! Tele-savea?\" - Ranwid",
     "DESCRIPTIONS": [
       "Kun menetät OP:tä, saa #b",
-      " #yTorjuntaa seuraavalla vuorolla."
+      " #ySuojaa seuraavalla vuorolla."
     ]
   },
   "Shovel": {
@@ -1032,7 +1032,7 @@
     "FLAVOR": "Saat mistä luovut.",
     "DESCRIPTIONS": [
       "Aina kun laitat kortin pois vuorollasi, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Toxic Egg 2": {
@@ -1211,7 +1211,7 @@
     "FLAVOR": "\"Yksi... Kaksi... Kolme...\"",
     "DESCRIPTIONS": [
       "Kun sekoitat nostopinosi, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "DollysMirror": {
@@ -1458,7 +1458,7 @@
     "FLAVOR": "Yksinkertaista mutta kestävää muotoilua.",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #yTorjuntaa jokaista käsikorttia kohden."
+      " #ySuojaa jokaista käsikorttia kohden."
     ]
   },
   "TungstenRod": {
@@ -1474,7 +1474,7 @@
     "FLAVOR": "Miellyttävä pitää kädessä. Mihinkä tämä oli tarkoitettu?",
     "DESCRIPTIONS": [
       "Saa 2. vuorosi alussa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "CaptainsWheel": {
@@ -1482,7 +1482,7 @@
     "FLAVOR": "Puinen hienostuneesti kaiverrettu rihkama. Nimi on kaiverrettu siihen, mutta kieli on vieras.",
     "DESCRIPTIONS": [
       "Saa 3. vuorosi alussa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "GoldenEye": {

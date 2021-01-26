@@ -56,7 +56,7 @@
       "NAMES": [
         "näppäryys"
       ],
-      "DESCRIPTION": "Näppäryys antaa lisää korteista saatavaa Torjuntaa."
+      "DESCRIPTION": "Näppäryys antaa lisää korteista saatavaa Suojaa."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -89,7 +89,7 @@
       "NAMES": [
         "hauras"
       ],
-      "DESCRIPTION": "Saa #b25% vähemmän #yTorjuntaa korteista ollessasi hauras."
+      "DESCRIPTION": "Saa #b25% vähemmän #ySuojaa korteista ollessasi hauras."
     },
     "FROST": {
       "NAMES": [
@@ -97,7 +97,7 @@
         "pakkas",
         "pakkas+"
       ],
-      "DESCRIPTION": "Pallo: Kasvattaa #yTorjuntaa vuoron lopussa."
+      "DESCRIPTION": "Pallo: Kasvattaa #ySuojaa vuoron lopussa."
     },
     "INNATE": {
       "NAMES": [
