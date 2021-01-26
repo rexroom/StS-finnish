@@ -348,7 +348,7 @@
   },
   "Deep Breath": {
     "NAME": "Syvä henkäys",
-    "DESCRIPTION": "Sekoita poistopinosi nostopinoosi. NL Nosta !M! korttia.",
+    "DESCRIPTION": "Sekoita poistopinosi nostopinoosi. NL Nosta !M! kortti.",
     "UPGRADE_DESCRIPTION": "Sekoita poistopinosi nostopinoosi. NL Nosta !M! korttia."
   },
   "Defend_B": {
@@ -419,7 +419,7 @@
     "DESCRIPTION": "Ei-pelattava. NL Saa vuorosi lopussa 1 Heikkouden."
   },
   "Dramatic Entrance": {
-    "NAME": "Dramaattinen sisääntulo",
+    "NAME": "Vakuuttava sisääntulo",
     "DESCRIPTION": "Luontainen. NL Tee !D! vauriota KAIKILLE vihollisille. NL Kuluta."
   },
   "Dropkick": {
