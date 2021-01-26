@@ -376,11 +376,11 @@
   "Masked Bandits": {
     "NAME": "Naamioidut bandiitit",
     "DESCRIPTIONS": [
-      "Hehehe.. Kiitti #ykullasta! NL Ai, että rakastan #ykultaa. Ne on niin miellyttäviä. NL #y~kiiltäviä~ #y~pikku~ kolikoita ne ovat!",
-      "Hei #bOtso, hei! NL Tämä tyyppi antoi meille kaikki hänen #ykultansa! Varsinainen toope, eikö vain? NL Kelatkaa, minun piti vain kysyä kohteliaasti. Kuka ois arvannu?! NL En minä ainakaan! Mikä nynny!",
+      "Hehehe.. Kiitti #ykullasta! NL Ai, että rakastan #ykultaa. Se on niin ihanaa. NL #y~kiiltäviä~ #y~pikku~ kolikoita ne ovat!",
+      "Hei #bOtso, hei! NL Tämä tyyppi antoi meille kaikki #ykultansa! Varsinainen toope, eikö vain? NL Kelatkaa, minun piti vain kysyä kohteliaasti. Kuka ois arvannu?! NL En minä ainakaan! Mikä nynny!",
       "Jengi, naurakaamme kunnon naurut tälle ihmeelliselle hetkelle! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
-      "Ai? Vieläkö olet täällä? NL Satuitko kuulemaan jotain? Enpä usko. NL #r@*tirsk*@ ~...luuseri....~ @Hahaha@ ~haaah~",
-      "Kohtaat ryhmän bandiitteja joilla on isoja #rpunaisia #rnaamioita. NL \"Tervehdys, maksa jos haluat jatkaa matkaa... meille käy varsin kohtuullisesti @KAIKKI@ sinun #ykultasi! Heh heh!\""
+      "Ai? Vieläkö olet täällä? NL Satuitko kuulemaan jotain? Niin ajattelinkin. NL #r@*tirsk*@ ~...luuseri....~ @Hahaha@ ~haaah~",
+      "Kohtaat bandiittijoukon, jolla on isot #rpunaiset #rnaamiot. NL \"Tervehdys, maksa jos haluat jatkaa matkaa... meille käy varsin kohtuullisesti @KAIKKI@ sinun #ykultasi! Heh heh!\""
     ],
     "OPTIONS": [
       "[Maksa] #rMenetä #rKAIKKI #yKultasi.",
@@ -390,10 +390,10 @@
     ]
   },
   "Match and Keep!": {
-    "NAME": "Parita ja pidä!",
+    "NAME": "Yhdistä ja pidä!",
     "DESCRIPTIONS": [
-      "\" #bKaksitoista korttia! Parita ne pitääksesi ne! #bViisi yritystä, ei luovutuksia. NL Oletko valmiina? Aloitetaan!\"",
-      "Saat irviön pelin tehtyä ja nostat katsettasi. NL Hän katosi?",
+      "\" #bKaksitoista korttia! Yhdistä pari pitääksesi se! #bViisi yritystä, ei luovutuksia. NL Oletko valmiina? Aloitetaan!\"",
+      "Läpäiset irviön pelin ja nostat katseesi. NL Hän katosi?",
       "Irviö on hullun lailla sekoittelemassa kortteja pöydällä. Tämä hirviö näyttää olevan vaaraton. Lähestyt häntä uteliaisuudesta."
     ],
     "OPTIONS": [
@@ -406,9 +406,9 @@
   "Mushrooms": {
     "NAME": "Sienet",
     "DESCRIPTIONS": [
-      "Antaudut epäluonnolliselle halulle syödä. Ahmiessasi sieni sienen jälkeen, tunnet itsesi tulevan huumatuksi ja sammut. Herättyäsi tunnet itsesi todella omituiseksi. NL #gParanet #b25% OP:stäsi, mutta olet saanut myös #rtartunnan.",
+      "Antaudut epäluonnolliselle syömähalulle. Ahmiessasi sienen toisensa perään tunnet huumautuvasi ja sammuvasi. Herättyäsi tunnet olosi todella omituiseksi. NL #gParanet #b25% OP:stäsi, mutta olet saanut myös #rtartunnan.",
       "#r@Väijytys!!@ NL Sienien tartuttamat jyrsijät ilmestyvät tyhjästä!",
-      "Astut käytävään täynnä #b~hypnoottisia~ #b~värillisiä~ #b~sieniä.~ NL Koska et ole erikoistunut mykologiaan, et kykene tunnistamaan yksilöitä. NL Haluat karata, mutta tunnet omituisen pakottavaa tarvetta syödä #b~sieni...~"
+      "Astut käytävään, joka on täynnä #b~hypnoottisia~ #b~värillisiä~ #b~sieniä.~ NL Koska et ole erikoistunut mykologiaan, et kykene tunnistamaan yksilöitä. NL Haluat karata, mutta tunnet omituisen pakottavaa tarvetta syödä #b~sieni...~"
     ],
     "OPTIONS": [
       "[Polje] #rSuututa #rsienet.",
@@ -421,7 +421,7 @@
   "Mysterious Sphere": {
     "NAME": "Mystinen pallo",
     "DESCRIPTIONS": [
-      "Työntyessäsi esiin ympärillä olevasta kaaottisesta ympäristöstä, näet luisen pallon ympäröivän salaperäistä hohtavaa esinettä sisällään. NL Vaikka olet utelias sen sisällöstä, huomaat vartioita pitämässä silmää siitä.",
+      "Sinua ympäröivästä kaaottisesta maastosta sojottaa luinen pallo, jonka sisällä hohtaa salaperäinen esine. NL Vaikka olet utelias sen sisällöstä, huomaat vartioita pitämässä sitä silmällä.",
       "Samalla hetkellä kun isket palloa, vartiot heräävät ympärilläsi henkiin!",
       "Ahneelle käy yleensä kalpaten."
     ],
@@ -434,9 +434,9 @@
   "N'loth": {
     "NAME": "N'loth",
     "DESCRIPTIONS": [
-      "Kyttyräselkäinen outo otus, josta versoo useita lonkeroita, haeskelee jotain roska- ja romupinojen läpi edessäsi. Lähestyessäsi, hän laahustaa luoksesi epäuhkaavalla tavalla. NL \"N'loth nälkäinen. Ruoki N'loth.\"",
-      "Ojentaen #yreliikin kohti häntä, N’loth sieppaa sen käsistäsi lonkeroillaan, saa leukansa sijoiltaan ja hörppii uhrauksesi yhdellä nopealla nielaisulla. NL Hän antaa sinulle hammasrivistöä paljastavan ison virneen, kun lisää lonkeroita tulee esiin viittansa takaa, näiden heiluttaessa mahdottoman siistin näköistä laatikkoa. Hän tyrkyttää sitä sinulle kunnes otat sen.",
-      "Pudistat päätäsi. N'loth kyyristyy entisestään ja huokaa, sitten kipittää tiehensä."
+      "Kyttyräselkäinen outo otus, josta versoo useita lonkeroita, haeskelee jotain roska- ja romupinoista edessäsi. Lähestyessäsi hän laahustaa luoksesi epäuhkaavalla tavalla. NL \"N'loth nälkäinen. Ruoki N'loth.\"",
+      "Ojentaessasi #yreliikin häntä kohti N’loth sieppaa sen käsistäsi lonkeroillaan, irrottaa leukansa sijoiltaan ja ahmaisee uhrauksesi yhdellä nopealla nielaisulla. NL Hän paljastaa hammasrivistönsä valtavalla virnistyksellä ja hänen viittansa alta ilmestyy lisää lonkeroita, jotka kannattelevat mahdottoman siistin näköistä laatikkoa. Hän tyrkyttää sitä sinulle, kunnes otat sen.",
+      "Pudistat päätäsi. N'loth kyyristyy entisestään ja huokaa kipittäen sitten tiehensä."
     ],
     "OPTIONS": [
       "[Tarjoa: ",
@@ -452,8 +452,8 @@
   "Purifier": {
     "NAME": "Puhdistaja",
     "DESCRIPTIONS": [
-      "Edessäsi lojuu yksityiskohtainen pyhättö unohtuneelle hengelle.",
-      "Polvistuessasi syvällä kunnioituksella, tunnet taakan nostettavan hartioiltasi.",
+      "Edessäsi on yksityiskohtaisesti rakennettu pyhättö unohtuneelle hengelle.",
+      "Polvistuessasi syvän kunnioituksen vallassa tunnet taakan poistuvan hartioiltasi.",
       "Olet välittämättä pyhätöstä."
     ],
     "OPTIONS": [
