@@ -1248,7 +1248,7 @@
     "NAME": "Käsipora",
     "FLAVOR": "\"Spiraalit ovat vaarallisia.\"",
     "DESCRIPTIONS": [
-      "Kun murrat vihollisen #yTorjunnan, lisää #b2 #yHaavoittuvaa."
+      "Kun murrat vihollisen #ySuojan, lisää #b2 #yHaavoittuvaa."
     ]
   },
   "HoveringKite": {

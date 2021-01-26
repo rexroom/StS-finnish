@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Lumimyrsky",
-    "DESCRIPTION": "Tee vauriota !M! kertaa Kanavoidut Pakkaset taistelun aikana KAIKILLE vihollisille.",
+    "DESCRIPTION": "Tee taistelussa Kanavoitujen Pakkasten verran vauriota !M! kertaa KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vauriota.)",
@@ -196,8 +196,8 @@
   },
   "Burst": {
     "NAME": "Syöksy",
-    "DESCRIPTION": "Seuraava Taitosi pelataan kahteen kertaan tällä vuorolla.",
-    "UPGRADE_DESCRIPTION": "Seuraavat !M! Taitosi pelataan kahteen kertaan tällä vuorolla."
+    "DESCRIPTION": "Seuraava Taito pelataan kahdesti tällä vuorolla.",
+    "UPGRADE_DESCRIPTION": "Seuraavat !M! Taitoa pelataan kahdesti tällä vuorolla."
   },
   "Calculated Gamble": {
     "NAME": "Laskelmoitu riski",
@@ -291,7 +291,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Puhkeava ruumis",
-    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kuolee, tee vauriota sen MaksimiOP:n verran KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kohde kuolee, tee vauriota sen MaksimiOP:n määrän KAIKKIIN vihollisiin.",
     "UPGRADE_DESCRIPTION": "vanhentunut",
     "EXTENDED_DESCRIPTION": [
       "vanhentunut"
@@ -428,8 +428,8 @@
   },
   "Dual Wield": {
     "NAME": "Kaksoisaseistunut",
-    "DESCRIPTION": "Valitse Hyökkäys tai Voima kortti. Lisää kopio siitä käteesi.",
-    "UPGRADE_DESCRIPTION": "Valitse Hyökkäys tai Voima kortti. Lisää 2 kopiota siitä käteesi."
+    "DESCRIPTION": "Valitse Hyökkäys tai Voima. Lisää kopio siitä käteesi.",
+    "UPGRADE_DESCRIPTION": "Valitse Hyökkäys tai Voima. Lisää 2 kopiota siitä käteesi."
   },
   "Dualcast": {
     "NAME": "Kaksoistaikomus",
@@ -478,7 +478,7 @@
   },
   "Evolve": {
     "NAME": "Kehity",
-    "DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! korttia.",
+    "DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! kortti.",
     "UPGRADE_DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! korttia."
   },
   "Exhume": {
@@ -534,7 +534,7 @@
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Kun kimppuusi hyökätään tällä vuorolla, anna !M! vauriota takaisin."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Kun kimppuusi hyökätään tällä vuorolla, tee !M! vauriota takaisin."
   },
   "Flash of Steel": {
     "NAME": "Teräksen väläys",
@@ -761,7 +761,7 @@
   },
   "Melter": {
     "NAME": "Sulattaja",
-    "DESCRIPTION": "Poista vihollisen kaikki Torjunnat. NL Tee !D! vauriota."
+    "DESCRIPTION": "Poista vihollisen kaikki Suojat. NL Tee !D! vauriota."
   },
   "Metallicize": {
     "NAME": "Metallisoi",
@@ -974,7 +974,7 @@
   },
   "Searing Blow": {
     "NAME": "Kärventävä lyönti",
-    "DESCRIPTION": "Tee !D! vauriota. NL Voidaan Parannella kuinka monta kertaa."
+    "DESCRIPTION": "Tee !D! vauriota. NL Voidaan Parannella moneen kertaan."
   },
   "Second Wind": {
     "NAME": "Tasaantuminen",
@@ -1007,7 +1007,7 @@
   },
   "Self Repair": {
     "NAME": "Kunnossapito",
-    "DESCRIPTION": "Taistelun lopussa paranna !M! OP:tä."
+    "DESCRIPTION": "Paranna taistelun lopussa !M! OP:tä."
   },
   "Sentinel": {
     "NAME": "Vartiomies",
@@ -1068,12 +1068,12 @@
   },
   "Static Discharge": {
     "NAME": "Staattinen purku",
-    "DESCRIPTION": "Kun saat torjumatonta vauriota hyökkäyksestä, Kanavoi !M! Salamaa.",
+    "DESCRIPTION": "Kun saat torjumatonta vauriota hyökkäyksestä, Kanavoi !M! Salama.",
     "UPGRADE_DESCRIPTION": "Kun saat torjumatonta vauriota hyökkäyksestä, Kanavoi !M! Salamaa."
   },
   "Steam": {
     "NAME": "Höyrymuuri",
-    "DESCRIPTION": "Saa !B! Suojaa. Vähennä tämän kortin Suojaa 1:llä taistelun aikana."
+    "DESCRIPTION": "Saa !B! Suojaa. Vähennä tämän kortin Suojaa 1:llä taistelun ajaksi."
   },
   "Steam Power": {
     "NAME": "Ylikellota",
@@ -1351,7 +1351,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Iskujen puuska",
-    "DESCRIPTION": "Tee !D! vauriota. NL Kun vaihdat asentoa, palauta tämä kortti poistopinostasi käteesi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Kun vaihdat asentoa, palauta tämä kortti poistopinosta käteesi."
   },
   "PalmThatRestrains": {
     "NAME": "VANHENTUNUT Pitelevä kämmen",

@@ -8,8 +8,8 @@
     },
     "BLOCK": {
       "NAMES": [
-        "torjunta",
-        "torjunnat"
+        "suojaa",
+        "suojat"
       ],
       "DESCRIPTION": "Torjuu vauriota seuraavaan vuoroon asti."
     },
