@@ -8,8 +8,8 @@
     },
     "BLOCK": {
       "NAMES": [
-        "torjunta",
-        "torjunnat"
+        "suojaa",
+        "suojat"
       ],
       "DESCRIPTION": "Torjuu vauriota seuraavaan vuoroon asti."
     },
@@ -18,14 +18,14 @@
         "palovamma",
         "palovammat"
       ],
-      "DESCRIPTION": "Palovammat ovat ei-pelattavia statuskortteja jotka vahingoittavat sinua."
+      "DESCRIPTION": "Palovammat ovat ei-pelattavia statuskortteja jotka vaurioittavat sinua."
     },
     "CHANNEL": {
       "NAMES": [
         "kanava",
         "kanavoitu"
       ],
-      "DESCRIPTION": "Pallon kanavointi laittaa sen ensimmäiseen vapaaseen lokeroon. Jos sinulla ei ole vapaita lokeroita, ensimmäinen pallo automaattisesti #yManataan tehdäkseen tilaa."
+      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen lokeroon. Jos sinulla ei ole vapaita lokeroita, ensimmäinen orbi automaattisesti #yManataan tehdäkseen tilaa."
     },
     "CONFUSED": {
       "NAMES": [
@@ -44,19 +44,19 @@
         "pimeys",
         "pimeys+"
       ],
-      "DESCRIPTION": "Pallo: Lisää vahinkoa jokaisella kierroksella. Kun #Manataan, iskee viholliseen jolla on vähiten OP."
+      "DESCRIPTION": "Orbi: Lisää vauriota jokaisella kierroksella. Kun #Manataan, iskee viholliseen jolla on vähiten OP:ä."
     },
     "DAZED": {
       "NAMES": [
-        "pökertynyt"
+        "pää pyörällä"
       ],
-      "DESCRIPTION": "Pökertyneet ovat ei-pelattavia statuskortteja."
+      "DESCRIPTION": "Pää pyörällä ovat ei-pelattavia statuskortteja."
     },
     "DEXTERITY": {
       "NAMES": [
         "näppäryys"
       ],
-      "DESCRIPTION": "Näppäryys antaa lisää korteista saatavaa Torjuntaa."
+      "DESCRIPTION": "Näppäryys antaa lisää korteista saatavaa Suojaa."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -69,7 +69,7 @@
         "manaa",
         "manattu"
       ],
-      "DESCRIPTION": "Kuluta oikeanpuoleisin Pallo ja käytä sen Manausefektiä."
+      "DESCRIPTION": "Kuluta oikeanpuoleisin Orbi ja käytä sen Manauskykyä."
     },
     "EXHAUST": {
       "NAMES": [
@@ -83,13 +83,13 @@
       "NAMES": [
         "fokus"
       ],
-      "DESCRIPTION": "Fokus lisää #yKanavoitujen pallojen tehokkuutta."
+      "DESCRIPTION": "Fokus lisää #yKanavoitujen orbien tehokkuutta."
     },
     "FRAIL": {
       "NAMES": [
         "hauras"
       ],
-      "DESCRIPTION": "Saa #b25% vähemmän #yTorjuntaa korteista ollessasi hauras."
+      "DESCRIPTION": "Saa #b25% vähemmän #ySuojaa korteista ollessasi hauras."
     },
     "FROST": {
       "NAMES": [
@@ -97,7 +97,7 @@
         "pakkas",
         "pakkas+"
       ],
-      "DESCRIPTION": "Pallo: Kasvattaa #yTorjuntaa vuoron lopussa."
+      "DESCRIPTION": "Orbi: Kasvattaa #ySuojaa vuoron lopussa."
     },
     "INNATE": {
       "NAMES": [
@@ -109,14 +109,14 @@
       "NAMES": [
         "aineeton"
       ],
-      "DESCRIPTION": "Pienennä KAIKKI otettu vahinko ja OP:n menetys #b1 pisteeseen."
+      "DESCRIPTION": "Pienennä KAIKKI otettu vaurio ja OP:n menetys #b1 pisteeseen."
     },
     "LIGHTNING": {
       "NAMES": [
         "salama",
         "salama+"
       ],
-      "DESCRIPTION": "Pallo: Jakaa vahinkoa satunnaisesti vihollisille."
+      "DESCRIPTION": "Orbi: Jakaa vauriota satunnaisesti vihollisille."
     },
     "LOCKED": {
       "NAMES": [
@@ -128,7 +128,7 @@
       "NAMES": [
         "lukittu"
       ],
-      "DESCRIPTION": "Lukitut kohteet saavat #b50% enemmän vahinkoa palloilta."
+      "DESCRIPTION": "Lukitut kohteet saavat #b50% enemmän vauriota orbeilta."
     },
     "OPENER": {
       "NAMES": [
@@ -141,7 +141,7 @@
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Pallo: Kasvattaa Energiaa."
+      "DESCRIPTION": "Orbi: Kasvattaa Energiaa."
     },
     "POISON": {
       "NAMES": [
@@ -149,7 +149,7 @@
         "myrkkyä",
         "myrkytetty"
       ],
-      "DESCRIPTION": "Myrkytetyt olennot menettävät OP:ta heti vuoronsa alussa. Myrkky vähenee joka vuorolla #b1:llä."
+      "DESCRIPTION": "Myrkytetyt olennot menettävät OP:tä heti vuoronsa alussa. Myrkky vähenee joka vuorolla #b1:llä."
     },
     "RETAIN": {
       "NAMES": [
@@ -164,7 +164,7 @@
         "puukko",
         "puukot"
       ],
-      "DESCRIPTION": "Puukot ovat #b0-hintaisia Hyökkäyskortteja jotka Kuluvat."
+      "DESCRIPTION": "Puukot ovat #b0-hintaisia Hyökkäyksiä jotka Kuluvat."
     },
     "STATUS": {
       "NAMES": [
@@ -176,7 +176,7 @@
       "NAMES": [
         "vahvuus"
       ],
-      "DESCRIPTION": "Vahvuus antaa lisävahinkoa hyökkäyksiin."
+      "DESCRIPTION": "Vahvuus antaa lisävauriota hyökkäyksiin."
     },
     "STRIKE": {
       "NAMES": [
@@ -191,7 +191,7 @@
       "NAMES": [
         "piikit"
       ],
-      "DESCRIPTION": "Jakaa vahinkoa takaisin kun vastaanottaa #yHyökkäysvahinkoa.."
+      "DESCRIPTION": "Jakaa vauriota takaisin kun vastaanottaa #yHyökkäysvauriota.."
     },
     "TODO": {
       "NAMES": [
@@ -239,7 +239,7 @@
       "NAMES": [
         "haavoittuva"
       ],
-      "DESCRIPTION": "Haavoittuvat oliot ottavat #b50% enemmän vahinkoa Hyökkäyksiltä."
+      "DESCRIPTION": "Haavoittuvat oliot ottavat #b50% enemmän vauriota Hyökkäyksiltä."
     },
     "WEAK": {
       "NAMES": [
@@ -286,7 +286,7 @@
       "NAMES": [
         "jumaluus"
       ],
-      "DESCRIPTION": "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vahinkoa. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
+      "DESCRIPTION": "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vauriota. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
     },
     "PRAYER": {
       "NAMES": [
@@ -299,7 +299,7 @@
       "NAMES": [
         "tarmo"
       ],
-      "DESCRIPTION": "Sinun seuraava Hyökkäyksesi tuottaa lisävahinkoa."
+      "DESCRIPTION": "Sinun seuraava Hyökkäyksesi tuottaa lisävauriota."
     },
     "REGEN": {
       "NAMES": [

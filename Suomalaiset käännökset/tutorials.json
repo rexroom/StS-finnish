@@ -64,8 +64,8 @@
   "Main Tutorial": {
     "TEXT": [
       "Voita vihollisia pelaamalla kortteja kädestäsi! NL NL Korttien pelaaminen vaatii #yEnergiaa. NL Kun se loppuu, lopeta vuorosi. NL NL Seuraavan vuorosi alussa nostat uuden käden ja #yEnergiasi palautuu.",
-      "Pelaa puolustuskortteja lisätäksesi #yTorjuntaa vihollisten aikoessa hyökätä. NL NL #yTorjunta vähentää saamaasi vauriota mutta NL #rkuluu #rpois seuraavan vuorosi alussa.",
-      "Voit vuorosi aikana nähdä vihollisten #yAikomukset heidän päänsä yllä. NL NL Mikäli vihollinen aikoo hyökätä kimppuusi, pelaa kortteja joista saa #yTorjuntaa!"
+      "Pelaa puolustuskortteja lisätäksesi #ySuojaa vihollisten aikoessa hyökätä. NL NL #ySuoja vähentää saamaasi vauriota mutta NL #rkuluu #rpois seuraavan vuorosi alussa.",
+      "Voit vuorosi aikana nähdä vihollisten #yAikomukset heidän päänsä yllä. NL NL Mikäli vihollinen aikoo hyökätä kimppuusi, pelaa kortteja joista saa #ySuojaa!"
     ],
     "LABEL": [
       "Seuraava",
@@ -97,8 +97,8 @@
       "Tämä kortti antaa käytettäessä sinulle Taidon. NL Voimat ovat passiivisia kykyjä jotka säilyvät voimassa taistelun ajan.",
       "Kortit vaativat energiaa! NL Tämä pallo vasemmassa alareunassa kertoo paljonko energiaa on jäljellä vuorollasi.",
       "#rKäteni #rovat #rTäynnä!",
-      "#rMaksimi pallokapasiteetti saavutettu.",
-      "Minulla ei vapaata lokeroa pallolle."
+      "#rMaksimi orbikapasiteetti saavutettu.",
+      "Minulla ei vapaata paikkaa orbille."
     ],
     "LABEL": [
       "Taitokortit",

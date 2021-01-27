@@ -14,10 +14,10 @@
     ]
   },
   "Block Potion": {
-    "NAME": "Torjuntajuoma",
+    "NAME": "Suojajuoma",
     "DESCRIPTIONS": [
       "Saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "BloodPotion": {
@@ -68,7 +68,7 @@
     "NAME": "Räjähtävä pullo",
     "DESCRIPTIONS": [
       "Jaa #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "FairyPotion": {
@@ -89,7 +89,7 @@
     "NAME": "Tuliliemi",
     "DESCRIPTIONS": [
       "Tee #b",
-      " vahinkoa."
+      " vauriota."
     ]
   },
   "FocusPotion": {
@@ -259,14 +259,14 @@
     "NAME": "Kapasiteettiyden liemi",
     "DESCRIPTIONS": [
       "Saa #b",
-      " Pallopaikkaa."
+      " Orbipaikkaa."
     ]
   },
   "EssenceOfDarkness": {
     "NAME": "Pimeyden esanssia",
     "DESCRIPTIONS": [
       "#yKanavoi #b",
-	  " #yPimeyttä jokaiselle pallopaikalle."
+	  " #yPimeyttä jokaiselle Orbipaikalle."
     ]
   },
   "BottledMiracle": {

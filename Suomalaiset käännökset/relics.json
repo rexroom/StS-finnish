@@ -143,7 +143,7 @@
     "NAME": "Kullatetut kaapelit",
     "FLAVOR": "\"Mielenkiintoista! Placebo-vaikutus vaikuttaa myös automaatteihin.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Oikeanpuoleisin energiapallosi tekee passiiviefektinsä ylimääräisen kerran."
+      "Järjestyksessä seuraava orbisi suorittaa passiivikykynsä ylimääräisen kerran."
     ]
   },
   "Calipers": {
@@ -151,7 +151,7 @@
     "FLAVOR": "\"Mekaaninen tarkkuus johtaa suuruuteen\" - Arkkitehti",
     "DESCRIPTIONS": [
       "Vuorosi alussa menetä vain #b",
-      " #yTorjuntaa kaiken sijaan."
+      " #ySuojaa kaiken sijaan."
     ]
   },
   "Calling Bell": {
@@ -200,7 +200,7 @@
     "FLAVOR": "Kharonin sanotaan olevan uudelleensyntymisen jumala joka aina kuolee ja syntyy sitten uudelleen liekeistä.",
     "DESCRIPTIONS": [
       "Aina kun #yKulutat kortin, tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Chemical X": {
@@ -229,7 +229,7 @@
     "NAME": "Jäätynyt ydin",
     "FLAVOR": "Ytimen halkeama on täytetty sykkivällä kylmällä energialla.",
     "DESCRIPTIONS": [
-      "Korvaa #bHaljenneen #bytimen. Jos lopetat vuorosi vapaalla pallopaikalla, #yKanavoi #b1 #yPakkanen."
+      "Korvaa #bHaljenneen #bytimen. Jos lopetat vuorosi vapaalla orbipaikalla, #yKanavoi #b1 #yPakkanen."
     ]
   },
   "Cursed Key": {
@@ -316,7 +316,7 @@
     "NAME": "Tunnepiiri",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Jos menetit OP:tä edellisellä vuorolla, aktivoi vuorosi alussa kaikkien pallojen passiiviset kyvyt."
+      "Jos menetit OP:tä edellisellä vuorolla, aktivoi vuorosi alussa kaikkien orbien passiiviset kyvyt."
     ]
   },
   "Enchiridion": {
@@ -382,7 +382,7 @@
     "FLAVOR": "\"Irviöjehut saattavat kasvaa aina kuolemaansa saakka. Merkillistä.\" - Ranwid",
     "DESCRIPTIONS": [
       "Aina kun vihollinen kuolee, saa ",
-      "[E] ja nosta #b1 kortin."
+      "[E] ja nosta #b1 kortti."
     ]
   },
   "Happy Flower": {
@@ -404,7 +404,7 @@
     "NAME": "Siirtäjä",
     "FLAVOR": "Työnnä. Vedä. Kasaa. Toista.",
     "DESCRIPTIONS": [
-      "Saa joka #b2 vuoron välein #b1 paikka energiapallolle."
+      "Saa joka #b2 vuoron välein #b1 orbipaikka."
     ]
   },
   "Juzu Bracelet": {
@@ -445,7 +445,7 @@
     "FLAVOR": "Luonnottoman terävä.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #b3 #yTaitoa yhden vuoron aikana, tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Living Blade": {
@@ -519,7 +519,7 @@
     "FLAVOR": "Lumottu tiimalasi joka valuu loputtomasti.",
     "DESCRIPTIONS": [
       "Vuorosi alussa tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Molten Egg 2": {
@@ -624,8 +624,8 @@
     "NAME": "Orikalkum",
     "FLAVOR": "Vihreähkö metalli, jonka alkuperää ei tunneta. Vaikuttaa tuhoutumattomalta.",
     "DESCRIPTIONS": [
-      "Jos päätät vuorosi ilman #yTorjuntaa, saa #b",
-      " #yTorjuntaa."
+      "Jos päätät vuorosi ilman #ySuojaa, saa #b",
+      " #ySuojaa."
     ]
   },
   "Ornamental Fan": {
@@ -633,7 +633,7 @@
     "FLAVOR": "Viuhka vaikuttaa kasvavan ja kovettuvan veren virratessa.",
     "DESCRIPTIONS": [
       "Aina kun pelaat #b3 #yHyökkäystä vuoron aikana, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Orrery": {
@@ -664,7 +664,7 @@
     "NAME": "Paperikurki",
     "FLAVOR": "Menneitten aikojen olennosta tehty origami.",
     "DESCRIPTIONS": [
-      "#yHeikennetyt viholliset tekevät #b40% vähemmän vahinkoa #b25%:n sijaan."
+      "#yHeikennetyt viholliset tekevät #b40% vähemmän vauriota #b25%:n sijaan."
     ]
   },
   "Paper Frog": {
@@ -692,7 +692,7 @@
     "NAME": "Kynänterä",
     "FLAVOR": "Pitäessäsi terää näet edessäsi kaikki, jonka sen edellinen omistaja on listinyt. Väkivaltainen menneisyys.",
     "DESCRIPTIONS": [
-      "Joka #b10. #yHyökkäys tekee tuplasti enemmän vahinkoa."
+      "Joka #b10. #yHyökkäys tekee tuplasti enemmän vauriota."
     ]
   },
   "Philosopher's Stone": {
@@ -775,7 +775,7 @@
     "NAME": "Riimuinen kondensaattori",
     "FLAVOR": "Enempi on parempi.",
     "DESCRIPTIONS": [
-      "Aloita jokainen taistelu #b3:lla lisäenergiapallopaikalla."
+      "Aloita jokainen taistelu #b3:lla lisäorbipaikalla."
     ]
   },
   "Runic Cube": {
@@ -808,7 +808,7 @@
     "FLAVOR": "\"Kuinka kummallista! Se tuntuu muotoutuvan ajatusteni mukaan! Tele-savea?\" - Ranwid",
     "DESCRIPTIONS": [
       "Kun menetät OP:tä, saa #b",
-      " #yTorjuntaa seuraavalla vuorolla."
+      " #ySuojaa seuraavalla vuorolla."
     ]
   },
   "Shovel": {
@@ -990,7 +990,7 @@
     "FLAVOR": "Tämän soittimen tuottama ääni pystyy nousemaan piinalliseen äänenvoimakkuuteen.",
     "DESCRIPTIONS": [
       "Aina kun laitat kortin pois vuorosi aikana, jaa #b",
-      " vahinkoa satunnaiselle viholliselle."
+      " vauriota satunnaiselle viholliselle."
     ]
   },
   "Tiny Chest": {
@@ -1032,7 +1032,7 @@
     "FLAVOR": "Saat mistä luovut.",
     "DESCRIPTIONS": [
       "Aina kun laitat kortin pois vuorollasi, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "Toxic Egg 2": {
@@ -1110,7 +1110,7 @@
     "FLAVOR": "Kun vedetään avaimesta, kenkä kasvaa isommaksi.",
     "DESCRIPTIONS": [
       "Kun olet tekemässä #b",
-      " tai vähemmän torjumatonta hyökkäysvahinkoa, tee sen sijaan #b5 vahinkoa."
+      " tai vähemmän torjumatonta hyökkäysvauriota, tee sen sijaan #b5 vauriota."
     ]
   },
   "Mark of the Bloom": {
@@ -1211,7 +1211,7 @@
     "FLAVOR": "\"Yksi... Kaksi... Kolme...\"",
     "DESCRIPTIONS": [
       "Kun sekoitat nostopinosi, saa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "DollysMirror": {
@@ -1248,7 +1248,7 @@
     "NAME": "Käsipora",
     "FLAVOR": "\"Spiraalit ovat vaarallisia.\"",
     "DESCRIPTIONS": [
-      "Kun murrat vihollisen #yTorjunnan, lisää #b2 #yHaavoittuvaa."
+      "Kun murrat vihollisen #ySuojan, lisää #b2 #yHaavoittuvaa."
     ]
   },
   "HoveringKite": {
@@ -1277,7 +1277,7 @@
     "NAME": "Ranneterä",
     "FLAVOR": "Kätevä salamurhissa.",
     "DESCRIPTIONS": [
-      "#yHyökkäykset, jotka maksavat #b0, tekevät #b4 lisävahinkoa."
+      "#yHyökkäykset, jotka maksavat #b0, tekevät #b4 lisävauriota."
     ]
   },
   "StoneCalendar": {
@@ -1286,7 +1286,7 @@
     "DESCRIPTIONS": [
       "Vuoron #b",
       " lopussa tee #b",
-      " vahinkoa KAIKILLE vihollisille."
+      " vauriota KAIKILLE vihollisille."
     ]
   },
   "Nunchaku": {
@@ -1413,7 +1413,7 @@
     "FLAVOR": "\"Ammuuu~\"",
     "DESCRIPTIONS": [
       "Taistelun ensimmäinen Hyökkäyksesi tekee #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "VioletLotus": {
@@ -1450,7 +1450,7 @@
     "FLAVOR": "Se on aika kulunut.",
     "DESCRIPTIONS": [
       "\"Isku\"-kortit antavat #b",
-      " lisävahinkoa."
+      " lisävauriota."
     ]
   },
   "CloakClasp": {
@@ -1458,7 +1458,7 @@
     "FLAVOR": "Yksinkertaista mutta kestävää muotoilua.",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #yTorjuntaa jokaista käsikorttia kohden."
+      " #ySuojaa jokaista käsikorttia kohden."
     ]
   },
   "TungstenRod": {
@@ -1474,7 +1474,7 @@
     "FLAVOR": "Miellyttävä pitää kädessä. Mihinkä tämä oli tarkoitettu?",
     "DESCRIPTIONS": [
       "Saa 2. vuorosi alussa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "CaptainsWheel": {
@@ -1482,7 +1482,7 @@
     "FLAVOR": "Puinen hienostuneesti kaiverrettu rihkama. Nimi on kaiverrettu siihen, mutta kieli on vieras.",
     "DESCRIPTIONS": [
       "Saa 3. vuorosi alussa #b",
-      " #yTorjuntaa."
+      " #ySuojaa."
     ]
   },
   "GoldenEye": {

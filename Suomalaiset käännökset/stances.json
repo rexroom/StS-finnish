@@ -8,7 +8,7 @@
   "Wrath": {
     "NAME": "Raivo",
     "DESCRIPTION": [
-      "Hyökkäyksesi jakavat tuplasti enemmän vahinkoa ja otat tuplasti enemmän vahinkoa hyökkäyksistä."
+      "Hyökkäyksesi jakavat tuplasti enemmän vauriota ja otat tuplasti enemmän vauriota hyökkäyksistä."
     ]
   },
   "Calm": {
@@ -20,7 +20,7 @@
   "Divinity": {
     "NAME": "Jumaluus",
     "DESCRIPTION": [
-      "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vahinkoa. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
+      "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vauriota. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
     ]
   }
 }
