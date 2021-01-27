@@ -490,7 +490,7 @@
     "DESCRIPTION": "Nosta kortteja kunnes kädessäsi on !M! korttia."
   },
   "FTL": {
-    "NAME": "FTL",
+    "NAME": "Valoa nopeammin",
     "DESCRIPTION": "Tee !D! vauriota. Jos olet pelannut vähemmän kuin !M! korttia tällä vuorolla, nosta 1 kortti.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
@@ -575,7 +575,7 @@
   },
   "Gash": {
     "NAME": "Kynsi",
-    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! KAIKKIEN Kynsi-korttien vaurioton taistelun ajaksi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! KAIKKIEN Kynsi-korttien vaurioon taistelun ajaksi."
   },
   "Genetic Algorithm": {
     "NAME": "Geneettinen algoritmi",
@@ -726,8 +726,8 @@
   },
   "Machine Learning": {
     "NAME": "Koneoppiminen",
-    "DESCRIPTION": "Nosta vuorosi alussa !M! lisäkorttia.",
-    "UPGRADE_DESCRIPTION": "Luontainen. NL Nosta vuorosi alussa !M! lisäkorttia."
+    "DESCRIPTION": "Nosta vuorosi alussa !M! lisäkortti.",
+    "UPGRADE_DESCRIPTION": "Luontainen. NL Nosta vuorosi alussa !M! lisäkortti."
   },
   "Study": {
     "NAME": "Tutkimus",
@@ -909,7 +909,7 @@
   },
   "Reaper": {
     "NAME": "Niittäjä",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. Paranna tehdyn vahingon verran OP:tä. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. Paranna tehdyn vaurion verran OP:tä. NL Kuluta."
   },
   "Reboot": {
     "NAME": "Uudelleenkäynnistys",
@@ -1123,7 +1123,7 @@
   },
   "Sweeping Beam": {
     "NAME": "Kaartuva säde",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Nosta !M! korttia."
+    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Nosta !M! kortti."
   },
   "Swift Strike": {
     "NAME": "Nopea isku",

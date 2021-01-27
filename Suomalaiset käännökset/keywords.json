@@ -25,7 +25,7 @@
         "kanava",
         "kanavoitu"
       ],
-      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen lokeroon. Jos sinulla ei ole vapaita lokeroita, ensimmäinen orbi automaattisesti #yManataan tehdäkseen tilaa."
+      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, ensimmäinen orbi automaattisesti #yManataan tehdäkseen tilaa uudelle."
     },
     "CONFUSED": {
       "NAMES": [
@@ -44,7 +44,7 @@
         "pimeys",
         "pimeys+"
       ],
-      "DESCRIPTION": "Orbi: Lisää vauriota jokaisella kierroksella. Kun #Manataan, iskee viholliseen jolla on vähiten OP:ä."
+      "DESCRIPTION": "Orbi: Lisää vauriota jokaisella kierroksella. Kun #yManataan, iskee viholliseen jolla on vähiten OP:ä."
     },
     "DAZED": {
       "NAMES": [
@@ -81,7 +81,8 @@
     },
     "FOCUS": {
       "NAMES": [
-        "fokus"
+        "fokus",
+        "fokusta"
       ],
       "DESCRIPTION": "Fokus lisää #yKanavoitujen orbien tehokkuutta."
     },
@@ -116,7 +117,7 @@
         "salama",
         "salama+"
       ],
-      "DESCRIPTION": "Orbi: Jakaa vauriota satunnaisesti vihollisille."
+      "DESCRIPTION": "Orbi: Tekee vauriota satunnaisesti vihollisille."
     },
     "LOCKED": {
       "NAMES": [
