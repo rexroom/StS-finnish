@@ -573,15 +573,15 @@
   "The Joust": {
     "NAME": "Turnajaiset",
     "DESCRIPTIONS": [
-      "Kulkiessasi läpi isojen rakennusten, löydät pitkän kapean sillan ja huomaat ritarin molemmissa päissä, kasvotusten toisiaan. Lähestyt... NL @\"Seis!\"@ NL NL Ritari voimakkaasti elehtii sinua pysähtymään sen valtavalla peitsillään.",
-      "\"Tänään on se päivä kun teen tilit selväksi #yRinsessan, rakkaan lemmikkini, #rmurhaajan kanssa. Sitä ennen et voi kulkea. NL NL Arvon todistaja, etkö #blöisi #bvetoa siitä, kuka sinusta selviytyy voittajana?\"",
-      "\"En voi uskoa, että lyöt vetoa #yRinsessaa vastaan!\" NL NL Raivoissaan, hän kiristää kypäräänsä ja syöksyy arkkivihollistaan kohti.",
-      "\"Anna minulle voimia, #yRinsessa!\" NL NL Kiristäen kypäräänsä, ritari syöksyy eteenpäin.",
+      "Kulkiessasi läpi suurten rakennusten löydät pitkän kapean sillan ja huomaat sen eri päissä ritarit vastatusten. Lähestyt... NL @\"Seis!\"@ NL NL Ritari elehtii voimakkaasti sinua pysähtymään valtavalla peitsellään.",
+      "\"Tänään on se päivä, kun teen tilit selväksi #yRinsessan, rakkaan lemmikkini, #rmurhaajan kanssa. Sitä ennen et voi kulkea. NL NL Arvon todistaja, etkö #blöisi #bvetoa siitä, kuka sinusta selviytyy voittajana?\"",
+      "\"En voi uskoa, että lyöt vetoa #yRinsessaa vastaan!\" NL NL Raivoissaan hän kiristää kypäräänsä ja syöksyy arkkivihollistaan kohti.",
+      "\"Anna minulle voimia, #yRinsessa!\" NL NL Kiristäen kypäräänsä ritari syöksyy eteenpäin.",
       "NL #y@*KRÄS!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POKS!*@",
       "Arkkivihollinen surmattiin. NL NL ",
       "Omistaja kuoli. NL NL ",
       "Sinä #gvoitit vedon. Et tiedä mitä ajatella, mutta otat voittosi ja poistut.",
-      "Sinä #rhävisit vedon, mutta et ainakaan tullut peitsin kaivertamaksi."
+      "Sinä #rhävisit vedon, mutta et ainakaan tullut peitsen kaivertamaksi."
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -597,11 +597,11 @@
   "The Library": {
     "NAME": "Kirjasto",
     "DESCRIPTIONS": [
-      "Kohtaat sattumoisin hyvin koristellun rakennuksen, joka näyttää hylätyltä. NL Maassa lojuu laatta, joka on revitty irti seinästä. Siinä lukee #b\"KIRJASTO\". NL Löydät sisältä lukemattomia rivejä kääröjä, käsikirjoituksia ja kirjoja. NL Poimit yhden ja teet itsesi mukavaksi levähtämällä tuolille.",
-      "Lukeminen tyhmentää. NL Otat mieluiten torkut mukavassa tuolissa. NL ~Krooh...~ ~pyyh...~ NL Heräät tuntien itsesi virkistyneeksi.",
+      "Satut löytämään hyvin koristellun rakennuksen, joka näyttää hylätyltä. NL Maassa lojuu laatta, joka on revitty irti seinästä. Siinä lukee #b\"KIRJASTO\". NL Löydät sisältä lukemattomia rivejä kääröjä, käsikirjoituksia ja kirjoja. NL Poimit yhden ja asettaudut mukavasti tuoliin rentoutumaan.",
+      "Lukeminen on pöljien puuhaa. NL Otat mieluiten torkut mukavassa tuolissa. NL ~Krooh...~ ~pyyh...~ NL Heräät tuntien itsesi virkistyneeksi.",
       "Tarina kertoo hyönteisiä hallitsevasta teinitytöstä, joka haluaa sankariksi. Kirja on täynnä voimien luovaa käyttöä, taistelustrategioita ja vaihtelevia näkökulmia. NL Miellyttävää.",
-      "Tarina kertoo miehestä, joka matkusti tähtien taakse ja löytää itsensä juuttuneeksi kolkkoon, vieraaseen planeetaan. Nokkeluudella, onnella ja sisulla hän löytää tiensä takaisin kotiin, samalla kun hän pitää mielenterveyttään yllä huumorilla. NL Kiehtovaa.",
-      "Tarina sijoittuu valtavaan eristettyyn maanalaiseen rakennukseen, jossa ulkomaailman olosuhteet ovat muuttuneet sietämättömiksi. Romaanissa on tiheänä salaliittoja, propagandaa ja epäoikeudenmukaisuutta. Mietit jos ehkä samanlaista dynamiikkaa on löydettävissä Tornin ympäristöissä. NL Huolestuttavaa."
+      "Tarina kertoo miehestä, joka matkusti tähtien taakse ja päätyi jäämään jumiin kolkolle, vieraalle planeetalle. Hän löytää tiensä kotiin nokkeluuden, onnen ja sisun avulla ja pitää samalla mielenterveyttään yllä huumorilla. NL Kiehtovaa.",
+      "Tarina sijoittuu valtavaan eristettyyn maanalaiseen rakennukseen, jonka ulkopuolella olosuhteet ovat muuttuneet sietämättömiksi. Romaani on pullollaan salaliittoja, propagandaa ja epäoikeudenmukaisuutta. Mietit piilisikö Tornin tapahtumissa samanlaisia vaikuttimia. NL Huolestuttavaa."
     ],
     "OPTIONS": [
       "[Lue] #gValitse #g20 #gkortista #g1 #glisättäväksi #gpakkaasi.",
@@ -614,10 +614,10 @@
   "The Mausoleum": {
     "NAME": "Mausoleumi",
     "DESCRIPTIONS": [
-      "Kulkiessasi läpi hautojen, saat vastaasi ison sarkofagin, joka on ~koristeltu~ ~jalokivillä~ ympyränmuotoisen huoneen keskellä. NL Et saa selvää ruumisarkun kirjoituksesta, mutta havaitset #p~mustaa~ #p~sumua~ vuotavan ulos sivuista.",
-      "Työnnät ruumisarkun auki. Samalla #p~mustaa~ #p~sumua~ syytää ulos ja peittää koko huoneen! Et löydä ruumista sisältä, vain #y~reliikin.~ Otat sen ja jatkat eteenpäin, #r@yskien@ #r@voimakkaasti.@",
-      "Työnnät ruumisarkun auki. Sumu hälvenee harmittomasti. Löydät sisältä koristellun sotilaan jäämistön, joka pitelee vanhaa #yreliikkiä. Näpistät sen ja jatkat matkaa.",
-      "Jatkat reittiäsi, jättäen unohdetut kuolleet rauhaan."
+      "Kulkiessasi läpi hautojen saat vastaasi suuren ~jalokivillä~ ~koristellun~ sarkofagin ympyränmuotoisen huoneen keskellä. NL Et saa selvää ruumisarkun kirjoituksesta, mutta havaitset #p~mustaa~ #p~sumua~ vuotavan ulos sivuista.",
+      "Työnnät ruumisarkun auki. Samalla #p~mustaa~ #p~sumua~ syytää ulos ja peittää koko huoneen! Et löydä sisältä ruumista, vain #y~reliikin.~ Otat sen ja jatkat eteenpäin #r@yskien@ #r@voimakkaasti.@",
+      "Työnnät ruumisarkun auki. Sumu hälvenee harmittomasti. Löydät sisältä koristeellisesti varustetun sotilaan ruumiin, joka pitelee käsissään vanhaa #yreliikkiä. Näpistät sen ja jatkat matkaa.",
+      "Jatkat reitilläsi ja jätät unohdetut kuolleet rauhaan."
     ],
     "OPTIONS": [
       "[Avaa ruumisarkku] #gOta #greliikki. #r",
@@ -628,10 +628,10 @@
   "The Moai Head": {
     "NAME": "Moai-pää",
     "DESCRIPTIONS": [
-      "Törmäät rakenteeseen, joka tuntuu paikkaan *erittäin* sopimattomalta. Valtava kivinen pää ilmestyy ison seinän osasta, joka ei liiku ja muutu kuten muu tältä alueelta. NL Pään suu on avoinna, paljastaen ison pelottavan hammasrivistön, joka on tahriintunut punaiseksi verestä. Patsaan pinta on täynnä kuvakirjoituksia, jotka esittävät ihmisiä heittäytymässä tämän pään suuhun ahmittavaksi. Miksi kukaan niin tekisi?",
-      "Kun astut ylös patsaan suulle, mitään ei tapahdu. Tuntiessasi itsesi enemmän kuin hieman hölmöksi, valtavat poskihampaat iskeytyvät alas, murskaen sinut kokonaan. NL @Pimeys.@ NL Jonkin aikaa myöhemmin pimeydestä näet valonsäleen, ja kuulet mitä nyt ymmärrät kivisten hampaiden ääneksi, kun ne nousevat hitaasti ylös. NL NL NL Poistut hämmentyneenä.",
-      "Hyppäät hieman taaksepäin kun jättiläismäiset poskihampaat iskevät idoliin, murskaten sen tomuksi. Hampaiden alkaessa nousta taas ylös, #ykultaa virtaa ulos koskena suuaukosta, tulvien sinut rikkauksilla.",
-      "Poistut, miettien mahdollisia seuraamuksia."
+      "Törmäät rakenteeseen, joka tuntuu paikkaan *erittäin* sopimattomalta. Valtava kivinen pää sojottaa suuren seinän sellaisesta osasta, joka ei liiku ja muutu kuten kaikki muu tällä alueella. NL Pään suu on avoinna paljastaen ison pelottavan hammasrivistön, joka on tahriintunut punaiseksi verestä. Patsaan pinta on täynnä kuvakirjoituksia, jotka esittävät ihmisiä heittäytymässä tämän pään suuhun ahmittavaksi. Miksi kukaan niin tekisi?",
+      "Kun astut ylös patsaan suuhun, mitään ei tapahdu. Alkaessasi tuntea itsesi enemmän kuin hieman hölmöksi valtavat poskihampaat iskeytyvät alas murskaten sinut täysin. NL @Pimeys.@ NL Hetken kuluttua näet pimeydestä kajastavan valonsäteen ja kuulet äänen, jonka ymmärrät nyt tulevan kivisistä hampaista, kun ne nousevat hitaasti ylös. NL NL NL Poistut hämmentyneenä.",
+      "Hyppäät hieman taaksepäin, kun jättiläismäiset poskihampaat iskevät idoliin murskaten sen tomuksi. Hampaiden alkaessa nousta taas ylös suuaukosta virtaa #ykultaa ulos koskena peittäen sinut rikkauksilla.",
+      "Poistut miettien mahdollisia seuraamuksia."
     ],
     "OPTIONS": [
       "[Hyppää sisään] #gParane #gtäyteen #gOP:siin. #rMenetä #r",
@@ -644,9 +644,9 @@
   "The Woman in Blue": {
     "NAME": "Nainen sinisissä",
     "DESCRIPTIONS": [
-      "Pimeydestä ilmestyy käsivarsi, joka vetää sinut pieneen kauppaan. Silmiesi totuttua, näet kalpean naisen siistissä vaatteissa elehtivän taikaliemiä täynnä olevaan seinään. NL \"Osta pullo. Nyt!\" hän sanoo.",
+      "Pimeydestä ilmestyy käsivarsi, joka vetää sinut pieneen kauppaan. Silmiesi totuttua näet skarpisti pukeutuneen kalpean naisen elehtivän kohti taikaliemiä täynnä olevaa seinää. NL \"Osta pullo. Nyt!\" hän sanoo.",
       "\"Hyvä. Nyt poistu.\" NL Lähdet pois kaupasta varovaisesti.",
-      "#r@PAM@ NL Hänen käsineellä varustettu nyrkki iskeytyy naamaasi, miltei pudottaen sinut. NL \"Painu ulos täältä ennenkuin tahraan lattian sisuksillasi.\" Otat sanasta vaarin ja poistut kun sinulla on vielä sisuskalusi."
+      "#r@PAM@ NL Hänen käsineen peittämä nyrkkinsä iskeytyy naamaasi miltei pudottaen sinut. NL \"Painu ulos täältä ennenkuin tahraan lattian sisuksillasi.\" Otat sanasta vaarin ja poistut, kun sinulla on vielä sisuskalusi."
     ],
     "OPTIONS": [
       "[Osta 1 liemi] #y",
@@ -659,11 +659,11 @@
     ]
   },
   "Thinking with Puddles": {
-    "NAME": "Ajattele lätäköiden kanssa",
+    "NAME": "Lätäkkötesti",
     "DESCRIPTIONS": [
-      "Kävelet kimmeltävään lätäkköön... ja putoat katosta suoraan sen yläpuolelta! NL Pohdit vapaapudotuksessa vaihtoehtojasi.",
-      "Huidot paniikissa käsiäsi ja käytät kaikkia sinun piilotettuja taitojasi välttyäkseen vammoilta. Kaikesta huolimatta putoat yhtä uudestaan lätäkköön... ja uudestaan... ja uudestaan. Päivät kuluvat, ennenkuin tajuat miten päästä pois. Todellakin surkeaa.",
-      "Valmistaudut törmäykseen, mutta ei yksinkertaisesti ole mitään hyvää tapaa kaatua, kun sinut on heitetty ulos noinkin eriskummallisesta laitteesta. @LÄTS@ NL NL ...makaat hetken maassa kiroten lätäköiden olemassaoloa, sekä nestemäisten että maagisten."
+      "Kävelet kimmeltävään lätäkköön... ja putoat ulos katosta suoraan sen yläpuolelta! NL Pohdit vapaapudotuksessa vaihtoehtojasi.",
+      "Huidot paniikissa käsiäsi ja käytät kaikkia piileviä kykyjäsi välttyäksesi vammoilta. Kaikesta huolimatta putoat yhä uudestaan lätäkköön... ja uudestaan... ja uudestaan. Kuluu päiviä ennen kuin tajuat miten päästä pois. Todellakin surkeaa.",
+      "Valmistaudut törmäykseen, mutta ei vain ole mitään hyvää tapaa laskeutua, kun sinkoutuu ulos noinkin eriskummallisesta virityksestä. @LÄTS@ NL NL ...makaat hetken maassa kiroten lätäköiden olemassaoloa, sekä nestemäisten että maagisten."
     ],
     "OPTIONS": [
       "[Häkeltynyt] #rMenetä #rsatunnainen #rHarvinainen+ #rkortti.",
@@ -675,9 +675,9 @@
   "Tomb of Lord Red Mask": {
     "NAME": "Punaisen naamion herran hauta",
     "DESCRIPTIONS": [
-      "Hyvin arvovaltaisesti koristeltu hautamuistimerkki näkyy kelluvan polun toisessa päässä. Saapuessasi haudan luo, huomaat raon #ykultakolikoille ja sen yllä yliraavitun kirjoituksen.",
-      "Puet naamion ja hauta alkaa ~mureta~ ~pois...~ salainen käytävä! NL NL Käytävä on lukemattomien varastettujen höydykkeiden ja #ykultapinojen reunustamat!",
-      "Aukko ilmestyy hautaan, ja ulos liukuu pieni punainen naamio kirjelappu liitettynä. \"Ota muilta, niin kuin minä olen ottanut sinulta!\""
+      "Hyvin arvovaltaisesti koristeltu hautamuistomerkki näkyy kelluvan polun toisessa päässä. Saapuessasi haudan luo huomaat raon #ykultakolikoille ja sen yllä yliraavitun kirjoituksen.",
+      "Puet naamion ja hauta alkaa ~mureta~ ~pois...~ salainen käytävä! NL NL Käytävän reunoilla on lukemattomia varastettuja tavaroita ja pinoittain #ykultaa!",
+      "Hautaan ilmestyy aukko ja ulos liukuu pieni punainen naamio kirjelappu varustettuna. \"Ota muilta, niin kuin minä olen ottanut sinulta!\""
     ],
     "OPTIONS": [
       "[Pue punanaamio] #gSaa #g222 #gKultaa.",
@@ -690,8 +690,8 @@
   "Transmorgrifier": {
     "NAME": "Täysmuodonmuuttaja",
     "DESCRIPTIONS": [
-      "Edessäsi on pystyssä taidokkaasti rakennettu unohtuneen hengen pyhättö.",
-      "Kun pyhätön voima virtaa sinun lävitsesi, tunnet mielesi muuttuneeksi.",
+      "Edessäsi on taidokkaasti rakennettu unohtuneen hengen pyhättö.",
+      "Pyhätön voima virtaa sinun lävitsesi ja tunnet mielesi muuttuneeksi.",
       "Jätät pyhätön rauhaan."
     ],
     "OPTIONS": [
@@ -703,8 +703,8 @@
   "Upgrade Shrine": {
     "NAME": "Parannusalttari",
     "DESCRIPTIONS": [
-      "Edessäsi on esillä taidokkaasti rakennettu unohtuneen hengen pyhättö.",
-      "Pyhätön energia virtaa sinuun, tehden sinusta vahvemman.",
+      "Edessäsi on taidokkaasti rakennettu unohtuneen hengen pyhättö.",
+      "Pyhätön energia virtaa sinuun tehden sinusta vahvemman.",
       "Jätät pyhätön rauhaan."
     ],
     "OPTIONS": [
