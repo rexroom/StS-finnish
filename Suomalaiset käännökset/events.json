@@ -465,10 +465,10 @@
   "Scrap Ooze": {
     "NAME": "Romulieju",
     "DESCRIPTIONS": [
-      "Kävellessäsi huoneeseen kuulet ~pulputusta~ ja metallien @hankausta.@ Edessäsi on liman kaltainen olio, joka on ahminut liikaa romua kuin mikä olisi hyväksi. Näet olion sisältä välähdyksiä oudosta valosta, ehkäpä jostain maagisesta? Näyttää siltä että voit saada jonkin verran #yaarteita jos vain ojennat kätesi sisään sen... aukkoon. Happo ja terävät esineet saattavat tosin #rsatuttaa.",
-      "#r@Auts!@ NL Löydät vain syöpynyttä metallia ja jonkin verran #r@polttavaa@ #r@kipua.@ NL Siitä huolimatta, olet silti varma että siellä on #yreliikki...",
-      "#gMenestys! NL Penkoessasi läpi metallin ja polttavan hapon, saat vihdoinkin otteen #yreliikistä ja revit sen ulos. NL Nostat itsesi ulos liejusta #rvahingoittuneena mutta palkittuna.",
-      "Päätät poistua alueesta. NL Lima ei välitä, vaan jatkaa ateriansa sulattamista."
+      "Kävellessäsi huoneeseen kuulet ~pulputusta~ ja metallien @hankausta.@ Edessäsi on liman kaltainen olio, joka on ahminut enemmän romua kuin olisi kannattanut. Näet olion sisältä välähdyksiä oudosta valosta, ehkäpä jostain maagisesta? Näyttää siltä, että voit saada jonkin verran #yaarteita, jos vain ojennat kätesi sisään sen... aukkoon. Happo ja terävät esineet saattavat tosin #rsatuttaa.",
+      "#r@Auts!@ NL Löydät vain syöpynyttä metallia ja jonkin verran #r@polttavaa@ #r@kipua.@ NL Siitä huolimatta olet silti varma, että siellä on #yreliikki...",
+      "#gOnnistui! NL Pengottuasi läpi metallin ja polttavan hapon saat vihdoinkin otteen #yreliikistä ja revit sen ulos. NL Nostat itsesi ulos liejusta #rvahingoittuneena mutta palkinnon saaneena.",
+      "Päätät poistua alueelta. NL Lima ei välitä, vaan jatkaa ateriansa sulattelua."
     ],
     "OPTIONS": [
       "[Kurkota sisälle] #rMenetä #r",
@@ -481,9 +481,9 @@
   "SecretPortal": {
     "NAME": "Salainen portaali",
     "DESCRIPTIONS": [
-      "Edessäsi on näky, joka näyttää sopimattomalta ympärillä olevan vieraan maiseman kanssa. Omituisesti asetettu yhteen tuonpuoleisen eläviin seiniin on suljettu kivinen sisäänkäynti #p~pyörivällä~ #p~maagisella~ #p~portaalilla.~ NL NL Et ole varma minne se johtaa, mutta ehkä se nopeuttaa matkaasi läpi Tornin.",
-      "Loikatessasi läpi portaalin, sinun ajan ja avaruuden aistisi repeytyvät hajalle kokonaan. NL NL Kun saat suuntavaistosi takaisin uudessa ympäristössä, tajuat että suoraan edessäsi odottaa kauhistuttava taisto.",
-      "Maltti ja valtti ovat luultavasti parempia tapoja Tornin huippuun pääsemisessä. Jätät portaalin taaksesi kun jatkat matkaasi."
+      "Edessäsi on näky, joka ei tunnu sopivan yhteen ympärilläsi olevan oudon maiseman kanssa. Yhdessä tuonpuoleisen elävistä seinistä on kivien ympäröimä aukko, jonka täyttää #p~pyörivä~ #p~maaginen~ #p~portaali.~ NL NL Et ole varma minne se johtaa, mutta ehkä se nopeuttaa matkaasi läpi Tornin.",
+      "Loikatessasi läpi portaalin sinun ajan ja avaruuden tajusi repeytyvät täysin hajalle. NL NL Kun saat suuntavaistosi takaisin uudessa ympäristössä, tajuat että suoraan edessäsi odottaa kauhistuttava taisto.",
+      "Maltti ja valtti ovat luultavasti parempia tapoja Tornin huipulle pääsemisessä. Jätät portaalin taaksesi ja jatkat matkaasi."
     ],
     "OPTIONS": [
       "[Astu portaaliin] Matkusta HETI vihollispomon luo.",
@@ -493,12 +493,12 @@
   "SensoryStone": {
     "NAME": "Aistikivi",
     "DESCRIPTIONS": [
-      "Suunnistaen läpi tuonpuoleisen, löydät #bhohtavan #btesseraktin @pyörivän@ ja ~liikehtivän~ hellästi ilmassa.",
-      "Kosketat sitä. NL NL #r@Terävä@ #r@kipu@ virtaa sinun lävitse, seuranaan eloisia välähdyksiä kaukaisesta muistosta. NL ...kenen muistoja nämä ovat?",
-      "#r~PELKO.~ NL NL Demoninen hahmo kohoaa yllesi, siivet leveästi avattuina samalla kun se ulvoo naurusta. Heimon kuolleet ruumit ympäröivät sinua, samalla kun kylää valtaa kauhistuttavat #p~synkät~ #p~liekit.~ NL NL Demoni huudahtaa, ivaten sinua. NL NL \" #r@SINÄ@ #r@TODELLAKIN@ #r@OLET@ #r@KAIKISTA@ #r@VAHVIN@ #r@NYT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Hänen naurunsa kaikuu ikuisesti... ",
-      "#g~VOITONRIEMU.~ NL NL #p~Aavemaisen~ #p~olennon~ jäänteet uppoaa hitaasti edessäsi olevaan mutaan, hädin tuskin näkyvissä kuunvalossa. Olet todistanut itsesi siskojesi edessä. NL NL Seisoen voitokkaana, odotat hiljaisuudessa kun muut juhlallisesti asettavat #yolennon #ypääkallon pääsi päälle. Rituaali on suoritettu. NL NL Lähdet Tornia kohden...",
+      "Suunnistaessasi läpi tuonpuoleisen löydät #bhohtavan #btesseraktin @pyörimässä@ ja ~liikehtimässä~ hienovaraisesti ilmassa.",
+      "Kosketat sitä. NL NL #r@Terävä@ #r@kipu@ virtaa lävitsesi tuoden mukanaan voimakkaita välähdyksiä kaukaisesta muistosta. NL ...kenen muistoja nämä ovat?",
+      "#r~PELKO.~ NL NL Demoninen hahmo kohoaa yllesi siivet leveästi avattuina ja ulvoen naurusta. Heimon kuolleet ruumit ympäröivät sinua ja kun kylän nielaisevat kauhistuttavat #p~synkät~ #p~liekit.~ NL NL Demoni huudahtaa ivaten sinua. NL NL \" #r@SINÄ@ #r@TODELLAKIN@ #r@OLET@ #r@KAIKISTA@ #r@VAHVIN@ #r@NYT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Hänen naurunsa kaikuu ikuisesti... ",
+      "#g~VOITONRIEMU.~ NL NL #p~Aavemaisen~ #p~olennon~ jäänteet uppoavat hitaasti edessäsi olevaan mutaan kuunvalon häilyvästi valaisemina. Olet todistanut itsesi siskojesi edessä. NL NL Seisoen voitokkaana odotat hiljaisuudessa, kun muut asettavat juhlallisesti #yolennon #ypääkallon pääsi päälle. Rituaali on suoritettu. NL NL Lähdet kohti Tornia...",
       "#b~EPÄJÄRJESTYS.~ NL NL #y[PÄÄMÄÄRÄ] #gTASAPAINO #gtäytyy #gTOIMEENPANNA NL #y[MÄÄRITELMÄ] #gTASAPAINO NL #y[VIRHE] #gTASAPAINO #gEI #gLÖYDY NL #y[MÄÄRITELMÄ] #gTASAPAINO NL #y[VIRHE] #gTASAPAINO #gEI #gLÖYDY NL #y[VAROITUS] #rIso #resine #rlähestymässä NL NL ~\"Minä...~ ~..olen~ ~....Neow..\"~",
-      "#p~TYYNEYS.~ NL NL Kaksi alkukantaista eliötä taistelevat tienpielessä olevasta ruhosta. Havainnoit, vailla tunteita. NL #yHavannoi. #yMuista. #yElä. Tämä on Tarkkailijan tehtävä. NL NL Hiljattain yksi vertaisistasi on lakannut raportoimasta komennukseltaan: Torni tuntemattomasta alkuperästä. NL NL Taistelun lakattua jatkat matkaasi eteenpäin, lainkaan häiriintymättä tapahtuneesta verisestä kohtauksesta."
+      "#p~TYYNEYS.~ NL NL Kaksi alkukantaista eliötä taistelee tienpielessä lojuvasta ruhosta. Havainnoit vailla tunteita. NL #yHavannoi. #yMuista. #yElä. Tämä on Tarkkailijan tehtävä. NL NL Yksi tovereistasi on hiljattain lakannut raportoimasta komennukseltaan: Tornista, jonka alkuperää ei tunneta. NL NL Taistelun lakattua jatkat matkaasi eteenpäin, häiriintymättä lainkaan todistamastasi verisestä kohtauksesta."
     ],
     "OPTIONS": [
       "[Muista] #gLisää #g1 #gVäritön #gkortti #gpakkaasi.",
@@ -512,9 +512,9 @@
   "Shining Light": {
     "NAME": "Hohtava valo",
     "DESCRIPTIONS": [
-      "Löydät kimmeltävän #ymassan #yvaloa kattavan huoneen keskustaa. NL NL Sen ~lämmin~ ~hohto~ ja ~lumoavat~ ~kuviot~ kutsuvat sinua sisälle.",
-      "Astuessasi valon läpi, huomaat valon imeytyvän sinuun. NL Se on #r@polttavan@ #r@kuuma@ ! Mutta kipu hälvenee nopeasti. NL Tunnet itsesi #bvirkeänä, ikäänkuin olisit saanut hyvin ansaitun läpsäytyksen.",
-      "Kävelet sen ympäri, miettien mahdollisia seurauksia."
+      "Löydät kimmeltävän #yvalomassan, joka ympäröi huoneen keskustaa. NL NL Sen ~lämmin~ ~hohto~ ja ~lumoavat~ ~kuviot~ kutsuvat sinua sisälle.",
+      "Astuessasi valon läpi huomaat valon imeytyvän sinuun. NL Se on #r@polttavan@ #r@kuumaa@ ! Mutta kipu hälvenee nopeasti. NL Tunnet olosi #bvirkeäksi, ikäänkuin olisit saanut hyvin ansaitun läpsäytyksen.",
+      "Kävelet sen ohitse miettien mahdollisia seurauksia."
     ],
     "OPTIONS": [
       "[Astu sisään] #gParantele #g2 #gsatunnaista #gkorttia. #rMenetä #r",
@@ -526,21 +526,21 @@
   "Spire Heart": {
     "NAME": "Tornin sydän",
     "DESCRIPTIONS": [
-      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivää kammoa tuntuu läpikotaisin huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
+      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivä kammoa tuntuu kaikkialla huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
       "Teit #b",
-      " vauriota! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta lopulta silti jyskyttää. NL Eikö voimakkaimmatkaan hyökkäyksesi ole tarpeeksi?",
+      " vauriota! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta jatkaa silti jyskyttämistä. NL Eivätkö voimakkaimmatkaan hyökkäyksesi olleet riittäviä?",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
       " vauriota sydämelle.",
       " NL Yhteensä #b",
       " vauriota ovat tehneet kaikki, jotka ovat haastaneet sen.",
-      " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~himmenee...~",
+      " NL Sydän sykkii voimakkaammin ja voimakkaammin samalla kun #y~tajuntasi~ #y~himmenee...~",
       "NL Nostat teräasettasi iskuun...",
       "NL Asetat tikarisi valmiiksi...",
       "NL Lataat ydintäsi täyteen tehoon...",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~",
-      " NL Sydän sykkii voimakkaammin ja voimakkaammin, samalla kun #y~tajuntasi~ #y~himmenee...~",
-      " NL Äkillinen purkaus #y@energiaa@ säteilee sinusta, #b@säpsähtäen@ sinut hereille.",
-      " NL Sydän #gperäytyy ylöspäin! Paljastaen suuren oven sen tilalla.",
+      " NL Sydän sykkii voimakkaammin ja voimakkaammin samalla kun #y~tajuntasi~ #y~himmenee...~",
+      " NL Äkillinen purkaus #y@energiaa@ säteilee sinusta #b@säpsäyttäen@ sinut hereille.",
+      " NL Sydän #gperääntyy ylöspäin! Sen tilalle paljstuu suuri ovi.",
 	  "NL Virität sauvasi jumalallisella energialla..."
     ],
     "OPTIONS": [
@@ -553,9 +553,9 @@
   "The Cleric": {
     "NAME": "Pappi",
     "DESCRIPTIONS": [
-      "Omituinen sininen humanoidi kultaisella kypärällä(?) lähestyy sinua valtavalla hymyllä. NL @\"Terve@ @ystävä!@ Olen #bPappi! Oletko kiinnostunut palveluistani?!\", otus huutaa lujaa.",
+      "Omituinen sininen humanoidi päässään kultainen kypärä(?) lähestyy sinua valtavasti hymyillen. NL @\"Terve@ @ystävä!@ Olen #bPappi! Oletko kiinnostunut palveluistani?!\", otus huutaa lujaa.",
       "Lämmin, kultainen valo peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi paras parantaja. @Hyvää@ @päivän@ @jatkoa!\"@",
-      "Kylmä, sininen liemmi peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi taitava. @Hyvää@ @päivän@ @jatkoa!\"@",
+      "Kylmä, sininen liekki peittää vartaloasi ja haihtuu. NL Otus virnistää. \"Pappi taitava. @Hyvää@ @päivän@ @jatkoa!\"@",
       "Et luota tähän #b\"Pappiin\", joten poistut."
     ],
     "OPTIONS": [
