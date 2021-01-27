@@ -389,7 +389,7 @@
   },
   "Distraction": {
     "NAME": "Harhautus",
-    "DESCRIPTION": "Lisää käteesi satunnainen Taitokortti. NL Sen hinta on tällä vuorolla 0. NL Kuluta."
+    "DESCRIPTION": "Lisää käteesi satunnainen Taito. NL Sen hinta on tällä vuorolla 0. NL Kuluta."
   },
   "Dodge and Roll": {
     "NAME": "Väistöliike",
@@ -516,7 +516,7 @@
   },
   "Finisher": {
     "NAME": "Lopetus",
-    "DESCRIPTION": "Tee !D! vauriota jokaisesta tällä vuorolla pelatusta Hyökkäyskortista.",
+    "DESCRIPTION": "Tee !D! vauriota jokaisesta tällä vuorolla pelatusta Hyökkäyksestä.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Hyökkäys pelattu.)",
