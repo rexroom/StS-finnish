@@ -470,7 +470,7 @@
   },
   "Escape Plan": {
     "NAME": "Pakosuunnitelma",
-    "DESCRIPTION": "Nosta 1 kortti. NL Jos nostit Kykykortin, saa  !B! Suojaa."
+    "DESCRIPTION": "Nosta 1 kortti. NL Jos nostit Taidon, saa !B! Suojaa."
   },
   "Eviscerate": {
     "NAME": "Suolista",
@@ -751,7 +751,7 @@
     "DESCRIPTION": "Nosta !M! korttia. NL Kuluta."
   },
   "Masterful Stab": {
-    "NAME": "Taiturimainen pistos",
+    "NAME": "Taitava pistos",
     "DESCRIPTION": "Maksaa 1 lisää [G] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -878,7 +878,7 @@
   },
   "Prepared": {
     "NAME": "Valmistautunut",
-    "DESCRIPTION": "Nosta !M! korttia. NL Poista !M! kortti.",
+    "DESCRIPTION": "Nosta !M! kortti. NL Poista !M! kortti.",
     "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poista !M! korttia."
   },
   "Pummel": {
