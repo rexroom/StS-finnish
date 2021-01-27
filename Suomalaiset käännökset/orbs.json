@@ -2,15 +2,15 @@
   "Dark": {
     "NAME": "Pimeys",
     "DESCRIPTION": [
-      "#yPassiivinen: Lisää tämän pallon vauriota #b",
-      ":lla vuoron lopussa. NL #yManaa: Jaa #b",
+      "#yPassiivinen: Lisää tämän orbin vauriota #b",
+      ":lla vuoron lopussa. NL #yManaa: Tee #b",
       " vauriota viholliselle, jolla on alhaisin OP."
     ]
   },
   "Empty": {
-    "NAME": "Pallopaikka",
+    "NAME": "Orbipaikka",
     "DESCRIPTION": [
-      "Energiapallot voidaan kanavoida näihin paikkoihin."
+      "Orbit voidaan kanavoida näihin paikkoihin."
     ]
   },
   "Frost": {
@@ -24,15 +24,15 @@
   "Lightning": {
     "NAME": "Salama",
     "DESCRIPTION": [
-      "#yPassiivinen: Vuoron lopussa jaa #b",
-      " vauriota satunnaiselle viholliselle. NL #yManaa: jaa #b",
+      "#yPassiivinen: Vuoron lopussa tee #b",
+      " vauriota satunnaiselle viholliselle. NL #yManaa: tee #b",
       " vauriota satunnaiselle viholliselle."
     ]
   },
   "Plasma": {
     "NAME": "Plasma",
     "DESCRIPTION": [
-      "#yPassiivinen: Vuorosi alussa saa [B] . NL #yManaa: Saa #b",
+      "#yPassiivinen: Saa vuorosi alussa [B] . NL #yManaa: Saa #b",
       " [B] . NL #yFokus ei vaikuta Plasmaan."
     ]
   }

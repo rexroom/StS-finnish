@@ -259,14 +259,14 @@
     "NAME": "Kapasiteettiyden liemi",
     "DESCRIPTIONS": [
       "Saa #b",
-      " Pallopaikkaa."
+      " Orbipaikkaa."
     ]
   },
   "EssenceOfDarkness": {
     "NAME": "Pimeyden esanssia",
     "DESCRIPTIONS": [
       "#yKanavoi #b",
-	  " #yPimeyttä jokaiselle pallopaikalle."
+	  " #yPimeyttä jokaiselle Orbipaikalle."
     ]
   },
   "BottledMiracle": {

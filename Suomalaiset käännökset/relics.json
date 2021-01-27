@@ -143,7 +143,7 @@
     "NAME": "Kullatetut kaapelit",
     "FLAVOR": "\"Mielenkiintoista! Placebo-vaikutus vaikuttaa myös automaatteihin.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Oikeanpuoleisin energiapallosi tekee passiiviefektinsä ylimääräisen kerran."
+      "Järjestyksessä seuraava orbisi suorittaa passiivikykynsä ylimääräisen kerran."
     ]
   },
   "Calipers": {
@@ -229,7 +229,7 @@
     "NAME": "Jäätynyt ydin",
     "FLAVOR": "Ytimen halkeama on täytetty sykkivällä kylmällä energialla.",
     "DESCRIPTIONS": [
-      "Korvaa #bHaljenneen #bytimen. Jos lopetat vuorosi vapaalla pallopaikalla, #yKanavoi #b1 #yPakkanen."
+      "Korvaa #bHaljenneen #bytimen. Jos lopetat vuorosi vapaalla orbipaikalla, #yKanavoi #b1 #yPakkanen."
     ]
   },
   "Cursed Key": {
@@ -316,7 +316,7 @@
     "NAME": "Tunnepiiri",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Jos menetit OP:tä edellisellä vuorolla, aktivoi vuorosi alussa kaikkien pallojen passiiviset kyvyt."
+      "Jos menetit OP:tä edellisellä vuorolla, aktivoi vuorosi alussa kaikkien orbien passiiviset kyvyt."
     ]
   },
   "Enchiridion": {
@@ -404,7 +404,7 @@
     "NAME": "Siirtäjä",
     "FLAVOR": "Työnnä. Vedä. Kasaa. Toista.",
     "DESCRIPTIONS": [
-      "Saa joka #b2 vuoron välein #b1 paikka energiapallolle."
+      "Saa joka #b2 vuoron välein #b1 orbipaikka."
     ]
   },
   "Juzu Bracelet": {
@@ -775,7 +775,7 @@
     "NAME": "Riimuinen kondensaattori",
     "FLAVOR": "Enempi on parempi.",
     "DESCRIPTIONS": [
-      "Aloita jokainen taistelu #b3:lla lisäenergiapallopaikalla."
+      "Aloita jokainen taistelu #b3:lla lisäorbipaikalla."
     ]
   },
   "Runic Cube": {

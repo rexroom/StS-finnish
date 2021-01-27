@@ -65,7 +65,7 @@
   },
   "Axe Kick": {
     "NAME": "Kirvespotku",
-    "DESCRIPTION": "Tee !D! vauriota. NL Manaa seuraava pallosi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Manaa seuraava orbisi."
   },
   "Backflip": {
     "NAME": "Takaperinvoltti",
@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Sulkutuli",
-    "DESCRIPTION": "Tee !D! vauriota jokaisesta Kanavoidusta Pallosta."
+    "DESCRIPTION": "Tee !D! vauriota jokaisesta Kanavoidusta Orbista."
   },
   "Barricade": {
     "NAME": "Barrikadi",
@@ -210,8 +210,8 @@
   },
   "Capacitor": {
     "NAME": "Kondensaattori",
-    "DESCRIPTION": "Saa !M! Pallopaikkaa.",
-    "UPGRADE_DESCRIPTION": "Saa !M! Pallopaikkaa."
+    "DESCRIPTION": "Saa !M! Orbipaikkaa.",
+    "UPGRADE_DESCRIPTION": "Saa !M! Orbipaikkaa."
   },
   "Carnage": {
     "NAME": "Verilöyly",
@@ -224,8 +224,8 @@
   },
   "Chaos": {
     "NAME": "Kaaos",
-    "DESCRIPTION": "Kanavoi !M! satunnaista Energiapalloa.",
-    "UPGRADE_DESCRIPTION": "Kanavoi !M! satunnaista Energiapalloa."
+    "DESCRIPTION": "Kanavoi !M! satunnaista Orbia.",
+    "UPGRADE_DESCRIPTION": "Kanavoi !M! satunnaista Orbia."
   },
   "Chill": {
     "NAME": "Jäädytä",
@@ -282,7 +282,7 @@
   },
   "Consume": {
     "NAME": "Kuluta",
-    "DESCRIPTION": "Saa !M! Fokusta. NL Menetä 1 Pallopaikka."
+    "DESCRIPTION": "Saa !M! Fokusta. NL Menetä 1 Orbipaikka."
   },
   "Coolheaded": {
     "NAME": "Kylmäpäinen",
@@ -328,7 +328,7 @@
   "Darkness": {
     "NAME": "Pimeys",
     "DESCRIPTION": "Kanavoi !M! Pimeys.",
-    "UPGRADE_DESCRIPTION": "Kanavoi !M! Pimeys. NL Aktivoi kaikkien Pimeyspallojen passiivisen kyvyn."
+    "UPGRADE_DESCRIPTION": "Kanavoi !M! Pimeys. NL Aktivoi kaikkien Pimeysorbien passiivisen kyvyn."
   },
   "Dash": {
     "NAME": "Ryntäys",
@@ -433,7 +433,7 @@
   },
   "Dualcast": {
     "NAME": "Kaksoistaikomus",
-    "DESCRIPTION": "Manaa seuraava Pallosi kahdesti."
+    "DESCRIPTION": "Manaa seuraava Orbisi kahdesti."
   },
   "Echo Form": {
     "NAME": "Kaikumuoto",
@@ -529,8 +529,8 @@
   },
   "Fission": {
     "NAME": "Fissio",
-    "DESCRIPTION": "Poista kaikki Pallosi. Saa [B] ja nosta !M! kortti jokaisesta poistetusta pallosta. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Manaa kaikki Pallosi. Saa [B] ja nosta !M! kortti jokaisesta Manatusta Pallosta. NL Kuluta."
+    "DESCRIPTION": "Poista kaikki Orbisi. Saa [B] ja nosta !M! kortti per poistettu Orbi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Manaa kaikki Orbisi. Saa [B] ja nosta !M! kortti per Manattu Orbi. NL Kuluta."
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
@@ -555,7 +555,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Vuokondensaattori",
-    "DESCRIPTION": "Korvaa kaikki Kanavoidut Pallot Plasmalla. NL Kuluta."
+    "DESCRIPTION": "Korvaa kaikki Kanavoidut Orbit Plasmalla. NL Kuluta."
   },
   "Flying Knee": {
     "NAME": "Lentävä polvi",
@@ -721,8 +721,8 @@
   },
   "Loop": {
     "NAME": "Silmukka",
-    "DESCRIPTION": "Aktivoi vuorosi alussa seuraavan Pallon passiiviset kyvyt.",
-    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa seuraavan Pallon passiiviset kyvyt !M! kertaan."
+    "DESCRIPTION": "Aktivoi vuorosi alussa seuraavan Orbin passiiviset kyvyt.",
+    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa seuraavan Orbin passiiviset kyvyt !M! kertaan."
   },
   "Machine Learning": {
     "NAME": "Koneoppiminen",
@@ -785,8 +785,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multi-taikomus",
-    "DESCRIPTION": "Manaa seuraava Pallosi X kertaa.",
-    "UPGRADE_DESCRIPTION": "Manaa seuraava Pallosi X+1 kertaa."
+    "DESCRIPTION": "Manaa seuraava Orbisi X kertaa.",
+    "UPGRADE_DESCRIPTION": "Manaa seuraava Orbisi X+1 kertaa."
   },
   "Necronomicurse": {
     "NAME": "Necronomikirous",
@@ -929,7 +929,7 @@
   },
   "Redo": {
     "NAME": "Rekursio",
-    "DESCRIPTION": "Manaa seuraava Pallosi. NL Kanavoi Pallo jonka juuri Manasit."
+    "DESCRIPTION": "Manaa seuraava Orbisi. NL Kanavoi Orbi jonka juuri Manasit."
   },
   "Reflex": {
     "NAME": "Refleksi",
@@ -1269,7 +1269,7 @@
   },
   "Compile Driver": {
     "NAME": "Käännä ohjain",
-    "DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! kortti jokaista Pallotyyppiä kohden."
+    "DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! kortti jokaista Orbityyppiä kohden."
   },
   "RitualDagger": {
     "NAME": "Rituaalinen tikari",

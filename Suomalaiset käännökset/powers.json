@@ -379,8 +379,8 @@
   "Focus": {
     "NAME": "Fokus",
     "DESCRIPTIONS": [
-      "Parantaa Pallojen tehokkuutta #b",
-      "Heikentää Pallojen tehokkuutta #b",
+      "Parantaa Orbien tehokkuutta #b",
+      "Heikentää Orbien tehokkuutta #b",
       "."
     ]
   },
@@ -511,7 +511,7 @@
     "NAME": "Lukittu kohde",
     "DESCRIPTIONS": [
       "Saa #b",
-      "% enemmän vauriota Palloilta #b",
+      "% enemmän vauriota Orbeilta #b",
       " vuoroon.",
       " vuoroon."
     ]
@@ -519,8 +519,8 @@
   "Loop": {
     "NAME": "Kierre",
     "DESCRIPTIONS": [
-      "Aktivoi vuorosi alussa seuraavan Pallon passiivisen kyvyn.",
-      "Aktivoi vuorosi alussa seuraavan Pallon passiivisen kyvyn #b",
+      "Aktivoi vuorosi alussa seuraavan Orbin passiivisen kyvyn.",
+      "Aktivoi vuorosi alussa seuraavan Orbin passiivisen kyvyn #b",
       " kertaan."
     ]
   },
@@ -674,7 +674,7 @@
   "Prime": {
     "NAME": "Viritys",
     "DESCRIPTIONS": [
-      "Kun #yKanavoit Pallon, nosta #b",
+      "Kun #yKanavoit Orbin, nosta #b",
       " kortti.",
       " korttia."
     ]
