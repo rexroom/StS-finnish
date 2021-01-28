@@ -632,7 +632,7 @@
   },
   "Heel Hook": {
     "NAME": "Kantapääkoukku",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollinen oli Heikennetty, NL saa [G] ja NL nosta 1 kortti."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollisella on Heikkoutta, NL saa [G] ja NL nosta 1 kortti."
   },
   "Hello World": {
     "NAME": "Hei maailma",
