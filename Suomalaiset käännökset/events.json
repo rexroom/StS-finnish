@@ -171,7 +171,7 @@
   "Duplicator": {
     "NAME": "Kopiokone",
     "DESCRIPTIONS": [
-      "Edessäsi seisoo jollekin muinaiselle entiteetille omistettu koristeltu alttari.",
+      "Edessäsi on jollekin muinaiselle entiteetille omistettu koristeellinen alttari.",
       "Polvistut kunnioittavasti. Kauhistuttava peilikuva ilmestyy pyhätöstä ja törmää sinuun.",
       "Jätät pyhätön rauhaan varmana päätöksestäsi."
     ],
@@ -274,7 +274,7 @@
   "Golden Shrine": {
     "NAME": "Kultainen pyhättö",
     "DESCRIPTIONS": [
-      "Edessäsi on koristeellinen pyhättö muinaiselle hengelle. ",
+      "Edessäsi on muinaiselle hengelle omistettu koristeellinen pyhättö.",
       "Samalla kun kätesi koskettaa pyhättöä, #ykultaa alkaa sataa katosta ja ~rikkauksia~ ~suihkuaa~ ~päällesi.~ ",
       "Joka kerta kun isket pyhättöä, #ykultaa virtaa esiin uudestaan ja uudestaan! NL NL Poimiessasi kolikoita, jokin #rpainaa #rraskaasti #rsinua.",
       "Jätät pyhätön rauhaan."
@@ -452,7 +452,7 @@
   "Purifier": {
     "NAME": "Puhdistaja",
     "DESCRIPTIONS": [
-      "Edessäsi on yksityiskohtaisesti rakennettu pyhättö unohtuneelle hengelle.",
+      "Edessäsi on unohdetulle hengelle omistettu koristeellinen pyhättö.",
       "Polvistuessasi syvän kunnioituksen vallassa tunnet taakan poistuvan hartioiltasi.",
       "Olet välittämättä pyhätöstä."
     ],
@@ -690,7 +690,7 @@
   "Transmorgrifier": {
     "NAME": "Täysmuodonmuuttaja",
     "DESCRIPTIONS": [
-      "Edessäsi on taidokkaasti rakennettu unohtuneen hengen pyhättö.",
+      "Edessäsi on unohdetulle hengelle omistettu koristeellinen pyhättö.",
       "Pyhätön voima virtaa sinun lävitsesi ja tunnet mielesi muuttuneeksi.",
       "Jätät pyhätön rauhaan."
     ],
@@ -703,7 +703,7 @@
   "Upgrade Shrine": {
     "NAME": "Parannusalttari",
     "DESCRIPTIONS": [
-      "Edessäsi on taidokkaasti rakennettu unohtuneen hengen pyhättö.",
+      "Edessäsi on unohdetulle hengelle omistettu koristeellinen pyhättö.",
       "Pyhätön energia virtaa sinuun tehden sinusta vahvemman.",
       "Jätät pyhätön rauhaan."
     ],
