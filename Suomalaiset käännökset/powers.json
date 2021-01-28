@@ -837,7 +837,7 @@
     "NAME": "Itiöpilvi",
     "DESCRIPTIONS": [
       "Antaa kuollessaan #b",
-      " #yHaavoittuvaa."
+      " #yAlttiutta."
     ]
   },
   "Stasis": {
@@ -935,7 +935,7 @@
     ]
   },
   "Vulnerable": {
-    "NAME": "Haavoittuva",
+    "NAME": "Altis",
     "DESCRIPTIONS": [
       "Ota #b",
       "% enemmän vauriota #yHyökkäyksiltä #b",

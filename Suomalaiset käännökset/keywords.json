@@ -2,7 +2,9 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artefakti"
+        "artefakti",
+        "artefaktia",
+        "artefaktilla"
       ],
       "DESCRIPTION": "Mitätöi seuraavan haitan."
     },
@@ -76,7 +78,8 @@
       "NAMES": [
         "kuluta",
         "kulutettu",
-        "kuluttaa"
+        "kuluttaa",
+        "kuluvat"
       ],
       "DESCRIPTION": "Poista taistelun ajaksi."
     },
@@ -170,14 +173,17 @@
     },
     "STATUS": {
       "NAMES": [
-        "status"
+        "status",
+        "statuksia",
+        "statuksen"
       ],
       "DESCRIPTION": "Statuskortit poistetaan taistelun lopulla."
     },
     "STRENGTH": {
       "NAMES": [
         "vahvuus",
-        "vahvuutta"
+        "vahvuutta",
+        "vahvuudella"
       ],
       "DESCRIPTION": "Vahvuus antaa lisävauriota hyökkäyksiin."
     },
@@ -192,7 +198,8 @@
     ],
     "THORNS": {
       "NAMES": [
-        "piikit"
+        "piikit",
+        "piikillä"
       ],
       "DESCRIPTION": "Jakaa vauriota takaisin kun vastaanottaa #yHyökkäysvauriota.."
     },
@@ -220,7 +227,8 @@
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "ei-pelattava"
+        "ei-pelattava",
+        "ei-pelattavia"
       ],
       "DESCRIPTION": "Ei-pelattavia kortteja ei voi pelata kädestäsi."
     },
@@ -249,7 +257,8 @@
       "NAMES": [
         "heikkous",
         "heikkoutta",
-        "heikkouden"
+        "heikkouden",
+        "heikentää"
       ],
       "DESCRIPTION": "Heikennetyt oliot antavat #b25% vähemmän vauriota Hyökkäyksillään."
     },
@@ -271,7 +280,8 @@
     "CALM": {
       "NAMES": [
         "tyyni",
-        "tyyneen"
+        "tyyneen",
+        "tyyneydestä"
       ],
       "DESCRIPTION": "Saat [W] [W] poistuessasi tästä #yAsennosta."
     },
@@ -299,6 +309,7 @@
     "PRAYER": {
       "NAMES": [
         "mantra",
+        "mantraa",
         "raivon kautta"
       ],
       "DESCRIPTION": "Kun keräät #b10 #yMantraa, astu #yJumaluuteen."

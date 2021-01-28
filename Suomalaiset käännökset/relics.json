@@ -4,7 +4,7 @@
     "FLAVOR": "Pitäessäsi tätä pientä koristetta tunnet olosi vakaammaksi ja painavammaksi.",
     "DESCRIPTIONS": [
       "Aloita jokainen taistelu #b",
-      " #yTorjunnalla."
+      " #ySuojalla."
     ]
   },
   "Ancient Tea Set": {
@@ -35,7 +35,7 @@
     "FLAVOR": "Oli aikanaan Kaupungissa suosittu lelu. Auttaa pitämään viholliset epätasapainossa.",
     "DESCRIPTIONS": [
       "Taistelun alussa lisää #b",
-      " #yHaavoittuvaa KAIKILLE vihollisille."
+      " #yAlttiutta KAIKILLE vihollisille."
     ]
   },
   "Bag of Preparation": {
@@ -50,7 +50,7 @@
     "NAME": "Linnunnaamainen uurna",
     "FLAVOR": "Uurnassa on kuvattuna varisjumala Mazaleth pahanilkisine ilmeineen.",
     "DESCRIPTIONS": [
-      "Aina kun pelaat #yVoimakortin, paranna #b",
+      "Aina kun pelaat #yVoiman, paranna #b",
       " OP:tä."
     ]
   },
@@ -97,7 +97,7 @@
     "NAME": "Pullotettu liekki",
     "FLAVOR": "Pullon sisällä on ikuisesti liekehtivä tuli.",
     "DESCRIPTIONS": [
-      "Valitse #yhyökkäys poimiessasi tämän. Aloita jokainen taistelu tämä kortti kädessäsi.",
+      "Valitse #yHyökkäys poimiessasi tämän. Aloita jokainen taistelu tämä kortti kädessäsi.",
       "Valitse kortti ",
       "Aloita jokainen taistelu lisäämällä ",
       " käteesi."
@@ -191,7 +191,7 @@
     "NAME": "Mestarin vyö",
     "FLAVOR": "Vain mahtavin voi käyttää tätä vyötä.",
     "DESCRIPTIONS": [
-      "Aina kun annat #yHaavoittuvaa, anna myös #b",
+      "Aina kun annat #yAlttiutta, anna myös #b",
       " #yHeikkoutta."
     ]
   },
@@ -593,7 +593,7 @@
     "NAME": "Omituinen sieni",
     "FLAVOR": "\"Syötyäni trichella parastius -sienen, tunsin itseni suuremmaksi ja vähemmän ... vaikutuksille alttiiksi.\" - Ranwid ",
     "DESCRIPTIONS": [
-      "Kun olet #yHaavoittuva, otat vain #b25% enemmän vauriota #b50% sijaan."
+      "Kun olet #yAltis, otat vain #b25% enemmän vauriota #b50% sijaan."
     ]
   },
   "Oddly Smooth Stone": {
@@ -671,7 +671,7 @@
     "NAME": "Paperishamakko",
     "FLAVOR": "Paperi taittelee ja availee itseään jatkuvasti pienen olennon muotoon.",
     "DESCRIPTIONS": [
-      "#yHaavoittuvat viholliset kärsivät #b75% lisää vauriota normaalin #b50%:n sijaan."
+      "#yAlttiit viholliset kärsivät #b75% lisää vauriota normaalin #b50%:n sijaan."
     ]
   },
   "Peace Pipe": {
@@ -1248,7 +1248,7 @@
     "NAME": "Käsipora",
     "FLAVOR": "\"Spiraalit ovat vaarallisia.\"",
     "DESCRIPTIONS": [
-      "Kun murrat vihollisen #ySuojan, lisää #b2 #yHaavoittuvaa."
+      "Kun murrat vihollisen #ySuojan, lisää #b2 #yAlttiutta."
     ]
   },
   "HoveringKite": {

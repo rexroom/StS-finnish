@@ -54,7 +54,7 @@
   "EntropicBrew": {
     "NAME": "Entropiakeitto",
     "DESCRIPTIONS": [
-      "Täytä tyhjät juomakotelot satunnaisilla liemillä."
+      "Täytä tyhjät pullotaskut satunnaisilla liemillä."
     ]
   },
   "EssenceOfSteel": {
@@ -82,7 +82,7 @@
     "NAME": "Pelkoliemi",
     "DESCRIPTIONS": [
       "Anna #b",
-      " #yHaavoittuvaa."
+      " #yAlttiutta."
     ]
   },
   "Fire Potion": {
@@ -141,10 +141,10 @@
     ]
   },
   "Potion Slot": {
-    "NAME": "Pullopaikka",
+    "NAME": "Pullotasku",
     "DESCRIPTIONS": [
       "Käytä taikaliemiä taistelun aikana saadaksesi #gbonusta tai #rhaitataksesi vihollisia.",
-      "Pullopaikka"
+      "Pullotasku"
     ]
   },
   "PowerPotion": {

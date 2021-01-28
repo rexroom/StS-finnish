@@ -1830,7 +1830,7 @@
   },
   "Halt": {
     "NAME": "Seis",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Jos olet Raivossa, saa !M! lisäSuojaa."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Jos olet Raivossa, saa !M! lisää."
   },
   "WheelKick": {
     "NAME": "Kiertopotku",
