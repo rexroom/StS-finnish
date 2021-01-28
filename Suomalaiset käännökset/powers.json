@@ -434,8 +434,8 @@
   "Hex": {
     "NAME": "Noiduttu",
     "DESCRIPTIONS": [
-      "Kun pelaat kortin, joka ei ole #yHyökkäys, sekoita #b",
-      " #yDazed nostopinoosi."
+      "Kun pelaat kortin joka ei ole #yHyökkäys, sekoita #b",
+      " #yPää #ypyörällä nostopinoosi."
     ]
   },
   "Hide": {
@@ -1046,7 +1046,7 @@
   "Grounded": {
     "NAME": "VANHENTUNUT Maanläheinen",
     "DESCRIPTIONS": [
-      "Kun pelaat #yTaidon, astu #yTyyneyteen."
+      "Kun pelaat #yTaidon, astu #yTyyneen."
     ]
   },
   "Adaptation": {

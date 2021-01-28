@@ -22,7 +22,7 @@
     },
     "CHANNEL": {
       "NAMES": [
-        "kanava",
+        "kanavoi",
         "kanavoitu"
       ],
       "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, ensimmäinen orbi automaattisesti #yManataan tehdäkseen tilaa uudelle."
@@ -54,7 +54,8 @@
     },
     "DEXTERITY": {
       "NAMES": [
-        "näppäryys"
+        "näppäryys",
+        "näppäryyttä"
       ],
       "DESCRIPTION": "Näppäryys antaa lisää korteista saatavaa Suojaa."
     },
@@ -175,7 +176,8 @@
     },
     "STRENGTH": {
       "NAMES": [
-        "vahvuus"
+        "vahvuus",
+        "vahvuutta"
       ],
       "DESCRIPTION": "Vahvuus antaa lisävauriota hyökkäyksiin."
     },
@@ -238,16 +240,16 @@
     },
     "VULNERABLE": {
       "NAMES": [
-        "haavoittuva"
+        "altis",
+        "altiutta"
       ],
-      "DESCRIPTION": "Haavoittuvat oliot ottavat #b50% enemmän vauriota Hyökkäyksiltä."
+      "DESCRIPTION": "Alttiit oliot ottavat #b50% enemmän vauriota Hyökkäyksiltä."
     },
     "WEAK": {
       "NAMES": [
-        "heikko",
-        "heikennä",
-        "heikennetty",
-        "heikentää"
+        "heikkous",
+        "heikkoutta",
+        "heikkouden"
       ],
       "DESCRIPTION": "Heikennetyt oliot antavat #b25% vähemmän vauriota Hyökkäyksillään."
     },
@@ -260,32 +262,37 @@
     },
     "WRATH": {
       "NAMES": [
-        "raivo"
+        "raivo",
+        "raivoon",
+        "raivossa"
       ],
       "DESCRIPTION": "Tässä #yAsennossa annat ja otat tuplasti enemmän hyökkäysvauriota."
     },
     "CALM": {
       "NAMES": [
-        "tyyni"
+        "tyyni",
+        "tyyneen"
       ],
       "DESCRIPTION": "Saat [W] [W] poistuessasi tästä #yAsennosta."
     },
     "STANCE": {
       "NAMES": [
         "asento",
-        "asennot"
+        "asentoa"
       ],
       "DESCRIPTION": "Sinulla voi olla vain yksi asento voimassa."
     },
     "SCRY": {
       "NAMES": [
-        "ennusta"
+        "ennusta",
+        "ennustat"
       ],
       "DESCRIPTION": "Katso X päällimmäistä korttia nostopinosi päältä. Voit poistaa minkä tahansa niistä."
     },
     "DIVINITY": {
       "NAMES": [
-        "jumaluus"
+        "jumaluus",
+        "jumaluuteen"
       ],
       "DESCRIPTION": "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vauriota. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
     },
@@ -294,7 +301,7 @@
         "mantra",
         "raivon kautta"
       ],
-      "DESCRIPTION": "Kun keräät #b10 #yMantraa, vaihda #yJumaluuteen."
+      "DESCRIPTION": "Kun keräät #b10 #yMantraa, astu #yJumaluuteen."
     },
     "VIGOR": {
       "NAMES": [

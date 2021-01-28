@@ -35,7 +35,7 @@
   },
   "Allocate": {
     "NAME": "Allokoi",
-    "DESCRIPTION": "Saa !M! Fokusta. NL Menetä 1 Vahvuus. NL Menetä 1 Näppäryys."
+    "DESCRIPTION": "Saa !M! Fokusta. NL Menetä 1 Vahvuutta. NL Menetä 1 Näppäryyttä."
   },
   "Amplify": {
     "NAME": "Vahvista",
@@ -56,7 +56,7 @@
     "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Parantele kaikki kortit kädessäsi taistelun ajaksi."
   },
   "AscendersBane": {
-    "NAME": "Nousukkaan turma",
+    "NAME": "Nousijan turma",
     "DESCRIPTION": "Ei-pelattava. NL Eteerinen. NL Ei voi poistaa pakasta."
   },
   "Auto Shields": {
@@ -97,7 +97,7 @@
   },
   "Bash": {
     "NAME": "Murskaa",
-    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Haavoittuvuutta."
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Altiutta."
   },
   "Battle Trance": {
     "NAME": "Taistelutranssi",
@@ -105,11 +105,11 @@
   },
   "Beam Cell": {
     "NAME": "Sädekenno",
-    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Haavoittuvaa."
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Altiutta."
   },
   "Berserk": {
     "NAME": "Raivohullu",
-    "DESCRIPTION": "Saa !M! Haavoittuvaa. NL Ota [R] vuorosi alussa."
+    "DESCRIPTION": "Saa !M! Altiutta. NL Ota [R] vuorosi alussa."
   },
   "Biased Cognition": {
     "NAME": "Vinoutunut kognitio",
@@ -120,7 +120,7 @@
     "DESCRIPTION": "Tee !D! vauriota. NL Paranna !M! OP:tä."
   },
   "Blade Dance": {
-    "NAME": "Terien tanssi",
+    "NAME": "Terätanssi",
     "DESCRIPTION": "Lisää !M! *Puukkoa käteesi."
   },
   "Blaster": {
@@ -135,6 +135,7 @@
   "Blizzard": {
     "NAME": "Lumimyrsky",
     "DESCRIPTION": "Tee taistelussa Kanavoitujen Pakkasten verran vauriota !M! kertaa KAIKILLE vihollisille.",
+    "DESCRIPTION": "
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vauriota.)",
@@ -571,7 +572,7 @@
   },
   "Fusion": {
     "NAME": "Fuusio",
-    "DESCRIPTION": "Kanavoi !M! Plasmaa."
+    "DESCRIPTION": "Kanavoi !M! Plasma."
   },
   "Gash": {
     "NAME": "Kynsi",
@@ -622,8 +623,8 @@
   },
   "Heatsinks": {
     "NAME": "Jäähdytyslevyt",
-    "DESCRIPTION": "Kun pelaat Voima-kortin, nosta !M! kortti.",
-    "UPGRADE_DESCRIPTION": "Kun pelaat Voima-kortin, nosta !M! korttia."
+    "DESCRIPTION": "Kun pelaat Voiman, nosta !M! kortti.",
+    "UPGRADE_DESCRIPTION": "Kun pelaat Voiman, nosta !M! korttia."
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
@@ -1032,7 +1033,7 @@
   },
   "Shockwave": {
     "NAME": "Paineaalto",
-    "DESCRIPTION": "Lisää !M! Heikkoutta ja Haavoittuvuutta KAIKILLE vihollisille. NL Kuluta."
+    "DESCRIPTION": "Lisää !M! Heikkoutta ja Alttiutta KAIKILLE vihollisille. NL Kuluta."
   },
   "Shrug It Off": {
     "NAME": "Olankohautus",
@@ -1148,7 +1149,7 @@
   },
   "Terror": {
     "NAME": "Kauhu",
-    "DESCRIPTION": "Lisää 99 Haavoittuvuutta. NL Kuluta."
+    "DESCRIPTION": "Lisää 99 Alttiutta. NL Kuluta."
   },
   "The Bomb": {
     "NAME": "Pommi",
@@ -1168,7 +1169,7 @@
   },
   "Thunderclap": {
     "NAME": "Ukkosen jyrähdys",
-    "DESCRIPTION": "Tee !D! vauriota ja lisää 1 Haavoittuva KAIKILLE vihollisille."
+    "DESCRIPTION": "Tee !D! vauriota ja lisää 1 Alttiutta KAIKILLE vihollisille."
   },
   "Tools of the Trade": {
     "NAME": "Alan työkalut",
@@ -1181,8 +1182,8 @@
   },
   "Trip": {
     "NAME": "Kampitus",
-    "DESCRIPTION": "Lisää !M! Haavoittuvuutta.",
-    "UPGRADE_DESCRIPTION": "Lisää !M! Haavoittuvuutta KAIKILLE vihollisille."
+    "DESCRIPTION": "Lisää !M! Alttiutta.",
+    "UPGRADE_DESCRIPTION": "Lisää !M! Alttiutta KAIKILLE vihollisille."
   },
   "True Grit": {
     "NAME": "Sisu",
@@ -1215,7 +1216,7 @@
   },
   "Uppercut": {
     "NAME": "Oikea koukku",
-    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Heikkoutta. NL Lisää !M! Haavoittuvuutta."
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Heikkoutta. NL Lisää !M! Alttiutta."
   },
   "Venomology": {
     "NAME": "Alkemia",
@@ -1253,7 +1254,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Henkimuoto",
-    "DESCRIPTION": "Saa !M! Aineetonta. NL Menetä 1 Näppäryys vuorosi lopussa."
+    "DESCRIPTION": "Saa !M! Aineetonta. NL Menetä 1 Näppäryyttä vuorosi lopussa."
   },
   "Writhe": {
     "NAME": "Noidannuoli",
@@ -1272,7 +1273,7 @@
     "DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! kortti jokaista Orbityyppiä kohden."
   },
   "RitualDagger": {
-    "NAME": "Rituaalinen tikari",
+    "NAME": "Rituaalitikari",
     "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, lisää pysyvästi tähän korttiin !M! vauriota. NL Kuluta."
   },
   "Pride": {
@@ -1324,7 +1325,7 @@
   },
   "FearNoEvil": {
     "NAME": "Ei pelkoa",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollinen aikoo Hyökätä, astu Tyyneksi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollinen aikoo Hyökätä, astu Tyyneen."
   },
   "MentalFortress": {
     "NAME": "Mielenlinnake",
@@ -1341,17 +1342,17 @@
   },
   "ForeignInfluence": {
     "NAME": "Vieras vaikutus",
-    "DESCRIPTION": "Valitse 3 minkä tahansa värin Hyökkäyksistä 1 käteesi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Valitse 3 minkä tahansa värin Hyökkäyksistä 1 käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
+    "DESCRIPTION": "Valitse 3 kaikkien värien Hyökkäyksistä 1 käteesi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Valitse 3 kaikkien värien Hyökkäyksistä 1 käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
   },
   "FlowState": {
     "NAME": "VANHENTUNUT Flow-tila",
-    "DESCRIPTION": "Raivo: astu Tyyneksi. NL Tyyni: astu Raivoon. NL Kuluta.",
-  	"UPGRADE_DESCRIPTION": "Raivo: astu Tyyneksi. NL Tyyni: astu Raivoon."
+    "DESCRIPTION": "Raivo: astu Tyyneen. NL Tyyni: astu Raivoon. NL Kuluta.",
+  	"UPGRADE_DESCRIPTION": "Raivo: astu Tyyneen. NL Tyyni: astu Raivoon."
   },
   "FlurryOfBlows": {
     "NAME": "Iskujen puuska",
-    "DESCRIPTION": "Tee !D! vauriota. NL Kun vaihdat asentoa, palauta tämä kortti poistopinosta käteesi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Kun vaihdat Asentoa, palauta tämä kortti poistopinosta käteesi."
   },
   "PalmThatRestrains": {
     "NAME": "VANHENTUNUT Pitelevä kämmen",
@@ -1367,7 +1368,7 @@
   },
   "Polymath": {
     "NAME": "VANHENTUNUT Yleisnero",
-    "DESCRIPTION": "Astu Tyyneksi tai Raivoon. NL Kuluta."
+    "DESCRIPTION": "Astu Tyyneen tai Raivoon. NL Kuluta."
   },
   "Consecrate": {
     "NAME": "Pyhitä",
@@ -1422,8 +1423,8 @@
   },
   "PerfectedForm": {
     "NAME": "VANHENTUNUT Täydellinen muoto",
-    "DESCRIPTION": "Jos astuis kaikkiin perusAsentoihin tällä vuorolla, astu Jumaluuteen. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Jos astuis kaikkiin perusAsentoihin tällä vuorolla, astu Jumaluuteen."
+    "DESCRIPTION": "Jos otat kaikki Asennot tällä vuorolla, astu Jumaluuteen. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Jos otat kaikki Asennot tällä vuorolla, astu Jumaluuteen."
   },
   "AwakenedStrike": {
     "NAME": "VANHENTUNUT Herännyt isku",
@@ -1521,8 +1522,8 @@
   },
   "Meditate": {
     "NAME": "Meditoi",
-    "DESCRIPTION": "Ota kortti poistopinostasi, laita se käteesi ja Säilytä se. NL Astu Tyyneyteen. NL Lopeta vuorosi.",
-    "UPGRADE_DESCRIPTION": "Ota 2 korttia poistopinostasi, laita ne käteesi ja Säilytä ne. NL Astu Tyyneyteen. NL Lopeta vuorosi."
+    "DESCRIPTION": "Ota kortti poistopinostasi, laita se käteesi ja Säilytä se. NL Astu Tyyneen. NL Lopeta vuorosi.",
+    "UPGRADE_DESCRIPTION": "Ota 2 korttia poistopinostasi, laita ne käteesi ja Säilytä ne. NL Astu Tyyneen. NL Lopeta vuorosi."
   },
   "Miracle": {
     "NAME": "Ihme",
@@ -1535,7 +1536,7 @@
   },
   "Flow": {
     "NAME": "VANHENTUNUT Virtaus",
-    "DESCRIPTION": "Kun pelaat Hyökkäyksen, saa 1 väliaikaisen Näppäryyden. Kun pelaat Taidon, saa 1 väliaikaisen Vahvuuden."
+    "DESCRIPTION": "Kun pelaat Hyökkäyksen, saa 1 väliaikaista Näppäryyttä. Kun pelaat Taidon, saa 1 väliaikaista Vahvuutta."
   },
   "CarveReality": {
     "NAME": "Luo todellisuus",
@@ -1661,7 +1662,7 @@
   },
   "ClearTheMind": {
     "NAME": "Levollisuus",
-    "DESCRIPTION": "Säilytä. NL Astu Tyyneyteen. NL Kuluta."
+    "DESCRIPTION": "Säilytä. NL Astu Tyyneen. NL Kuluta."
   },
   "WaveOfTheHand": {
     "NAME": "Kädenheilautus",
@@ -1676,7 +1677,7 @@
   },
   "Vigilance": {
     "NAME": "Valppaus",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Astu Tyyneyteen.",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Astu Tyyneen.",
     "UPGRADE_DESCRIPTION": "Vanhentunut."
   },
   "Serenity": {
@@ -1701,11 +1702,11 @@
   },
   "CrushJoints": {
     "NAME": "Murra nivelet",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, lisää !M! Haavoittuvuus."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos edellinen pelattu kortti tässä taistelussa oli Taito, lisää !M! Alttiutta."
   },
   "SashWhip": {
     "NAME": "Vyönauhan lyönti",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, lisää !M! Heikkous."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos edellinen pelattu kortti tässä taistelussa oli Hyökkäys, lisää !M! Heikkoutta."
   },
   "Sanctity": {
     "NAME": "Pyhyys",
@@ -1795,7 +1796,7 @@
   },
   "InnerPeace": {
     "NAME": "Sisäinen rauha",
-    "DESCRIPTION": "Jos olet Tyyni, nosta !M! korttia, muussa tapauksessa astu Tyyneyteen."
+    "DESCRIPTION": "Jos olet Tyyni, nosta !M! korttia, muussa tapauksessa astu Tyyneen."
   },
   "Tantrum": {
     "NAME": "Raivonpuuska",
@@ -1839,7 +1840,7 @@
   },
   "Indignation": {
     "NAME": "Tuohtumus",
-    "DESCRIPTION": "Jos olet Raivossa, lisää !M! Haavoittuvuutta KAIKKIIN vihollisiin, muuten astu Raivoon."
+    "DESCRIPTION": "Jos olet Raivossa, lisää !M! Alttiutta KAIKKIIN vihollisiin, muuten astu Raivoon."
   },
   "BecomeAlmighty": {
     "NAME": "Kaikkivaltiaaksi",

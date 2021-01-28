@@ -14,13 +14,13 @@
   "Calm": {
     "NAME": "Tyyneys",
     "DESCRIPTION": [
-      "Saat [W] [W] poistuessasi tästä #yAsennosta."
+      "Saa [W] [W] poistuessasi tästä #yAsennosta."
     ]
   },
   "Divinity": {
     "NAME": "Jumaluus",
     "DESCRIPTION": [
-      "Kun menet tähän asentoon, saa [W] [W] [W] . Hyökkäykset tekevät kolminkertaista vauriota. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
+      "Saa [W] [W] [W] kun menet tähän asentoon. Hyökkäykset tekevät kolminkertaista vauriota. Poistu tästä #yAsennosta seuraavan vuorosi alussa."
     ]
   }
 }

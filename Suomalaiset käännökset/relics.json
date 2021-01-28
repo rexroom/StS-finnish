@@ -600,8 +600,8 @@
     "NAME": "Omituisen sileä kivi",
     "FLAVOR": "Et ole koskaan nähnyt mitään yhtä sileää ja koskematonta. Tämän on pakko olla muinaisten työtä.",
     "DESCRIPTIONS": [
-      "Aloita jokainen taistelu #b",
-      " #yNäppäryydellä."
+      "Saa jokaisen taistelun alussa #b",
+      " #yNäppäryyttä."
     ]
   },
   "Old Coin": {
@@ -1016,7 +1016,7 @@
     "NAME": "Työkalupakki",
     "FLAVOR": "Työkalu jokaiseen tarpeeseen.",
     "DESCRIPTIONS": [
-      "Taistelun alussa valitse #b1 kortti #3 satunnaisesta Värittömästä ja lisää valittu kortti käteesi."
+      "Taistelun alussa valitse #b1 kortti #b3 satunnaisesta Värittömästä ja lisää valittu kortti käteesi."
     ]
   },
   "Torii": {
@@ -1195,7 +1195,7 @@
     "NAME": "Irviön kasvot",
     "FLAVOR": "Aika juosta.",
     "DESCRIPTIONS": [
-      "Aloita taistelu #b1 #yHeikkoudella."
+      "Saa #b1 #yHeikkoutta taistelun alussa."
     ]
   },
   "CultistMask": {
@@ -1405,7 +1405,7 @@
     "NAME": "Kaksinaisuus",
     "FLAVOR": "\"Ja aurinko sammui ikuisesti, kuin verhot olisivat peittäneet sen.\" - Zoroth",
     "DESCRIPTIONS": [
-      "Kun pelaat #yHyökkäyksen, saa #b1 väliaikaisen #yNäppäryyden."
+      "Kun pelaat #yHyökkäyksen, saa #b1 väliaikaista #yNäppäryyttä."
     ]
   },
   "Akabeko": {
