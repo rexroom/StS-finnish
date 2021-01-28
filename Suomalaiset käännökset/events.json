@@ -495,7 +495,7 @@
     "DESCRIPTIONS": [
       "Suunnistaessasi läpi tuonpuoleisen löydät #bhohtavan #btesseraktin @pyörimässä@ ja ~liikehtimässä~ hienovaraisesti ilmassa.",
       "Kosketat sitä. NL NL #r@Terävä@ #r@kipu@ virtaa lävitsesi tuoden mukanaan voimakkaita välähdyksiä kaukaisesta muistosta. NL ...kenen muistoja nämä ovat?",
-      "#r~PELKO.~ NL NL Demoninen hahmo kohoaa yllesi siivet leveästi avattuina ja ulvoen naurusta. Heimon kuolleet ruumit ympäröivät sinua ja kun kylän nielaisevat kauhistuttavat #p~synkät~ #p~liekit.~ NL NL Demoni huudahtaa ivaten sinua. NL NL \" #r@SINÄ@ #r@TODELLAKIN@ #r@OLET@ #r@KAIKISTA@ #r@VAHVIN@ #r@NYT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Hänen naurunsa kaikuu ikuisesti... ",
+      "#r~PELKO.~ NL NL Demoninen hahmo kohoaa yllesi siivet leveästi avattuina ja ulvoen naurusta. Heimon kuolleet ruumit ympäröivät sinua ja kylää nielaisevat kauhistuttavat #p~synkät~ #p~liekit.~ NL NL Demoni huudahtaa ivaten sinua. NL NL \" #r@SINÄ@ #r@TODELLAKIN@ #r@OLET@ #r@KAIKISTA@ #r@VAHVIN@ #r@NYT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Hänen naurunsa kaikuu ikuisesti... ",
       "#g~VOITONRIEMU.~ NL NL #p~Aavemaisen~ #p~olennon~ jäänteet uppoavat hitaasti edessäsi olevaan mutaan kuunvalon häilyvästi valaisemina. Olet todistanut itsesi siskojesi edessä. NL NL Seisoen voitokkaana odotat hiljaisuudessa, kun muut asettavat juhlallisesti #yolennon #ypääkallon pääsi päälle. Rituaali on suoritettu. NL NL Lähdet kohti Tornia...",
       "#b~EPÄJÄRJESTYS.~ NL NL #y[PÄÄMÄÄRÄ] #gTASAPAINO #gtäytyy #gTOIMEENPANNA NL #y[MÄÄRITELMÄ] #gTASAPAINO NL #y[VIRHE] #gTASAPAINO #gEI #gLÖYDY NL #y[MÄÄRITELMÄ] #gTASAPAINO NL #y[VIRHE] #gTASAPAINO #gEI #gLÖYDY NL #y[VAROITUS] #rIso #resine #rlähestymässä NL NL ~\"Minä...~ ~..olen~ ~....Neow..\"~",
       "#p~TYYNEYS.~ NL NL Kaksi alkukantaista eliötä taistelee tienpielessä lojuvasta ruhosta. Havainnoit vailla tunteita. NL #yHavannoi. #yMuista. #yElä. Tämä on Tarkkailijan tehtävä. NL NL Yksi tovereistasi on hiljattain lakannut raportoimasta komennukseltaan: Tornista, jonka alkuperää ei tunneta. NL NL Taistelun lakattua jatkat matkaasi eteenpäin, häiriintymättä lainkaan todistamastasi verisestä kohtauksesta."
@@ -526,7 +526,7 @@
   "Spire Heart": {
     "NAME": "Tornin sydän",
     "DESCRIPTIONS": [
-      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivä kammoa tuntuu kaikkialla huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
+      "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivä kammo tuntuu kaikkialla huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
       "Teit #b",
       " vauriota! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta jatkaa silti jyskyttämistä. NL Eivätkö voimakkaimmatkaan hyökkäyksesi olleet riittäviä?",
       "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
@@ -644,7 +644,7 @@
   "The Woman in Blue": {
     "NAME": "Nainen sinisissä",
     "DESCRIPTIONS": [
-      "Pimeydestä ilmestyy käsivarsi, joka vetää sinut pieneen kauppaan. Silmiesi totuttua näet skarpisti pukeutuneen kalpean naisen elehtivän kohti taikaliemiä täynnä olevaa seinää. NL \"Osta pullo. Nyt!\" hän sanoo.",
+      "Pimeydestä ilmestyy käsivarsi, joka vetää sinut pieneen kauppaan. Silmiesi totuttua näet hienosti pukeutuneen kalpean naisen elehtivän kohti taikaliemiä täynnä olevaa seinää. NL \"Osta pullo. Nyt!\" hän sanoo.",
       "\"Hyvä. Nyt poistu.\" NL Lähdet pois kaupasta varovaisesti.",
       "#r@PAM@ NL Hänen käsineen peittämä nyrkkinsä iskeytyy naamaasi miltei pudottaen sinut. NL \"Painu ulos täältä ennenkuin tahraan lattian sisuksillasi.\" Otat sanasta vaarin ja poistut, kun sinulla on vielä sisuskalusi."
     ],
@@ -677,7 +677,7 @@
     "DESCRIPTIONS": [
       "Hyvin arvovaltaisesti koristeltu hautamuistomerkki näkyy kelluvan polun toisessa päässä. Saapuessasi haudan luo huomaat raon #ykultakolikoille ja sen yllä yliraavitun kirjoituksen.",
       "Puet naamion ja hauta alkaa ~mureta~ ~pois...~ salainen käytävä! NL NL Käytävän reunoilla on lukemattomia varastettuja tavaroita ja pinoittain #ykultaa!",
-      "Hautaan ilmestyy aukko ja ulos liukuu pieni punainen naamio kirjelappu varustettuna. \"Ota muilta, niin kuin minä olen ottanut sinulta!\""
+      "Hautaan ilmestyy aukko ja ulos liukuu pieni punainen naamio kirjelappu mukana. \"Ota muilta, niin kuin minä olen ottanut sinulta!\""
     ],
     "OPTIONS": [
       "[Pue punanaamio] #gSaa #g222 #gKultaa.",
