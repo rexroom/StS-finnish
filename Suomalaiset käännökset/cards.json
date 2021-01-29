@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Luotiaika",
-    "DESCRIPTION": "Et voi nostaa lisäkortteja tällä vuorolla. Laske käsikorttien hinnaksi 0 tällä vuorolla."
+    "DESCRIPTION": "Et voi nostaa lisäkortteja tälle vuorolle. Laske käsikorttien hinnaksi 0 tällä vuorolla."
   },
   "Burn": {
     "NAME": "Palovamma",
@@ -380,7 +380,7 @@
     "DESCRIPTION": "Saa vuorosi alussa !M! Vahvuutta."
   },
   "Die Die Die": {
-    "NAME": "Kuolkaa kaikki",
+    "NAME": "Kuolkaa kaikki!",
     "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Kuluta."
   },
   "Disarm": {
@@ -587,7 +587,7 @@
     "UPGRADE_DESCRIPTION": "Saa 1 Aineetonta. NL Kuluta."
   },
   "Ghostly Armor": {
-    "NAME": "Aavemainen haarniska",
+    "NAME": "Aavehaarniska",
     "DESCRIPTION": "Eteerinen. NL Saa !B! Suojaa."
   },
   "Glacier": {
@@ -627,8 +627,8 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa kertaa !M!.",
-    "UPGRADE_DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa kertaa !M!."
+    "DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa !M! kertaisesti.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa !M! kertaisesti."
   },
   "Heel Hook": {
     "NAME": "Kantapääkoukku",
