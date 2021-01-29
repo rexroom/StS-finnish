@@ -9,8 +9,8 @@
   "AttackPotion": {
     "NAME": "Hyökkäysjuoma",
     "DESCRIPTIONS": [
-      "Valitse #b3 satunnaisesta #yHyökkäyksistä #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b3 satunnaisesta #yHyökkäyksistä #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisen #yHyökkäyksen joukosta #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisen #yHyökkäyksen joukosta #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "Block Potion": {
@@ -109,7 +109,7 @@
   "GamblersBrew": {
     "NAME": "Uhkapelaajan keitos",
     "DESCRIPTIONS": [
-      "Poista tietty määrä kortteja ja nosta saman verran."
+      "Poista haluamsi määrä kortteja ja nosta saman verran."
     ]
   },
   "GhostInAJar": {
@@ -150,8 +150,8 @@
   "PowerPotion": {
     "NAME": "Voimaliemi",
     "DESCRIPTIONS": [
-      "Valitse #b3 satunnaisesta #yVoimista #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b3 satunnaisesta #yVoimista #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisen #yVoiman joukosta #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisen #yVoiman joukosta #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "Regen Potion": {
@@ -165,14 +165,14 @@
   "SkillPotion": {
     "NAME": "Taitojuoma",
     "DESCRIPTIONS": [
-      "Valitse #b3 satunnaisesta #yTaidoista #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b3 satunnaisesta #yTaidoista ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisen #yTaidon joukosta #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisen #yTaidon joukosta #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "SmokeBomb": {
     "NAME": "Savupommi",
     "DESCRIPTIONS": [
-      "Pakene taistelusta jossa ei ole pomoa. Et saa palkintoja.",
+      "Pakene taistelusta, jossa ei ole pomoa. Et saa palkintoja.",
       "Olen saarettu!"
     ]
   },
@@ -256,7 +256,7 @@
     ]
   },
   "PotionOfCapacity": {
-    "NAME": "Kapasiteettiyden liemi",
+    "NAME": "Mahtuvuuden liemi",
     "DESCRIPTIONS": [
       "Saa #b",
       " Orbipaikkaa."
@@ -307,8 +307,8 @@
   "ColorlessPotion": {
     "NAME": "Väritön pullo",
     "DESCRIPTIONS": [
-      "Valitse #b3 satunnaisesta #yVärittömistä korteista #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
-      "Valitse #b3 satunnaisesta #yVärittömistä korteista #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
+      "Valitse #b3 satunnaisen #yVärittömän kortin joukosta #b1 käteesi, sen hinta on #b0 tällä vuorolla.",
+      "Valitse #b3 satunnaisen #yVärittömän kortin joukosta #b1 ja lisää #b2 kopiota käteesi, niiden hinta on #b0 tällä vuorolla."
     ]
   },
   "BlessingOfTheForge": {
