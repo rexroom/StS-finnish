@@ -81,7 +81,7 @@
       "Slay the Spire toimii nopeimmin täydellä ruudulla ajettuna. Suositellaan macOS-käyttöjärjestelmässä, jotta telakka ja menupalkki menevät piiloon. NL HUOM: PC:llä kokoruudulla pelattaessa alt-tab -komennolla takaisin Slay the Spireen ei välttämättä toimi.",
       "Koska Slay the Spire ei ole kovin vaativa peli, suosittelemme rajatonta kokoruudun pelitilaa nopeampaan alt-tab -vaihtoon. Toimii parhaiten PC:llä.",
       "Huom: Mikäli VSync on päällä, Nopein kuvanopeus ei voi olla suurempi kuin näytön virkistystaajuus.",
-      "Ohjaintuki keskeneräinen tällä ruudulla.",
+      "Tämän ruudun ohjaintuki on keskeneräinen.",
       "Vaihtaa mitä monitoria käytetään kun ollaan Kokonäytössä."
     ],
     "LABEL": [
