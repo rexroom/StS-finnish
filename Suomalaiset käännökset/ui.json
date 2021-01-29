@@ -131,13 +131,13 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Taivaaseenastumistaso ",
+      "Nousemustaso ",
       " avattu!"
     ]
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Taivaaseenastuminen avattu!"
+      "Nousemus avattu!"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -270,9 +270,9 @@
       "Hiljaisuus",
       "Viallinen",
       "Takaisin",
-      "Taivaaseenastuminen",
+      "Nousemus",
       "Taso ",
-      "Taivaaseenastumistila",
+      "Nousemustila",
       "Pelikerrat vaikeutuvat voittojen myötä... (Ei vaikuta voittoputkiin)",
       "Siemen ",
       "Satunnainen siemen",
@@ -432,7 +432,7 @@
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Taivaaseenastumistilan taso ",
+      "Nousemustilan taso ",
       " avattu!"
     ]
   },
@@ -1113,7 +1113,7 @@
       "Viallinen",
       "Palaa",
       "Ei tuloksia saatavilla. NL Mene Kukistamaan Tornia!",
-      "Taivaaseenastumistaso: ",
+      "Nousemustaso: ",
       "Kukistettiin %1$d. kerroksessa tappajana %2$s",
       "Jätti pelin kesken kerroksessa %d",
       "Voitto!",
@@ -1138,7 +1138,7 @@
       "Päivittäinen",
       "Kaikki pelityypit",
       "Vain tavallinen",
-      "Vain Taivaaseenastumiset",
+      "Vain Nousemukset",
       "Vain Päivittäishaasteet",
       "Siemen: %s",
       "Käyttäjäsiemen: %s",
@@ -1263,7 +1263,7 @@
   "TopPanel": {
     "TEXT": [
       " kerros",
-      " - Taivaaseenastuminen ",
+      " - Nousemus ",
       " (Ääritaso)"
     ]
   },
@@ -1316,9 +1316,9 @@
       "Kustomointitila",
       "Saavutukset ja pistetaulukot ei käytössä.",
       "Hahmo",
-      "Taivaaseenastuminen",
+      "Nousemus",
       "Taso ",
-      "Taivaaseenastumistila",
+      "Nousemustila",
       "Määritteet",
       "Siemen",
       "Aseta siemen",
