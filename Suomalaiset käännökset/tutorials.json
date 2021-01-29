@@ -77,8 +77,8 @@
   },
   "Options Tip": {
     "TEXT": [
-      "Pelitoimintadata ja virhelokit lähetetään Mega Crit -kehittäjälle pelin tasapainottamiseen. NL NL Henkilökohtaisia tunnistetietoja EI kerätä.",
-      "Slay the Spire toimii nopeimmin täydellä ruudulla ajettuna. Suositellaan macOS-käyttöjärjestelmässä jossa telakka ja menupalkki ovat kätkettyinä. NL HUOM: PC:llä kokoruudulla pelattaessa alt-tab -komennolla takaisin Slay the Spireen ei välttämättä toimi.",
+      "Pelissä kertynyt data ja virhelokit lähetetään Mega Crit -kehittäjälle pelin tasapainottamiseksi. NL NL Henkilökohtaisia tunnistetietoja EI kerätä.",
+      "Slay the Spire toimii nopeimmin täydellä ruudulla ajettuna. Suositellaan macOS-käyttöjärjestelmässä, jotta telakka ja menupalkki menevät piiloon. NL HUOM: PC:llä kokoruudulla pelattaessa alt-tab -komennolla takaisin Slay the Spireen ei välttämättä toimi.",
       "Koska Slay the Spire ei ole kovin vaativa peli, suosittelemme rajatonta kokoruudun pelitilaa nopeampaan alt-tab -vaihtoon. Toimii parhaiten PC:llä.",
       "Huom: Mikäli VSync on päällä, Nopein kuvanopeus ei voi olla suurempi kuin näytön virkistystaajuus.",
       "Ohjaintuki keskeneräinen tällä ruudulla.",
@@ -132,8 +132,8 @@
       "Käytä kultasi kaupoissa! (Vinkin sponsoroinut: Kauppias)",
       "Pidä tauko aina silloin tällöin.",
       "Prosenttipohjaiset laskutoimitukset pyöristetään aina alaspäin lopussa.",
-      "Voit vilkaista nosto- ja poistopinojesi sisällön taistelun aikana.",
-      "Ei ole rajoituksia siinä, miten paljon reliikkejä kannat mukanasi.",
+      "Voit vilkaista nosto- ja poistopinojesi sisältöä taistelun aikana.",
+      "Ei ole rajoitettu, kuinka paljon reliikkejä kannat mukanasi.",
       "Arkut sisältävät aina reliikin.",
       "Jokaisessa ottamassasi reitissä tulee aina olemaan vähintään 1 aarrehuone.",
       "Eliittiviholliset pudottavat aina reliikin.",
@@ -142,8 +142,8 @@
       "Erittäin harvinaisilla korteilla on kultainen kehys ja banneri.",
       "Kortin harvinaisuus näkyy suoraan kortista.",
       "Ei ole aina viisasta lisäillä kortteja pakkaasi.",
-      "Taistelun aikana kulutetut kortit ei poisteta pakastasi.",
-      "Sinulla voi olla vain korkeintaan 10 korttia kädessäsi.",
+      "Taistelun aikana kulutettuja kortteja ei poisteta pakastasi.",
+      "Sinulla voi olla korkeintaan 10 korttia kädessäsi.",
       "Statuskortit poistetaan taistelun jälkeen.",
       "Kirouksia ei voi parannella. Miksi haluaisitkaan?",
       "Saatat kohdata parannettuja kortteja ensimmäisen näytöksen jälkeen.",
@@ -151,7 +151,7 @@
       "Kauppias ei ota vastaan palautuksia. Mikä saituri.",
       "Kortinpoistopalvelun hinta nousee aina, kun käytät sitä.",
       "Kortinpoistopalvelua voi käyttää vain kerran jokaisessa kaupassa.",
-      "Vahingot liemistä, reliikeistä ja taidoista ei lueta hyökkäysvahingoiksi.",
+      "Vauriota liemistä, reliikeistä ja taidoista ei lueta hyökkäysvaurioksi.",
       "Voimat, jotka tuottavat satunnaisia kortteja taistelun aikana, eivät koskaan paranna sinua."
     ],
     "LABEL": [
@@ -164,7 +164,7 @@
       "Kursorin pitäminen esineiden yllä saattaa paljastaa hyödyllistä tietoa.",
       "Oikea hiirennappi vapauttaa raahaamasi kortin.",
       "Oikeanpuoleinen klikkaus vapauttaa pitelemäsi kortin.",
-      "Leiju vihollisen yllä nähdäkseen niiden nimen ja tiedon voimista.",
+      "Leiju vihollisen yllä nähdäksesi niiden nimen ja tiedon voimista.",
       "Käytä hiirirullaa tai klikkaa ja raahaa ruutua vierittääkseen.",
       "Jos voit tarkastaa esinettä, kursorisi muuttuu suurennuslasiksi.",
       "Käytä hiirirullaa tai klikkaa ja raahaa karttoja, korttiluetteloa ja muita."
