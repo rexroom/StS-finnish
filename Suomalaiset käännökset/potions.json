@@ -109,7 +109,7 @@
   "GamblersBrew": {
     "NAME": "Uhkapelaajan keitos",
     "DESCRIPTIONS": [
-      "Poista haluamsi määrä kortteja ja nosta saman verran."
+      "Poista haluamasi määrä kortteja ja nosta saman verran."
     ]
   },
   "GhostInAJar": {
@@ -256,7 +256,7 @@
     ]
   },
   "PotionOfCapacity": {
-    "NAME": "Mahtuvuuden liemi",
+    "NAME": "Kapasiteettiliemi",
     "DESCRIPTIONS": [
       "Saa #b",
       " Orbipaikkaa."
