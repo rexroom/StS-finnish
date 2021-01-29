@@ -348,7 +348,7 @@
       " NL NL  #yReliikit: NL  ",
       " NL Päivän haaste: NL #yHahmoluokka: NL ",
       " NL #yMuunnelmat: ",
-      "Määre: ",
+      "Määreet: ",
       "Pistetaulukko",
       "*Saavutukset ovat poissa käytöstä päivittäisissä haasteissa..",
       "  [YHTEYDETÖN TILA]",
@@ -726,7 +726,7 @@
       "Haetaan dataa...",
       "Tuloslista",
       "Ei yhteydessä Steamiin",
-      "Ei tuloksia saatavilla \n Mene Kukistamaan Tornia!"
+      "Ei tuloksia saatavilla \n Mene kukistamaan Tornia!"
     ]
   },
   "Legend": {
@@ -787,7 +787,7 @@
       "",
       "Lopeta",
       "Päivitystiedotteet",
-      "Luovuta peli",
+      "Luovu pelikerrasta",
       "",
       "Asetukset",
       "",

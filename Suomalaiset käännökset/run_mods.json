@@ -84,12 +84,12 @@
     "DESCRIPTION": "Viholliset antavat 200% enemmän kultaa, mutta et voi enää Taota Lepopaikoilla."
   },
   "My True Form": {
-    "NAME": "Todellinen muotoni",
+    "NAME": "Todellinen olomuotoni",
     "DESCRIPTION": "Aloita Demonimuoto-, Henkimuoto-, Kaikumuoto-, ja Deva-muoto -korteilla."
   },
   "Night Terrors": {
     "NAME": "Yön kauhut",
-    "DESCRIPTION": "Lepopaikoissa lepäminen parantaa 100% OP:täsi, mutta maksaa 5 MaksimiOP:tä."
+    "DESCRIPTION": "Lepopaikoissa lepääminen parantaa 100% OP:täsi, mutta maksaa 5 MaksimiOP:tä."
   },
   "One Hit Wonder": {
     "NAME": "Yhden hitin ihme",
@@ -105,7 +105,7 @@
   },
   "Specialized": {
     "NAME": "Erikoistunut",
-    "DESCRIPTION": "Aloita 5 kopiolla yksittäisestä kortista."
+    "DESCRIPTION": "Aloita pakalla, jossa on 5 kopiota yksittäisestä kortista."
   },
   "Starter Deck": {
     "NAME": "Aloituspakka",
