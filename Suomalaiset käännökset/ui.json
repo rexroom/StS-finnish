@@ -118,8 +118,8 @@
       "9. Pomot ovat kovempia.",
       "10. Aloita jokainen pelikerta kirottuna.",
       "11. Vähemmän pullotaskuja",
-      "12. Paranneltuja kortteja ilmenee vähemmän usein.",
-      "13. Köyhempia pomoja.",
+      "12. Paranneltuja kortteja ilmenee harvemmin.",
+      "13. Köyhempiä pomoja.",
       "14. Pienempi MaksimiOP.",
       "15. Kielteisiä tapahtumia.",
       "16. Kaupat ovat kalliimpia.",
@@ -202,10 +202,10 @@
       "Mitä tekisin?",
       "Hmm...",
       "Mitä tekisin?",
-      "Aika tauolle",
+      "Tauon paikka",
       "Niin paljon vaihtoehtoja...",
       "Minun pitäisi levätä",
-      "Niin väsynyt..."
+      "Väsyttää niin..."
     ]
   },
   "Cancel Button": {
@@ -217,7 +217,7 @@
     "TEXT": [
       "Harvinaisuus",
       "Tyyppi",
-      "A-Z",
+      "Aakkoset",
       "Hinta",
       "Hyppää:",
       "Hankittu"
@@ -259,7 +259,7 @@
       "Tuntematon",
       "???",
       " seuraavaan avaukseen",
-      "Tämä hahmo avautuu voittamalla yhden pelikerran peruspelillä ja että myös 3. hahmo on jo avattu."
+      "Tämä hahmo avautuu läpäisemällä yhden pelikerran peruspelillä ja että myös 3. hahmo on jo avattu."
     ]
   },
   "CharacterSelectScreen": {
@@ -311,7 +311,7 @@
   "ConfirmPopup": {
     "TEXT": [
       "Palaa",
-      "Poista tallenne",
+      "Poista tallennus",
       "Kyllä",
       "Ei"
     ]
@@ -438,7 +438,7 @@
   },
   "DeletePopup": {
     "TEXT": [
-      "Poista tämä tallenne?",
+      "Poista tämä tallennus?",
       "Kyllä",
       "Ei",
       "VAROITUS: Tätä toimintoa ei voi peruuttaa."
@@ -473,7 +473,7 @@
   "DiscardPileViewScreen": {
     "TEXT": [
       "Tässä olevat kortit sekoitetaan uudeksi nostopinoksi kun vanha ehtyy.",
-      "Return",
+      "Paluu",
       "Poistopino"
     ]
   },
@@ -520,8 +520,8 @@
     "TEXT": [
       "Mikä on Varhaisjulkaisu?",
       "Mikä on avoin beta?",
-      "Slay the Spire on vielä aktiivisessa ohjelmoinnissa! NL Monet ominaisuudet, kortit ja viholliset voivat muuttua. NL NL Jos törmäät ongelmiin tai haluat antaa palautetta, ole hyvä ja viesti meille #bSteamin #bKeskustelu sivuilla. NL NL Ei sen enempää, aika kiivetä tornia!",
-      "Slay the Spire on vielä aktiivisessa ohjelmoinnissa! NL Sen lisäksi pelaat pelin Beta-versiota. NL NL Ole hyvä ja viesti meille mahdollisista ongelmista pelatessasi, mutta älä ylläty tulevan sisällön köykäisestä taiteesta. NL NL Ei sen enempää, aika kiivetä tornia!",
+      "Slay the Spire on vielä aktiivisessa kehityksessä! NL Monet ominaisuudet, kortit ja viholliset voivat muuttua. NL NL Jos törmäät ongelmiin tai haluat antaa palautetta, viestithän meille #bSteamin #bKeskustelu sivuilla. NL NL Ei sen enempää, aika kiivetä tornia!",
+      "Slay the Spire on vielä aktiivisessa kehityksessä! NL Sen lisäksi pelaat pelin Beta-versiota. NL NL Viestithän meille mahdollisista pelatessa ilmenevistä ongelmista, mutta älä ylläty tulevan sisällön köykäisestä taiteesta. NL NL Ei sen enempää, aika kiivetä tornia!",
       "Klikkaa mihin vain aloittaaksesi",
       "Jatka"
     ]
@@ -644,8 +644,8 @@
       "Peruuta*",
       "Yläpaneeli*",
       "Jatka / Lopeta vuoro*",
-      "Tab vasen / Näytä pakka*",
-      "Tab oikea / Kulutuspino*",
+      "Vasen välilehti / Näytä pakka*",
+      "Oikea välilehti / Kulutuspino*",
       "Kartta*",
       "Asetukset*",
       "Nostopino*",
@@ -748,7 +748,7 @@
       "Näissä huoneissa lymyilee vihamielisiä olentoja.",
       "Eliitti",
       "Eliitit",
-      "Voimakkaita vihollisia odottaa näissä huoneissa. NL NL Niiden päihittäminen antavat sinulle Reliikin palkonnoksi.",
+      "Näissä huoneissa odottaa voimakkaita vihollisia. NL NL Niiden päihittäminen antaa sinulle Reliikin palkinnoksi.",
       "Karttamerkit"
     ]
   },
@@ -786,7 +786,7 @@
       "Tilastot",
       "",
       "Lopeta",
-      "Päivitysmerkinnät",
+      "Päivitystiedotteet",
       "Luovuta peli",
       "",
       "Asetukset",
@@ -798,13 +798,13 @@
     "TEXT": [
       "Peruspeli",
       "",
-      "Aloita etsintäsi tornin tuhoamiseen.",
+      "Aloita seikkailusi tornin tuhoamiseksi.",
       "Päivittäinen nousu",
       "",
       "Uusi haaste tarjolla kerran päivässä.\n\nKilpaile toisten pelaajien kanssa korkeimmasta pistemäärästä!",
       "Nousemus",
       "",
-      "Torni kasvaa vahvemmaksi jokaisen voiton myötä.\n\nTestaa voimakkaimpien strategioittesi rajat.",
+      "Torni kasvaa vahvemmaksi jokaisen voiton myötä.\n\nTestaa voimakkaimpien strategioittesi rajoja.",
       "Korttikirjasto",
       "",
       "Katso kaikki tornin uumenissa kohtaamasi kortit.",
@@ -816,25 +816,25 @@
       "Tämä ominaisuus ei vielä tarjolla.",
       "Hahmotilastot",
       "",
-      "Jokaisen hahmon kehityskulku ja tilastoinnit voidaan löytää täältä.",
+      "Jokaisen hahmon kehityskulku ja tilastoinnit löytyvät täältä.",
       "Tuloslista",
       "",
-      "Katso ja vertaa pistemääräsi ystävien ja muiden pelaajien kanssa.",
+      "Katso ja vertaa pistemääriä ystävien ja muiden pelaajien kanssa.",
       "Pelikerrat",
       "",
       "Kertaa aikaisempia yrityksiäsi tuhota torni.",
       "Peliasetukset",
       "",
-      "Vaihda resoluutiota ja muuta erinäisiä ominaisuuksia päälle/pois.",
-      "Syöteasetukset",
+      "Vaihda resoluutiota ja muuta erinäisiä asetuksia päälle/pois.",
+      "Ohjainasetukset",
       "",
-      "Muuta sinun ohjaimia ja pikanäppäimiä.",
+      "Muuta ohjainasetuksia ja pikanäppäimiä.",
       "Lopputekstit",
       "",
-      "Näe kaikki ihmiset jotka ovat osallistuneet Slay the Spire -pelin kehittämiseen!",
+      "Näe kaikki ihmiset, jotka ovat osallistuneet Slay the Spire -pelin kehittämiseen!",
       "Tuntematon",
-      "Pelaa Päivittäinen nousu avatakseen tämän tilan.",
-      "Tämä ominaisuus ei vielä tarjolla.",
+      "Pelaa Päivittäinen nousu avataksesi tämä tila.",
+      "Tämä ominaisuus ei ole vielä tarjolla.",
       "Kustomoitu",
       "Räätälöi oma pelikertasi ainutlaatuisilla määritteillä.",
       "Vaihda ohjaimesi.",
@@ -855,7 +855,7 @@
   "MiscConsoleStrings": {
     "TEXT": [
       "Paina ",
-      " aloittaakseen",
+      " aloittaaksesi",
       "Vaihda profiilia",
       "Näyttöalue",
       "On tapahtunut muutos kirjautumisessa. Ole hyvä ja kirjaudu uudeestaan sisään tai poistu nimiruudulle.",
@@ -879,18 +879,18 @@
       "Kaikki NL Musiikki NL Efektit",
       "Taustaääniefektit NL Hiljennä kun taustalla",
       "Valinnat",
-      "Näytä yhteisvaurio kultana NL Näytä torjuttu vaurio sinisellä NL Älä kysy vahvistusta kun valittavissa vain 1 kortti",
+      "Näytä yhteisvaurio kultaisella NL Näytä torjuttu vaurio sinisellä NL Älä kysy vahvistusta, kun valittavissa vain 1 kortti",
       "Pikatila",
       "",
       "Sekalaiset",
       "Kieli:",
-      "Lähetä pelitoimintadata #b(?)",
+      "Lähetä pelissä kertynyt data #b(?)",
       "Poistu pelistä",
       "Tallenna ja lopeta",
       "NL NL VSync",
       "Pelitestaajakuvitukset",
       "Näytä korttien pikavalintanäppäimet",
-      "Syöteasetukset",
+      "Ohjainasetukset",
       "Poista partikkeliefektit",
       "Resoluutio:",
       "Resoluutio: NL Kokoruutumonitori:",
@@ -902,7 +902,7 @@
   "PatchNotesScreen": {
     "TEXT": [
       "Palaa",
-      "#yPäivitysmerkinnät",
+      "#yPäivitystiedotteet",
       " NL (VÄLIAKAINEN: Käytä nuolinäppäimiä lukeaksesi vanhempia tekstejä)"
     ]
   },
@@ -947,9 +947,9 @@
       "Yleiset:",
       "Yleisesti Tornissa löydettävät pullot.",
       "Harvinaiset:",
-      "Vahvempia taikaliemiä joita kohdataan vähemmän usein kuin yleisesti löydettävät.",
+      "Vahvempia taikaliemiä, joita kohdataan harvemmin kuin yleisesti löydettäviä.",
       "Harvinaiset+:",
-      "Ainutlaatuisia ja voimakkaita liemiä joihin harvoin törmää."
+      "Ainutlaatuisia ja voimakkaita liemiä, joihin harvoin törmää."
     ]
   },
   "RelicViewScreen": {
@@ -960,7 +960,7 @@
       "Yleiset:",
       "Heikkoja, usein löytyviä reliikkejä.",
       "Harvinaiset:",
-      "Vahvempia reliikkejä joita löytää hieman harvemmin.",
+      "Vahvempia reliikkejä, joita löytää hieman harvemmin.",
       "Harvinaiset+:",
       "Uniikkeja ja voimakkaita, harvoin nähtyjä reliikkejä.",
       "Pomo:",
@@ -992,15 +992,15 @@
   "Rest Option": {
     "TEXT": [
       "Lepää",
-      "Paranna 100% maksimi OP:stäsi (",
+      "Paranna 100% maksimiOP:stäsi (",
       " OP / ",
-      "Paranna 30% maksimi OP:stäsi (",
+      "Paranna 30% maksimiOP:stäsi (",
 	  ""
     ]
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Näytönasetusten muutosten voimaantulo vaatii pelin uudelleenkäynnistämistä."
+      "Näyttöasetusten muutosten voimaantulo vaatii pelin uudelleenkäynnistämistä."
     ]
   },
   "RetainCardsAction": {
@@ -1077,8 +1077,8 @@
     "TEXT": [
       "Riiviökopla",
       "Iso lima",
-      "Exordium roistoja",
-      "Exordium villieläimiä",
+      "Exordium-roistoja",
+      "Exordium-villieläimiä",
       "Limaparvi",
       "Pienet limat",
       "Kaupunkilaisryöstäjät",
@@ -1152,8 +1152,8 @@
       "Kirjoita uusi siemenarvo",
       "Vahvista",
       "Peruuta",
-      "*Saavutukset ja pistetaulukot ovat poissa käytössä jos käyttäjäsiemenarvoa käytetään.",
-      "*Pokaalit ja pistetaulukot ovat poissa käytössä jos käyttäjäsiemenarvoa käytetään."
+      "*Saavutukset ja pistetaulukot ovat poissa käytössä, jos käytetään käyttäjäsiemenarvoa.",
+      "*Pokaalit ja pistetaulukot ovat poissa käytössä, jos käytetään käyttäjäsiemenarvoa."
     ]
   },
   "SettingsScreen": {
@@ -1161,7 +1161,7 @@
       "Oletko varma?",
       "Tallennamme pelisi automaattisesti.",
       "Pelin hylkääminen lasketaan tappioksi.",
-      "VAROITUS:\nPeliä EI tallennettu.\n\nSaavuta seuraava kerros tallentaakseen nykyisen pelikerran.",
+      "VAROITUS:\nPeliä EI tallennettu.\n\nSaavuta seuraava kerros tallentaaksesi nykyinen pelikerta.",
       "Palaa",
       "Peliä EI tallenneta päivittäisissä haasteissa."
     ]
@@ -1197,7 +1197,7 @@
       "Ei tarpeeksi #rEnergiaa.",
       "Ei tarpeeksi #rVarausta.",
       "En voi pelata NL tätä korttia.",
-      "Beta taide"
+      "Beta-taide"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1346,8 +1346,8 @@
       "Peliaika",
       "Pistemäärä",
       "Avaa",
-      "Avauksia jäljellä: ",
-      "Avaus jäljellä: ",
+      "Avattavaa jäljellä: ",
+      "Avattava jäljellä: ",
       "Surmattuja vihollisia",
       "Surmattuja eliittejä",
       "Säästetty Kulta",
@@ -1362,11 +1362,11 @@
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Rautasoturi beta-korttitaide avattu!",
-      "Hiljaisuus beta-korttitaide avattu!",
-      "Viallinen beta-korttitaide avattu!",
+      "Rautasoturin beta-korttitaide avattu!",
+      "Hiljaisuuden beta-korttitaide avattu!",
+      "Viallisen beta-korttitaide avattu!",
       "Kaikki beta-korttitaiteet avattu!",
-      "Tarkkailija beta-korttitaide avattu!"
+      "Tarkkailijan beta-korttitaide avattu!"
     ]
   },
   "RichPresence": {

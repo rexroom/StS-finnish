@@ -18,7 +18,7 @@
      "DESCRIPTION": [
       "Et voi pelata enemmän kuin #b",
       " korttia vuoron aikana.",
-	  "Korteista voin pelata korkeintaan NL #r"
+	  "Voin pelata kortteja korkeintaan NL #r"
     ]
   },
   "TwistingMind": {
@@ -46,9 +46,9 @@
     ]
   },
   "MimicInfestation": {
-    "NAME": "Jäljittelijöiden vahingonteko",
+    "NAME": "Jäljittelijöitä kaikkialla",
      "DESCRIPTION": [
-      "Aarrehuoneet tulevissa näytöissä korvataan Eliiteillä. Eliitit eivät enää anna Reliikkejä."
+      "Tulevien näytösten Aarrehuoneet korvataan Eliiteillä. Eliitit eivät enää anna Reliikkejä."
     ]
   },
   "FullBelly": {

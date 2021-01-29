@@ -451,8 +451,8 @@
   },
   "Energy Pulse": {
     "NAME": "Energiapulssi",
-    "DESCRIPTION": "Saa Suojaa Energiaasi verran.",
-    "UPGRADE_DESCRIPTION": "Saa Suojaa kaksinkerroin Energiaasi verran."
+    "DESCRIPTION": "Saa Suojaa Energiasi verran.",
+    "UPGRADE_DESCRIPTION": "Saa Suojaa kaksinkerroin Energiasi verran."
   },
   "Enlightenment": {
     "NAME": "Valaistunut",
@@ -1302,8 +1302,8 @@
   },
   "Discovery": {
     "NAME": "Löytö",
-    "DESCRIPTION": "Valitse 3 satunnaisesta kortista 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Valitse 3 satunnaisesta kortista 1 käteesi. Sen hinta on 0 tällä vuorolla."
+    "DESCRIPTION": "Valitse 3 satunnaisen kortin joukosta 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Valitse 3 satunnaisen kortin joukosta 1 käteesi. Sen hinta on 0 tällä vuorolla."
   },
   "Nirvana": {
     "NAME": "Nirvana",
@@ -1336,13 +1336,13 @@
   },
   "Collect": {
     "NAME": "Kerää",
-    "DESCRIPTION": "Laita *Ihme+ käteesi seuraavien X vuorojen alussa. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Laita *Ihme+ käteesi seuraavien X+1 vuorojen alussa. NL Kuluta."
+    "DESCRIPTION": "Laita *Ihme+ käteesi seuraavien X vuoron alussa. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Laita *Ihme+ käteesi seuraavien X+1 vuoron alussa. NL Kuluta."
   },
   "ForeignInfluence": {
     "NAME": "Vieras vaikutus",
-    "DESCRIPTION": "Valitse 3 kaikkien värien Hyökkäyksistä 1 käteesi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Valitse 3 kaikkien värien Hyökkäyksistä 1 käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
+    "DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
   },
   "FlowState": {
     "NAME": "VANHENTUNUT Flow-tila",
@@ -1440,7 +1440,7 @@
   },
   "Judgement": {
     "NAME": "Tuomio",
-    "DESCRIPTION": "Jos vihollisella on !M! tai vähemmän OP:tä, aseta heidän OP nollaan.",
+    "DESCRIPTION": "Jos vihollisella on !M! tai vähemmän OP:tä, aseta sen OP nollaan.",
     "EXTENDED_DESCRIPTION": [
       "TUOMITTU"
     ]
@@ -1780,7 +1780,7 @@
     "UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Causality": {
-    "NAME": "Kausaalius",
+    "NAME": "Kausaalisuus",
     "DESCRIPTION": "Nosta kortteja kunnes kätesi on täynnä. NL Kuluta.",
     "UPGRADE_DESCRIPTION": "Säilytä. Nosta kortteja kunnes kätesi on täynnä. NL Kuluta."
   },
@@ -1804,10 +1804,10 @@
   "Alpha": {
     "NAME": "Alfa",
     "DESCRIPTION": "Sekoita *Beeta nostopinoosi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Luontainen. NL Sekoita *Beeta nostopinoosi. NL Kuluta. NL Kuluta."
+    "UPGRADE_DESCRIPTION": "Luontainen. NL Sekoita *Beeta nostopinoosi. NL Kuluta."
   },
-  "Beeta": {
-    "NAME": "Beta",
+  "Beta": {
+    "NAME": "Beeta",
     "DESCRIPTION": "Sekoita *Omega nostopinoosi. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1877,7 +1877,7 @@
   },
   "Flick": {
     "NAME": "VANHENTUNUT Näpäytys",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollista on *Näpäytetty 3 kertaa, he ottavat !M! vauriota."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollista on *Näpäytetty 3 kertaa, se ottaa !M! vauriota."
   },
   "LikeWater": {
     "NAME": "Kuin vettä",
