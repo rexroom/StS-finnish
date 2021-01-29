@@ -250,9 +250,9 @@
   "CharacterOption": {
     "TEXT": [
       "Lukittu",
-      "Tämä hahmo avautuu läpäisemällä yhden pelikerran.",
+      "Tämä hahmo avautuu suorittamalla yhden pelikerran.",
       "Tätä hahmoa ei ole vielä ole tarjolla varhaisjulkaisussa.",
-      "Tämä hahmo avautuu läpäisemällä yhden pelikerran Hiljaisuudella.",
+      "Tämä hahmo avautuu suorittamalla yhden pelikerran Hiljaisuudella.",
       "OP: ",
       "Kultaa: ",
       " avausta jäljellä",
@@ -1077,7 +1077,7 @@
     "TEXT": [
       "Riiviökopla",
       "Iso lima",
-      "Exordiumin roistoja",
+      "Exordium-roistoja",
       "Exordiumin villieläimiä",
       "Limaparvi",
       "Pienet limat",
@@ -1363,7 +1363,7 @@
   "BetaArtUnlockEffect": {
     "TEXT": [
       "Rautasoturin beta-korttitaide avattu!",
-      "Hiljaisen beta-korttitaide avattu!",
+      "Hiljaisuuden beta-korttitaide avattu!",
       "Viallisen beta-korttitaide avattu!",
       "Kaikki beta-korttitaiteet avattu!",
       "Tarkkailijan beta-korttitaide avattu!"
