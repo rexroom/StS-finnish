@@ -269,7 +269,7 @@
       "Rautasoturi",
       "Hiljaisuus",
       "Häiriö",
-      "Takaisin",
+      "Palaa",
       "Nousemus",
       "Taso ",
       "Nousemustila",
@@ -901,7 +901,7 @@
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Takaisin",
+      "Palaa",
       "#yPäivitystiedotteet",
       " NL (VÄLIAKAINEN: Käytä nuolinäppäimiä lukeaksesi vanhempia tekstejä)"
     ]
