@@ -81,15 +81,15 @@
     "NAME": "Verinen idoli",
     "FLAVOR": "Idoli itkee jatkuvasti verta.",
     "DESCRIPTIONS": [
-      "Aina kun saat #yKultaa, paranna #b",
-      " OP."
+      "Aina kun saat #ykultaa, paranna #b",
+      " OP:tä."
     ]
   },
   "Blue Candle": {
     "NAME": "Sininen kynttilä",
     "FLAVOR": "Liekit syttyvät kun pimeys ympäröi.",
     "DESCRIPTIONS": [
-      "#yEi-pelattavat #rKiroukset voi nyt pelata. NL #Kirouksen pelaaminen vie #b",
+      "#yEi-pelattavat #rKiroukset voi nyt pelata. NL #rKirouksen pelaaminen vie #b",
       " OP:tä ja #yKuluttaa sen."
     ]
   },
@@ -308,7 +308,7 @@
     "NAME": "Ektoplasma",
     "FLAVOR": "Tämä limainen energiamöykky tuntuu sykkivän elämää.",
     "DESCRIPTIONS": [
-      " Et voi enää saada #yKultaa.",
+      " Et voi enää saada #ykultaa.",
       "Saa [E] vuorosi alussa."
     ]
   },
@@ -374,7 +374,7 @@
     "NAME": "Kultainen idoli",
     "FLAVOR": "Tehty umpikullasta. Tunnet itsesi rikkaammaksi ihan vain pidellessäsi sitä.",
     "DESCRIPTIONS": [
-      "Viholliset pudottavat #b25% enemmän #yKultaa."
+      "Viholliset pudottavat #b25% enemmän #ykultaa."
     ]
   },
   "Gremlin Horn": {
@@ -487,8 +487,8 @@
     "NAME": "Maatuska",
     "FLAVOR": "Pinottavia, maalattuja nukkeja. Niiden kuvituksena on tuntematon lintu, jolla on valkoiset silmät ja siniset höyhenet.",
     "DESCRIPTIONS": [
-      "Seuraavat #b2 arkkua jotka eivät ole Pomon vartioimia sisältävät #b2 #yReliikkiä.",
-      "Seuraava arkku joka ei ole Pomon vartioima sisältää #b2 #yReliikkiä.",
+      "Seuraavat #b2 arkkua jotka eivät ole Pomon vartioimia sisältävät #b2 #yreliikkiä.",
+      "Seuraava arkku joka ei ole Pomon vartioima sisältää #b2 #yreliikkiä.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
@@ -608,7 +608,7 @@
     "NAME": "Vanha kolikko",
     "FLAVOR": "Kauppiaat arvostavat ainutlaatuisia kolikoita niiden historiallisen arvon ja harvinaisten metallien takia.",
     "DESCRIPTIONS": [
-      "Poimiessa kolikon, saa #b300 #yKultaa."
+      "Poimiessa kolikon, saa #b300 #ykultaa."
     ]
   },
   "Omamori": {
@@ -839,7 +839,7 @@
     "FLAVOR": "Kauppiaan käyttämä naamio. Hänellä on varmaan ylimääräisiä...",
     "DESCRIPTIONS": [
       "Kauppiaan kortinpoistopalvelu maksaa nyt aina #b",
-      " #yKultaa."
+      " #ykultaa."
     ]
   },
   "Snake Skull": {
@@ -1007,7 +1007,7 @@
     "FLAVOR": "\"Lähes täydellinen pienoiskokoamisen toteutus. Paras suoritukseni, mutta ei siltikään riittävä.\" - Arkkitehti",
     "DESCRIPTIONS": [
       "Poimiessasi talon, ota #b1 taikaliemi. NL Saa #b",
-      " #yKultaa. NL Nosta MaksimiOP #b",
+      " #ykultaa. NL Nosta MaksimiOP #b",
       " pisteellä. NL Ota #b1 kortti. NL Parantele #b1 satunnainen kortti.",
       "Pikkuriikkinen talo!"
     ]
@@ -1164,7 +1164,7 @@
     "FLAVOR": "Kaikkein tyydyttävin elämä on se, jossa voit ostaa mitä tahansa!",
     "DESCRIPTIONS": [
       "Kun saavut #y? huoneeseen, saa #b",
-      " #yKultaa."
+      " #ykultaa."
     ]
   },
   "MutagenicStrength": {
@@ -1354,7 +1354,7 @@
     "FLAVOR": "Yllättävän suosittu, huolimatta kitahyökkäysten yleisyydestä.",
     "DESCRIPTIONS": [
       "Kun kiipeät kerroksen, saa #b",
-      " #yKultaa. Lakkaa toimimasta kun kulutat #yKultaa kaupassa.",
+      " #ykultaa. Lakkaa toimimasta kun kulutat #yKultaa kaupassa.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
@@ -1435,7 +1435,7 @@
     "FLAVOR": "Huolellisesti maalattu, näitä kaloja arvostettiin tuovan suurta onnea.",
     "DESCRIPTIONS": [
       "Kun lisäät kortin pakkaasi, saa #b",
-      " #yKultaa."
+      " #ykultaa."
     ]
   },
   "SlaversCollar": {

@@ -37,7 +37,9 @@
     },
     "CURSE": {
       "NAMES": [
-        "kirottu"
+        "kirottu",
+        "kirouksen",
+        "kirousta"
       ],
       "DESCRIPTION": "Kirotut kortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
     },

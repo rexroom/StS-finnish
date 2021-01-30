@@ -11,7 +11,7 @@
     ],
     "OPTIONS": [
       "[Tao] #gParantele #gkortti #gpakastasi.",
-      "[Pengo] #gOta #gerikoisreliikki. #rTule #rKirotuksi #r- #rKipu.",
+      "[Pengo] #gOta #gerikoisreliikki. #rTule #rkirotuksi #r- #rKipu.",
       "[Poistu]",
       "Valitse paranneltava kortti",
       "[Lukittu] Vaatii: Paranneltavia kortteja"
@@ -20,16 +20,16 @@
   "Addict": {
     "NAME": "Aneleva kiertolainen",
     "DESCRIPTIONS": [
-      "Hiiviskellessäsi verhottujen hahmojen ohi yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan mitään minulle, ystävä? Ole kiltti... ehkäpä jokunen #yKolikko?\" NL \"Tarvitsen vain majapaikan, voin antaa vastineeksi aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
+      "Hiiviskellessäsi verhottujen hahmojen ohi yksi heistä lähestyy sinua. NL \"Sattuisiko sinulla olemaan mitään minulle, ystävä? Ole kiltti... ehkäpä jokunen #yalmu?\" NL \"Tarvitsen vain majapaikan, voin antaa vastineeksi aarteita...\" NL Hän näyttää harhaiselta, mutta harmittomalta.",
       "\"Voi kyllä, ~kyllä!~ Ota ota, reilu kauppa!\"",
       "Nappaat arvokkaan #yreliikin hänen otteestaan ja kävelet pois. NL Kuulet takaa, NL \"Eikö sinua hävetä? ~EIKÖ~ ~SINUA~ ~HÄVETÄ~ ~LAINKAAAAAN?!\"~ NL Sinua #phävettää jonkin verran."
     ],
     "OPTIONS": [
-      "[Tarjoa Kultaa] #y",
-      " #yKultaa: #gSaa #gReliikki.",
+      "[Tarjoa kultaa] #y",
+      " #ykultaa: #gSaa #greliikki.",
       "[Lukittu] Vaatii: ",
-      " Kultaa.",
-      "[Ryöstä] #gOta #gReliikki. #rTule #rKirotuksi #r- #rHäpeä.",
+      " kultaa.",
+      "[Ryöstä] #gOta #greliikki. #rTule #rkirotuksi #r- #rHäpeä.",
       "[Poistu]",
 	  "",
 	  ""
@@ -38,7 +38,7 @@
   "Back to Basics": {
     "NAME": "Muinaista kirjoitusta",
     "DESCRIPTIONS": [
-      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~Muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä viestin sisältö selkenee...",
+      "Kiipeillessäsi kaupunkia, huomaat seinän täynnä #y~muinaisten~ kirjoitusta. Pähkäillessäsi mitä omituiset symboolit ja riimut saattaisivat tarkoittaa, kirjoitukset alkavat #b~hohtaa.~ NL Yhtäkkiä viestin sisältö selkenee...",
       "Vastaus oli eleganssi. NL Tietenkin.",
       "Totuus on aina yksinkertainen."
     ],
@@ -58,10 +58,10 @@
       "@\"Toivottavasti@ @pystyt@ @parempaan@ @tällä@ @kertaa,@ @ystävä!\"@ hän huutaa. NL Ihmetellen, mitä hän tarkoitti sillä, jatkat matkaasi."
     ],
     "OPTIONS": [
-      "[Tarjoa Kultaa] #y",
-      " #yKultaa: #gPoista #gpakastasi #gkortti.",
+      "[Tarjoa kultaa] #y",
+      " #ykultaa: #gPoista #gpakastasi #gkortti.",
       "[Lukittu] Vaatii: ",
-      " Kultaa.",
+      " kultaa.",
       "[Jatka]",
       "[Poistu]",
       "Valitse poistettava kortti."
@@ -82,7 +82,7 @@
       " #gOP:tä.",
       "[Donitsi] #gMaksimiOP #g+",
       ".",
-      "[Laatikko] #gOta #gReliikki. #rTule #rKirotuksi #r- #rKatumus.",
+      "[Laatikko] #gOta #greliikki. #rTule #rkirotuksi #r- #rKatumus.",
       "[Poistu]"
     ]
   },
@@ -92,7 +92,7 @@
       "Löydät sattumoisin jonkinlaisen joukon #pvioletteja #ptulihenkiä ~tanssimassa~ ison rovion ympärillä. NL ",
       "Henget viskaavat pieniä luita ja sirpaleita tuleen, joka ~leimahtaa~ ~kirkkaasti~ joka kerta. NL Kun lähestyt, henget kääntyvät puoleesi odottavaisesti...",
       "Heität uhrilahjan rovioon. NL NL ",
-      "Mutta henget eivät ole tyytyväisiä siihen, että tarjosit #pKirouksen... Kortti sihisee ponnetonta mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
+      "Mutta henget eivät ole tyytyväisiä siihen, että tarjosit #pkirouksen... Kortti sihisee ponnetonta mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
       "Mitään ei tapahtu... NL Henget näyttävät jättävän sinut nyt huomiotta. Masentavaa...",
       "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet heidän läsnäolonsa lämmittävän sinua hiukan... NL #gParanet #b5 OP:tä.",
       "Liekit purkautuvat yltyen voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
@@ -110,7 +110,7 @@
     "DESCRIPTIONS": [
       "Hylätyssä temppelissä löydät valtavan kirjan avoimena, täynnä #p@kryptistä@ #p@kirjoitusta.@ NL NL Yrittäessäsi tulkita koristeellista käsialaa se alkaa #b~muuttua~ ja #b~muotoutua~ sinulle tutumpaan tekstiin.",
       "Outoa. Kirja näyttää kertovan #yMuinaisesta nimeltä #yNeow. NL NL Tämä herättää kiinnostuksesi, mutta tunnet itsesi hieman #p~huonovointiseksi.~",
-      "Uudelleenheräämisen Muinainen, #yNeow, karkotettiin Tornin pohjalle. NL NL Tunnet pakonomaisen halun lukea lisää, mutta vartaloasi alkaa #r~särkeä.~",
+      "Uudelleenheräämisen muinainen, #yNeow, karkotettiin Tornin pohjalle. NL NL Tunnet pakonomaisen halun lukea lisää, mutta vartaloasi alkaa #r~särkeä.~",
       "Kostoa tavoitteleva #yNeow siunaa ulkopuolisia saavuttaaksen omia päämääriään. NL NL Alat tuntea itsesi erittäin #r~heikoksi~ #r~ja~ #r~väsyneeksi...~",
       "#yNeow'n henkiinherättämät muistavat vain katkelmia menneistä minuuksistaan, kirottuina taistelemaan ikuisesti. NL NL Kun lähestyt viimeistä sivua, sinun #r@vanhat@ #r@haavasi@ #r@alkavat@ #r@aueta@ #r@uudestaan!@",
       "Lopetettuasi opuksen lukemisen päätät ottaa sen mukaasi. Auttaako todisteen kantaminen mukana säilyttämään muistosi?",
@@ -123,7 +123,7 @@
       "[Jatka] #rMenetä #r2 #rOP:tä.",
       "[Jatka] #rMenetä #r3 #rOP:tä.",
       "[Lopeta] #rMenetä #r3 #rOP:tä.",
-      "[Ota] #gOta #gKirja. #rMenetä #r",
+      "[Ota] #gOta #gkirja. #rMenetä #r",
       " #rOP:tä.",
       "[Poistu]"
     ]
@@ -194,11 +194,11 @@
     "OPTIONS": [
       "[Jatka]",
       "[Laskeudu] #rMenetä ",
-      "[Lukittu] Vaatii: Taito-kortin",
+      "[Lukittu] Vaatii: Taidon",
       "[Kanavoi] #rMenetä ",
-      "[Lukittu] Vaatii: Voima-kortin",
+      "[Lukittu] Vaatii: Voiman",
       "[Iske] #rMenetä ",
-      "[Lukittu] Vaatii: Hyökkäys-kortin",
+      "[Lukittu] Vaatii: Hyökkäyksen",
       "[Poistu]",
 	  "[Laskeudu] "
     ]
@@ -212,13 +212,13 @@
       "Hyökkäät ja rikot edessäsi olevan patsaan murtaen lumoavan otteen, jolla huone oli tarttunut sinuun. NL Synkkä kiljahdus kaikuu ympärilläsi, ja tunnet #p~kirotun~ #p~magian~ tunkeutuvan luihisi."
     ],
     "OPTIONS": [
-      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikki. #rMenetä #rKultainen #ridoli.",
+      "[Tarjoa: Kultainen idoli] #gSaa #gerikoisreliikki. #rMenetä #rkultainen #ridoli.",
       "[Lukittu] Vaatii: Kultaisen idolin.",
       "[Uhraa] #gSaa #g",
       " #gMaksimiOP:tä. #rMenetä #r",
       " #rOP:tä.",
       "[Lukittu] Vaatii: Ihmisyyttä.",
-      "[Häpäise] #rTule #rKirotuksi #r- #rLahoaminen."
+      "[Häpäise] #rTule #rkirotuksi #r- #rLahoaminen."
     ]
   },
   "Fountain of Cleansing": {
@@ -229,7 +229,7 @@
       "Veden olemus epäilyttää sinua, joten jatkat matkaasi janoisena."
     ],
     "OPTIONS": [
-      "[Juo] #gPoista #gpakastasi #gkaikki #gKiroukset.",
+      "[Juo] #gPoista #gpakastasi #gkaikki #gkiroukset.",
       "[Poistu]"
     ]
   },
@@ -264,7 +264,7 @@
     "OPTIONS": [
       "[Ota] #gSaa #gKultainen #gidoli. #rLaukaise #ransa.",
       "[Poistu]",
-      "[Pakene] #rTule #rKirotuksi #r- #rVamma.",
+      "[Pakene] #rTule #rkirotuksi #r- #rVamma.",
       "[Särje] #rOta #r",
       " #rvauriota.",
       "[Piiloudu] #rMenetä #r",
@@ -281,8 +281,8 @@
     ],
     "OPTIONS": [
       "[Rukoile] #gSaa #g",
-      " #gKultaa.",
-      "[Häpäise] #gOta #g275 #gKultaa. #rTule #rKirotuksi #r- #rKatumus.",
+      " #gkultaa.",
+      "[Häpäise] #gOta #g275 #gkultaa. #rTule #rkirotuksi #r- #rKatumus.",
       "[Poistu]"
     ]
   },
@@ -299,7 +299,7 @@
       " #rOP:tä.",
       "[Tuhoa] #gSaa #g",
       " #g- #g",
-      " #gKultaa.",
+      " #gkultaa.",
       "[Lukittu] Vaatii: Kortin jossa ",
       " tai enemmän vauriota.",
       "[Poistu]",
@@ -323,10 +323,10 @@
       "[Jatka]",
       " #rOP:tä.",
       "[Tietoa?] #gPaljasta #gPomo. #rMenetä #r",
-      "[Menestystä?] #gSaa #gVäritön #gkortti. #rMenetä #r",
+      "[Menestystä?] #gSaa #gväritön #gkortti. #rMenetä #r",
       "[Piristyksen?] #gSaa #gtaikaliemi. #rMenetä #r",
       "[Rikkauksia?] #gSaa #g",
-      " #gKultaa. #rMenetä #r",
+      " #gkultaa. #rMenetä #r",
       "[Miten poistun?] #rMenetä #r",
       "[Poistu]"
     ]
@@ -350,7 +350,7 @@
     ],
     "OPTIONS": [
       "[Samaa mieltä] #gSaa #g",
-      " #gKultaa. #rTule #rKirotuksi #r- #rEpäilys.",
+      " #gkultaa. #rTule #rkirotuksi #r- #rEpäilys.",
       "[Eri mieltä]",
       "[Jatka]",
       "[Poistu]"
@@ -383,7 +383,7 @@
       "Kohtaat bandiittijoukon, jolla on isot #rpunaiset #rnaamiot. NL \"Tervehdys, maksa jos haluat jatkaa matkaa... meille käy varsin kohtuullisesti @KAIKKI@ sinun #ykultasi! Heh heh!\""
     ],
     "OPTIONS": [
-      "[Maksa] #rMenetä #rKAIKKI #yKultasi.",
+      "[Maksa] #rMenetä #rKAIKKI #ykultasi.",
       "[Taistele!]",
       "[Jatka]",
       "[Poistu]"
@@ -473,7 +473,7 @@
     "OPTIONS": [
       "[Kurkota sisälle] #rMenetä #r",
       " #rOP:tä. #g",
-      "%: #gLöydä #gReliikki.",
+      "%: #gLöydä #greliikki.",
       "[Poistu]",
       "[Syvemmälle] #rMenetä #r"
     ]
@@ -559,12 +559,12 @@
       "Et luota tähän #b\"Pappiin\", joten poistut."
     ],
     "OPTIONS": [
-      "[Paranna] #y35 #yKultaa: #gParane #g",
+      "[Paranna] #y35 #ykultaa: #gParane #g",
       "[Lukittu] Vaatii: ",
-      " Kultaa.",
+      " kultaa.",
       "[Puhdista] #y",
-      " #yKultaa: #gPoista #gpakastasi #gkortti.",
-      "[Lukittu] Vaatii: 50 Kultaa.",
+      " #ykultaa: #gPoista #gpakastasi #gkortti.",
+      "[Lukittu] Vaatii: 50 kultaa.",
       "[Poistu]",
       "Valitse poistettava kortti.",
       " #gOP:tä."
@@ -586,10 +586,10 @@
     "OPTIONS": [
       "[Jatka]",
       "[Murhaaja] #yLyö #y",
-      " #yKultaa #yvetoa - #g70%: #gvoitto #g",
-      " #gKultaa.",
+      " #ykultaa #yvetoa - #g70%: #gvoitto #g",
+      " #gkultaa.",
       "[Omistaja] #yLyö #y",
-      " #yKultaa #yvetoa - #g30%: #gvoitto #g",
+      " #ykultaa #yvetoa - #g30%: #gvoitto #g",
       "[Katso]",
       "[Poistu]"
     ]
@@ -621,7 +621,7 @@
     ],
     "OPTIONS": [
       "[Avaa ruumisarkku] #gOta #greliikki. #r",
-      "%: #rTule #rKirotuksi #r- #rNoidannuoli.",
+      "%: #rTule #rkirotuksi #r- #rNoidannuoli.",
       "[Poistu]"
     ]
   },
@@ -636,7 +636,7 @@
     "OPTIONS": [
       "[Hyppää sisään] #gParane #gtäyteen #gOP:siin. #rMenetä #r",
       " #rMaksimiOP:tä.",
-      "[Tarjoa: Kultainen idoli] #gSaa #g333 #gkultaa. #rMenetä #rKultainen #ridoli.",
+      "[Tarjoa: Kultainen idoli] #gSaa #g333 #gkultaa. #rMenetä #rkultainen #ridoli.",
       "[Lukittu] Vaatii: Kultaisen idolin.",
       "[Poistu]"
     ]
@@ -652,7 +652,7 @@
       "[Osta 1 liemi] #y",
       "[Osta 2 lientä] #y",
       "[Osta 3 lientä] #y",
-      " #yKultaa.",
+      " #ykultaa.",
       "[Poistu]",
       "[Poistu] #rOta #r",
       " #rvauriota."
@@ -666,9 +666,9 @@
       "Valmistaudut törmäykseen, mutta ei vain ole mitään hyvää tapaa laskeutua, kun sinkoutuu ulos noinkin eriskummallisesta virityksestä. @LÄTS@ NL NL ...makaat hetken maassa kiroten lätäköiden olemassaoloa, sekä nestemäisten että maagisten."
     ],
     "OPTIONS": [
-      "[Häkeltynyt] #rMenetä #rsatunnainen #rHarvinainen+ #rkortti.",
+      "[Häkeltynyt] #rMenetä #rsatunnainen #rharvinainen+ #rkortti.",
       "[Kaadu] #rOta #r",
-      " #rvauriota. #rTule #rKirotuksi #r- #rVamma.",
+      " #rvauriota. #rTule #rkirotuksi #r- #rVamma.",
       "[Poistu]"
     ]
   },
@@ -680,10 +680,10 @@
       "Hautaan ilmestyy aukko ja ulos liukuu pieni punainen naamio kirjelappu mukana. \"Ota muilta, niin kuin minä olen ottanut sinulta!\""
     ],
     "OPTIONS": [
-      "[Pue punanaamio] #gSaa #g222 #gKultaa.",
+      "[Pue punanaamio] #gSaa #g222 #gkultaa.",
       "[Lukittu] Vaatii: Punanaamion.",
       "[Uhraa: ",
-      " Kultaa] #rMenetä #rkaikki #rKultasi. #gSaa #gReliikki.",
+      " Kultaa] #rMenetä #rkaikki #rkultasi. #gSaa #greliikki.",
       "[Poistu]"
     ]
   },
@@ -748,7 +748,7 @@
     "OPTIONS": [
       "[Pelaa]",
       "[Palkinto!] JIPII!!!!",
-      "[Palkinto!] #gSaat #gReliikin.",
+      "[Palkinto!] #gSaat #greliikin.",
       "[Palkinto!] #gParanna #gitsesi #gtäyteen #gkuntoon.",
       "[Palkinto?] #rKirous #r- #rHajoaminen.",
       "[Palkinto!] #gPoista #gkortti #gpakastasi.",
@@ -786,11 +786,11 @@
       "Päätät, ettei koko sotku ole vaivan arvoinen."
     ],
     "OPTIONS": [
-      "[Kerää Kultaa] #gSaa #g",
-      " #gKultaa. #rMenetä #r",
+      "[Kerää kultaa] #gSaa #g",
+      " #gkultaa. #rMenetä #r",
       " #rOP:tä.",
       "[Jätä ne] #rMenetä #r",
-      " #rKultaa.",
+      " #rkultaa.",
       "[Poistu]"
     ]
   },
@@ -802,8 +802,8 @@
       "Nyt ymmärrät kaiken. NL Muistojen puuttuminen, kiipeäminen, #yMuinainen. NL NL Näin on aina ollut. NL Näin on aina oleva. NL Kaikki unhoittuu pian uudestaan..."
     ],
     "OPTIONS": [
-      "[Olen Sota] #rTaistele #rPomoa #rvastaan #r1. #rnäytöksestä. #gVoita #gerittäin #gharvinainen #gReliikki.",  
-      "[Olen Rikas] #gSaa #g999 #gKultaa. #rKirottu #r- #r2 #rNormaaliutta.",
+      "[Olen Sota] #rTaistele #rPomoa #rvastaan #r1. #rnäytöksestä. #gVoita #gerittäin #gharvinainen #greliikki.",  
+      "[Olen Rikas] #gSaa #g999 #gkultaa. #rKirottu #r- #r2 #rNormaaliutta.",
       "[Olen Terve] #gParane #gtäyteen #gOP:siin. #rKirottu #r- #rEpävarmuus.",
       "[Olen Valveilla] #gParantele #gkaikki #gkortit. #rEt #rvoi #renää #rparantua.",
       "[Poistu]"
@@ -823,7 +823,7 @@
       "[Pysy jonossa] #gSaa Rituaalitikari. #rMenetä #r",
       " #rOP:tä.",
       "[Rahalipasmurto] #gOta #g",
-	  " #gKultaa.",
+	  " #gkultaa.",
       "[Poistu]",
       "[Jatka]"
     ]
@@ -839,7 +839,7 @@
     ],
     "OPTIONS": [
       "[Kosketa] #rMenetä #r",
-      " #gKultaa.",
+      " #gkultaa.",
       "[Käy kauppaa] #g50%: #gHyvä #gnaama. #r50%: #rPaha #rnaama.",
       "[Poistu]",
 	  "[Jatka]",
@@ -852,7 +852,7 @@
       "Huomiosi kiinnittyy pylväässä löysästi istuvaan tiileen.",
       "Löydät sen takaa taitetun lapun ja #ykortin sen välissä. Siinä lukee, NL \"Sydän odottaa.\" NL NL Tämä on sinun käsialaasi.",
       "Valitse kortti varastoitavaksi.",
-      "Mitä täällä tapahtuu?"
+      "Mitä täällä oikein tapahtuu?"
     ],
     "OPTIONS": [
       "[Jatka]",
@@ -876,13 +876,13 @@
       "[Anna pullo] #rMenetä ",
       "[Lukittu] Vaatii: Pullon.",
       "[Anna kultaa] #rMenetä #r",
-      "[Lukittu] Vaatii: Vähintään 50 Kultaa.",
+      "[Lukittu] Vaatii: Vähintään 50 kultaa.",
       "[Anna kortti] #rMenetä ",
       "[Lukittu] Vaatii: Kortin.",
-      ". #gSaa #gReliikki.",
+      ". #gSaa #greliikki.",
       "[Hyökkää]",
       "[Poistu]",
-      " #rKultaa"
+      " #rkultaa"
     ]
   },
   "Designer": {
@@ -900,7 +900,7 @@
       "[Täyspalvelu] #rMenetä #r",
       "[Lyö] #rMenetä #r",
       " #rOP:tä.",
-      " #rKultaa. ",
+      " #rkultaa. ",
       "#gParantele #g",
       " #gsatunnaista #gkorttia.",
       "#gParantele #gkortti.",
