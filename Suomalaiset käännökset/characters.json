@@ -9,7 +9,7 @@
   },
   "Defect": {
     "NAMES": [
-      "Viallinen"
+      "Häiriö"
     ],
     "TEXT": [
       "Tietoisuuden saavuttanut taisteluautomaatti. NL Hallitsee muinaisella teknologialla energiavirtauksia."
@@ -106,12 +106,12 @@
       "[ #gParantele #gkorttia ]",
       "[ #gMuunna #gkortti ]",
       "[ #gSaa #g3 #gsatunnaista #gtaikalientä ]",
-      "[ #gOta #gsatunnainen #gyleinen #gReliikki ]",
+      "[ #gOta #gsatunnainen #gyleinen #greliikki ]",
       "[ #gMaksimiOP #g+",
       "[ #gHanki #g",
-      " #gKultaa ]",
+      " #gkultaa ]",
       "#gPoista #g2 #gkorttia ]",
-      "#gSaa #gsatunnainen #gharvinainen #gReliikki ]",
+      "#gSaa #gsatunnainen #gharvinainen #greliikki ]",
       "#gValitse #gharvinainen #gkortti #gitsellesi ]",
       "#gSaa #g",
       " #gkultaa ]",
@@ -134,16 +134,16 @@
       "#gValitse #gharvinainen #gväritön #gkortti #gitsellesi ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rMenetä #ralkureliikkisi, #gota #gsatunnainen #gpomotason #gReliikki ]"
+      "[ #rMenetä #ralkureliikkisi, #gota #gsatunnainen #gpomotason #greliikki ]"
     ]
   },
   "Shop Screen": {
     "NAMES": [
       "~Terve~ NL ~terve!~",
-      "Hetkinen, NL tarvitset NL enemmän #rKultaa.",
-      "Hei kamu, sinulla ei ole #rRahaa!",
+      "Hetkinen, NL tarvitset NL enemmän #rkultaa.",
+      "Hei kamu, sinulla ei ole #rrahaa!",
       "Matti kukkarossa?",
-      "Teillä ei ole tarpeeksi #rKultaa.",
+      "Teillä ei ole tarpeeksi #rkultaa.",
       "Sinulla ei ole varaa tuohon.",
       "Tämä ei ole leipäjono.",
       "~Kiitoooos~",
@@ -175,7 +175,7 @@
   },
   "Silent": {
     "NAMES": [
-      "Hiljainen"
+      "Hiljaisuus"
     ],
     "TEXT": [
       "Taitava metsästäjä sumumailta. NL Hoitelee vastustajansa tikarein ja myrkyin."

@@ -1,7 +1,7 @@
 {
   "A Thousand Cuts": {
     "NAME": "Tuhat viiltoa",
-    "DESCRIPTION": "Kun pelaat kortin, tee !M! vauriota KAIKKIIN vihollisiin."
+    "DESCRIPTION": "Kun pelaat kortin, tee !M! vauriota KAIKILLE vihollisille."
   },
   "Accuracy": {
     "NAME": "Tarkkuus",
@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Luotiaika",
-    "DESCRIPTION": "Et voi nostaa lisäkortteja tällä vuorolla. Laske käsikorttien hinnaksi 0 tällä vuorolla."
+    "DESCRIPTION": "Et voi nostaa lisäkortteja tälle vuorolle. Laske käsikorttien hinnaksi 0 tällä vuorolla."
   },
   "Burn": {
     "NAME": "Palovamma",
@@ -249,7 +249,7 @@
   },
   "Cleave": {
     "NAME": "Halkaise",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille."
   },
   "Cloak And Dagger": {
     "NAME": "Salakähmintää",
@@ -291,7 +291,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Puhkeava ruumis",
-    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kohde kuolee, tee vauriota sen MaksimiOP:n määrän KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kohde kuolee, tee vauriota sen MaksimiOP:n määrän KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "vanhentunut",
     "EXTENDED_DESCRIPTION": [
       "vanhentunut"
@@ -307,11 +307,11 @@
   },
   "Crippling Poison": {
     "NAME": "Lamaannuttava pilvi",
-    "DESCRIPTION": "Lisää !M! Myrkkyä ja 2 Heikkoutta KAIKKIIN vihollisiin. NL Kuluta."
+    "DESCRIPTION": "Lisää !M! Myrkkyä ja 2 Heikkoutta KAIKILLE vihollisille. NL Kuluta."
   },
   "Dagger Spray": {
     "NAME": "Tikariruisku",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin kahdesti."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille kahdesti."
   },
   "Dagger Throw": {
     "NAME": "Tikarinheitto",
@@ -380,11 +380,11 @@
     "DESCRIPTION": "Saa vuorosi alussa !M! Vahvuutta."
   },
   "Die Die Die": {
-    "NAME": "Kuole kuole kuole",
+    "NAME": "Kuolkaa kaikki!",
     "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Kuluta."
   },
   "Disarm": {
-    "NAME": "Riisu aseista",
+    "NAME": "Aseistariisuminen",
     "DESCRIPTION": "Vihollinen menettää !M! Vahvuutta. NL Kuluta."
   },
   "Distraction": {
@@ -397,7 +397,7 @@
   },
   "Doom and Gloom": {
     "NAME": "Pimeys ja perikato",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Kanavoi !M! Pimeyttä."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Kanavoi !M! Pimeyttä."
   },
   "Doppelganger": {
     "NAME": "Doppelgänger",
@@ -442,7 +442,7 @@
   },
   "Electrodynamics": {
     "NAME": "Sähködynamiikkaa",
-    "DESCRIPTION": "Salama iskee nyt KAIKKIIN vihollisiin. NL Kanavoi !M! Salamaa.",
+    "DESCRIPTION": "Salama iskee nyt KAIKILLE vihollisille. NL Kanavoi !M! Salamaa.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
@@ -587,7 +587,7 @@
     "UPGRADE_DESCRIPTION": "Saa 1 Aineetonta. NL Kuluta."
   },
   "Ghostly Armor": {
-    "NAME": "Aavemainen haarniska",
+    "NAME": "Aavehaarniska",
     "DESCRIPTION": "Eteerinen. NL Saa !B! Suojaa."
   },
   "Glacier": {
@@ -609,7 +609,7 @@
   },
   "Grand Finale": {
     "NAME": "Loppunäytös",
-    "DESCRIPTION": "Voi pelata vain jos sinulla ei ole kortteja nostopakassasi. NL Tekee !D! vauriota KAIKKIIN vihollisiin.",
+    "DESCRIPTION": "Voi pelata vain jos sinulla ei ole kortteja nostopakassasi. NL Tekee !D! vauriota KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "Nostopinoni NL täytyy olla #rTyhjä."
   },
   "Havoc": {
@@ -627,8 +627,8 @@
   },
   "Heavy Blade": {
     "NAME": "Raskas kalpa",
-    "DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa kertaa !M!.",
-    "UPGRADE_DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa kertaa !M!."
+    "DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa !M! kertaisesti.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vauriota. NL Vahvuus lisää kortin tehoa !M! kertaisesti."
   },
   "Heel Hook": {
     "NAME": "Kantapääkoukku",
@@ -654,11 +654,11 @@
   },
   "Hyperbeam": {
     "NAME": "Hypersäde",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Menetä !M! Fokusta."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Menetä !M! Fokusta."
   },
   "Immolate": {
     "NAME": "Uhrituli",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Lisää *Palovamma poistopinoosi."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Lisää *Palovamma poistopinoosi."
   },
   "Impervious": {
     "NAME": "Läpäisemätön",
@@ -840,7 +840,7 @@
   },
   "Panache": {
     "NAME": "Itsevarmuus",
-    "DESCRIPTION": "Aina kun pelaat 5 korttia vuorosi aikana, tee !M! vauriota KAIKKIIN vihollisiin."
+    "DESCRIPTION": "Aina kun pelaat 5 korttia vuorosi aikana, tee !M! vauriota KAIKILLE vihollisille."
   },
   "Parasite": {
     "NAME": "Loinen",
@@ -909,7 +909,7 @@
   },
   "Reaper": {
     "NAME": "Niittäjä",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. Paranna tehdyn vaurion verran OP:tä. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. Paranna tehdyn vaurion verran OP:tä. NL Kuluta."
   },
   "Reboot": {
     "NAME": "Uudelleenkäynnistys",
@@ -1123,7 +1123,7 @@
   },
   "Sweeping Beam": {
     "NAME": "Kaartuva säde",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Nosta !M! kortti."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Nosta !M! kortti."
   },
   "Swift Strike": {
     "NAME": "Nopea isku",
@@ -1285,7 +1285,7 @@
   },
   "HandOfGreed": {
     "NAME": "Ahneuden käsi",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, saa !M! Kultaa."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, saa !M! kultaa."
   },
   "Violence": {
     "NAME": "Väkivaltaa",
@@ -1312,11 +1312,11 @@
   },
   "EmptyFist": {
     "NAME": "Tyhjä nyrkki",
-    "DESCRIPTION": "Tee !D! vauriota. NL Poistu Asennostasi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Poistu Asennosta."
   },
   "EmptyBody": {
     "NAME": "Tyhjä ruumis",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Poistu Asennostasi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Poistu Asennosta."
   },
   "WreathOfFlame": {
     "NAME": "Liekkiseppele",
@@ -1431,8 +1431,8 @@
   },
   "EmptyMind": {
     "NAME": "Tyhjä mieli",
-    "DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennostasi.",
-    "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennostasi."
+    "DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennosta.",
+    "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennosta."
   },
   "Experienced": {
     "NAME": "VANHENTUNUT Kokenut",
@@ -1452,7 +1452,7 @@
   },
   "Conclude": {
     "NAME": "Lopeta",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin. NL Lopeta vuorosi."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Lopeta vuorosi."
   },
   "LessonLearned": {
     "NAME": "Ymmärrys",
@@ -1623,7 +1623,7 @@
   },
   "Torrent": {
     "NAME": "VANHENTUNUT Tulva",
-    "DESCRIPTION": "Tee !D! vauriota KAIKKIIN vihollisiin !M! kertaa. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille !M! kertaa. NL Kuluta."
   },
   "Windup": {
     "NAME": "VANHENTUNUT Windup",
@@ -1786,7 +1786,7 @@
   },
   "Wish": {
     "NAME": "Toivomus",
-    "DESCRIPTION": "Valitse yksi: NL Saa !B! Panssarilevyä, !D! Vahvuutta tai !M! Kultaa. NL Kuluta.",
+    "DESCRIPTION": "Valitse yksi: NL Saa !B! panssaria, !D! Vahvuutta tai !M! kultaa. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1813,7 +1813,7 @@
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "Tee vuorosi lopussa !M! vauriota KAIKKIIN vihollisiin."
+    "DESCRIPTION": "Tee vuorosi lopussa !M! vauriota KAIKILLE vihollisille."
   },
   "Vengeance": {
     "NAME": "Kihisevä raivo",
@@ -1839,7 +1839,7 @@
   },
   "Indignation": {
     "NAME": "Tuohtumus",
-    "DESCRIPTION": "Jos olet Raivossa, lisää !M! Alttiutta KAIKKIIN vihollisiin, muuten astu Raivoon."
+    "DESCRIPTION": "Jos olet Raivossa, lisää !M! Alttiutta KAIKILLE vihollisille, muuten astu Raivoon."
   },
   "BecomeAlmighty": {
     "NAME": "Kaikkivaltiaaksi",
@@ -1847,11 +1847,11 @@
   },
   "LiveForever": {
     "NAME": "Elä ikuisesti",
-    "DESCRIPTION": "Saa !M! *Panssarilevyä."
+    "DESCRIPTION": "Saa !M! *Panssaria."
   },
   "FameAndFortune": {
     "NAME": "Kultaa ja kunniaa",
-    "DESCRIPTION": "Saa !M! Kultaa."
+    "DESCRIPTION": "Saa !M! kultaa."
   },
   "ConjureBlade": {
     "NAME": "Loihdi terä",

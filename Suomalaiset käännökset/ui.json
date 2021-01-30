@@ -71,7 +71,7 @@
       "Torjuttu",
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Tarkkailija"
     ]
   },
@@ -169,11 +169,11 @@
     "TEXT": [
       "Vahvista",
       "Vahvista valintasi",
-      "Valitse Reliikki",
+      "Valitse reliikki",
       "Ohita",
       "ÄÄNESTÄ NYT: ",
       "s jäljellä.",
-	  "Valitse Vitsaus"
+	  "Valitse vitsaus"
     ]
   },
   "CacheAction": {
@@ -268,7 +268,7 @@
       "Aloita matka",
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Takaisin",
       "Nousemus",
       "Taso ",
@@ -290,10 +290,10 @@
     "TEXT": [
       "Jatka",
       "Ohita kortti",
-      "Ohita Kulta",
-      "Ohita Pullo",
-      "Ohita Reliikki",
-      "Ohita Palkkiot",
+      "Ohita kulta",
+      "Ohita pullo",
+      "Ohita reliikki",
+      "Ohita palkkiot",
       "Sulje",
       "Aarre!",
       "Mitäs  on  sisällä?",
@@ -348,7 +348,7 @@
       " NL NL  #yReliikit: NL  ",
       " NL Päivän haaste: NL #yHahmoluokka: NL ",
       " NL #yMuunnelmat: ",
-      "Määre: ",
+      "Määreet: ",
       "Pistetaulukko",
       "*Saavutukset ovat poissa käytöstä päivittäisissä haasteissa..",
       "  [YHTEYDETÖN TILA]",
@@ -447,7 +447,7 @@
   "Dig Option": {
     "TEXT": [
       "Kaiva",
-      "Kaiva satunnainen Reliikki."
+      "Kaiva satunnainen reliikki."
     ]
   },
   "DiscardAction": {
@@ -519,7 +519,7 @@
   "EarlyAccessPopup": {
     "TEXT": [
       "Mikä on Varhaisjulkaisu?",
-      "Mikä on avoin beta?",
+      "Mikä on avoin beeta?",
       "Slay the Spire on vielä aktiivisessa kehityksessä! NL Monet ominaisuudet, kortit ja viholliset voivat muuttua. NL NL Jos törmäät ongelmiin tai haluat antaa palautetta, viestithän meille #bSteamin #bKeskustelu sivuilla. NL NL Ei sen enempää, aika kiivetä tornia!",
       "Slay the Spire on vielä aktiivisessa kehityksessä! NL Sen lisäksi pelaat pelin Beta-versiota. NL NL Viestithän meille mahdollisista pelatessa ilmenevistä ongelmista, mutta älä ylläty tulevan sisällön köykäisestä taiteesta. NL NL Ei sen enempää, aika kiivetä tornia!",
       "Klikkaa mihin vain aloittaaksesi",
@@ -571,7 +571,7 @@
   },
   "GainGoldTextEffect": {
     "TEXT": [
-      " Kultaa"
+      " kultaa"
     ]
   },
   "GridCardSelectScreen": {
@@ -700,7 +700,7 @@
     "TEXT": [
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Saavutettujen kerrosten keskiarvo (viimeiset 20 peliä)",
       "Pistemäärien keskiarvo (viimeiset 20 peliä)",
       "Pisin voittoputki",
@@ -726,7 +726,7 @@
       "Haetaan dataa...",
       "Tuloslista",
       "Ei yhteydessä Steamiin",
-      "Ei tuloksia saatavilla \n Mene Kukistamaan Tornia!"
+      "Ei tuloksia saatavilla \n Mene kukistamaan Tornia!"
     ]
   },
   "Legend": {
@@ -736,10 +736,10 @@
       "Tuntematon huone. NL NL Saatat kohdata vihollisia, aarteita, kauppoja tai jotain ihan muuta.",
       "Kauppias",
       "Kaupat",
-      "Salaperäinen Kauppias myy tuotteitaan näissä huoneissa. NL NL Käytä ansaitsemasi #yKulta täällä!",
+      "Salaperäinen Kauppias myy tuotteitaan näissä huoneissa. NL NL Käytä ansaitsemasi #ykulta täällä!",
       "Aarre",
       "Aarrehuoneet",
-      "Näistä halutuista huoneista löytyy #yReliikkejä ja #yKultaa.",
+      "Näistä halutuista huoneista löytyy #yreliikkejä ja #ykultaa.",
       "Lepo",
       "Lepopaikat",
       "Pysähdy näissä huoneissa #gparantaaksesi OP:täsi tai #yparannellaksesi korttia.",
@@ -748,7 +748,7 @@
       "Näissä huoneissa lymyilee vihamielisiä olentoja.",
       "Eliitti",
       "Eliitit",
-      "Näissä huoneissa odottaa voimakkaita vihollisia. NL NL Niiden päihittäminen antaa sinulle Reliikin palkinnoksi.",
+      "Näissä huoneissa odottaa voimakkaita vihollisia. NL NL Niiden päihittäminen antaa sinulle reliikin palkinnoksi.",
       "Karttamerkit"
     ]
   },
@@ -787,7 +787,7 @@
       "",
       "Lopeta",
       "Päivitystiedotteet",
-      "Luovuta peli",
+      "Luovu pelikerrasta",
       "",
       "Asetukset",
       "",
@@ -799,10 +799,10 @@
       "Peruspeli",
       "",
       "Aloita seikkailusi tornin tuhoamiseksi.",
-      "Päivittäinen nousu",
+      "Päivän kiipeily",
       "",
       "Uusi haaste tarjolla kerran päivässä.\n\nKilpaile toisten pelaajien kanssa korkeimmasta pistemäärästä!",
-      "Ascension",
+      "Nousemus",
       "",
       "Torni kasvaa vahvemmaksi jokaisen voiton myötä.\n\nTestaa voimakkaimpien strategioittesi rajoja.",
       "Korttikirjasto",
@@ -865,7 +865,7 @@
   },
   "OpeningAction": {
     "TEXT": [
-      "Tuo vihollinen ei ole aikomassa hyökätä!"
+      "Tuo vihollinen ei aio hyökätä!"
     ]
   },
   "OptionsPanel": {
@@ -1010,8 +1010,8 @@
   },
   "RewardItem": {
     "TEXT": [
-      " Kultaa (palautettu)",
-      " Kultaa",
+      " kultaa (palautettu)",
+      " kultaa",
       "Lisää kortti pakkaasi",
       "",
       "Valitse kortti",
@@ -1041,7 +1041,7 @@
       "#r%s vauriota",
       "#r%s vuoroa",
       "#r%s #r/ #r%s #rOP",
-      "#y%s #yKultaa",
+      "#y%s #ykultaa",
       "#yLöysi: ",
       "#yOhitti:",
       "Puuttuva tieto",
@@ -1110,7 +1110,7 @@
     "TEXT": [
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Palaa",
       "Ei tuloksia saatavilla. NL Mene Kukistamaan Tornia!",
       "Nousemustaso: ",
@@ -1197,7 +1197,7 @@
       "Ei tarpeeksi #rEnergiaa.",
       "Ei tarpeeksi #rVarausta.",
       "En voi pelata NL tätä korttia.",
-      "Beta-taide"
+      "Beetataide"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1212,7 +1212,7 @@
       "Harvinainen ",
       "Lukittu",
       "Tuntematon",
-      "reliikki",
+      "Reliikki",
       "Tätä reliikkiä ei ole vielä avattu.",
       "Tätä reliikkiä ei ole vielä nähty."
     ]
@@ -1350,7 +1350,7 @@
       "Avattava jäljellä: ",
       "Surmattuja vihollisia",
       "Surmattuja eliittejä",
-      "Säästetty Kulta",
+      "Säästetty kulta",
       "OP bonus",
       "Voitto!"
       ]
@@ -1362,11 +1362,11 @@
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Rautasoturin beta-korttitaide avattu!",
-      "Hiljaisuuden beta-korttitaide avattu!",
-      "Viallisen beta-korttitaide avattu!",
-      "Kaikki beta-korttitaiteet avattu!",
-      "Tarkkailijan beta-korttitaide avattu!"
+      "Rautasoturin beeta-korttitaide avattu!",
+      "Hiljaisuuden beeta-korttitaide avattu!",
+      "Viallisen beeta-korttitaide avattu!",
+      "Kaikki beeta-korttitaiteet avattu!",
+      "Tarkkailijan beeta-korttitaide avattu!"
     ]
   },
   "RichPresence": {

@@ -37,7 +37,9 @@
     },
     "CURSE": {
       "NAMES": [
-        "kirottu"
+        "kirottu",
+        "kirouksen",
+        "kirousta"
       ],
       "DESCRIPTION": "Kirotut kortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
     },
@@ -249,7 +251,7 @@
     "VULNERABLE": {
       "NAMES": [
         "altis",
-        "altiutta"
+        "alttiutta"
       ],
       "DESCRIPTION": "Alttiit oliot ottavat #b50% enemmän vauriota Hyökkäyksiltä."
     },
@@ -288,7 +290,8 @@
     "STANCE": {
       "NAMES": [
         "asento",
-        "asentoa"
+        "asentoa",
+        "asennosta"
       ],
       "DESCRIPTION": "Sinulla voi olla vain yksi asento voimassa."
     },

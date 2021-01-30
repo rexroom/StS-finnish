@@ -89,7 +89,7 @@
       "Pidä taistelun aikana 25 tai enemmän Fokusta.",
       "Kanavoi 9 Plasmaa yhden vuoron aikana.",
       "Pelaa 10 tai enemmän 0-hintaisia kortteja vuoron aikana.",
-      "Voita Päivittäinen Nousu.",
+      "Voita Päivän kiipeily.",
       "Kukista Tilapäinen ennen kuin se haihtuu pois.",
       "Voita Nousemustaso 20.",
       "Päätä peli Rautasoturilla.",
@@ -141,7 +141,7 @@
       "#ySaavutukset",
       "#rRautasoturi",
       "#gHiljaisuus",
-      "#bViallinen",
+      "#bHäiriö",
       "#pTarkkailija"
     ],
     "TEXT": [
