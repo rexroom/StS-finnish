@@ -8,4 +8,4 @@ Tämä on jatkumo Murasaki#6571 aloittamalle lokalisointityölle, pyrkimyksenä 
 
 Jos haluat auttaa lokalisoinnissa, ota ensin yhteyttä ylläoleviin.
 
-Tällä hetkellä *kaikki* tekstit on käännetty, mutta vielä pitää hioa ja parannella tekstiä.
+Tällä hetkellä lokalisointityö on **valmis**, mutta aina riittää oikoluettavaa.
