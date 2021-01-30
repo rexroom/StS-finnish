@@ -269,7 +269,7 @@
       "Rautasoturi",
       "Hiljaisuus",
       "Häiriö",
-      "Takaisin",
+      "Palaa",
       "Nousemus",
       "Taso ",
       "Nousemustila",
@@ -338,7 +338,7 @@
       "Päivittäinen haaste",
       "Yhdistetään aikapalvelimeen...",
       "#yHUOM: Olet suorittanut jo tämänpäiväisen haasteen. NL Uusien yritysten pisteitä ei lähetetä.",
-      "Paluu",
+      "Palaa",
       "Lähde matkaan",
       "Tämän päivän hahmo: ",
       "dd.MM.yyyy HH:mm:ss",
@@ -473,7 +473,7 @@
   "DiscardPileViewScreen": {
     "TEXT": [
       "Tässä olevat kortit sekoitetaan uudeksi nostopinoksi kun vanha ehtyy.",
-      "Paluu",
+      "Palaa",
       "Poistopino"
     ]
   },
@@ -486,7 +486,7 @@
     "TEXT": [
       "Kortteja nostetaan täältä jokaisen vuoron alussa.",
       "(Näytetyt kortit ovat järjestetty harvinaisuuden mukaan)",
-      "Paluu",
+      "Palaa",
       "Nostopino"
     ]
   },
@@ -540,7 +540,7 @@
   "ExhaustViewScreen": {
     "TEXT": [
       "Nämä kortit kuluivat tässä taistelussa.",
-      "Paluu"
+      "Palaa"
     ]
   },
   "ExhumeAction": {
@@ -772,7 +772,7 @@
   "MasterDeckViewScreen": {
     "TEXT": [
       "Aloitat jokaisen taistelun näillä korteilla.",
-      "Paluu"
+      "Palaa"
     ]
   },
   "MenuButton": {
