@@ -268,14 +268,14 @@
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Kiinan (yksinkertaistettu) lokalisaatio",
+    "HEADER": "Yksinkertaistetun kiinan lokalisaatio",
     "NAMES": [
       "Sound of Mystery",
       "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Kiinan (perinteinen) lokalisaatio",
+    "HEADER": "Perinteisen kiinan lokalisaatio",
     "NAMES": [
       "professor",
       "bowans",
