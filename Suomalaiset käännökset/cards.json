@@ -1786,7 +1786,7 @@
   },
   "Wish": {
     "NAME": "Toivomus",
-    "DESCRIPTION": "Valitse yksi: NL Saa !B! panssarilevyä, !D! Vahvuutta tai !M! kultaa. NL Kuluta.",
+    "DESCRIPTION": "Valitse yksi: NL Saa !B! panssaria, !D! Vahvuutta tai !M! kultaa. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1847,7 +1847,7 @@
   },
   "LiveForever": {
     "NAME": "Elä ikuisesti",
-    "DESCRIPTION": "Saa !M! *Panssarilevyä."
+    "DESCRIPTION": "Saa !M! *Panssaria."
   },
   "FameAndFortune": {
     "NAME": "Kultaa ja kunniaa",

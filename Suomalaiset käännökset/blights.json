@@ -25,7 +25,7 @@
     "NAME": "Kieroutuva mieli",
      "DESCRIPTION": [
       "Lisää vuorosi lopussa #b",
-	  " satunnaista Statuskorttia nostopakkasi päälle.",
+	  " satunnaista statusta nostopakkasi päälle.",
 	  ""
     ]
   },
@@ -33,7 +33,7 @@
     "NAME": "Kirottu",
      "DESCRIPTION": [
       "Aina kun päihität Pomon, saa #b",
-      " satunnaista #yKirousta.",
+      " satunnaista #ykirousta.",
 	  ""
     ]
   },
@@ -48,7 +48,7 @@
   "MimicInfestation": {
     "NAME": "Jäljittelijöitä kaikkialla",
      "DESCRIPTION": [
-      "Tulevien näytösten Aarrehuoneet korvataan Eliiteillä. Eliitit eivät enää anna reliikkejä."
+      "Tulevien näytösten aarrehuoneet korvataan eliiteillä. Eliitit eivät enää anna reliikkejä."
     ]
   },
   "FullBelly": {
@@ -83,16 +83,16 @@
     "NAME": "Kummittelut",
      "DESCRIPTION": [
       "Viholliset aloittavat taistelun #b",
-	  " #yAineettomalla."
+	  " #yaineettomalla."
     ]
   },
   "MetallicRebirth": {
     "NAME": "Muinaista tehostamista",
      "DESCRIPTION": [
       "Viholliset aloittavat taistelun #b",
-	  " #yArtefaktilla, #b",
-	  " #yPanssarilevyllä ja #b",
-	  " #yRegenillä."
+	  " #yartefaktilla, #b",
+	  " #ypanssarilla ja #b",
+	  " #yregenillä."
     ]
   }
 }

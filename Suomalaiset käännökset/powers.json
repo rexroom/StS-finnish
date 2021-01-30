@@ -655,12 +655,12 @@
     ]
   },
   "Plated Armor": {
-    "NAME": "Panssarilevy",
+    "NAME": "Panssaria",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #ySuojaa. Saatuasi suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy.",
+      " #ySuojaa. Saatuasi suoraa hyökkäysvauriota, vähennä #b1 #yPanssari.",
       "Saa vuoronsa lopussa #b",
-      " #ySuojaa. Saatuaan suoraa hyökkäysvauriota, vähennä #b1 #yPanssarilevy."
+      " #ySuojaa. Saatuaan suoraa hyökkäysvauriota, vähennä #b1 #yPanssari."
     ]
   },
   "Poison": {
@@ -1129,7 +1129,7 @@
     "NAME": "Elä ikuisesti",
     "DESCRIPTIONS": [
       "Saa vuorosi lopussa #b",
-      " #yPanssarilevyä."
+      " #ypanssaria."
     ]
   },
   "WireheadingPower": {
@@ -1157,7 +1157,7 @@
   "EstablishmentPower": {
     "NAME": "Uskonlaitos",
     "DESCRIPTIONS": [
-    "Kun kortti #ySäilytetään, vähennä sen hinnasta #b",
+    "Kun kortti #ysäilytetään, vähennä sen hinnasta #b",
     " energia."
 	]
   },
@@ -1165,14 +1165,14 @@
     "NAME": "Hartaus",
     "DESCRIPTIONS": [
     "Saa vuorosi alussa #b",
-    " #yMantraa."
+    " #ymantraa."
 	]
   },
   "BlockReturnPower": {
     "NAME": "Torju takaisin",
     "DESCRIPTIONS": [
     "Saa hyökättynä #b",
-    " #ySuojaa."
+    " #ysuojaa."
   ]
   },
   "BattleHymn": {

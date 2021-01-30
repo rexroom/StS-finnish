@@ -13,7 +13,7 @@
   },
   "Cursed Run": {
     "NAME": "Kirottu pelikerta",
-    "DESCRIPTION": "Aina kun voitat pomon, saat Kirouksen. Alkureliikkisi korvataan Kirotulla avaimella, Pimeäkiviriipuksella sekä Duu-Vuu-nukella."
+    "DESCRIPTION": "Aina kun voitat pomon, saat kirouksen. Alkureliikkisi korvataan Kirotulla avaimella, Pimeäkiviriipuksella sekä Duu-Vuu-nukella."
   },
   "Diverse": {
     "NAME": "Monipuolinen",
@@ -81,7 +81,7 @@
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Viholliset antavat 200% enemmän kultaa, mutta et voi enää Taota Lepopaikoilla."
+    "DESCRIPTION": "Viholliset antavat 200% enemmän kultaa, mutta et voi enää taota lepopaikoilla."
   },
   "My True Form": {
     "NAME": "Todellinen olomuotoni",
@@ -113,7 +113,7 @@
   },
   "Terminal": {
     "NAME": "Parantumaton",
-    "DESCRIPTION": "Kun saavut uuteen huoneeseen, menetä 1 MaksimiOP. Aloita jokainen taistelu 5 Panssarilevyllä."
+    "DESCRIPTION": "Kun saavut uuteen huoneeseen, menetä 1 MaksimiOP. Aloita jokainen taistelu 5 panssarilla."
   },
   "Time Dilation": {
     "NAME": "Aikalaajentuma",
@@ -157,11 +157,11 @@
   },
   "MonsterHunter": {
     "NAME": "[VANHENTUNUT] Kolossi",
-    "DESCRIPTION": "Vihollisilla on bonus OP:tä mutta antavat parempia palkintoja."
+    "DESCRIPTION": "Vihollisilla on enemmän OP:tä mutta antavat parempia palkintoja."
   },
   "DeadlyEvents": {
     "NAME": "Vaarallisia tapahtumia",
-    "DESCRIPTION": "?-huoneet voivat nyt sisältää Eliittejä, mutta myös todennäköisemmin Aarrehuoneita."
+    "DESCRIPTION": "?-huoneet voivat nyt sisältää eliittejä, mutta myös todennäköisemmin aarrehuoneita."
   },
   "Daily Mods": {
     "NAME": "Päivittäiset muunnelmat",

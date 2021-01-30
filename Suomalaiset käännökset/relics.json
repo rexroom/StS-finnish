@@ -66,7 +66,7 @@
     "NAME": "Musta tähti",
     "FLAVOR": "Löydettiin alunperin käärmeen kaupungissa yksittäisen kynttilän viereltä.",
     "DESCRIPTIONS": [
-      "Kukistetut Eliitit pudottavat lisäreliikin."
+      "Kukistetut eliitit pudottavat lisäreliikin."
     ]
   },
   "Blood Vial": {
@@ -184,7 +184,7 @@
     "NAME": "Kameleonttisormus",
     "FLAVOR": "Vanhentunut",
     "DESCRIPTIONS": [
-      "Voit nyt #yKeittää Lepopaikoissa."
+      "Voit nyt #yKeittää lepopaikoissa."
     ]
   },
   "Champion Belt": {
@@ -294,7 +294,7 @@
     ]
   },
   "Du-Vu Doll": {
-    "NAME": "Du-vu nukke",
+    "NAME": "Duu-vuu nukke",
     "FLAVOR": "Nukke, joka on suunniteltu ottamaan voimansa pahansuovasta energiasta.",
     "DESCRIPTIONS": [
       "Saa jokaista pakkasi #yKirousta kohden taistelun alussa #b",
@@ -328,7 +328,7 @@
   },
   "Eternal Feather": {
     "NAME": "Ikuinen höyhen",
-    "FLAVOR": "Tämä höyhen vaikuttaa täysin tuhoutumattomalta. Mistä linnusta tämä oikein voi olla peräisin? ",
+    "FLAVOR": "Tämä höyhen vaikuttaa täysin tuhoutumattomalta. Mistä linnusta tämä voi olla oikein peräisin? ",
     "DESCRIPTIONS": [
       "Jokaista #b",
       " pakassasi olevaa korttia kohden, paranna #b",
@@ -346,7 +346,7 @@
     "NAME": "Jäätynyt silmä",
     "FLAVOR": "Tuijottaessasi silmään, näet vilauksen tulevaisuudestasi.",
     "DESCRIPTIONS": [
-      "Katsoessasi #yNostopinoasi, näet kortit todellisessa järjestyksessä."
+      "Katsoessasi #ynostopinoasi, näet kortit todellisessa järjestyksessä."
     ]
   },
   "Gambling Chip": {
@@ -367,7 +367,7 @@
     "NAME": "Kahvakuula",
     "FLAVOR": "Tämä kahvakuula on käsittämättömän painava. Sen avulla voisit tulla paljon vahvemmaksi.",
     "DESCRIPTIONS": [
-      "Voit nyt saada lisää #yVahvuutta Lepopaikoissa (korkeintaan 3 kertaa)."
+      "Voit nyt saada lisää #yVahvuutta lepopaikoissa (korkeintaan 3 kertaa)."
     ]
   },
   "Golden Idol": {
@@ -982,7 +982,7 @@
     "FLAVOR": "Kietoessasi maagisen langan vartalosi ympärille, tunnet itsesi kovettuvan.",
     "DESCRIPTIONS": [
       "Aloita taistelu #b",
-      " #yPanssarilevyllä."
+      " #ypanssarilla."
     ]
   },
   "Tingsha": {
@@ -998,7 +998,7 @@
     "FLAVOR": "\"Hieno prototyyppi.\" - Arkkitehti",
     "DESCRIPTIONS": [
       "Joka #b",
-      ". #y? huone on #yAarre huone.",
+      ". #y? huone on #yaarrehuone.",
       ""
     ]
   },
@@ -1147,7 +1147,7 @@
     "NAME": "Fuusiovasara",
     "FLAVOR": "Aseistettuna, sen omistaja ei voi koskaan päästää käsistään.",
     "DESCRIPTIONS": [
-      " vuorosi alussa. Et voi enää #yTakoa Lepopaikoilla.",
+      " vuorosi alussa. Et voi enää #ytakoa lepopaikoilla.",
       "Saa [E]"
     ]
   },
@@ -1155,7 +1155,7 @@
     "NAME": "Kahvinsuodatin",
     "FLAVOR": "\"Kyllä, toinen kupillinen kiitos. Töihin. Töihin!\" - Arkkitehti",
     "DESCRIPTIONS": [
-      " vuorosi alussa. Et voi enää #yLevätä Lepopaikoilla.",
+      " vuorosi alussa. Et voi enää #ylevätä lepopaikoilla.",
       "Saa [E]"
     ]
   },
@@ -1262,7 +1262,7 @@
     "NAME": "Rohkeuden ritsa",
     "FLAVOR": "\"Kätevä työkalu erityisen hankalien vastustajien hoitamisessa.\"",
     "DESCRIPTIONS": [
-      "Aloita Eliittitaistelu #b",
+      "Aloita eliittitaistelu #b",
       " #yVahvuudella."
     ]
   },
