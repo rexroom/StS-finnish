@@ -612,7 +612,7 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Syöteasetukset",
+      "Ohjausasetukset",
       "Peliasetukset",
       "Palaa",
       "Komennot",
@@ -826,9 +826,9 @@
       "Peliasetukset",
       "",
       "Vaihda resoluutiota ja muuta erinäisiä asetuksia päälle/pois.",
-      "Ohjainasetukset",
+      "Ohjausasetukset",
       "",
-      "Muuta ohjainasetuksia ja pikanäppäimiä.",
+      "Muuta ohjausasetuksia ja pikanäppäimiä.",
       "Lopputekstit",
       "",
       "Näe kaikki ihmiset, jotka ovat osallistuneet Slay the Spire -pelin kehittämiseen!",
@@ -874,10 +874,10 @@
       "Pelin asetukset",
       "Grafiikka",
       "Resoluutio: NL Nopein kuvanopeus:",
-      "Kokoruutu NL Reunaton kokoruutu (suositeltu) NL Ruudun tärinä",
+      "Kokoruutu NL Reunaton kokoruutu (suositus) NL Ruudun tärinä",
       "Äänenvoimakkuus",
       "Kaikki NL Musiikki NL Efektit",
-      "Taustaääniefektit NL Hiljennä kun taustalla",
+      "Taustaääniefektit NL Hiljennä, kun peli on taustalla",
       "Valinnat",
       "Näytä yhteisvaurio kultaisella NL Näytä torjuttu vaurio sinisellä NL Älä kysy vahvistusta, kun valittavissa vain 1 kortti",
       "Pikatila",
@@ -894,7 +894,7 @@
       "Poista partikkeliefektit",
       "Resoluutio:",
       "Resoluutio: NL Kokoruutumonitori:",
-      "Vaihtaa mitä monitoria käytetään kun ollaan Kokonäytössä.",
+      "Vaihtaa mitä monitoria käytetään, kun ollaan Kokonäytössä.",
       "Pitkän painamisen varmistus",
       "Isompi teksti"
     ]

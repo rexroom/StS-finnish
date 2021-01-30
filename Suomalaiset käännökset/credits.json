@@ -26,12 +26,12 @@
     ]
   },
   "LOC_CAT": {
-    "HEADER": "Katalan kielen lokalisaatio",
+    "HEADER": "Katalaanin lokalisaatio",
     "NAMES": [
     ]
   },
   "LOC_DEU": {
-    "HEADER": "Saksan kielinen lokalisaatio",
+    "HEADER": "Saksan lokalisaatio",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
@@ -44,7 +44,7 @@
     ]
   },
   "LOC_DUT": {
-    "HEADER": "Hollannin kielen lokalisaatio",
+    "HEADER": "Hollannin lokalisaatio",
     "NAMES": [
       "Riiviöjohtaja:",
       "Jelle Steinmann \"NotADitto\"",
@@ -58,14 +58,14 @@
     ]
   },
   "LOC_EPO": {
-    "HEADER": "Esperanton kielen lokalisaatio",
+    "HEADER": "Esperanton lokalisaatio",
     "NAMES": [
       "Vincent \"Babelismoj\" Oostelbos",
       "Spencer van der Meulen"
     ]
   },
   "LOC_FRA": {
-    "HEADER": "Ranskan kielen lokalisaatio",
+    "HEADER": "Ranskan lokalisaatio",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -81,13 +81,13 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Kreikan kielen lokalisaatio",
+    "HEADER": "Kreikan lokalisaatio",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_IND": {
-    "HEADER": "Indonesian kielen lokalisaatio",
+    "HEADER": "Indonesian lokalisaatio",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
@@ -96,7 +96,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian kielinen lokalisaatio",
+    "HEADER": "Italian lokalisaatio",
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
@@ -106,14 +106,14 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Japanin kielinen lokalisaatio",
+    "HEADER": "Japanin lokalisaatio",
     "NAMES": [
       "Grezzz (yhteisön käännös)",
       "Kakehashi Games (virallinen käännös)"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean kielinen lokalisaatio",
+    "HEADER": "Korean lokalisaatio",
     "NAMES": [
       "Käännökset ja koordinointi:",
       "Eteriny",
@@ -132,13 +132,13 @@
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Norjan kielinen lokalisaatio",
+    "HEADER": "Norjan lokalisaatio",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_POL": {
-    "HEADER": "Puolan kielinen lokalisaatio",
+    "HEADER": "Puolan lokalisaatio",
     "NAMES": [
       "Käännökset ja koordinointi:",
       "Stanisław \"ST4H\" Borkowski",
@@ -159,7 +159,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Brasilianportugalin kielen lokalisaatio",
+    "HEADER": "Brasilianportugalin lokalisaatio",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -170,7 +170,7 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Venäjän kielen lokalisaatio",
+    "HEADER": "Venäjän lokalisaatio",
     "NAMES": [
       "Kääntäjät:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -191,7 +191,7 @@
     ]
   },
   "LOC_SPA": {
-    "HEADER": "Espanjan kielen lokalisaatio",
+    "HEADER": "Espanjan lokalisaatio",
     "NAMES": [
       "Kääntäminen ja koordinointi:",
       "Juanjo \"ajuanjojjj\" Martinez",
@@ -213,13 +213,13 @@
     ]
   },
   "LOC_SRB": {
-    "HEADER": "Serbian kielen lokalisaatio",
+    "HEADER": "Serbian lokalisaatio",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
   "LOC_THA": {
-    "HEADER": "Thain kielen lokalisaatio",
+    "HEADER": "Thain lokalisaatio",
     "NAMES": [
       "Kääntäminen ja koordinointi:",
       "Noppon Varapaiboon (PlearnGaming)",
@@ -232,7 +232,7 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkinkielinen lokalisaatio",
+    "HEADER": "Turkin lokalisaatio",
     "NAMES": [
       "Kääntäminen ja koordinointi:",
       "Ertürk Yılmaz",
@@ -244,7 +244,7 @@
     ]
   },
   "LOC_UKR": {
-    "HEADER": "Ukrainankielinen lokalisaatio",
+    "HEADER": "Ukrainan lokalisaatio",
     "NAMES": [
       "Kääntäminen ja koordinointi:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
@@ -255,7 +255,7 @@
     ]
   },
   "LOC_VIE": {
-    "HEADER": "Vietnaminkielinen lokalisaatio",
+    "HEADER": "Vietnamin lokalisaatio",
     "NAMES": [
       "MercTrans-lokalisaatioryhmä",
       "Kääntäjät:",
@@ -268,14 +268,14 @@
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Kiinankielinen (yksinkertaistettu) lokalisaatio",
+    "HEADER": "Kiinan (yksinkertaistettu) lokalisaatio",
     "NAMES": [
       "Sound of Mystery",
       "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Kiinankielinen (perinteinen) lokalisaatio",
+    "HEADER": "Kiinan (perinteinen) lokalisaatio",
     "NAMES": [
       "professor",
       "bowans",
