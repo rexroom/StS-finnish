@@ -703,7 +703,7 @@
     "DESCRIPTION": "Kun saat Suojaa, tee !M! vauriota satunnaiselle viholliselle."
   },
   "Leap": {
-    "NAME": "Loikkaa",
+    "NAME": "Loikka",
     "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Leg Sweep": {
@@ -1350,7 +1350,7 @@
   	"UPGRADE_DESCRIPTION": "Raivo: astu Tyyneen. NL Tyyni: astu Raivoon."
   },
   "FlurryOfBlows": {
-    "NAME": "Iskujen puuska",
+    "NAME": "Lyöntien puuska",
     "DESCRIPTION": "Tee !D! vauriota. NL Kun vaihdat Asentoa, palauta tämä kortti poistopinosta käteesi."
   },
   "PalmThatRestrains": {
