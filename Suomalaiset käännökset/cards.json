@@ -1312,11 +1312,11 @@
   },
   "EmptyFist": {
     "NAME": "Tyhjä nyrkki",
-    "DESCRIPTION": "Tee !D! vauriota. NL Poistu Asennostasi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Poistu Asennosta."
   },
   "EmptyBody": {
     "NAME": "Tyhjä ruumis",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Poistu Asennostasi."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Poistu Asennosta."
   },
   "WreathOfFlame": {
     "NAME": "Liekkiseppele",
@@ -1431,8 +1431,8 @@
   },
   "EmptyMind": {
     "NAME": "Tyhjä mieli",
-    "DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennostasi.",
-    "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennostasi."
+    "DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennosta.",
+    "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Poistu Asennosta."
   },
   "Experienced": {
     "NAME": "VANHENTUNUT Kokenut",

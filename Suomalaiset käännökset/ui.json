@@ -71,7 +71,7 @@
       "Torjuttu",
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Tarkkailija"
     ]
   },
@@ -268,7 +268,7 @@
       "Aloita matka",
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Takaisin",
       "Nousemus",
       "Taso ",
@@ -700,7 +700,7 @@
     "TEXT": [
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Saavutettujen kerrosten keskiarvo (viimeiset 20 peliä)",
       "Pistemäärien keskiarvo (viimeiset 20 peliä)",
       "Pisin voittoputki",
@@ -799,7 +799,7 @@
       "Peruspeli",
       "",
       "Aloita seikkailusi tornin tuhoamiseksi.",
-      "Päivittäinen nousu",
+      "Päivän kiipeily",
       "",
       "Uusi haaste tarjolla kerran päivässä.\n\nKilpaile toisten pelaajien kanssa korkeimmasta pistemäärästä!",
       "Nousemus",
@@ -1110,7 +1110,7 @@
     "TEXT": [
       "Rautasoturi",
       "Hiljaisuus",
-      "Viallinen",
+      "Häiriö",
       "Palaa",
       "Ei tuloksia saatavilla. NL Mene Kukistamaan Tornia!",
       "Nousemustaso: ",
