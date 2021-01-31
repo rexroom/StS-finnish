@@ -178,8 +178,8 @@
   },
   "CacheAction": {
     "TEXT": [
-      "Valitse kortti laitettavaksi nostopinosi päälle.",
-      "Valitse kortit laitettavaksi nostopinosi päälle."
+      "Valitse kortti nostopinosi päälle laitettavaksi.",
+      "Valitse kortteja nostopinosi päälle laitettavaksi."
     ]
   },
   "CampfireSleepEffect": {
@@ -587,7 +587,7 @@
       "Vahvista kortti ",
       "Vahvista kortit ",
       "Valitse ",
-      " kortit ",
+      " korttia ",
       "Valitse vapaasti kortteja ",
       "Valitse kortti ",
       "Kopioi"
