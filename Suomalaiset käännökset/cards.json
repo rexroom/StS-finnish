@@ -456,8 +456,8 @@
   },
   "Enlightenment": {
     "NAME": "Valaistunut",
-    "DESCRIPTION": "Kädessäsi olevien korttien hinta on tällä vuorolla 1.",
-    "UPGRADE_DESCRIPTION": "Kädessäsi olevien korttien hinta on tällä vuorolla 1."
+    "DESCRIPTION": "Kädessäsi olevien korttien hinta on 1 tällä vuorolla.",
+    "UPGRADE_DESCRIPTION": "Kädessäsi olevien korttien hinta on 1 tällä vuorolla."
   },
   "Entrench": {
     "NAME": "Kaivaudu asemiin",
@@ -1273,7 +1273,7 @@
   },
   "RitualDagger": {
     "NAME": "Rituaalitikari",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, lisää pysyvästi tähän korttiin !M! vauriota. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, lisää !M! vauriota pysyvästi tähän korttiin. NL Kuluta."
   },
   "Pride": {
     "NAME": "Ylpeys",
