@@ -187,8 +187,8 @@
   },
   "Burn": {
     "NAME": "Palovamma",
-    "DESCRIPTION": "Ei-pelattava. NL Vuorosi lopussa ota 2 vauriota.",
-    "UPGRADE_DESCRIPTION": "Ei-pelattava. NL Vuorosi lopussa ota 4 vauriota."
+    "DESCRIPTION": "Ei-pelattava. NL Ota vuorosi lopussa 2 vauriota.",
+    "UPGRADE_DESCRIPTION": "Ei-pelattava. NL Ota vuorosi lopussa 4 vauriota."
   },
   "Burning Pact": {
     "NAME": "Liekehtivä sopimus",
@@ -201,8 +201,8 @@
   },
   "Calculated Gamble": {
     "NAME": "Laskelmoitu riski",
-    "DESCRIPTION": "Laita kätesi pois NL ja nosta sitten yhtä monta korttia. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Laita kätesi pois NL ja nosta sitten yhtä monta korttia."
+    "DESCRIPTION": "Laita kätesi pois NL ja nosta yhtä monta korttia. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Laita kätesi pois NL ja nosta yhtä monta korttia."
   },
   "Caltrops": {
     "NAME": "Jalkapiikit",
@@ -424,7 +424,7 @@
   },
   "Dropkick": {
     "NAME": "Hyppypotku",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollinen oli Haavoittuva, NL saa [R] ja NL nosta 1 kortti."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos vihollinen oli Altis, NL saa [R] ja NL nosta 1 kortti."
   },
   "Dual Wield": {
     "NAME": "Kaksoisaseistunut",
@@ -574,8 +574,8 @@
     "DESCRIPTION": "Kanavoi !M! Plasma."
   },
   "Gash": {
-    "NAME": "Kynsi",
-    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! KAIKKIEN Kynsi-korttien vaurioon taistelun ajaksi."
+    "NAME": "Kynnet",
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! KAIKKIEN Kynnet-korttien vaurioon taistelun ajaksi."
   },
   "Genetic Algorithm": {
     "NAME": "Geneettinen algoritmi",
