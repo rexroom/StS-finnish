@@ -174,7 +174,7 @@
   },
   "Centennial Puzzle": {
     "NAME": "Satavuotisarvoitus",
-    "FLAVOR": "Ratkaistessasi pulman tunnet voimakasta lämpöä rinnassasi.",
+    "FLAVOR": "Ratkaistuasi pulman, tunnet voimakasta lämpöä rinnassasi.",
     "DESCRIPTIONS": [
       "Ensimmäisen kerran kun menetät kussakin taistelussa OP:tä, nosta #b",
       " korttia."
@@ -242,7 +242,7 @@
   },
   "Darkstone Periapt": {
     "NAME": "Yökiviriipus",
-    "FLAVOR": "Kivi saa voimiaan pimeistä voimista ja muuntaa niitä kantajansa elinvoimaksi.",
+    "FLAVOR": "Kivi saa voimansa pimeistä voimista ja muuttaa ne kantajansa elinvoimaksi.",
     "DESCRIPTIONS": [
       "Aina kun saat #yKirouksen, MaksimiOP kasvaa #b"
     ]
@@ -322,12 +322,12 @@
     "NAME": "Enchiridion",
     "FLAVOR": "Muinaisen lich-olennon tarunomainen päiväkirja.",
     "DESCRIPTIONS": [
-      "Lisää satunnainen #yVoima käteesi jokaisen taistelun alussa. Sen vuoron aikana kortti maksaa #b0."
+      "Lisää satunnainen #yVoima käteesi jokaisen taistelun alussa. Vuoron aikana kortti maksaa #b0."
     ]
   },
   "Eternal Feather": {
     "NAME": "Ikuinen höyhen",
-    "FLAVOR": "Tämä höyhen vaikuttaa täysin tuhoutumattomalta. Mistä linnusta tämä voi olla oikein peräisin? ",
+    "FLAVOR": "Höyhen vaikuttaa täysin tuhoutumattomalta. Mistä linnusta tämä voi olla oikein peräisin? ",
     "DESCRIPTIONS": [
       "Jokaista #b",
       " pakassasi olevaa korttia kohden, paranna #b",

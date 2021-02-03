@@ -1549,7 +1549,7 @@
   "Truth": {
     "NAME": "Totuus",
     "DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Nosta !M! korttia. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Säilytä. NL Tee !M! vauriota. NL Nosta !M! korttias. NL Kuluta."
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Nosta !M! korttias. NL Kuluta."
   },
   "Insight": {
     "NAME": "Oivallus",
@@ -1860,7 +1860,7 @@
   },
   "Expunger": {
     "NAME": "Häätäjä",
-    "DESCRIPTION": "Tee !M! vauriota X kertaa.",
+    "DESCRIPTION": "Tee !D! vauriota X kertaa.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "Tee !D! vauriota !M! kertaa.",
