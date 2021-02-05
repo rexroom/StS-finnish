@@ -772,7 +772,7 @@
   },
   "Runic Capacitor": {
     "NAME": "Riimuinen kondensaattori",
-    "FLAVOR": "Enempi on parempi.",
+    "FLAVOR": "Isompi on parempi.",
     "DESCRIPTIONS": [
       "Aloita jokainen taistelu #b3:lla lisäorbipaikalla."
     ]
