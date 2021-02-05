@@ -458,7 +458,7 @@
     "NAME": "Liskon häntä",
     "FLAVOR": "Valehäntä vihollisten hämäämiseen taistelun aikana.",
     "DESCRIPTIONS": [
-      "Kuolemisen sijaan parannu #b50%:n maksimiOP:stasi (toimii kerran)."
+      "Kuolemisen sijaan parane #b50% maksimiOP:stasi (toimii kerran)."
     ]
   },
   "Magic Flower": {
@@ -887,7 +887,7 @@
   },
   "Sundial": {
     "NAME": "Aurinkokello",
-    "FLAVOR": "\"Varhaisihmisten typerä pakkomielle aikaan sai heidät etsimään taivaalta opastusta, etsimään jotain pysyvää.\" - Zoroth",
+    "FLAVOR": "\"Varhaisihmisten typerä pakkomielle aikaan sai heidät etsimään taivaalta opastusta, jostain jotain pysyvää.\" - Zoroth",
     "DESCRIPTIONS": [
       "Joka #b",
       ". kerta kun sekoitat pakkaasi, NL saa [E] [E] ."
@@ -1383,7 +1383,7 @@
     "NAME": "Pyhä kaarna",
     "FLAVOR": "Väitetysti maailman puusta tullutta kaarnaa.",
     "DESCRIPTIONS": [
-      "Tuplaa taikaliemien vaikutuksia."
+      "Tuplaa taikalienten vaikutukset."
     ]
   },
   "InkBottle": {

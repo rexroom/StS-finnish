@@ -1669,7 +1669,7 @@
   },
   "SpiritShield": {
     "NAME": "Henkikilpi",
-    "DESCRIPTION": "Saa !M! Suojaa per kortti kädessäsi.",
+    "DESCRIPTION": "Saa !M! Suojaa jokaista käsikorttia kohden.",
     "EXTENDED_DESCRIPTION": [
       " NL (Saa !B! Suojaa.)"
     ]
