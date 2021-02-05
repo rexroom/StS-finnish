@@ -843,7 +843,7 @@
   },
   "Snake Skull": {
     "NAME": "Khärmen kallo",
-    "FLAVOR": "Khärmekallo koskemattomassa kunnossa. Selittämättömän puhdas ja sileä, lika ja saasta eivät selittämättömästi tartu siihen.",
+    "FLAVOR": "Khärmekallo koskemattomassa kunnossa. Selittämättömän puhdas ja sileä, lika ja saasta eivät jostain syystä tartu siihen.",
     "DESCRIPTIONS": [
       "Kun lisäät #yMyrkkyä, anna #b",
       " #yMyrkkyä lisää."
@@ -986,7 +986,7 @@
   },
   "Tingsha": {
     "NAME": "Tingsha",
-    "FLAVOR": "Tämän soittimen tuottama ääni pystyy nousemaan piinalliseen äänenvoimakkuuteen.",
+    "FLAVOR": "Tämän soittimen tuottama ääni pystyy nousemaan piinallisiin äänenvoimakkuuksiin.",
     "DESCRIPTIONS": [
       "Aina kun laitat kortin pois vuorosi aikana, jaa #b",
       " vauriota satunnaiselle viholliselle."
