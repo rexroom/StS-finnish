@@ -483,7 +483,7 @@
   },
   "Exhume": {
     "NAME": "Kaiva haudasta",
-    "DESCRIPTION": "Laita kortti käteesi poistopakasta. NL Kuluta."
+    "DESCRIPTION": "Ota kortti käteesi poistopakasta. NL Kuluta."
   },
   "Expertise": {
     "NAME": "Ammattitaito",
@@ -1002,8 +1002,8 @@
   },
   "Seek": {
     "NAME": "Etsi",
-    "DESCRIPTION": "Laita !M! kortti nostopinostasi käteesi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Laita !M! korttia nostopinostasi käteesi. NL Kuluta."
+    "DESCRIPTION": "Ota !M! kortti nostopinostasi käteesi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Ota !M! korttia nostopinostasi käteesi. NL Kuluta."
   },
   "Self Repair": {
     "NAME": "Kunnossapito",
@@ -1289,7 +1289,7 @@
   },
   "Violence": {
     "NAME": "Väkivaltaa",
-    "DESCRIPTION": "Laita !M! satunnaista Hyökkäystä nostopinostasi käteesi. NL Kuluta."
+    "DESCRIPTION": "Ota !M! satunnaista Hyökkäystä nostopinostasi käteesi. NL Kuluta."
   },
   "Impatience": {
     "NAME": "Kärsimätön",
