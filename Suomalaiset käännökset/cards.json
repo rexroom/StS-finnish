@@ -1176,8 +1176,8 @@
   },
   "Transmutation": {
     "NAME": "Muodonmuutos",
-    "DESCRIPTION": "Lisää X satunnaista Väritöntä korttia käteesi. Ne maksavat 0 tämän vuoron. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Lisää X satunnaista Paranneltua Väritöntä korttia käteesi. Ne maksavat 0 tämän vuoron. NL Kuluta."
+    "DESCRIPTION": "Lisää X Väritöntä korttia käteesi. Ne maksavat 0 tämän vuoron. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Lisää X Paranneltua Väritöntä korttia käteesi. Ne maksavat 0 tämän vuoron. NL Kuluta."
   },
   "Trip": {
     "NAME": "Kampitus",
@@ -1342,7 +1342,7 @@
   "ForeignInfluence": {
     "NAME": "Vieras vaikutus",
     "DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. NL Sen hinta on 0 tällä vuorolla. NL Kuluta."
+    "UPGRADE_DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta."
   },
   "FlowState": {
     "NAME": "VANHENTUNUT Flow-tila",
