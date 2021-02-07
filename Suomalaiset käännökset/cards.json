@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Veri verestä",
-    "DESCRIPTION": "Maksaa 1 [R] vähemmän aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota."
+    "DESCRIPTION": "Maksaa [R] vähemmän NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota."
   },
   "Bloodletting": {
     "NAME": "Suoneniskentä",
@@ -474,7 +474,7 @@
   },
   "Eviscerate": {
     "NAME": "Suolistaja",
-    "DESCRIPTION": "Maksaa 1 [G] vähemmän per poistettu kortti tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
+    "DESCRIPTION": "Laske [G] hintaa 1 per poistettu kortti tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
   },
   "Evolve": {
     "NAME": "Kehitys",
@@ -752,7 +752,7 @@
   },
   "Masterful Stab": {
     "NAME": "Taitava pistos",
-    "DESCRIPTION": "Maksaa 1 [G] lisää NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
+    "DESCRIPTION": "Maksaa [G] lisää NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
