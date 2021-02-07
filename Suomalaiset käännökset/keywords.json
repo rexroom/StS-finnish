@@ -27,9 +27,10 @@
     "CHANNEL": {
       "NAMES": [
         "kanavoi",
-        "kanavoitu"
+        "kanavoitu",
+        "kanavoidut"
       ],
-      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, seuraavin orbi #yManataan automaattisesti tehdäkseen tilaa uudelle."
+      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, seuraavin orbi automaattisesti #yManataan tehdäkseen tilaa uudelle."
     },
     "CONFUSED": {
       "NAMES": [
@@ -105,6 +106,7 @@
       "NAMES": [
         "pakkanen",
         "pakkas",
+        "pakkaset",
         "pakkasta",
         "pakkas+"
       ],
@@ -127,7 +129,7 @@
         "salama",
         "salama+"
       ],
-      "DESCRIPTION": "Orbi: Tekee vauriota satunnaisesti vihollisille."
+      "DESCRIPTION": "Orbi: Tekee vauriota satunnaiselle viholliselle."
     },
     "LOCKED": {
       "NAMES": [

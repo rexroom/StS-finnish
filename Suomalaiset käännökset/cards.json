@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Lumimyrsky",
-    "DESCRIPTION": "Tee taistelussa Kanavoitujen Pakkasten verran vauriota !M! kertaa KAIKILLE vihollisille.",
+    "DESCRIPTION": "Tee vauriota per Kanavoidut Pakkaset KAIKILLE vihollisille !M! kertaa.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vauriota.)",
@@ -1161,7 +1161,7 @@
   },
   "Thunder Strike": {
     "NAME": "Salamanisku",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle. Toista per Kanavoitu Salama taistelun aikana.",
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle. Toista per taistelun aikana Kanavoitu Salama.",
     "EXTENDED_DESCRIPTION": [
       " (!M! Salama(a).)"
     ]
