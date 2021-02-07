@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Veri verestä",
-    "DESCRIPTION": "Maksaa 1 vähemmän [R] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota."
+    "DESCRIPTION": "Maksaa 1 [R] vähemmän aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota."
   },
   "Bloodletting": {
     "NAME": "Suoneniskentä",
@@ -474,7 +474,7 @@
   },
   "Eviscerate": {
     "NAME": "Suolistaja",
-    "DESCRIPTION": "Maksaa 1 vähemmän [G] NL jokaisesta poistetusta kortista tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
+    "DESCRIPTION": "Maksaa 1 [G] vähemmän per poistettu kortti tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
   },
   "Evolve": {
     "NAME": "Kehitys",
@@ -490,7 +490,7 @@
     "DESCRIPTION": "Nosta kortteja kunnes kädessäsi on !M! korttia."
   },
   "FTL": {
-    "NAME": "Valoa nopeammin",
+    "NAME": "Potkustart",
     "DESCRIPTION": "Tee !D! vauriota. Jos olet pelannut vähemmän kuin !M! korttia tällä vuorolla, nosta 1 kortti.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
@@ -752,7 +752,7 @@
   },
   "Masterful Stab": {
     "NAME": "Taitava pistos",
-    "DESCRIPTION": "Maksaa 1 lisää [G] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
+    "DESCRIPTION": "Maksaa 1 [G] lisää NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
@@ -1231,7 +1231,7 @@
     "UPGRADE_DESCRIPTION": "Nosta !M! korttia. NL Laita kortti kädestäsi nostopinosi päälle. NL Kuluta."
   },
   "Well Laid Plans": {
-    "NAME": "Tarkat suunnitelmat",
+    "NAME": "Varasuunnitelmat",
     "DESCRIPTION": "Säilytä korkeintaan !M! korttia vuorosi lopussa.",
     "UPGRADE_DESCRIPTION": "Säilytä korkeintaan !M! korttia vuorosi lopussa."
   },
