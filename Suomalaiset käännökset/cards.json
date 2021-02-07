@@ -465,7 +465,7 @@
     "UPGRADE_DESCRIPTION": "Tuplaa Suojasi."
   },
   "Envenom": {
-    "NAME": "Myrkytä",
+    "NAME": "Myrkyttäjä",
     "DESCRIPTION": "Kun hyökkäys tekee torjumatonta vauriota, lisää 1 Myrkky."
   },
   "Escape Plan": {
@@ -473,16 +473,16 @@
     "DESCRIPTION": "Nosta 1 kortti. NL Jos nostit Taidon, saa !B! Suojaa."
   },
   "Eviscerate": {
-    "NAME": "Suolista",
+    "NAME": "Suolistaja",
     "DESCRIPTION": "Maksaa 1 vähemmän [G] NL jokaisesta poistetusta kortista tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
   },
   "Evolve": {
-    "NAME": "Kehity",
+    "NAME": "Kehitys",
     "DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! kortti.",
     "UPGRADE_DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! korttia."
   },
   "Exhume": {
-    "NAME": "Kaiva haudasta",
+    "NAME": "Haudankaivuu",
     "DESCRIPTION": "Ota kortti käteesi poistopakasta. NL Kuluta."
   },
   "Expertise": {
@@ -499,7 +499,7 @@
     ]
   },
   "Feed": {
-    "NAME": "Ruoki",
+    "NAME": "Ruoka-aika",
     "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, saa !M! MaksimiOP:tä. Kuluta."
   },
   "Feel No Pain": {
@@ -699,7 +699,7 @@
     "UPGRADE_DESCRIPTION": "Lisää !M! satunnaista Väritöntä korttia käteesi. NL Kuluta."
   },
   "Juggernaut": {
-    "NAME": "Pysäyttämätön voima",
+    "NAME": "Juggernaut",
     "DESCRIPTION": "Kun saat Suojaa, tee !M! vauriota satunnaiselle viholliselle."
   },
   "Leap": {
@@ -784,7 +784,7 @@
     ]
   },
   "Multi-Cast": {
-    "NAME": "Multi-taikomus",
+    "NAME": "Multi-lähetys",
     "DESCRIPTION": "Manaa seuraava Orbisi X kertaa.",
     "UPGRADE_DESCRIPTION": "Manaa seuraava Orbisi X+1 kertaa."
   },
@@ -1161,9 +1161,9 @@
   },
   "Thunder Strike": {
     "NAME": "Salamanisku",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle vihollisille per Kanavoitu Salama taistelun aikana.",
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle. Toista per Kanavoitu Salama taistelun aikana.",
     "EXTENDED_DESCRIPTION": [
-      " (Kanavoitu !M! Salamaa.)"
+      " (!M! Salama(a).)"
     ]
   },
   "Thunderclap": {

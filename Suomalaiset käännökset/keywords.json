@@ -29,7 +29,7 @@
         "kanavoi",
         "kanavoitu"
       ],
-      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, ensimmäinen orbi automaattisesti #yManataan tehdäkseen tilaa uudelle."
+      "DESCRIPTION": "Orbin kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, seuraavin orbi #yManataan automaattisesti tehdäkseen tilaa uudelle."
     },
     "CONFUSED": {
       "NAMES": [
