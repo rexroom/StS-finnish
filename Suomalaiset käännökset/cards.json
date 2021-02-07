@@ -474,7 +474,7 @@
   },
   "Eviscerate": {
     "NAME": "Suolistaja",
-    "DESCRIPTION": "Laske [G] hintaa 1 per poistettu kortti tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
+    "DESCRIPTION": "Laske [G] hintaa 1 NL per poistettu kortti tällä vuorolla. NL Tee !D! vauriota 3 kertaa."
   },
   "Evolve": {
     "NAME": "Kehitys",
@@ -752,7 +752,7 @@
   },
   "Masterful Stab": {
     "NAME": "Taitava pistos",
-    "DESCRIPTION": "Maksaa [G] lisää NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
+    "DESCRIPTION": "Maksaa lisää [G] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
