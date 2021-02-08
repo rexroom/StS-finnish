@@ -120,7 +120,8 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "aineeton"
+        "aineeton",
+        "aineetonta"
       ],
       "DESCRIPTION": "Pienennä KAIKKI otettu vaurio ja OP:n menetys #b1 pisteeseen."
     },

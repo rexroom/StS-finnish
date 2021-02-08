@@ -238,7 +238,7 @@
   },
   "Chrysalis": {
     "NAME": "Chrysalis",
-    "DESCRIPTION": "Sekoita !M! satunnaista Taitoa nostopinoosi. Ne maksavat 0 tämän taistelun. NL Kuluta."
+    "DESCRIPTION": "Sekoita !M! Taitoa nostopinoosi. Ne maksavat 0 tämän taistelun. NL Kuluta."
   },
   "Clash": {
     "NAME": "Yhteenotto",
@@ -419,7 +419,7 @@
     "DESCRIPTION": "Ei-pelattava. NL Saa vuorosi lopussa 1 Heikkouden."
   },
   "Dramatic Entrance": {
-    "NAME": "Vakuuttava sisääntulo",
+    "NAME": "Dramaattinen tulo",
     "DESCRIPTION": "Luontainen. NL Tee !D! vauriota KAIKILLE vihollisille. NL Kuluta."
   },
   "Dropkick": {
@@ -442,7 +442,7 @@
   },
   "Electrodynamics": {
     "NAME": "Sähködynamiikkaa",
-    "DESCRIPTION": "Salama iskee nyt KAIKILLE vihollisille. NL Kanavoi !M! Salamaa.",
+    "DESCRIPTION": "Salama iskee nyt KAIKKIIN vihollisiin. NL Kanavoi !M! Salamaa.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
@@ -583,8 +583,8 @@
   },
   "Ghostly": {
     "NAME": "Haamu",
-    "DESCRIPTION": "Eteerinen. NL Saa 1 Aineetonta. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Saa 1 Aineetonta. NL Kuluta."
+    "DESCRIPTION": "Eteerinen. NL Saa 1 Aineeton. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Saa 1 Aineeton. NL Kuluta."
   },
   "Ghostly Armor": {
     "NAME": "Aavehaarniska",
@@ -769,7 +769,7 @@
   },
   "Metamorphosis": {
     "NAME": "Metamorfoosi",
-    "DESCRIPTION": "Sekoita !M! satunnaista Hyökkäystä nostopinoosi. Ne maksavat 0 tämän taistelun. NL Kuluta."
+    "DESCRIPTION": "Sekoita !M! Hyökkäystä nostopinoosi. Ne maksavat 0 tämän taistelun. NL Kuluta."
   },
   "Meteor Strike": {
     "NAME": "Meteori-isku",
@@ -1341,8 +1341,8 @@
   },
   "ForeignInfluence": {
     "NAME": "Vieras vaikutus",
-    "DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Valitse 3 jonkin värisen Hyökkäyksen joukosta 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta."
+    "DESCRIPTION": "Valitse 3 erivärisen Hyökkäyksen joukosta 1 käteesi. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Valitse 3 erivärisen Hyökkäyksen joukosta 1 käteesi. Sen hinta on 0 tällä vuorolla. NL Kuluta."
   },
   "FlowState": {
     "NAME": "VANHENTUNUT Flow-tila",
@@ -1558,11 +1558,11 @@
   },
   "DeceiveReality": {
     "NAME": "Huijaa todellisuutta",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää *Turva NL käteesi.",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää *Turvapaikka NL käteesi.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Safety": {
-    "NAME": "Turva",
+    "NAME": "Turvapaikka",
     "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Kuluta."
   },
   "Wisdom": {
