@@ -1697,7 +1697,7 @@
   },
   "Perseverance": {
     "NAME": "Sinnikkyys",
-    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Lisää tämän Suojaa !M! tässä taistelussa kun Säilytetään."
+    "DESCRIPTION": "Säilytä. NL Saa !B! Suojaa. NL Lisää !M! Suojaa tähän korttiin taistelun ajan kun Säilytetty."
   },
   "CrushJoints": {
     "NAME": "Murra nivelet",
