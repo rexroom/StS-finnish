@@ -123,7 +123,7 @@
         "aineeton",
         "aineetonta"
       ],
-      "DESCRIPTION": "Pienennä KAIKKI otettu vaurio ja OP:n menetys #b1 pisteeseen."
+      "DESCRIPTION": "Supista KAIKKI otettu vaurio ja OP:n menetys #b1 pisteeseen."
     },
     "LIGHTNING": {
       "NAMES": [
@@ -140,9 +140,10 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "lukittu"
+        "lukittu",
+        "lukittua"
       ],
-      "DESCRIPTION": "Lukitut kohteet saavat #b50% enemmän vauriota orbeilta."
+      "DESCRIPTION": "Lukitut kohteet ottavat #b50% enemmän vauriota orbeilta."
     },
     "OPENER": {
       "NAMES": [

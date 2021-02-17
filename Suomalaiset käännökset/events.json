@@ -421,8 +421,8 @@
   "Mysterious Sphere": {
     "NAME": "Mystinen pallo",
     "DESCRIPTIONS": [
-      "Sinua ympäröivästä kaaottisesta maastosta sojottaa luinen pallo, jonka sisällä hohtaa salaperäinen esine. NL Vaikka olet utelias sen sisällöstä, huomaat vartioita pitämässä sitä silmällä.",
-      "Samalla hetkellä kun isket palloa, vartiot heräävät ympärilläsi henkiin!",
+      "Sinua ympäröivästä kaaottisesta maastosta sojottaa luinen kotelo, jonka sisällä hohtaa salaperäinen esine. NL Vaikka olet utelias sen sisällöstä, huomaat vartijoita pitämässä sitä silmällä.",
+      "Samalla hetkellä kun isket koteloa, vartijat heräävät ympärilläsi henkiin!",
       "Ahneelle käy yleensä kalpaten."
     ],
     "OPTIONS": [
@@ -529,8 +529,8 @@
       "@Du-tump@ ... @du-tump@ ... @du-tump@ ... NL Synkästi sykkivä kammo tuntuu kaikkialla huoneessa... NL Onko tämä Tornin #r~sydän?~ Kaiken pahuuden lähde?",
       "Teit #b",
       " vauriota! NL Sydän #r@kiemurtelee@ ja #r~vuotaa~ ...mutta jatkaa silti jyskyttämistä. NL Eivätkö voimakkaimmatkaan hyökkäyksesi olleet riittäviä?",
-      "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt yhteensä #b",
-      " vauriota sydämelle.",
+      "Kysyt itseltäsi, ~\"Olenko~ ~ollut~ ~täällä~ ~ennenkin?\"~ NL Tunnet, että olet tehnyt sydämelle yhteensä #b",
+      " vauriota.",
       " NL Yhteensä #b",
       " vauriota ovat tehneet kaikki, jotka ovat haastaneet sen.",
       " NL Sydän sykkii voimakkaammin ja voimakkaammin samalla kun #y~tajuntasi~ #y~himmenee...~",
