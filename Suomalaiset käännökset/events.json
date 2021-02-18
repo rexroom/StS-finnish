@@ -802,10 +802,10 @@
       "Nyt ymmärrät kaiken. NL Muistojen puuttuminen, kiipeäminen, #yMuinainen. NL NL Näin on aina ollut. NL Näin on aina oleva. NL Kaikki unhoittuu pian uudestaan..."
     ],
     "OPTIONS": [
-      "[Olen Sota] #rTaistele #rPomoa #rvastaan #r1. #rnäytöksestä. #gVoita #gerittäin #gharvinainen #greliikki.",  
-      "[Olen Rikas] #gSaa #g999 #gkultaa. #rKirottu #r- #r2 #rNormaaliutta.",
-      "[Olen Terve] #gParane #gtäyteen #gOP:siin. #rKirottu #r- #rEpävarmuus.",
-      "[Olen Valveilla] #gParantele #gkaikki #gkortit. #rEt #rvoi #renää #rparantua.",
+      "[Olen sota] #rKohtaa #r1. #rnäytöksen #rpomo. #gSaa #gerittäin #gharvinainen #greliikki.",  
+      "[Olen rikas] #gSaa #g999 #gkultaa. #rKirottu #r- #r2 #rNormaaliutta.",
+      "[Olen terve] #gParane #gtäyteen #gOP:siin. #rKirottu #r- #rEpävarmuus.",
+      "[Olen valveilla] #gParantele #gkaikki #gkortit. #rEt #rvoi #renää #rparantua.",
       "[Poistu]"
     ]
   },
@@ -918,10 +918,10 @@
     "NAME": "Colosseum",
     "DESCRIPTIONS": [
       "@KOPS!!!@ NL .. NL ...... NL ... NL ~Sinut~ ~lyötiin~ ~tajuttomaksi...~",
-	  "Herätessäsi ~heikkovointisena~ ja pää @jyskyttäen,@ löydät itsesi heitettynä keskelle valtavaa stadionia, jonka ylitsepursuavat katsomot ovat täynnä #borjuuttajia, #pkultisteja ja muita kaupunkin asukkeja! NL ",
-	  " NL Haarniskoitu jättiläinen, jolla on #ykultainen #ykruunu, mylvii sinulle ylhäältä, NL @\"ALOITAMME@ @NYT@ @",
+	  "Herätessäsi ~heikkovointisena~ ja pää @jyskyttäen,@ löydät itsesi heitettynä keskelle valtavaa stadionia, jonka ylitsepursuavat katsomot ovat täynnä #borjuuttajia, #pkultisteja ja muita kaupungin asukkeja! NL ",
+	  " NL #yKultaisella #ykruunulla varustettu haarniskoitu jättiläinen mylvii sinulle ylhäältä, NL @\"ALOITAMME@ @NYT@ @",
 	  ".@ @TAISTELUN!!!!\"@ NL Vastakkaisen puolen portti avautuu...",
-	  "@\"HYVIN@ @TAISTELTU,@ @RÄÄPÄLE!\"@ NL Jättiläinen taputtaa ivallisesti ja nostattaa yleisöä liioitelluilla eleillään. NL #y~Kultaa~ ~ja~ #y~konfettia~ ~sataa~ ~päällesi!~ NL @\"TODELLISEN@ @HAASTEEN@ @VUORO!!\"@ NL NL Viimeinen taistelu jätti colosseumin seinään pienen aukon, jonka kautta voit helposti paeta,kun kaikkien huomio on muualla. NL Haluatko jäädä taistelemaan?"
+	  "@\"HYVIN@ @TAISTELTU,@ @RÄÄPÄLE!\"@ NL Jättiläinen taputtaa ivallisesti ja nostattaa yleisöä liioitelluilla eleillään. NL #y~Kultaa~ ~ja~ #y~konfettia~ ~sataa~ ~päällesi!~ NL @\"TODELLISEN@ @HAASTEEN@ @VUORO!!\"@ NL NL Viimeinen taistelu jätti colosseumin seinään pienen aukon, jonka kautta voit helposti paeta, kun kaikkien huomio on muualla. NL Haluatko jäädä taistelemaan?"
     ],
     "OPTIONS": [
       "[Jatka]",
