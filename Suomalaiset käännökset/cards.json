@@ -483,7 +483,7 @@
   },
   "Exhume": {
     "NAME": "Haudankaivuu",
-    "DESCRIPTION": "Ota kortti käteesi poistopakasta. NL Kuluta."
+    "DESCRIPTION": "Ota kulutettu kortti käteesi. NL Kuluta."
   },
   "Expertise": {
     "NAME": "Ammattitaito",
