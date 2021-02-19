@@ -58,7 +58,7 @@
     "NAME": "Musta veri",
     "FLAVOR": "Raivo vaan synkkenee.",
     "DESCRIPTIONS": [
-      "Korvaa #rPolttavan veren. Paranna taistelun lopuksi #b",
+      "Korvaa #rPolttavan #rveren. Paranna taistelun lopuksi #b",
       " OP:tä."
     ]
   },
@@ -141,7 +141,7 @@
   },
   "Cables": {
     "NAME": "Kullatetut kaapelit",
-    "FLAVOR": "\"Mielenkiintoista! Placebo-vaikutus vaikuttaa myös automaatteihin.\" - Ranwid",
+    "FLAVOR": "\"Mielenkiintoista! Lumevaikutus vaikuttaa myös automaatteihin.\" - Ranwid",
     "DESCRIPTIONS": [
       "Järjestyksessä seuraava orbisi suorittaa passiivikykynsä ylimääräisen kerran."
     ]
@@ -846,7 +846,7 @@
     "FLAVOR": "Khärmekallo koskemattomassa kunnossa. Selittämättömän puhdas ja sileä, lika ja saasta eivät jostain syystä tartu siihen.",
     "DESCRIPTIONS": [
       "Kun lisäät #yMyrkkyä, anna #b",
-      " #yMyrkkyä lisää."
+      " enemmän kuin normaalisti."
     ]
   },
   "Snecko Eye": {
@@ -1276,15 +1276,15 @@
     "NAME": "Ranneterä",
     "FLAVOR": "Kätevä salamurhissa.",
     "DESCRIPTIONS": [
-      "#yHyökkäykset jotka maksavat #b0, tekevät #b4 lisävauriota."
+      "#yHyökkäykset jotka maksavat #b0 tekevät #b4 lisävauriota."
     ]
   },
   "StoneCalendar": {
     "NAME": "Kivikalenteri",
     "FLAVOR": "Ajan kulku on huomaamatonta Tornissa.",
     "DESCRIPTIONS": [
-      "Vuoron #b",
-      " lopussa tee #b",
+      "Tee #b",
+      ". vuoron lopussa #b",
       " vauriota KAIKILLE vihollisille."
     ]
   },
@@ -1353,7 +1353,7 @@
     "FLAVOR": "Yllättävän suosittu, huolimatta kitahyökkäysten yleisyydestä.",
     "DESCRIPTIONS": [
       "Kun kiipeät kerroksen, saa #b",
-      " #ykultaa. Lakkaa toimimasta kun kulutat #yKultaa kaupassa.",
+      " #ykultaa. Lakkaa toimimasta kun kulutat #ykultaa kaupassa.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
@@ -1488,8 +1488,8 @@
     "NAME": "Kultainen silmä",
     "FLAVOR": "Näe lähelläolevien mieliin, ennakoiden heidän tulevia liikkeitään.",
     "DESCRIPTIONS": [
-      "Kun #yEnnustat, #yEnnusta #b",
-      " lisäkorttia."
+      "#yEnnustat #b",
+      " lisäkortilla."
     ]
   },
   "Damaru": {
