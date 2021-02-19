@@ -34,7 +34,7 @@
   "Cheater": {
     "NAME": "Huijari",
     "DESCRIPTIONS": [
-      "Jäi kiinni huijaamisesta. Jos jäät kiinni toiste, tuloksiasi ei ladata enää koskaan tulostaulukolle."
+      "Jäit kiinni huijaamisesta. Jos jäät kiinni toiste, tuloksiasi ei ladata enää koskaan tulostaulukolle."
     ]
   },
   "City Elites Killed": {
@@ -76,13 +76,13 @@
     ]
   },
   "Highlander": {
-    "NAME": "Ylänkömaalainen",
+    "NAME": "Yksinäiset kortit",
     "DESCRIPTIONS": [
       "Pakassasi ei ole kaksoiskappaleita (aloituskortteja lukuunottamatta)."
     ]
   },
   "I Like Gold": {
-    "NAME": "Pidän kullasta",
+    "NAME": "Roope Ankka",
     "DESCRIPTIONS": [
       "Kerätty 3 000 kultaa."
     ]
@@ -106,9 +106,9 @@
     ]
   },
   "Money Money": {
-    "NAME": "Tilipäivä",
+    "NAME": "Kroisos Pennonen",
     "DESCRIPTIONS": [
-      "Tienattu 1 000 kultaa."
+      "Kerätty 1 000 kultaa."
     ]
   },
   "Mystery Machine": {
@@ -142,15 +142,15 @@
     ]
   },
   "Poopy": {
-    "NAME": "Pökäle",
+    "NAME": "Kakka tuli",
     "DESCRIPTIONS": [
-      "Saa henkikakkaa."
+      "Saa hengen pökälettä."
     ]
   },
   "Raining Money": {
-    "NAME": "Rahaa kuin roskaa",
+    "NAME": "Kulta-Into Pii",
     "DESCRIPTIONS": [
-      "Tienattu 2 000 kultaa."
+      "Kerätty 2 000 kultaa."
     ]
   },
   "Shiny": {
@@ -166,15 +166,15 @@
     ]
   },
   "Stuffed": {
-    "NAME": "Ahdettu",
+    "NAME": "Ahmatti",
     "DESCRIPTIONS": [
-      "Kasvatit maksimi OP:tä 30+ pisteellä."
+      "Kasvatit maksimi OP:täsi 30+ pisteellä."
     ]
   },
   "Well Fed": {
-    "NAME": "Maha täynnä",
+    "NAME": "Hyvin ruokittu",
     "DESCRIPTIONS": [
-      "Kasvatit maksimi OP:tä 15+ pisteellä."
+      "Kasvatit maksimi OP:täsi 15+ pisteellä."
     ]
   }
 }
