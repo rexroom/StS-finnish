@@ -112,7 +112,7 @@
     "DESCRIPTION": "Saa !M! Alttiutta. NL Ota [R] vuorosi alussa."
   },
   "Biased Cognition": {
-    "NAME": "Vinoutunut kognitio",
+    "NAME": "Vino kognitio",
     "DESCRIPTION": "Saa !M! Fokusta. NL Menetä vuorosi alussa 1 Fokus."
   },
   "Bite": {
@@ -864,7 +864,7 @@
     "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Myrkkyä."
   },
   "Pommel Strike": {
-    "NAME": "Isku nupilla",
+    "NAME": "Nuppi-isku",
     "DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! korttia.",
     "UPGRADE_DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! korttia."
   },
@@ -1538,7 +1538,7 @@
     "DESCRIPTION": "Kun pelaat Hyökkäyksen, saa 1 väliaikaista Näppäryyttä. Kun pelaat Taidon, saa 1 väliaikaista Vahvuutta."
   },
   "CarveReality": {
-    "NAME": "Luo todellisuus",
+    "NAME": "Luo todellisuutta",
     "DESCRIPTION": "Tee !D! vauriota. NL Lisää *Valloita käteesi.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1734,7 +1734,7 @@
     "DESCRIPTION": "Säilytä. NL Tee !D! vauriota kahdesti."
   },
   "MasterReality": {
-    "NAME": "Hallitse todellisuutta",
+    "NAME": "Ohjaa todellisuutta",
     "DESCRIPTION": "Kun kortti luodaan taistelun aikana, Parantele se."
   },
   "BowlingBash": {
@@ -1785,7 +1785,7 @@
     "UPGRADE_DESCRIPTION": "Säilytä. Nosta kortteja kunnes kätesi on täynnä. NL Kuluta."
   },
   "Wish": {
-    "NAME": "Toivomus",
+    "NAME": "Toive",
     "DESCRIPTION": "Valitse yksi: NL Saa !B! panssaria, !D! Vahvuutta tai !M! kultaa. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },

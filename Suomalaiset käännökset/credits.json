@@ -46,11 +46,11 @@
   "LOC_DUT": {
     "HEADER": "Hollannin lokalisaatio",
     "NAMES": [
-      "Riiviöjohtaja:",
+      "Irviöpomo:",
       "Jelle Steinmann \"NotADitto\"",
-      "Jalo riiviö:",
+      "Irviöjehu:",
       "Charlie \"Alcus\" Ye",
-      "Riiviöt:",
+      "Irviöt:",
       "Oscar Cousin",
       "\"Meriscan\"",
       "Lise Leitner",
@@ -127,8 +127,8 @@
       "hina",
       "Vekan",
       "Fontti:",
-      "Pelissä: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
-      "Kaupan omaisuudessa: NanumBrush, NanumPen by NAVER Corporation"
+      "Pelissä: GyeonggiCheonnyeon(Batang) (Gyeonggi-Do)",
+      "Kaupan omaisuudessa: NanumBrush, NanumPen (NAVER Corporation)"
     ]
   },
   "LOC_NOR": {
@@ -140,7 +140,7 @@
   "LOC_POL": {
     "HEADER": "Puolan lokalisaatio",
     "NAMES": [
-      "Käännökset ja koordinointi:",
+      "Kääntäminen ja koordinointi:",
       "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Lisäkäännökset:",
@@ -176,7 +176,7 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-      "Lisäkäännökset:",
+      "Apukääntäjät:",
       "Dmitry \"Gentle Giant\" Gitsman",
       "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
@@ -205,7 +205,7 @@
       "Rodrigo \"skylex\" Zabattaro",
       "Alberto \"RadeonThe1st\" Botana",
       "Spooktacular",
-      "Kielioppi ja tarkistus:",
+      "Oikoluku ja siistiminen:",
       "Joaquín \"Pip1n\" López",
       "Xavier Castañer",
       "Summer",
@@ -223,12 +223,12 @@
     "NAMES": [
       "Kääntäminen ja koordinointi:",
       "Noppon Varapaiboon (PlearnGaming)",
-      "Lisäkääntämiset:",
+      "Apukääntäjät:",
       "Rapeepat Suwan (Yuu)",
       "Sarawut Suwan (Tomoeic)",
       "Kirjasimet:",
-      "CSChatThaiUI by raveetavan@gmail.com",
-      "Layiji MaHaNiYom by layiji@gmail.com"
+      "CSChatThaiUI (raveetavan@gmail.com)",
+      "Layiji MaHaNiYom (layiji@gmail.com)"
     ]
   },
   "LOC_TUR": {
