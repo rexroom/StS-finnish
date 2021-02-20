@@ -26,7 +26,7 @@
     "DESCRIPTION": "Saa [B] jokaisesta !M! kortista nostopinossasi."
   },
   "All For One": {
-    "NAME": "Kaikki yhden puolesta",
+    "NAME": "Yhden puolesta",
     "DESCRIPTION": "Tee !D! vauriota. NL Pistä kaikki 0 hintaiset kortit poistopinosta käteesi."
   },
   "All Out Attack": {
@@ -39,8 +39,8 @@
   },
   "Amplify": {
     "NAME": "Vahvista",
-    "DESCRIPTION": "Tällä vuorolla seuraava Voima-korttisi pelataan kahdesti.",
-    "UPGRADE_DESCRIPTION": "Tällä vuorolla seuraavat !M! Voima-korttiasi pelataan kahdesti."
+    "DESCRIPTION": "Seuraava Voima pelataan kahdesti tällä vuorolla.",
+    "UPGRADE_DESCRIPTION": "Seuraavat !M! Voimaa pelataan kahdesti tällä vuorolla."
   },
   "Anger": {
     "NAME": "Viha",
@@ -101,7 +101,7 @@
   },
   "Battle Trance": {
     "NAME": "Taistelutranssi",
-    "DESCRIPTION": "Nosta !M! korttia. NL Et voi nostaa tällä vuorolla lisäkortteja."
+    "DESCRIPTION": "Nosta !M! korttia. NL Et voi nostaa lisäkortteja tällä vuorolla."
   },
   "Beam Cell": {
     "NAME": "Sädekenno",
@@ -411,8 +411,8 @@
   },
   "Double Tap": {
     "NAME": "Varmistuslaukaus",
-    "DESCRIPTION": "Seuraava hyökkäyksesi pelataan kahdesti tällä vuorolla.",
-    "UPGRADE_DESCRIPTION": "Seuraavat !M! hyökkäystäsi pelataan kahdesti tällä vuorolla."
+    "DESCRIPTION": "Seuraava Hyökkäys pelataan kahdesti tällä vuorolla.",
+    "UPGRADE_DESCRIPTION": "Seuraavat !M! Hyökkäystä pelataan kahdesti tällä vuorolla."
   },
   "Doubt": {
     "NAME": "Epävarmuus",
@@ -534,7 +534,7 @@
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
-    "DESCRIPTION": "Saa !B! Suojaa. NL Kun kimppuusi hyökätään tällä vuorolla, tee !M! vauriota takaisin."
+    "DESCRIPTION": "Saa !B! Suojaa. NL Kun sinua hyökätään tällä vuorolla, tee !M! vauriota takaisin."
   },
   "Flash of Steel": {
     "NAME": "Teräksen väläys",
@@ -578,7 +578,7 @@
     "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! KAIKKIEN Kynnet-korttien vaurioon taistelun ajaksi."
   },
   "Genetic Algorithm": {
-    "NAME": "Geneettinen algoritmi",
+    "NAME": "Geenialgoritmi",
     "DESCRIPTION": "Saa !B! Suojaa. Lisää !M! tämän kortin Suojaan pysyvästi. NL Kuluta."
   },
   "Ghostly": {
@@ -1163,7 +1163,7 @@
     "NAME": "Salamanisku",
     "DESCRIPTION": "Tee !D! vauriota satunnaiselle. Toista per taistelun aikana Kanavoitu Salama.",
     "EXTENDED_DESCRIPTION": [
-      " (!M! Salama(a).)"
+      " (Kanavoitu !M! Orbia.)"
     ]
   },
   "Thunderclap": {
@@ -1738,7 +1738,7 @@
     "DESCRIPTION": "Kun kortti luodaan taistelun aikana, Parantele se."
   },
   "BowlingBash": {
-    "NAME": "Keilailuisku",
+    "NAME": "Keilailmiö",
     "DESCRIPTION": "Tee !D! vauriota jokaista taistelun vihollista kohden."
   },
   "Unraveling": {
