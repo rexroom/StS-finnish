@@ -752,7 +752,7 @@
   },
   "Masterful Stab": {
     "NAME": "Taitava pistos",
-    "DESCRIPTION": "Maksaa lisää [G] NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
+    "DESCRIPTION": "Maksaa [G] lisää NL aina kun menetät OP:tä taistelun aikana. NL Tee !D! vauriota.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
