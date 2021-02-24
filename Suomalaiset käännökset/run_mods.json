@@ -21,23 +21,23 @@
   },
   "Red Cards": {
     "NAME": "Punaiset kortit",
-    "DESCRIPTION": "Punaisia kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
+    "DESCRIPTION": "Punaisia kortteja ilmestyy palkinnoissa ja kaupoissa."
   },
   "Green Cards": {
     "NAME": "Vihreät kortit",
-    "DESCRIPTION": "Vihreitä kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
+    "DESCRIPTION": "Vihreitä kortteja ilmestyy palkinnoissa ja kaupoissa."
   },
   "Blue Cards": {
     "NAME": "Siniset kortit",
-    "DESCRIPTION": "Sinisiä kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
+    "DESCRIPTION": "Sinisiä kortteja ilmestyy palkinnoissa ja kaupoissa."
   },
   "Purple Cards": {
     "NAME": "Purppurat kortit",
-    "DESCRIPTION": "Purppuria kortteja ilmestyy nyt palkinnoissa ja kaupoissa."
+    "DESCRIPTION": "Purppuria kortteja ilmestyy palkinnoissa ja kaupoissa."
   },
   "Colorless Cards": {
     "NAME": "Värittömät kortit",
-    "DESCRIPTION": "Värittömiä kortteja ilmestyy nyt palkinnoissa."
+    "DESCRIPTION": "Värittömiä kortteja ilmestyy palkinnoissa."
   },
   "Draft": {
     "NAME": "Suunnittelu",
@@ -45,7 +45,7 @@
   },
   "Elite Swarm": {
     "NAME": "Suurriistametsästäjä",
-    "DESCRIPTION": "Eliitit parveilevat nyt joukolla Tornia ja antavat parempia palkintoja."
+    "DESCRIPTION": "Eliitit parveilevat joukolla Tornia ja antavat parempia palkintoja."
   },
   "Endless": {
     "NAME": "Päättymätön",
@@ -61,7 +61,7 @@
   },
   "Heirloom": {
     "NAME": "Perintökalleus",
-    "DESCRIPTION": "Aloita Erittäin harvinaisella reliikillä."
+    "DESCRIPTION": "Aloita erittäin harvinaisella reliikillä."
   },
   "Hoarder": {
     "NAME": "Hamstraaja",
@@ -161,7 +161,7 @@
   },
   "DeadlyEvents": {
     "NAME": "Vaarallisia tapahtumia",
-    "DESCRIPTION": "?-huoneet voivat nyt sisältää eliittejä, mutta myös todennäköisemmin aarrehuoneita."
+    "DESCRIPTION": "?-huoneet voivat sisältää eliittejä, mutta myös todennäköisemmin aarrehuoneita."
   },
   "Daily Mods": {
     "NAME": "Päivittäiset muunnelmat",

@@ -329,8 +329,8 @@
     "NAME": "Ikuinen höyhen",
     "FLAVOR": "Höyhen vaikuttaa täysin tuhoutumattomalta. Mistä linnusta tämä voi olla oikein peräisin? ",
     "DESCRIPTIONS": [
-      "Jokaista #b",
-      " pakassasi olevaa korttia kohden, paranna #b",
+      "Paranna jokaista #b",
+      " pakassasi olevaa korttia kohden #b",
       " OP:tä aina kun pääset lepopaikkaan."
     ]
   },

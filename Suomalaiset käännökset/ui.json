@@ -1373,9 +1373,9 @@
     "TEXT": [
       "Päivittäinen - Kerros %s",
       "Kustomoitu - Kerros %s",
-      " F%s",
+      " K%s",
       "Päävalikko",
-      "A%s "
+      "N%s "
     ]
   },
   "ClarityAction": {
