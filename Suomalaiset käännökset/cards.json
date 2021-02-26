@@ -777,7 +777,7 @@
   },
   "Mind Blast": {
     "NAME": "Mielenräjäytin",
-    "DESCRIPTION": "Luontainen. NL Tee yhtä paljon vauriota kuin nostopinossasi on kortteja.",
+    "DESCRIPTION": "Luontainen. NL Tee nostopinosi koon verran vauriota.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vauriota.)"
