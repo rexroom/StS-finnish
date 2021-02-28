@@ -32,7 +32,7 @@
   },
   "Bag of Marbles": {
     "NAME": "Marmorikuulapussi",
-    "FLAVOR": "Oli aikanaan Kaupungissa suosittu lelu. Auttaa pitämään viholliset epätasapainossa.",
+    "FLAVOR": "Oli aikoinaan Kaupungissa suosittu lelu. Auttaa pitämään viholliset epätasapainossa.",
     "DESCRIPTIONS": [
       "Taistelun alussa lisää #b",
       " #yAlttiutta KAIKILLE vihollisille."
@@ -64,7 +64,7 @@
   },
   "Black Star": {
     "NAME": "Musta tähti",
-    "FLAVOR": "Löydettiin alunperin käärmeen kaupungissa yksittäisen kynttilän viereltä.",
+    "FLAVOR": "Löydettiin alunperin käärmeen kaupungissa yksittäisen kynttilän vierestä.",
     "DESCRIPTIONS": [
       "Kukistetut eliitit pudottavat lisäreliikin."
     ]
@@ -87,7 +87,7 @@
   },
   "Blue Candle": {
     "NAME": "Sininen kynttilä",
-    "FLAVOR": "Liekit syttyvät kun pimeys ympäröi.",
+    "FLAVOR": "Liekki syttyy kun pimeys ympäröi.",
     "DESCRIPTIONS": [
       "#yEi-pelattavat #rKiroukset voi nyt pelata. NL #rKirouksen pelaaminen vie #b",
       " OP:tä ja #yKuluttaa sen."
@@ -95,7 +95,7 @@
   },
   "Bottled Flame": {
     "NAME": "Pullotettu liekki",
-    "FLAVOR": "Pullon sisällä on ikuisesti liekehtivä tuli.",
+    "FLAVOR": "Pullon sisällä loimuaa ikuisesti liekehtivä tuli.",
     "DESCRIPTIONS": [
       "Valitse #yHyökkäys poimiessasi tämän. Aloita jokainen taistelu tämä kortti kädessäsi.",
       "Valitse kortti ",
@@ -1315,7 +1315,7 @@
   },
   "Pocketwatch": {
     "NAME": "Taskukello",
-    "FLAVOR": "Viisarit näyttävät olevan jumissa kello 3 kohdassa..",
+    "FLAVOR": "Viisarit näyttävät olevan jumissa kello 3 kohdassa.",
     "DESCRIPTIONS": [
       "Kun pelaat #b3 tai vähemmän korttia vuorollasi, nosta #b3 lisäkorttia seuraavan vuorosi alussa."
     ]
@@ -1329,7 +1329,7 @@
   },
   "PrismaticShard": {
     "NAME": "Prismaattinen sirpale",
-    "FLAVOR": "Katsoessasi läpi sirpaleen, kykenet näkemään kokonaan uusia näkökulmia.",
+    "FLAVOR": "Katsoessasi sirpaleen läpi, kykenet näkemään kokonaan uusia näkökulmia.",
     "DESCRIPTIONS": [
       "Taistelupalkintoruudut sisältävät nyt Värittömiä ja muiden värien kortteja."
     ]
@@ -1350,7 +1350,7 @@
   },
   "MawBank": {
     "NAME": "Kitapankki",
-    "FLAVOR": "Yllättävän suosittu, huolimatta kitahyökkäysten yleisyydestä.",
+    "FLAVOR": "Yllättävän suosittu kitahyökkäyksien yleisyydestä huolimatta.",
     "DESCRIPTIONS": [
       "Kun kiipeät kerroksen, saa #b",
       " #ykultaa. Lakkaa toimimasta kun kulutat #ykultaa kaupassa.",
@@ -1359,7 +1359,7 @@
   },
   "Melange": {
     "NAME": "Rohto",
-    "FLAVOR": "Arvoituksellista hiekkaa tuntemattomasta alkulähteestä. Tuoksuu kanelilta.",
+    "FLAVOR": "Arvoituksellista hiekkaa tuntemattomasta alkuperästä. Tuoksuu kanelilta.",
     "DESCRIPTIONS": [
       "Kun sekoitat nostopinoasi, #yEnnusta #b",
       " korttia."
@@ -1478,7 +1478,7 @@
   },
   "CaptainsWheel": {
     "NAME": "Kapteenin pyörä",
-    "FLAVOR": "Puinen hienostuneesti kaiverrettu rihkama. Nimi on kaiverrettu siihen, mutta kieli on vieras.",
+    "FLAVOR": "Hienostuneesti kaiverrettu puinen rihkama. Siihen on kaiverrettu nimi, mutta kieli on vieras.",
     "DESCRIPTIONS": [
       "Saa 3. vuorosi alussa #b",
       " #ySuojaa."
