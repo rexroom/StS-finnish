@@ -33,7 +33,7 @@
   },
   "Purple Cards": {
     "NAME": "Purppurat kortit",
-    "DESCRIPTION": "Purppuria kortteja ilmestyy palkinnoissa ja kaupoissa."
+    "DESCRIPTION": "Purppuroita kortteja ilmestyy palkinnoissa ja kaupoissa."
   },
   "Colorless Cards": {
     "NAME": "Värittömät kortit",
@@ -44,12 +44,12 @@
     "DESCRIPTION": "Suunnittele aloituspakka."
   },
   "Elite Swarm": {
-    "NAME": "Suurriistametsästäjä",
-    "DESCRIPTION": "Eliitit parveilevat joukolla Tornia ja antavat parempia palkintoja."
+    "NAME": "Suurriistanmetsästäjä",
+    "DESCRIPTION": "Eliitit parveilevat joukolla Tornissa ja antavat parempia palkintoja."
   },
   "Endless": {
     "NAME": "Päättymätön",
-    "DESCRIPTION": "Voittaminen vie sinut takaisin ensimmäiseen näytökseen samalla pakalla. Mutta varo, vitsaus lopulta saa omansa..."
+    "DESCRIPTION": "Voittaminen vie sinut takaisin ensimmäiseen näytökseen samalla pakalla. Mutta varo, vitsaus saa lopulta omansa..."
   },
   "Blight Chests": {
     "NAME": "Vitsausarkkuja",
@@ -81,7 +81,7 @@
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Viholliset antavat 200% enemmän kultaa, mutta et voi enää taota lepopaikoilla."
+    "DESCRIPTION": "Viholliset antavat 200% enemmän kultaa, mutta et voi enää takoa lepopaikoilla."
   },
   "My True Form": {
     "NAME": "Todellinen olomuotoni",
@@ -97,7 +97,7 @@
   },
   "Praise Snecko": {
     "NAME": "Khärmelle kiitos",
-    "DESCRIPTION": "Korvaa aloitusreliikin Khärmen silmällä."
+    "DESCRIPTION": "Korvaa aloitusreliikkisi Khärmen silmällä."
   },
   "Shiny": {
     "NAME": "Hologrammi",
@@ -157,7 +157,7 @@
   },
   "MonsterHunter": {
     "NAME": "[VANHENTUNUT] Kolossi",
-    "DESCRIPTION": "Vihollisilla on enemmän OP:tä mutta antavat parempia palkintoja."
+    "DESCRIPTION": "Vihollisilla on enemmän OP:tä, mutta ne antavat parempia palkintoja."
   },
   "DeadlyEvents": {
     "NAME": "Vaarallisia tapahtumia",
