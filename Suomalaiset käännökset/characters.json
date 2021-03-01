@@ -108,7 +108,7 @@
       "[ #gSaa #g3 #gsatunnaista #gtaikalientä ]",
       "[ #gOta #gsatunnainen #gyleinen #greliikki ]",
       "[ #gMaksimiOP #g+",
-      "[ #gHanki #g",
+      "[ #gVastaanota #g",
       " #gkultaa ]",
       "#gPoista #g2 #gkorttia ]",
       "#gSaa #gsatunnainen #gharvinainen #greliikki ]",
@@ -134,7 +134,7 @@
       "#gValitse #gharvinainen #gväritön #gkortti #gitsellesi ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rMenetä #ralkureliikkisi, #gota #gsatunnainen #gpomotason #greliikki ]"
+      "[ #rMenetä #raloitusreliikki, #gota #gsatunnainen #gpomotason #greliikki ]"
     ]
   },
   "Shop Screen": {
