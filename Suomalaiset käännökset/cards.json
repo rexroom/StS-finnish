@@ -1785,7 +1785,7 @@
     "UPGRADE_DESCRIPTION": "Säilytä. Nosta kortteja kunnes kätesi on täynnä. NL Kuluta."
   },
   "Wish": {
-    "NAME": "Toive",
+    "NAME": "Toivomus",
     "DESCRIPTION": "Valitse yksi: NL Saa !B! panssaria, !D! Vahvuutta tai !M! kultaa. NL Kuluta.",
     "UPGRADE_DESCRIPTION": ""
   },
