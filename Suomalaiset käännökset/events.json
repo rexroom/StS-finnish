@@ -95,7 +95,7 @@
       "Mutta henget eivät ole tyytyväisiä siihen, että tarjosit #pkirouksen... Kortti sihisee ponnetonta mustaa savua. Saat... #p~jotain~ vastalahjaksi.",
       "Mitään ei tapahdu... NL Henget näyttävät jättävän sinut nyt huomiotta. Masentavaa...",
       "Liekit kasvavat hiukan kirkkaammaksi. NL Henget jaksavat tanssimista. Tunnet heidän läsnäolonsa lämmittävän sinua hiukan... NL #gParanet #b5 OP:tä.",
-      "Liekit purkautuvat yltyen voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
+      "Liekit purkautuvat, yltyen voimakkaasti! NL Henget tanssivat innostuneesti ympärilläsi, valaen sinut ~lämmön~ ~tunteella.~ NL Sinut #gparannettiin täyteen OP:siin.",
       "Liekit @räjähtävät@ ja miltei kaatavat sinut kumoon, kasvaen @kaksinverroin@ voimakkaammaksi. NL Henget tanssivat haltioissaan ympärilläsi ennenkuin ~sulautuvat~ ~sinuun,~ täyttäen sinut lämmöllä ja voimalla. NL Saat #b10 MaksimiOP:tä ja #gparanet täyteen OP:siin."
     ],
     "OPTIONS": [
@@ -135,7 +135,7 @@
       "Poistut ääneti.",
       "Löydät sattumoisin #rkuolleen #rseikkailijan lattialta. NL Hänen #bhousunsa on varastettu! Sen lisäksi ",
       "hänen haarniskansa ja kasvonsa näyttävät olevan #r@liekkien@ #r@polttamia.@ ",
-      "ilmeisesti hänet on #r@kovertanu@ #r@ja@ #r@tallonut@ sarvipäinen peto. ",
+      "hänet on ilmeisesti #r@kovertanut@ #r@ja@ #r@tallonut@ sarvipäinen peto. ",
       "hänet on #r@suolistettu@ #r@ja@ #r@paloiteltu@ valtavilla saksilla. ",
       "NL Vaikka hänen #yomaisuutensa #yon #yvielä #ytallessa, sinua ei houkuta selvittää mitä täällä tapahtui...",
       "Löysit #ykultaa! NL Jatka tutkimista?",
@@ -833,7 +833,7 @@
     "DESCRIPTIONS": [
       "Kävelet oudon patsaan ohi, joka pitelee lukuisia naamioita... NL Jokin takanasi kuiskaa pehmeästi, NL ~\"Seis.\"~",
       "Käännyttyäsi äkisti ympäri kohtaat patsaan, joka on nyt kasvotusten sinuun! NL Tarkemmin katsottuna se ei ole patsas, vaan veistoksellisen riutunut mies. Hengittääkö hän edes? NL NL ~\"Kasvo.~ ~Anna~ ~minun~ ~koskettaa?~ ~Ehkä~ ~kauppaa?\"~",
-      "~\"Hyvitys?~ ~Hyvitys.\"~ NL Mekaniisesti hän kurottaa esiin siistin pinon #ykultaa ja asettaa sen pussiisi. NL NL ~\"Miten~ ~miellyttävä~ ~naama.~ ~Miellyttävä~ ~naama.\"~ NL Sillä aikaa kun hän koskettelee kasvojasi, alat tuntea elämänvoimasi valuvan pois niiden kautta! NL Tämän aikana hänen naamionsa putoaa pois ja särkyy. Kirkuen, hän nopeasti peittää kasvonsa kaikilla kuudella käsivarrellaan, pudottaen vielä enemmän naamioita! Kirkumisen ja särkymisten seassa pakenet paikalta. NL NL Hänen naamansa oli kokonaan tyhjä.",
+      "~\"Hyvitys?~ ~Hyvitys.\"~ NL Mekaniisesti hän kurottaa esiin siistin pinon #ykultaa ja asettaa sen pussiisi. NL NL ~\"Miten~ ~miellyttävä~ ~naama.~ ~Miellyttävä~ ~naama.\"~ NL Antaessasi hänen sormiensa kosketella kasvojasi, alat tuntea elämänvoimasi valuvan pois niiden kautta! NL Samalla hänen naamionsa putoaa pois ja särkyy. Kirkuen, hän nopeasti peittää kasvonsa kaikilla kuudella käsivarrellaan, pudottaen vielä enemmän naamioita! Kirkumisen ja särkymisten seassa pakenet paikalta. NL NL Hänen naamansa oli kokonaan tyhjä.",
       "~\"Minulle?~ @MINULLE?@ ~Voi~ ~kyllä..~ ~Kyllä.~ ~Kyllä..~ ~mmm...\"~ NL NL Näet yhden hänen käsivarsistaan liikahtavan, ja sinun naamasi on sen kädessä! Sinun naamasi on vaihdettu. NL NL ~\"Miellyttävä~ ~naama.~ ~Miellyttävä~ ~naama.\"~",
       "~\"Seis.~ ~Seis.~ ~Seis.~ ~Seis.~ ~Seis.\"~ NL NL Se oli luultavasti oikea päätös."
     ],
@@ -920,14 +920,14 @@
       "@KOPS!!!@ NL .. NL ...... NL ... NL ~Sinut~ ~lyötiin~ ~tajuttomaksi...~",
 	  "Herätessäsi ~heikkovointisena~ ja pää @jyskyttäen,@ löydät itsesi heitettynä keskelle valtavaa stadionia, jonka ylitsepursuavat katsomot ovat täynnä #borjuuttajia, #pkultisteja ja muita kaupungin asukkeja! NL ",
 	  " NL #yKultaisella #ykruunulla varustettu haarniskoitu jättiläinen mylvii sinulle ylhäältä, NL @\"ALOITAMME@ @NYT@ @",
-	  ".@ @TAISTELUN!!!!\"@ NL Vastakkaisen puolen portti avautuu...",
-	  "@\"HYVIN@ @TAISTELTU,@ @RÄÄPÄLE!\"@ NL Jättiläinen taputtaa ivallisesti ja nostattaa yleisöä liioitelluilla eleillään. NL #y~Kultaa~ ~ja~ #y~konfettia~ ~sataa~ ~päällesi!~ NL @\"TODELLISEN@ @HAASTEEN@ @VUORO!!\"@ NL NL Viimeinen taistelu jätti colosseumin seinään pienen aukon, jonka kautta voit helposti paeta, kun kaikkien huomio on muualla. NL Haluatko jäädä taistelemaan?"
+	  ".@ @TAISTELUN!!!!\"@ NL Vastakkaisen laidan portti avautuu...",
+	  "@\"HYVIN@ @TAISTELTU,@ @RÄÄPÄLE!\"@ NL Jättiläinen taputtaa ivallisesti ja nostattaa yleisöä liioitelluilla eleillään. NL #y~Kultaa~ ~ja~ #y~konfettia~ ~sataa~ ~päällesi!~ NL @\"TODELLISEN@ @HAASTEEN@ @VUORO!!\"@ NL NL Äskeinen taistelu jätti colosseumin seinään pienen aukeaman, jonka kautta voisit helposti paeta, kun kaikkien huomio on muualla. NL Haluatko jäädä taistelemaan?"
     ],
     "OPTIONS": [
       "[Jatka]",
 	  "[Taistele]",
 	  "[PELKURUUS] Pakene.",
-	  "[VOITTO] Mahtava taistelu useilla palkinnoilla."
+	  "[VOITTO] Mahtava taistelu lukuisilla palkinnoilla."
     ]
   }
 }
