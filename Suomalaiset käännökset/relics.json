@@ -612,7 +612,7 @@
   },
   "Omamori": {
     "NAME": "Omamori",
-    "FLAVOR": "Yleinen suojariipus joka pitää loitolla pahoja henkejä. Tässä näyttäisi olevan kipinää jumalallisesta energiasta.",
+    "FLAVOR": "Yleinen suojariipus joka pitää loitolla pahoja henkiä. Tässä näyttäisi olevan kipinää jumalallisesta energiasta.",
     "DESCRIPTIONS": [
       "Estää saamasta seuraavat #b2 #rKirousta.",
       "Estää saamasta seuraavan #rKirouksen.",
@@ -828,7 +828,7 @@
   },
   "Singing Bowl": {
     "NAME": "Soiva kulho",
-    "FLAVOR": "Tämä kulunut artefakti soi kauniilla melodilla kopautettaessa.",
+    "FLAVOR": "Tämä kulunut artefakti soi kauniilla melodialla kopautettaessa.",
     "DESCRIPTIONS": [
       "Kun olet lisäämässä kortteja pakkaasi, voit sen sijaan nostaa MaksimiOP:tä #b2 pisteellä."
     ]
@@ -1020,7 +1020,7 @@
   },
   "Torii": {
     "NAME": "Torii",
-    "FLAVOR": "Pitäessäsi pienois-toriita, tunnet rauhan ja turvallisuuden olon nousevan sisimmässäsi.",
+    "FLAVOR": "Pidellessäsi pienoisporttia, tunnet rauhan ja turvallisuuden olon nousevan sisimmässäsi.",
     "DESCRIPTIONS": [
       "Aina kun olet saamassa #b",
       " tai vähemmän torjumatonta hyökkäysvauriota, vähennä se #b1."
@@ -1486,7 +1486,7 @@
   },
   "GoldenEye": {
     "NAME": "Kultainen silmä",
-    "FLAVOR": "Näe lähelläolevien mieliin, ennakoiden heidän tulevia liikkeitään.",
+    "FLAVOR": "Näe lähellä olevien mieliin, ennakoiden heidän tulevia liikkeitään.",
     "DESCRIPTIONS": [
       "#yEnnustat #b",
       " lisäkortilla."

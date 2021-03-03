@@ -520,8 +520,8 @@
     "TEXT": [
       "Mikä on Varhaisjulkaisu?",
       "Mikä on avoin beeta?",
-      "Slay the Spire on vielä aktiivisessa kehityksessä! NL Monet ominaisuudet, kortit ja viholliset voivat muuttua. NL NL Jos törmäät ongelmiin tai haluat antaa palautetta, viestithän meille #bSteamin #bKeskustelu sivuilla. NL NL Ei sen enempää, aika kiivetä tornia!",
-      "Slay the Spire on vielä aktiivisessa kehityksessä! NL Sen lisäksi pelaat pelin Beta-versiota. NL NL Viestithän meille mahdollisista pelatessa ilmenevistä ongelmista, mutta älä ylläty tulevan sisällön köykäisestä taiteesta. NL NL Ei sen enempää, aika kiivetä tornia!",
+      "Slay the Spire on vielä aktiivisessa kehityksessä! NL Monet ominaisuudet, kortit ja viholliset voivat muuttua. NL NL Jos törmäät ongelmiin tai haluat antaa palautetta, viestithän meille #bSteamin #bKeskustelusivuilla. NL NL Ei sen enempää, aika kiivetä tornia!",
+      "Slay the Spire on vielä aktiivisessa kehityksessä! NL Sen lisäksi pelaat pelin Beeta-versiota. NL NL Viestithän meille mahdollisista pelatessa ilmenevistä ongelmista, mutta älä ylläty tulevan sisällön köykäisestä taiteesta. NL NL Ei sen enempää, aika kiivetä tornia!",
       "Klikkaa mihin vain aloittaaksesi",
       "Jatka"
     ]
@@ -725,7 +725,7 @@
       "Pistemäärä",
       "Haetaan dataa...",
       "Tuloslista",
-      "Ei yhteydessä Steamiin",
+      "Ei yhteydessä Steam-palveluun",
       "Ei tuloksia saatavilla \n Mene kukistamaan Tornia!"
     ]
   },
@@ -858,7 +858,7 @@
       " aloittaaksesi",
       "Vaihda profiilia",
       "Näyttöalue",
-      "On tapahtunut muutos kirjautumisessa. Ole hyvä ja kirjaudu uudeestaan sisään tai poistu nimiruudulle.",
+      "On tapahtunut muutos kirjautumisessa. Ole hyvä ja kirjaudu uudestaan sisään tai poistu nimiruudulle.",
       "Kirjaudu",
       "Poistu"
     ]

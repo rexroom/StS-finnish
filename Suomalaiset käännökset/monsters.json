@@ -12,7 +12,7 @@
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Syötyttävä sylki",
+      "Syövyttävä sylki",
       "Lipaisu"
     ],
     "NAME": "Happolima (M)",
@@ -486,7 +486,7 @@
   },
   "Sentry": {
     "MOVES": [
-      "Hajoittaminen"
+      "Hajoita"
     ],
     "NAME": "Vartio",
     "DIALOG": [

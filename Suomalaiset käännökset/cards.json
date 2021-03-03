@@ -482,7 +482,7 @@
     "UPGRADE_DESCRIPTION": "Aina kun nostat Statuksen, nosta !M! korttia."
   },
   "Exhume": {
-    "NAME": "Haudankaivuu",
+    "NAME": "Haudankaivaja",
     "DESCRIPTION": "Ota kulutettu kortti käteesi. NL Kuluta."
   },
   "Expertise": {
@@ -953,7 +953,7 @@
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
-    "NAME": "Täynnä reikiä",
+    "NAME": "Täytä rei'illä",
     "DESCRIPTION": "Tee !D! vauriota 5 kertaa."
   },
   "Rip and Tear": {
@@ -1530,7 +1530,7 @@
     "UPGRADE_DESCRIPTION": "Säilytä. NL Saa [W] [W]. NL Kuluta."
   },
   "Vault": {
-    "NAME": "Ponnahdus",
+    "NAME": "Hyppy",
     "DESCRIPTION": "Ota ylimääräinen vuoro tämän jälkeen. NL Lopeta vuorosi. NL Kuluta."
   },
   "Flow": {
@@ -1549,7 +1549,7 @@
   "Truth": {
     "NAME": "Totuus",
     "DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Nosta !M! korttia. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Nosta !M! korttias. NL Kuluta."
+    "UPGRADE_DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Nosta !M! korttia. NL Kuluta."
   },
   "Insight": {
     "NAME": "Oivallus",
@@ -1618,7 +1618,7 @@
   },
   "CleanseEvil": {
     "NAME": "Puhdista pahuudesta",
-    "DESCRIPTION": "Lisää X *Valloitaa käteesi.",
+    "DESCRIPTION": "Lisää X *Valloittaa käteesi.",
     "UPGRADE_DESCRIPTION": "Lisää X *Valloittaa+ käteesi."
   },
   "Torrent": {
@@ -1626,7 +1626,7 @@
     "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille !M! kertaa. NL Kuluta."
   },
   "Windup": {
-    "NAME": "VANHENTUNUT Windup",
+    "NAME": "VANHENTUNUT Vetoliike",
     "DESCRIPTION": "Tee !D! vauriota. NL Saa !M! Tarmokkuutta."
   },
   "Shield": {

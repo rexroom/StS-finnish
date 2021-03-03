@@ -78,7 +78,7 @@
   "Highlander": {
     "NAME": "Yksinäiset kortit",
     "DESCRIPTIONS": [
-      "Pakassasi ei ole kaksoiskappaleita (aloituskortteja lukuunottamatta)."
+      "Pakassasi ei ole kaksoiskappaleita (aloituskortteja lukuun ottamatta)."
     ]
   },
   "I Like Gold": {
@@ -90,7 +90,7 @@
   "Librarian": {
     "NAME": "Kirjastonhoitaja",
     "DESCRIPTIONS": [
-      "Pakan koko vähintään 35 korttia."
+      "Pakan koko on vähintään 35 korttia."
     ]
   },
   "Light Speed": {

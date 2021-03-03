@@ -45,12 +45,12 @@
     ]
   },
   "Attack Burn": {
-    "NAME": "Attack Burn",
+    "NAME": "Hyökkäyshappo",
     "DESCRIPTIONS": [
-      "Seuraavaan #b",
-      " vuoroon, kun pelaat #yHyökkäyksen, #yKuluta se.",
-      "Seuraaviin #b",
-      " vuoroon, kun pelaat #yHyökkäyksen, #yKuluta se."
+      "Kun pelaat #yHyökkäyksen seuraavan #b",
+      " vuoron aika, #yKuluta se.",
+      "Kun pelaat #yHyökkäyksen seuraavaan #b",
+      " vuoroon, #yKuluta se."
     ]
   },
   "Barricade": {
@@ -159,7 +159,7 @@
     ]
   },
   "Creative AI": {
-    "NAME": "Luova AI",
+    "NAME": "Luova tekoäly",
     "DESCRIPTIONS": [
       "Lisää vuorosi alussa #b",
       " satunnainen #yVoima käteesi.",
@@ -190,7 +190,7 @@
     ]
   },
   "Dark Embrace": {
-    "NAME": "Pimeän syleily",
+    "NAME": "Synkkyyden syleily",
     "DESCRIPTIONS": [
       "Kun kortti on #yKulutettu, nosta #b1 kortti.",
       "Kun kortti on #yKulutettu, nosta #b",
@@ -317,7 +317,7 @@
     ]
   },
   "Evolve": {
-    "NAME": "Kehity",
+    "NAME": "Kehitys",
     "DESCRIPTIONS": [
       "Kun nostat #yStatuksen, nosta #b1 kortti.",
       "Kun nostat #yStatuksen, nosta #b",
@@ -393,7 +393,7 @@
     ]
   },
   "Gambit": {
-    "NAME": "Gambit",
+    "NAME": "Gambiitti",
     "DESCRIPTIONS": [
       "Saa #b",
       " vuoron jälkeen ",
@@ -536,7 +536,7 @@
     "NAME": "Tutkimus",
     "DESCRIPTIONS": [
 	  "Sekoita vuorosi lopussa #b",
-      " #yOivalluksen nostopinoosi.",
+      " #yOivallus nostopinoosi.",
       " #yOivallusta nostopinoosi."
     ]
   },
@@ -559,7 +559,7 @@
   "Mayhem": {
     "NAME": "Sekasorto",
     "DESCRIPTIONS": [
-      "Pelaa vuorosi alussa nostopinosi päällimmäisen kortin.",
+      "Pelaa vuorosi alussa nostopinosi päällimmäinen kortin.",
       "Pelaa vuorosi alussa nostopinosi #b",
       " päällimmäistä korttia."
     ]
@@ -634,10 +634,10 @@
   "Panache": {
     "NAME": "Itsevarmuus",
     "DESCRIPTIONS": [
-      "If you play #b",
-      " more card this turn, deal #b",
-      " damage to ALL enemies.",
-      " more cards this turn, deal #b"
+      "Jos pelaat #b",
+      " kortin lisää tällä vuorolla, tee #b",
+      " vauriota KAIKKIIN vihollisiin.",
+      " korttia lisää tällä vuorolla, tee #b"
     ]
   },
   "Pen Nib": {
@@ -682,7 +682,7 @@
   "Primitive": {
     "NAME": "Primitiivinen",
     "DESCRIPTIONS": [
-      "Kun pelaat #yYleisen kortin, nosta #b",
+      "Kun pelaat #yyleisen kortin, nosta #b",
       " kortti.",
       " korttia."
     ]
@@ -716,7 +716,7 @@
     ]
   },
   "Regeneration": {
-    "NAME": "Regen",
+    "NAME": "Regeneraatio",
     "DESCRIPTIONS": [
       "Paranna vuorosi lopussa #b",
       " #yOP:tä, sitten vähennä #b1 #yRegenerointia.",
@@ -809,12 +809,12 @@
     ]
   },
   "Skill Burn": {
-    "NAME": "Taidonkärvennys",
+    "NAME": "Taitohappo",
     "DESCRIPTIONS": [
-      "For #b",
-      " turn, whenever you play a #ySkill, #yExhaust it.",
-      "For the next #b",
-      " turns, whenever you play a #ySkill, #yExhaust it."
+      "Kun pelaat #yTaidon seuraavan #b",
+      " vuoron aika, #yKuluta se.",
+      "Kun pelaat #yTaidon seuraavaan #b",
+      " vuoroon, #yKuluta se."
     ]
   },
   "Slow": {
@@ -1013,7 +1013,7 @@
   "Compulsive": {
     "NAME": "Reagoiva",
     "DESCRIPTIONS": [
-      "Vaihtaa aikomuksensa vastaanottaessaan hyökkäysvauriota."
+      "Muuttaa aikomuksensa vastaanottaessaan hyökkäysvauriota."
     ]
   },
   "Nirvana": {
@@ -1107,15 +1107,15 @@
     ]
   },
   "EndTurnDeath": {
-    "NAME": "Rienaaja",
+    "NAME": "Rienausta",
     "DESCRIPTIONS": [
       "Kuole seuraavan vuorosi alussa."
     ]
   },
   "AlwaysMad": {
-    "NAME": "DEPRECATED Always Mad",
+    "NAME": "VANHENTUNUT Aina vihainen",
     "DESCRIPTIONS": [
-      "No longer receive double damage while in #yWrath."
+      "Ei enää vastaanota tuplasti vahinkoa kun #yRaivossa."
     ]
   },
   "Mantra": {
@@ -1201,9 +1201,9 @@
     "NAME": "Hallitse todellisuutta",
     "DESCRIPTIONS": [
       "Kun kortti on luotu, #yParantele se.",
-      "deprecated",
-      "deprecated",
-      "deprecated"
+      "vanhentunut",
+      "vanhentunut",
+      "vanhentunut"
     ]
   },
   "StrikeUp": {
