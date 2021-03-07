@@ -5,7 +5,7 @@
   },
   "Accuracy": {
     "NAME": "Tarkkuus",
-    "DESCRIPTION": "*Puukot tekevät !M! enemmän vauriota."
+    "DESCRIPTION": "*Puukot tekevät !M! vauriota enemmän."
   },
   "Acrobatics": {
     "NAME": "Akrobatia",
@@ -1359,7 +1359,7 @@
   },
   "Wrath": {
     "NAME": "Raivo",
-    "DESCRIPTION": "Tee ja ota kaksinverroin enemmän vauriota."
+    "DESCRIPTION": "Tee ja vastaanota vauriota kaksinverroin enemmän."
   },
   "Calm": {
     "NAME": "Tyyni",
