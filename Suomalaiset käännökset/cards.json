@@ -252,7 +252,7 @@
     "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille."
   },
   "Cloak And Dagger": {
-    "NAME": "Salakähmintää",
+    "NAME": "Viitta ja tikari",
     "DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! *Puukko käteesi.",
     "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! *Puukkoa käteesi."
   },
@@ -306,7 +306,7 @@
     "DESCRIPTION": "Lisää vuorosi alussa satunnainen Voima käteesi."
   },
   "Crippling Poison": {
-    "NAME": "Lamaannuttava pilvi",
+    "NAME": "Lamauttava pilvi",
     "DESCRIPTION": "Lisää !M! Myrkkyä ja 2 Heikkoutta KAIKILLE vihollisille. NL Kuluta."
   },
   "Dagger Spray": {
@@ -460,7 +460,7 @@
     "UPGRADE_DESCRIPTION": "Kädessäsi olevien korttien hinta on 1 tällä vuorolla."
   },
   "Entrench": {
-    "NAME": "Kaivaudu asemiin",
+    "NAME": "Linnoita",
     "DESCRIPTION": "Tuplaa Suojasi.",
     "UPGRADE_DESCRIPTION": "Tuplaa Suojasi."
   },
@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Ruoka-aika",
-    "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, saa !M! MaksimiOP:tä. Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, saa !M! MaksimiOP:tä. NL Kuluta."
   },
   "Feel No Pain": {
     "NAME": "Ei tunnu missään",
@@ -550,7 +550,7 @@
     ]
   },
   "Flex": {
-    "NAME": "Pullistelu",
+    "NAME": "Pala esille",
     "DESCRIPTION": "Saa !M! Vahvuutta. NL Menetä !M! Vahvuutta vuoron lopussa."
   },
   "Flux Capacitor": {
@@ -608,9 +608,9 @@
     "DESCRIPTION": "Saa !B! Suojaa."
   },
   "Grand Finale": {
-    "NAME": "Loppunäytös",
+    "NAME": "Loppuhuipennus",
     "DESCRIPTION": "Voi pelata vain jos sinulla ei ole kortteja nostopakassasi. NL Tekee !D! vauriota KAIKILLE vihollisille.",
-    "UPGRADE_DESCRIPTION": "Nostopinoni NL täytyy olla #rTyhjä."
+    "UPGRADE_DESCRIPTION": "Nostopinoni NL täytyy olla #rtyhjä."
   },
   "Havoc": {
     "NAME": "Sekasorto",
@@ -810,15 +810,15 @@
     "EXTENDED_DESCRIPTION": [
       "Voin pelata korkeintaan NL #r3 korttia tällä vuorolla.",
       "Ei-pelattava. NL Voit pelata korkeintaan ",
-      " korttia vuorossa.",
-      " korttia vuorossa. NL Olet jo pelannut ",
+      " korttia vuorollasi.",
+      " korttia vuorollasi. NL Olet jo pelannut ",
       " kortin.",
 	  " korttia."
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Myrkylliset kaasut",
-    "DESCRIPTION": "Lisää Vuorosi alussa !M! Myrkkyä KAIKILLE vihollisille."
+    "NAME": "Myrkkykaasut",
+    "DESCRIPTION": "Lisää vuorosi alussa !M! Myrkkyä KAIKILLE vihollisille."
   },
   "Offering": {
     "NAME": "Uhrilahja",
@@ -826,13 +826,13 @@
     "UPGRADE_DESCRIPTION": "Menetä 6 OP:tä. NL Saa [R] [R]. NL Nosta !M! korttia. NL Kuluta."
   },
   "Outmaneuver": {
-    "NAME": "Päihitä",
+    "NAME": "Viekas liike",
     "DESCRIPTION": "Saa [G] [G] NL seuraavalla vuorolla.",
     "UPGRADE_DESCRIPTION": "Saa [G] [G] [G] NL seuraavalla vuorolla."
   },
   "Pain": {
     "NAME": "Kipu",
-    "DESCRIPTION": "Ei-pelattava. NL Kädessä ollessa NL menetä 1 OP kun pelaat toisen kortin."
+    "DESCRIPTION": "Ei-pelattava. NL Kun tämä kortti on kädessäsi, menetä 1 OP kun pelaat toisen kortin."
   },
   "Panacea": {
     "NAME": "Ihmelääke",
