@@ -56,7 +56,7 @@
   },
   "Black Blood": {
     "NAME": "Musta veri",
-    "FLAVOR": "Raivo vaan synkkenee.",
+    "FLAVOR": "Raivo vain synkkenee.",
     "DESCRIPTIONS": [
       "Korvaa #rPolttavan #rveren. Paranna taistelun lopuksi #b",
       " OP:tä."
@@ -64,7 +64,7 @@
   },
   "Black Star": {
     "NAME": "Musta tähti",
-    "FLAVOR": "Löydettiin alunperin käärmeen kaupungissa yksittäisen kynttilän vierestä.",
+    "FLAVOR": "Löydettiin alun perin käärmeen kaupungissa yksittäisen kynttilän vierestä.",
     "DESCRIPTIONS": [
       "Kukistetut eliitit pudottavat lisäreliikin."
     ]
@@ -197,7 +197,7 @@
   },
   "Charon's Ashes": {
     "NAME": "Kharonin tuhkat",
-    "FLAVOR": "Kharonin sanotaan olevan uudelleensyntymisen jumala joka aina kuolee ja syntyy sitten uudelleen liekeistä.",
+    "FLAVOR": "Sanotaan, että Kharon on uudelleensyntymisen jumala, joka aina kuolee ja syntyy sitten uudelleen liekeistä.",
     "DESCRIPTIONS": [
       "Aina kun #yKulutat kortin, tee #b",
       " vauriota KAIKILLE vihollisille."
@@ -236,7 +236,7 @@
     "NAME": "Kirottu avain",
     "FLAVOR": "Aistit pahantahtoista energiaa huokuvan avaimesta. Voimalla on hintansa.",
     "DESCRIPTIONS": [
-      " vuorosi alussa. Aina kun avaat arkun joka ei ole Pomon vartioima, ota #rKirous.",
+      " vuorosi alussa. Aina kun avaat arkun, joka ei ole Pomon vartioima, ota #rKirous.",
       "Saa [E]"
     ]
   },
@@ -424,7 +424,7 @@
   },
   "Lantern": {
     "NAME": "Lyhty",
-    "FLAVOR": "Karmiva lyhty joka valaisee ainoastaan kantajalleen.",
+    "FLAVOR": "Karmiva lyhty, joka valaisee ainoastaan kantajalleen.",
     "DESCRIPTIONS": [
       "Aloita jokainen taistelu lisä ",
       "[E] ",
@@ -433,7 +433,7 @@
   },
   "Lee's Waffle": {
     "NAME": "Leen vohveli",
-    "FLAVOR": "\"Maistuvin herkku jonka koko Tornista voi löytää! Leivottu tänään juuri sinulle.\"",
+    "FLAVOR": "\"Maistuvin herkku, jonka koko Tornista voi löytää! Leivottu tänään juuri sinulle.\"",
     "DESCRIPTIONS": [
       "Poimiessasi vohvelin, nosta MaksimiOP:tä #b",
       " ja paranna kaikki OP:t."
@@ -486,8 +486,8 @@
     "NAME": "Maatuska",
     "FLAVOR": "Pinottavia, maalattuja nukkeja. Niiden kuvituksena on tuntematon lintu, jolla on valkoiset silmät ja siniset höyhenet.",
     "DESCRIPTIONS": [
-      "Seuraavat #b2 arkkua jotka eivät ole Pomon vartioimia sisältävät #b2 #yreliikkiä.",
-      "Seuraava arkku joka ei ole Pomon vartioima sisältää #b2 #yreliikkiä.",
+      "Seuraavat #b2 arkkua, jotka eivät ole Pomon vartioimia sisältävät #b2 #yreliikkiä.",
+      "Seuraava arkku, joka ei ole Pomon vartioima sisältää #b2 #yreliikkiä.",
       "Tämän reliikin voima on jo ehtynyt."
     ]
   },
@@ -515,7 +515,7 @@
   },
   "Mercury Hourglass": {
     "NAME": "Elohopeatiimalasi",
-    "FLAVOR": "Lumottu tiimalasi joka valuu loputtomasti.",
+    "FLAVOR": "Lumottu tiimalasi, joka valuu loputtomasti.",
     "DESCRIPTIONS": [
       "Vuorosi alussa tee #b",
       " vauriota KAIKILLE vihollisille."
@@ -537,7 +537,7 @@
   },
   "Necronomicon": {
     "NAME": "Necronomicon",
-    "FLAVOR": "Vain moukka yrittäisi valjastaa tämän kamalaa voimaa. Öisin kirjan ahdistava kuvasto ahmii mieltäsi unissasi.",
+    "FLAVOR": "Vain moukka yrittäisi valjastaa tämän kamalaa voimaa. Öisin kirjan ahdistava kuvasto nakertaa mieltäsi unissasi.",
     "DESCRIPTIONS": [
       "Jokaisen vuoron ensimmäinen, vähintään #b",
       " maksava #yHyökkäys pelataan kahdesti. Saat #rKirouksen poimiessasi tämän.",
@@ -605,14 +605,14 @@
   },
   "Old Coin": {
     "NAME": "Vanha kolikko",
-    "FLAVOR": "Kauppiaat arvostavat ainutlaatuisia kolikoita niiden historiallisen arvon ja harvinaisten metallien takia.",
+    "FLAVOR": "Kauppiaat arvostavat ainutlaatuisia kolikoita historiallisen arvon ja harvinaisten metallien takia.",
     "DESCRIPTIONS": [
       "Poimiessa kolikon, saa #b300 #ykultaa."
     ]
   },
   "Omamori": {
     "NAME": "Omamori",
-    "FLAVOR": "Yleinen suojariipus joka pitää loitolla pahoja henkiä. Tässä näyttäisi olevan kipinää jumalallisesta energiasta.",
+    "FLAVOR": "Yleinen suojariipus, joka pitää loitolla pahoja henkiä. Tässä näyttäisi olevan kipinää jumalallisesta energiasta.",
     "DESCRIPTIONS": [
       "Estää saamasta seuraavat #b2 #rKirousta.",
       "Estää saamasta seuraavan #rKirouksen.",
@@ -718,7 +718,7 @@
   },
   "Question Card": {
     "NAME": "Kysymyskortti",
-    "FLAVOR": "\"Niillä joilla on enemmän vaihtoehtoja minimoivat kaaoksen vaikutuksen.\" - Kublai Suuri",
+    "FLAVOR": "\"Niillä, joilla on enemmän vaihtoehtoja minimoivat kaaoksen vaikutuksen.\" - Kublai Suuri",
     "DESCRIPTIONS": [
       "Tulevissa korttipalkinnoissa on #b1 lisäkortti valittavana."
     ]
@@ -866,7 +866,7 @@
   },
   "Spirit Poop": {
     "NAME": "Hengen pökäle",
-    "FLAVOR": "Hengille tarjoamasi uhrilahjan kärventyneet jäänteet.",
+    "FLAVOR": "Hengille tarjoamasi uhrauksen kärventyneet jäänteet.",
     "DESCRIPTIONS": [
       "Epämiellyttävää."
     ]
@@ -971,7 +971,7 @@
   },
   "The Specimen": {
     "NAME": "Näytekappale",
-    "FLAVOR": "\"Kiehtovaa! Löysin mutatoituneen olion jolla on uskomattomia myrkkyominaisuuksia. Laitan yhden talteen myöhempää tutkimusta varten.\" - Ranwid",
+    "FLAVOR": "\"Kiehtovaa! Löysin mutatoituneen olion, jolla on uskomattomia myrkkyominaisuuksia. Laitan yhden talteen myöhempää tutkimusta varten.\" - Ranwid",
     "DESCRIPTIONS": [
       "Kun vihollinen kuolee, siirrä sen #yMyrkyt satunnaiseen viholliseen."
     ]
@@ -1083,7 +1083,7 @@
   },
   "War Paint": {
     "NAME": "Sotamaalaus",
-    "FLAVOR": "Rautasoturit tekivät aikanaan ennen taisteluitaan suojalumouksia maagisella sotamaalilla.",
+    "FLAVOR": "Rautasoturit tekivät aikoinaan ennen taisteluitaan suojalumouksia maagisella sotamaalilla.",
     "DESCRIPTIONS": [
       "Ottaessasi tämän, #yParantele #b",
       " satunnaista #yTaitoa."
@@ -1276,7 +1276,7 @@
     "NAME": "Ranneterä",
     "FLAVOR": "Kätevä salamurhissa.",
     "DESCRIPTIONS": [
-      "#yHyökkäykset jotka maksavat #b0 tekevät #b4 lisävauriota."
+      "#yHyökkäykset, jotka maksavat #b0 tekevät #b4 lisävauriota."
     ]
   },
   "StoneCalendar": {
@@ -1419,7 +1419,7 @@
     "NAME": "Violetti lootus",
     "FLAVOR": "Vanhat tekstit kuvailevat \"mana-altaiden\" pintojen olleen näiden kukkien peitossa.",
     "DESCRIPTIONS": [
-      "Kun poistut #yTyyneydestä, saa [E] lisää."
+      "Kun poistut #yTyyneestä, saa [E] lisää."
     ]
   },
   "TeardropLocket": {
@@ -1446,7 +1446,7 @@
   },
   "StrikeDummy": {
     "NAME": "Harjoitusnukke",
-    "FLAVOR": "Se on aika kulunut.",
+    "FLAVOR": "Se on aika kuluneen oloinen.",
     "DESCRIPTIONS": [
       "\"Isku\"-kortit antavat #b",
       " lisävauriota."

@@ -22,7 +22,7 @@
         "palovamma",
         "palovammat"
       ],
-      "DESCRIPTION": "Palovammat ovat ei-pelattavia statuskortteja jotka vaurioittavat sinua."
+      "DESCRIPTION": "Palovammat ovat ei-pelattavia statuskortteja, jotka vaurioittavat sinua."
     },
     "CHANNEL": {
       "NAMES": [
@@ -44,7 +44,7 @@
         "kirouksen",
         "kirousta"
       ],
-      "DESCRIPTION": "Kirotut kortit ovat negatiivisia kortteja jotka pysyvät pakassasi."
+      "DESCRIPTION": "Kirotut kortit ovat negatiivisia kortteja, jotka pysyvät pakassasi."
     },
     "DARK": {
       "NAMES": [
@@ -57,7 +57,7 @@
       "NAMES": [
         "pää pyörällä"
       ],
-      "DESCRIPTION": "Pää pyörällä ovat ei-pelattavia statuskortteja."
+      "DESCRIPTION": "Pää pyörällä on ei-pelattava statuskortti."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -201,7 +201,7 @@
       "NAMES": [
         "isku"
       ],
-      "DESCRIPTION": "Mikä tahansa kortti jonka nimessä on \"Isku\"."
+      "DESCRIPTION": "Mikä tahansa kortti, jonka nimessä on \"Isku\"."
     },
     "TEXT": [
       "Energiaa käytetään korttien pelaamiseen kädestäsi."
@@ -211,7 +211,7 @@
         "piikit",
         "piikillä"
       ],
-      "DESCRIPTION": "Jakaa vauriota takaisin kun vastaanottaa #yHyökkäysvauriota.."
+      "DESCRIPTION": "Jakaa vauriota takaisin, kun vastaanottaa #yHyökkäysvauriota."
     },
     "TODO": {
       "NAMES": [
@@ -348,7 +348,7 @@
       "NAMES": [
         "kuolettava"
       ],
-      "DESCRIPTION": "Aktivoituu kun tämä kortti surmaa vihollisen joka ei ole käskyläinen."
+      "DESCRIPTION": "Aktivoituu kun tämä kortti surmaa vihollisen, joka ei ole käskyläinen."
     }
   }
 }
