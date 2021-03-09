@@ -971,7 +971,7 @@
   },
   "The Specimen": {
     "NAME": "Näytekappale",
-    "FLAVOR": "\"Kiehtovaa! Mutatoitunut olio, jolla ainutlaatuisia toksiinisia ominaisuuksia. Otanpa siitä näytteen.\" - Ranwid",
+    "FLAVOR": "\"Kiehtovaa! Mutatoitunut olio, jolla ainutlaatuisia toksikologisia ominaisuuksia. Otanpa siitä näytteen.\" - Ranwid",
     "DESCRIPTIONS": [
       "Kun vihollinen kuolee, siirrä sen #yMyrkyt satunnaiseen viholliseen."
     ]
