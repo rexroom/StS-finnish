@@ -973,7 +973,7 @@
     "NAME": "Näytekappale",
     "FLAVOR": "\"Kiehtovaa! Mutatoitunut olio, jolla ainutlaatuisia toksikologisia ominaisuuksia. Otanpa siitä näytteen.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Kun vihollinen kuolee, siirrä sen #yMyrkyt satunnaiseen viholliseen."
+      "Kun vihollinen kuolee, siirrä sen kertynyt #yMyrkky satunnaiseen viholliseen."
     ]
   },
   "Thread and Needle": {
