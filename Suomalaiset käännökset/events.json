@@ -574,7 +574,7 @@
     "NAME": "Turnajaiset",
     "DESCRIPTIONS": [
       "Kulkiessasi läpi suurten rakennusten, löydät pitkän kapean sillan ja huomaat sen kummassakin päässä ritarin toisiaan vastatusten. Lähestyt... NL @\"Seis!\"@ NL NL Ritari elehtii voimakkaasti sinua pysähtymään valtavalla peitsellään.",
-      "\"Tänään on se päivä, kun teen tilit selväksi #yRinsessan, rakkaan lemmikkini, #rmurhaajan kanssa. Sitä ennen et voi kulkea. NL NL Arvon todistaja, etkö #blöisi #bvetoa siitä, kuka sinusta selviytyy voittajana?\"",
+      "\"Tänään on se päivä, kun teen tilit selväksi rakkaan lemmikkini #yRinsessan #rmurhaajan kanssa. Sitä ennen et voi kulkea. NL NL Arvon todistaja, etkö #blöisi #bvetoa siitä, kuka sinusta selviytyisi voittajana?\"",
       "\"En voi uskoa, että lyöt vetoa #yRinsessaa vastaan!\" NL NL Raivoissaan hän kiristää kypäräänsä ja syöksyy arkkivihollistaan kohti.",
       "\"Anna minulle voimia, #yRinsessa!\" NL NL Kiristäen kypäräänsä, ritari syöksyy eteenpäin.",
       "NL #y@*KRÄS!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POKS!*@",
@@ -629,8 +629,8 @@
     "NAME": "Moai-pää",
     "DESCRIPTIONS": [
       "Törmäät rakenteeseen, joka tuntuu paikkaan *erittäin* sopimattomalta. Valtava kivinen pää sojottaa suuren seinän sellaisesta osasta, joka ei liiku ja muutu kuten kaikki muu tällä alueella. NL Pään suu on avoinna, paljastaen ison pelottavan hammasrivistön, joka on tahriintunut punaiseksi verestä. Patsaan pinta on täynnä kuvakirjoituksia, jotka esittävät ihmisiä heittäytymässä tämän pään suuhun ahmittavaksi. Miksi kukaan tekisi niin?",
-      "Kun astut patsaan suuhun, mitään ei tapahdu. Alkaessasi tuntea itsesi enemmän kuin hieman hölmöksi, valtavat poskihampaat iskeytyvät alas murskaten sinut täysin. NL @Pimeys.@ NL Hetken kuluttua näet pimeydestä kajastavan valonsäteen ja kuulet äänen, jonka ymmärrät nyt tulevan hitaasti nousevista kivisistä hampaista. NL NL NL Poistut hämmentyneenä.",
-      "Hypähdät hieman taakse, kun jättiläismäiset poskihampaat iskevät idoliin, murskaten sen tomuksi. Hampaiden alkaessa nousta taas ylös suuaukosta virtaa #ykultaa solkena ulos peittäen sinut rikkauksilla.",
+      "Kun astut patsaan suuhun, mitään ei tapahdu. Alkaessasi tuntea itsesi enemmän kuin hieman hölmöksi, valtavat poskihampaat iskeytyvät alas, murskaten sinut täysin. NL @Pimeys.@ NL Hetken kuluttua näet pimeydestä kajastavan valonsäteen ja kuulet äänen, jonka ymmärrät nyt tulevan hitaasti nousevista kivisistä hampaista. NL NL NL Poistut hämmentyneenä.",
+      "Hypähdät hieman taaksepäin, kun jättiläismäiset poskihampaat iskeytyvät idoliin murskaten sen tomuksi. Hampaiden alkaessa taas nousta, suuaukosta alkaa virrata #ykultaa solkenaan ulos peittäen sinut rikkauksilla.",
       "Poistut miettien mahdollisia seuraamuksia."
     ],
     "OPTIONS": [
