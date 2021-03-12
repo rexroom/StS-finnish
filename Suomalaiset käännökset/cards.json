@@ -613,7 +613,7 @@
     "UPGRADE_DESCRIPTION": "Nostopinoni NL täytyy olla #rtyhjä."
   },
   "Havoc": {
-    "NAME": "Sekasorto",
+    "NAME": "Hävitys",
     "DESCRIPTION": "Pelaa nostopinosi päällimmäinen kortti ja Kuluta se."
   },
   "Headbutt": {
@@ -1110,7 +1110,7 @@
     "DESCRIPTION": "Tee !D! vauriota."
   },
   "Sucker Punch": {
-    "NAME": "Likainen lyönti",
+    "NAME": "Yllätyslyönti",
     "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! Heikkoutta."
   },
   "Sunder": {
