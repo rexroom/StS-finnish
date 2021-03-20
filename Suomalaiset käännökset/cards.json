@@ -1350,7 +1350,7 @@
   	"UPGRADE_DESCRIPTION": "Raivo: astu Tyyneen. NL Tyyni: astu Raivoon."
   },
   "FlurryOfBlows": {
-    "NAME": "Lyöntien puuska",
+    "NAME": "Nyrkkien puuska",
     "DESCRIPTION": "Tee !D! vauriota. NL Kun vaihdat Asentoa, palauta tämä kortti poistopinosta käteesi."
   },
   "PalmThatRestrains": {
@@ -1359,7 +1359,7 @@
   },
   "Wrath": {
     "NAME": "Raivo",
-    "DESCRIPTION": "Tee ja vastaanota vauriota kaksinverroin enemmän."
+    "DESCRIPTION": "Tee ja vastaanota vauriota kaksin verroin enemmän."
   },
   "Calm": {
     "NAME": "Tyyni",
@@ -1579,8 +1579,8 @@
   },
   "Establishment": {
     "NAME": "Uskonlaitos",
-    "DESCRIPTION": "Kun kortti Säilytetään, vähennä sen hinta !M! tämän taistelun.",
-	  "UPGRADE_DESCRIPTION": "Luontainen. NL Kun kortti Säilytetään, vähennä sen hinta !M! tämän taistelun."
+    "DESCRIPTION": "Kun kortti on Säilytetty, vähennä sen hinta !M! tämän taistelun.",
+	  "UPGRADE_DESCRIPTION": "Luontainen. NL Kun kortti on Säilytetty, vähennä sen hinta !M! tämän taistelun."
   },
   "WardAura": {
     "NAME": "VANHENTUNUT Torjuva aura",
@@ -1592,7 +1592,7 @@
 	"UPGRADE_DESCRIPTION": "VANHENTUNUT"
   },
   "Evaluate": {
-    "NAME": "Arviointi",
+    "NAME": "Evaluointi",
     "DESCRIPTION": "Saa !B! Suojaa. NL Sekoita *Oivallus nostopinoosi.",
     "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Sekoita *Oivallus+ nostopinoosi."
   },
@@ -1613,7 +1613,7 @@
     "DESCRIPTION": "Säilytä. NL Saa !M! väliaikaista Vahvuutta. NL Saa vuorosi alussa 1 väliaikaista Vahvuutta."
   },
   "DeusExMachina": {
-    "NAME": "Deus Ex Machina",
+    "NAME": "Deus ex machina",
     "DESCRIPTION": "Ei-pelattava. NL Kun nostat tämän kortin, lisää !M! *Ihmettä käteesi ja Kuluta."
   },
   "CleanseEvil": {
