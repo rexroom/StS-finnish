@@ -996,11 +996,11 @@
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Puhkeava ruumis",
+    "NAME": "Kalman pommi",
     "DESCRIPTIONS": 
     [
-      "Tekee kuollessaan saman verran vauriota kuin MaksimiOP:tä KAIKILLE vihollisille.",
-      "Tekee kuollessaan saman verran vauriota kuin MaksimiOP:tä #b",
+      "Tekee kuollessaan sen MaksimiOP:n verran vauriota KAIKILLE vihollisille.",
+      "Tekee kuollessaan sen MaksimiOP:n verran vauriota #b",
       " kertaa KAIKILLE vihollisille."
     ]
   },
