@@ -1579,8 +1579,8 @@
   },
   "Establishment": {
     "NAME": "Uskonlaitos",
-    "DESCRIPTION": "Kun kortti on Säilytetty, vähennä sen hinta !M! tämän taistelun.",
-	  "UPGRADE_DESCRIPTION": "Luontainen. NL Kun kortti on Säilytetty, vähennä sen hinta !M! tämän taistelun."
+    "DESCRIPTION": "Kun kortti Säilytetään, vähennä sen hinnasta !M! tämän taistelun.",
+	  "UPGRADE_DESCRIPTION": "Luontainen. NL Kun kortti Säilytetään, vähennä sen hinnasta !M! tämän taistelun."
   },
   "WardAura": {
     "NAME": "VANHENTUNUT Torjuva aura",
