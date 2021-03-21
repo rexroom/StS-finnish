@@ -134,7 +134,7 @@
       "Antaa tulla!",
       "Etkö pahempaan pysty! NL @HAH@ @HAH@ @HAA!@",
       "Ota vapari! NL Heikko vätys!",
-      "~Nyt~ ~sen~ ~sitten~ ~viimein~ ~teit...~",
+      "~Nyt~ ~saa~ ~luvan~ NL ~riittää...~",
       "@TAPPIO??@ NL @MAHDOTONTA!!@",
       "~KUOLE~ ~.~ ~.~ ~.~",
       "Koe raivoni!",
@@ -655,7 +655,7 @@
     "NAME": "Ajansyöjä",
     "DIALOG": [
       "~Aaa..~ NL ~..seuraa...~",
-      "~Naurettavaa..~ NL @NAU-RET-TAVAA!@",
+      "~Naurettavaa..~ NL @NAU-RET-TA-VAA!@",
       "~Koskaan....~ NL ~...pitänyt..~ NL ~..sinusta...~"
     ]
   },

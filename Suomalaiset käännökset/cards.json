@@ -134,7 +134,7 @@
   },
   "Blizzard": {
     "NAME": "Lumimyrsky",
-    "DESCRIPTION": "Tee vauriota per Kanavoidut Pakkaset KAIKILLE vihollisille !M! kertaa.",
+    "DESCRIPTION": "Tee !M! vauriota per taistelussa Kanavoidut Pakkaset KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Tekee !D! vauriota.)",
@@ -290,8 +290,8 @@
     "UPGRADE_DESCRIPTION": "Kanavoi 1 Pakkanen. NL Nosta !M! korttia."
   },
   "Corpse Explosion": {
-    "NAME": "Puhkeava ruumis",
-    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kohde kuolee, tee vauriota sen MaksimiOP:n määrän KAIKILLE vihollisille.",
+    "NAME": "Kalman pommi",
+    "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kohde kuolee, tee sen MaksimiOP:n verran vauriota KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "vanhentunut",
     "EXTENDED_DESCRIPTION": [
       "vanhentunut"
@@ -1122,7 +1122,7 @@
     "DESCRIPTION": "Saa !B! Suojaa. NL Poista 1 kortti."
   },
   "Sweeping Beam": {
-    "NAME": "Kaartuva säde",
+    "NAME": "Lakaiseva säde",
     "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille. NL Nosta !M! kortti."
   },
   "Swift Strike": {
