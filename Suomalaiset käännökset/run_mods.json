@@ -68,7 +68,7 @@
     "DESCRIPTION": "Kun lisäät kortin pakkaasi, lisää siitä kaksi kopiota. Et voi enää poistaa kortteja kauppiaan luona."
   },
   "Inception": {
-    "NAME": "Alkaminen",
+    "NAME": "Unessa?",
     "DESCRIPTION": "Korvaa aloitusreliikkisi Lakkaamattomalla hyrrällä."
   },
   "Insanity": {
@@ -157,7 +157,7 @@
   },
   "MonsterHunter": {
     "NAME": "[VANHENTUNUT] Kolossi",
-    "DESCRIPTION": "Vihollisilla on enemmän OP:tä, mutta ne antavat parempia palkintoja."
+    "DESCRIPTION": "Vihollisilla on enemmän OP:tä, mutta antavat parempia palkintoja."
   },
   "DeadlyEvents": {
     "NAME": "Vaarallisia tapahtumia",

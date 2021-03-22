@@ -798,7 +798,7 @@
   },
   "Night Terror": {
     "NAME": "Painajainen",
-    "DESCRIPTION": "Valitse kortti. NL Seuraavalla vuorolla lisää !M! kopiota kortista käteesi. Kuluta.",
+    "DESCRIPTION": "Valitse kortti. NL Seuraavalla vuorolla lisää !M! kopiota kortista käteesi. NL Kuluta.",
     "EXTENDED_DESCRIPTION": [
       "Voin käyttää NL ",
       " NL vain kerran vuorossa."
@@ -1277,7 +1277,7 @@
   },
   "Pride": {
     "NAME": "Ylpeys",
-    "DESCRIPTION": "Luontainen. NL Lisää vuorosi lopussa kopio tästä kortista nostopinosi päälle. Kuluta."
+    "DESCRIPTION": "Luontainen. NL Lisää vuorosi lopussa kopio tästä kortista nostopinosi päälle. NL Kuluta."
   },
   "PanicButton": {
     "NAME": "Paniikkinappi",
