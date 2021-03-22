@@ -761,7 +761,7 @@
   },
   "Melter": {
     "NAME": "Sulattaja",
-    "DESCRIPTION": "Poista vihollisen kaikki Suojat. NL Tee !D! vauriota."
+    "DESCRIPTION": "Poista viholliselta kaikki Suoja. NL Tee !D! vauriota."
   },
   "Metallicize": {
     "NAME": "Metallisoi",
@@ -839,7 +839,7 @@
     "DESCRIPTION": "Saa !M! Artefaktia. NL Kuluta."
   },
   "Panache": {
-    "NAME": "Itsevarmuus",
+    "NAME": "Urheus",
     "DESCRIPTION": "Aina kun pelaat 5 korttia vuorosi aikana, tee !M! vauriota KAIKILLE vihollisille."
   },
   "Parasite": {
