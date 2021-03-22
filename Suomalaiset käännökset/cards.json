@@ -290,7 +290,7 @@
     "UPGRADE_DESCRIPTION": "Kanavoi 1 Pakkanen. NL Nosta !M! korttia."
   },
   "Corpse Explosion": {
-    "NAME": "Kalman pommi",
+    "NAME": "Myrkkypommi",
     "DESCRIPTION": "Lisää !M! Myrkkyä. NL Kun kohde kuolee, tee sen MaksimiOP:n verran vauriota KAIKILLE vihollisille.",
     "UPGRADE_DESCRIPTION": "vanhentunut",
     "EXTENDED_DESCRIPTION": [
