@@ -2,15 +2,15 @@
   "Dark": {
     "NAME": "Pimeys",
     "DESCRIPTION": [
-      "#yPassiivinen: Lisää tämän orbin vauriota #b",
+      "#yPassiivinen: Lisää tämän kuulan vauriota #b",
       ":lla vuoron lopussa. NL #yManaa: Tee #b",
       " vauriota viholliselle, jolla on alhaisin OP."
     ]
   },
   "Empty": {
-    "NAME": "Orbipaikka",
+    "NAME": "Kuulapaikka",
     "DESCRIPTION": [
-      "Orbit voidaan kanavoida näihin paikkoihin."
+      "Kuulat voidaan kanavoida näihin paikkoihin."
     ]
   },
   "Frost": {

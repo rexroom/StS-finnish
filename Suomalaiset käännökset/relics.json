@@ -143,7 +143,7 @@
     "NAME": "Kullatetut kaapelit",
     "FLAVOR": "\"Mielenkiintoista! Lumevaikutus vaikuttaa myös automaatteihin.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Järjestyksessä seuraava orbisi suorittaa passiivikykynsä ylimääräisen kerran."
+      "Järjestyksessä seuraava kuulasi suorittaa passiivikykynsä ylimääräisen kerran."
     ]
   },
   "Calipers": {
@@ -229,7 +229,7 @@
     "NAME": "Jäätynyt ydin",
     "FLAVOR": "Ytimen halkeama on täytetty sykkivällä kylmällä energialla.",
     "DESCRIPTIONS": [
-      "Korvaa #bHaljenneen #bytimen. Jos lopetat vuorosi vapaalla orbipaikalla, #yKanavoi #b1 #yPakkanen."
+      "Korvaa #bHaljenneen #bytimen. Jos lopetat vuorosi vapaalla kuulapaikalla, #yKanavoi #b1 #yPakkanen."
     ]
   },
   "Cursed Key": {
@@ -315,7 +315,7 @@
     "NAME": "Tunnepiiri",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Jos menetit OP:tä edellisellä vuorolla, aktivoi vuorosi alussa kaikkien orbien passiiviset kyvyt."
+      "Jos menetit OP:tä edellisellä vuorolla, aktivoi vuorosi alussa kaikkien kuulien passiiviset kyvyt."
     ]
   },
   "Enchiridion": {
@@ -403,7 +403,7 @@
     "NAME": "Siirtäjä",
     "FLAVOR": "Työnnä. Vedä. Kasaa. Toista.",
     "DESCRIPTIONS": [
-      "Saa joka #b2 vuoron välein #b1 orbipaikka."
+      "Saa joka #b2 vuoron välein #b1 kuulapaikka."
     ]
   },
   "Juzu Bracelet": {
@@ -774,7 +774,7 @@
     "NAME": "Riimuinen kondensaattori",
     "FLAVOR": "Isompi on parempi.",
     "DESCRIPTIONS": [
-      "Aloita jokainen taistelu #b3:lla lisäorbipaikalla."
+      "Aloita jokainen taistelu #b3:lla lisäkuulapaikalla."
     ]
   },
   "Runic Cube": {

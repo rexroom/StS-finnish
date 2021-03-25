@@ -379,8 +379,8 @@
   "Focus": {
     "NAME": "Fokus",
     "DESCRIPTIONS": [
-      "Parantaa Orbien tehokkuutta #b",
-      "Heikentää Orbien tehokkuutta #b",
+      "Parantaa Kuulien tehokkuutta #b",
+      "Heikentää Kuulien tehokkuutta #b",
       "."
     ]
   },
@@ -519,8 +519,8 @@
   "Loop": {
     "NAME": "Kierre",
     "DESCRIPTIONS": [
-      "Aktivoi vuorosi alussa seuraavan Orbin passiivisen kyvyn.",
-      "Aktivoi vuorosi alussa seuraavan Orbin passiivisen kyvyn #b",
+      "Aktivoi vuorosi alussa seuraavan Kuulan passiivisen kyvyn.",
+      "Aktivoi vuorosi alussa seuraavan Kuulan passiivisen kyvyn #b",
       " kertaan."
     ]
   },
@@ -674,7 +674,7 @@
   "Prime": {
     "NAME": "Viritys",
     "DESCRIPTIONS": [
-      "Kun #yKanavoit Orbin, nosta #b",
+      "Kun #yKanavoit Kuulan, nosta #b",
       " kortti.",
       " korttia."
     ]
