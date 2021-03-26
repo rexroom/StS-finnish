@@ -63,7 +63,7 @@
   },
   "Main Tutorial": {
     "TEXT": [
-      "Voita vihollisia pelaamalla kortteja kädestäsi! NL NL Korttien pelaaminen vaatii #yEnergiaa. NL Kun se loppuu, lopeta vuorosi. NL NL Seuraavan vuorosi alussa nostat uuden käden ja #yEnergiasi palautuu.",
+      "Voita vihollisesi pelaamalla kortteja kädestäsi! NL NL Korttien pelaaminen vaatii #yEnergiaa. NL Kun se loppuu, lopeta vuorosi. NL NL Seuraavan vuorosi alussa nostat uuden käden ja #yEnergiasi palautuu.",
       "Pelaa puolustuskortteja lisätäksesi #ySuojaa vihollisten aikoessa hyökätä. NL NL #ySuoja vähentää saamaasi vauriota mutta NL #rkuluu #rpois seuraavan vuorosi alussa.",
       "Voit vuorosi aikana nähdä vihollisten #yAikomukset heidän päänsä yllä. NL NL Mikäli vihollinen aikoo hyökätä kimppuusi, pelaa kortteja joista saa #ySuojaa!"
     ],
@@ -164,8 +164,8 @@
       "Kursorin pitäminen esineiden yllä saattaa paljastaa hyödyllistä tietoa.",
       "Oikeanpuoleinen hiirennappi vapauttaa pitelemäsi kortin.",
       "Leiju vihollisen yllä nähdäksesi niiden nimen ja tiedon voimista.",
-      "Käytä hiirirullaa tai klikkaa ja raahaa ruutua vierittääkseen.",
-      "Jos voit tarkastaa esinettä, kursorisi muuttuu suurennuslasiksi.",
+      "Käytä hiirirullaa tai klikkaa ja raahaa ruutua vierittämiseen.",
+      "Jos voit tarkastella esinettä, kursorisi muuttuu suurennuslasiksi.",
       "Käytä hiirirullaa tai klikkaa ja raahaa karttoja, korttiluetteloa ja muita."
     ],
     "LABEL": [
@@ -186,7 +186,7 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "Älä unohda palkintojasi! NL Klikkaa niissä poimiaksesi ne.",
+      "Älä unohda palkintojasi! NL Klikkaa niitä poimiaksesi ne.",
       "Älä unohda palkintojasi!"
     ],
     "LABEL": [
