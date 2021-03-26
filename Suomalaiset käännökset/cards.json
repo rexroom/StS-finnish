@@ -441,7 +441,7 @@
     "UPGRADE_DESCRIPTION": "Joka vuorolla ensimmäinen pelattava kortti pelataan kahdesti."
   },
   "Electrodynamics": {
-    "NAME": "Sähködynamiikkaa",
+    "NAME": "Sähködynamiikka",
     "DESCRIPTION": "Salama iskee nyt KAIKKIIN vihollisiin. NL Kanavoi !M! Salamaa.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -856,7 +856,7 @@
     "DESCRIPTION": "Sinun Hyökkäyksesi seuraavalla vuorolla tekevät tuplasti vauriota."
   },
   "PiercingWail": {
-    "NAME": "Pistävä kiljahdus",
+    "NAME": "Pistävä kirkaisu",
     "DESCRIPTION": "KAIKKI viholliset menettävät !M! Vahvuutta tällä vuorolla. NL Kuluta."
   },
   "Poisoned Stab": {
