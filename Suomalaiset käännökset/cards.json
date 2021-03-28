@@ -65,7 +65,7 @@
   },
   "Axe Kick": {
     "NAME": "Kirvespotku",
-    "DESCRIPTION": "Tee !D! vauriota. NL Manaa seuraava kuulasi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Manaa etummaisin Kuulasi."
   },
   "Backflip": {
     "NAME": "Takaperinvoltti",
@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Sulkutuli",
-    "DESCRIPTION": "Tee !D! vauriota per Kanavoitu kuula."
+    "DESCRIPTION": "Tee !D! vauriota per Kanavoitu Kuula."
   },
   "Barricade": {
     "NAME": "Barrikadi",
@@ -210,8 +210,8 @@
   },
   "Capacitor": {
     "NAME": "Kondensaattori",
-    "DESCRIPTION": "Saa !M! kuulapaikkaa.",
-    "UPGRADE_DESCRIPTION": "Saa !M! kuulapaikkaa."
+    "DESCRIPTION": "Saa !M! Kuulapaikkaa.",
+    "UPGRADE_DESCRIPTION": "Saa !M! Kuulapaikkaa."
   },
   "Carnage": {
     "NAME": "Verilöyly",
@@ -224,8 +224,8 @@
   },
   "Chaos": {
     "NAME": "Kaaos",
-    "DESCRIPTION": "Kanavoi !M! satunnainen kuula.",
-    "UPGRADE_DESCRIPTION": "Kanavoi !M! satunnaista kuulaa."
+    "DESCRIPTION": "Kanavoi !M! satunnainen Kuula.",
+    "UPGRADE_DESCRIPTION": "Kanavoi !M! satunnaista Kuulaa."
   },
   "Chill": {
     "NAME": "Jäädytä",
@@ -282,7 +282,7 @@
   },
   "Consume": {
     "NAME": "Kuluta",
-    "DESCRIPTION": "Saa !M! Fokusta. NL Menetä 1 kuulapaikka."
+    "DESCRIPTION": "Saa !M! Fokusta. NL Menetä 1 Kuulapaikka."
   },
   "Coolheaded": {
     "NAME": "Kylmäpäinen",
@@ -433,7 +433,7 @@
   },
   "Dualcast": {
     "NAME": "Kaksoistaikomus",
-    "DESCRIPTION": "Manaa seuraava kuulasi kahdesti."
+    "DESCRIPTION": "Manaa etummaisin Kuulasi kahdesti."
   },
   "Echo Form": {
     "NAME": "Kaikumuoto",
@@ -529,8 +529,8 @@
   },
   "Fission": {
     "NAME": "Fissio",
-    "DESCRIPTION": "Poista kaikki kuulasi. Saa [B] ja nosta !M! kortti per poistettu kuula. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Manaa kaikki kuulasi. Saa [B] ja nosta !M! kortti per Manattu kuula. NL Kuluta."
+    "DESCRIPTION": "Poista kaikki Kuulasi. Saa [B] ja nosta !M! kortti per poistettu Kuula. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Manaa kaikki Kuulasi. Saa [B] ja nosta !M! kortti per Manattu Kuula. NL Kuluta."
   },
   "Flame Barrier": {
     "NAME": "Liekkimuuri",
@@ -555,7 +555,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Vuokondensaattori",
-    "DESCRIPTION": "Korvaa kaikki Kanavoidut kuulat Plasmalla. NL Kuluta."
+    "DESCRIPTION": "Korvaa kaikki Kanavoidut Kuulat Plasmalla. NL Kuluta."
   },
   "Flying Knee": {
     "NAME": "Lentävä polvi",
@@ -721,8 +721,8 @@
   },
   "Loop": {
     "NAME": "Silmukka",
-    "DESCRIPTION": "Aktivoi vuorosi alussa seuraavan kuulan passiiviset kyvyt.",
-    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa seuraavan kuulan passiiviset kyvyt !M! kertaan."
+    "DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiiviset kyvyt.",
+    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiiviset kyvyt !M! kertaan."
   },
   "Machine Learning": {
     "NAME": "Koneoppiminen",
@@ -785,8 +785,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multi-lähetys",
-    "DESCRIPTION": "Manaa seuraava kuulasi X kertaa.",
-    "UPGRADE_DESCRIPTION": "Manaa seuraava kuulasi X+1 kertaa."
+    "DESCRIPTION": "Manaa etummaisin Kuulasi X kertaa.",
+    "UPGRADE_DESCRIPTION": "Manaa etummaisin Kuulasi X+1 kertaa."
   },
   "Necronomicurse": {
     "NAME": "Necronomikirous",
@@ -929,7 +929,7 @@
   },
   "Redo": {
     "NAME": "Rekursio",
-    "DESCRIPTION": "Manaa seuraava kuulasi. NL Kanavoi kuula jonka juuri Manasit."
+    "DESCRIPTION": "Manaa etummaisin Kuulasi. NL Kanavoi Kuula jonka juuri Manasit."
   },
   "Reflex": {
     "NAME": "Refleksi",
@@ -1163,7 +1163,7 @@
     "NAME": "Salamanisku",
     "DESCRIPTION": "Tee !D! vauriota satunnaiselle. Toista per taistelun aikana Kanavoitu Salama.",
     "EXTENDED_DESCRIPTION": [
-      " (Kanavoitu !M! kuulaa.)"
+      " (Kanavoitu !M! Kuulaa.)"
     ]
   },
   "Thunderclap": {
@@ -1269,7 +1269,7 @@
   },
   "Compile Driver": {
     "NAME": "Käännä ohjain",
-    "DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! kortti jokaista kuulatyyppiä kohden."
+    "DESCRIPTION": "Tee !D! vauriota. NL Nosta !M! kortti jokaista Kuulatyyppiä kohden."
   },
   "RitualDagger": {
     "NAME": "Rituaalitikari",

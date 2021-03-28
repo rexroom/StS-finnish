@@ -335,13 +335,13 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Päivittäinen haaste",
+      "Päivän haaste",
       "Yhdistetään aikapalvelimeen...",
       "#yHUOM: Olet suorittanut jo tämänpäiväisen haasteen. NL Uusien yritysten pisteitä ei lähetetä.",
       "Palaa",
       "Lähde matkaan",
       "Tämän päivän hahmo: ",
-      "dd.MM.yyyy HH:mm:ss",
+      "dd.MM.yyyy HH.mm.ss",
       "Aikaa jäljellä: ",
       "#ySaavutettu #ykerros: NL  ",
       " NL NL  #yPakka: NL ",
@@ -350,10 +350,10 @@
       " NL #yMuunnelmat: ",
       "Määreet: ",
       "Pistetaulukko",
-      "*Saavutukset ovat poissa käytöstä päivittäisissä haasteissa.",
+      "*Saavutukset ovat poissa käytöstä päivän haasteissa.",
       "  [YHTEYDETÖN TILA]",
       "d. MMMM yyyy",
-      "*Pokaalit ovat poissa käytössä Päivittäisissä haasteissa."
+      "*Pokaalit ovat poissa käytöstä päivän haasteissa."
     ]
   },
   "DeathScreen": {

@@ -30,7 +30,7 @@
         "kanavoitu",
         "kanavoidut"
       ],
-      "DESCRIPTION": "Kuulan kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, seuraavin kuula automaattisesti #yManataan tehdäkseen tilaa uudelle."
+      "DESCRIPTION": "Kuulan kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, etummaisin Kuula automaattisesti #yManataan tehdäkseen tilaa uudelle."
     },
     "CONFUSED": {
       "NAMES": [
@@ -95,7 +95,7 @@
         "fokus",
         "fokusta"
       ],
-      "DESCRIPTION": "Fokus lisää #yKanavoitujen kuulien tehokkuutta."
+      "DESCRIPTION": "Fokus lisää #yKanavoitujen Kuulien tehokkuutta."
     },
     "FRAIL": {
       "NAMES": [
@@ -144,7 +144,7 @@
         "lukittu",
         "lukittua"
       ],
-      "DESCRIPTION": "Lukitut kohteet ottavat #b50% enemmän vauriota kuulilta."
+      "DESCRIPTION": "Lukitut kohteet ottavat #b50% enemmän vauriota Kuulilta."
     },
     "OPENER": {
       "NAMES": [

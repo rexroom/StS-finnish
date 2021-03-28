@@ -379,8 +379,8 @@
   "Focus": {
     "NAME": "Fokus",
     "DESCRIPTIONS": [
-      "Parantaa kuulien tehokkuutta #b",
-      "Heikentää kuulien tehokkuutta #b",
+      "Parantaa Kuulien tehokkuutta #b",
+      "Heikentää Kuulien tehokkuutta #b",
       "."
     ]
   },
@@ -519,8 +519,8 @@
   "Loop": {
     "NAME": "Kierre",
     "DESCRIPTIONS": [
-      "Aktivoi vuorosi alussa seuraavan kuulan passiivisen kyvyn.",
-      "Aktivoi vuorosi alussa seuraavan kuulan passiivisen kyvyn #b",
+      "Aktivoi vuorosi alussa etummaisen Kuulan passiivisen kyvyn.",
+      "Aktivoi vuorosi alussa etummaisen Kuulan passiivisen kyvyn #b",
       " kertaan."
     ]
   },
@@ -674,7 +674,7 @@
   "Prime": {
     "NAME": "Viritys",
     "DESCRIPTIONS": [
-      "Kun #yKanavoit kuulan, nosta #b",
+      "Kun #yKanavoit Kuulan, nosta #b",
       " kortti.",
       " korttia."
     ]
