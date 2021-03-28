@@ -30,7 +30,7 @@
         "kanavoitu",
         "kanavoidut"
       ],
-      "DESCRIPTION": "Kuulan kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, etummaisin Kuula automaattisesti #yManataan tehdäkseen tilaa uudelle."
+      "DESCRIPTION": "Kuulan kanavointi laittaa sen ensimmäiseen vapaaseen paikkaan. Jos sinulla ei ole vapaita paikkoja, etummainen Kuula automaattisesti #yManataan tehdäkseen tilaa uudelle."
     },
     "CONFUSED": {
       "NAMES": [

@@ -65,7 +65,7 @@
   },
   "Axe Kick": {
     "NAME": "Kirvespotku",
-    "DESCRIPTION": "Tee !D! vauriota. NL Manaa etummaisin Kuulasi."
+    "DESCRIPTION": "Tee !D! vauriota. NL Manaa etummainen Kuulasi."
   },
   "Backflip": {
     "NAME": "Takaperinvoltti",
@@ -433,7 +433,7 @@
   },
   "Dualcast": {
     "NAME": "Kaksoistaikomus",
-    "DESCRIPTION": "Manaa etummaisin Kuulasi kahdesti."
+    "DESCRIPTION": "Manaa etummainen Kuulasi kahdesti."
   },
   "Echo Form": {
     "NAME": "Kaikumuoto",
@@ -785,8 +785,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multi-lähetys",
-    "DESCRIPTION": "Manaa etummaisin Kuulasi X kertaa.",
-    "UPGRADE_DESCRIPTION": "Manaa etummaisin Kuulasi X+1 kertaa."
+    "DESCRIPTION": "Manaa etummainen Kuulasi X kertaa.",
+    "UPGRADE_DESCRIPTION": "Manaa etummainen Kuulasi X+1 kertaa."
   },
   "Necronomicurse": {
     "NAME": "Necronomikirous",
@@ -929,7 +929,7 @@
   },
   "Redo": {
     "NAME": "Rekursio",
-    "DESCRIPTION": "Manaa etummaisin Kuulasi. NL Kanavoi Kuula jonka juuri Manasit."
+    "DESCRIPTION": "Manaa etummainen Kuulasi. NL Kanavoi Kuula jonka juuri Manasit."
   },
   "Reflex": {
     "NAME": "Refleksi",
