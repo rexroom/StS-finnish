@@ -169,7 +169,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Pomppiva puteli",
-    "DESCRIPTION": "Lisää 3 Myrkkyä satunnaiselle viholliselle !M! kertaa."
+    "DESCRIPTION": "Lisää 3 Myrkkyä satunnaiselle viholliselle. NL Toista !M! kertaan."
   },
   "Brutality": {
     "NAME": "Brutaalius",
@@ -1131,7 +1131,7 @@
   },
   "Sword Boomerang": {
     "NAME": "Bumerangimiekka",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle !M! kertaa."
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle. NL Toista !M! kertaan."
   },
   "Tactician": {
     "NAME": "Taktikko",
@@ -1384,7 +1384,7 @@
   },
   "Ragnarok": {
     "NAME": "Ragnarök",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle !M! kertaan."
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle. NL Toista !M! kertaan."
   },
   "FlameMastery": {
     "NAME": "VANHENTUNUT Tulen hallinta",
