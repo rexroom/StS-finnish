@@ -721,8 +721,8 @@
   },
   "Loop": {
     "NAME": "Silmukka",
-    "DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiiviset kyvyt.",
-    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiiviset kyvyt !M! kertaan."
+    "DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiivinen kyky.",
+    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiivinen kyky !M! kertaan."
   },
   "Machine Learning": {
     "NAME": "Koneoppiminen",
