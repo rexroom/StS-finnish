@@ -407,7 +407,7 @@
       "OP Bonus"
     ],
     "EXTRA_TEXT": [
-      "Tapetut Exordium-eliitit",
+      "Tapetut Eksordium-eliitit",
       "Tapetut kaupunkieliitit",
       "Tapetut tuonpuoleisen eliitit",
       "Pikakiitäjä",
@@ -506,7 +506,7 @@
       "Tutoriaalit",
       "Haluatko nähdä vinkkejä siitä, miten pelata peliä?",
       "Ensimmäinen näytös",
-      "Exordium",
+      "Eksordium",
       "Toinen näytös",
       "Kaupunki",
       "Kolmas näytös",
@@ -555,7 +555,7 @@
   },
   "Exordium": {
     "TEXT": [
-      "Exordium"
+      "Eksordium"
     ]
   },
   "GamblingChipAction": {
@@ -1077,8 +1077,8 @@
     "TEXT": [
       "Riiviökopla",
       "Iso lima",
-      "Exordium-roistoja",
-      "Exordium-villieläimiä",
+      "Eksordium-roistoja",
+      "Eksordium-villieläimiä",
       "Limaparvi",
       "Pienet limat",
       "Kaupunkilaisryöstäjät",
