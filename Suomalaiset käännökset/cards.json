@@ -169,7 +169,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Pomppiva puteli",
-    "DESCRIPTION": "Lisää 3 Myrkkyä satunnaiselle viholliselle. NL Toista !M! kertaan."
+    "DESCRIPTION": "Lisää 3 Myrkkyä satunnaiselle viholliselle !M! kertaa."
   },
   "Brutality": {
     "NAME": "Brutaalius",
@@ -721,8 +721,8 @@
   },
   "Loop": {
     "NAME": "Silmukka",
-    "DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiivinen kyky.",
-    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiivinen kyky !M! kertaan."
+    "DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiivisen kyvyn.",
+    "UPGRADE_DESCRIPTION": "Aktivoi vuorosi alussa etummaisen Kuulan passiivisen kyvyn !M! kertaa."
   },
   "Machine Learning": {
     "NAME": "Koneoppiminen",
@@ -883,8 +883,8 @@
   },
   "Pummel": {
     "NAME": "Mukilointi",
-    "DESCRIPTION": "Tee !D! vauriota !M! kertaan. NL Kuluta.",
-    "UPGRADE_DESCRIPTION": "Tee !D! vauriota !M! kertaan. NL Kuluta."
+    "DESCRIPTION": "Tee !D! vauriota !M! kertaa. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vauriota !M! kertaa. NL Kuluta."
   },
   "Purity": {
     "NAME": "Puhtaus",
@@ -958,7 +958,7 @@
   },
   "Rip and Tear": {
     "NAME": "Revi auki",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle kahdesti."
+    "DESCRIPTION": "Tee !D! vauriota satunnaisille vihollisille kahdesti."
   },
   "Rupture": {
     "NAME": "Repeytymä",
@@ -1131,7 +1131,7 @@
   },
   "Sword Boomerang": {
     "NAME": "Bumerangimiekka",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle. NL Toista !M! kertaan."
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle !M! kertaa."
   },
   "Tactician": {
     "NAME": "Taktikko",
@@ -1384,7 +1384,7 @@
   },
   "Ragnarok": {
     "NAME": "Ragnarök",
-    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle. NL Toista !M! kertaan."
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle !M! kertaa."
   },
   "FlameMastery": {
     "NAME": "VANHENTUNUT Tulen hallinta",
