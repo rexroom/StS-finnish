@@ -895,7 +895,7 @@
     "DESCRIPTION": "Tee !D! vauriota. NL Nosta 1 kortti."
   },
   "Rage": {
-    "NAME": "Raivo",
+    "NAME": "Vimma",
     "DESCRIPTION": "Kun pelaat tällä vuorolla Hyökkäyksen, saa !M! Suojaa."
   },
   "Rainbow": {
@@ -1067,7 +1067,7 @@
     ]
   },
   "Static Discharge": {
-    "NAME": "Staattinen purku",
+    "NAME": "Staattinen sähkö",
     "DESCRIPTION": "Kun saat torjumatonta vauriota hyökkäyksestä, Kanavoi !M! Salama.",
     "UPGRADE_DESCRIPTION": "Kun saat torjumatonta vauriota hyökkäyksestä, Kanavoi !M! Salamaa."
   },
