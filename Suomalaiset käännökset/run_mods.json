@@ -164,8 +164,8 @@
     "DESCRIPTION": "?-huoneet voivat sisältää eliittejä, mutta myös todennäköisemmin aarrehuoneita."
   },
   "Daily Mods": {
-    "NAME": "Päivittäiset muunnelmat",
-    "DESCRIPTION": "Aloita matka tasan 3:lla satunnaisella Päivittäisellä muunnelmalla."
+    "NAME": "Päivän muunnelmat",
+    "DESCRIPTION": "Aloita matka tasan kolmella satunnaisella Päivän muunnelmalla."
   },
   "The Ending": {
     "NAME": "Lopetus",
