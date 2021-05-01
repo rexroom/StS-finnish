@@ -726,7 +726,7 @@
       "Haetaan dataa...",
       "Tuloslista",
       "Ei yhteydessä Steam-palveluun",
-      "Ei tuloksia saatavilla \n Mene kukistamaan Tornia!"
+      "Tuloksia ei saatavilla \n Mene kukistamaan Tornia!"
     ]
   },
   "Legend": {
@@ -1112,7 +1112,7 @@
       "Hiljaisuus",
       "Häiriö",
       "Palaa",
-      "Ei tuloksia saatavilla. NL Mene Kukistamaan Tornia!",
+      "Pelikertoja ei saatavilla. NL Mene Kukistamaan Tornia!",
       "Nousemustaso: ",
       "Kukistettiin %1$d. kerroksessa, tappajana: %2$s",
       "Jätti pelin kesken %d. kerroksessa",
