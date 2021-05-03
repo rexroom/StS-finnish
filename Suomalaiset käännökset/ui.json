@@ -1135,7 +1135,7 @@
       "Voitot ja tappiot",
       "Voitot",
       "Tappiot",
-      "Päivittäinen",
+      "Päivän nousu",
       "Kaikki pelityypit",
       "Vain tavallinen",
       "Vain Nousemukset",
@@ -1371,7 +1371,7 @@
   },
   "RichPresence": {
     "TEXT": [
-      "Päivittäinen - Kerros %s",
+      "Päivän - Kerros %s",
       "Kustomoitu - Kerros %s",
       " K%s",
       "Päävalikko",

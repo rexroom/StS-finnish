@@ -644,8 +644,8 @@
   "The Woman in Blue": {
     "NAME": "Nainen sinisissä",
     "DESCRIPTIONS": [
-      "Pimeydestä ilmestyy käsivarsi, joka vetää sinut pieneen kauppaan. Silmiesi totuttua, näet hienosti pukeutuneen kalpean naisen elehtivän kohti taikaliemiä täynnä olevaa seinää. NL \"Osta pullo. Nyt!\" hän sanoo.",
-      "\"Hyvä. Nyt poistu.\" NL Lähdet varovaisesti pois kaupasta.",
+      "Pimeydestä ilmestyy käsivarsi, joka vetää sinut pieneen kauppaan. Silmiesi totuttua hämärään, näet hienosti pukeutuneen kalpean naisen elehtivän kohti taikaliemiä täynnä olevaa seinää. NL \"Osta pullo. Nyt!\" hän sanoo.",
+      "\"Hyvä. Nyt poistu.\" NL Lähdet varovasti ulos kaupasta.",
       "#r@PAM@ NL Hänen käsineeseensä puettu nyrkkinsä iskeytyy naamaasi, miltei pudottaen sinut. NL \"Painu ulos täältä ennen kuin tahraan lattian sisuksillasi.\" Otat sanasta vaarin ja poistut, vielä kun sinulla on sisuskalusi."
     ],
     "OPTIONS": [
@@ -847,7 +847,7 @@
     ]
   },
   "NoteForYourself": {
-    "NAME": "Viesti itsellesi",
+    "NAME": "Viesti itseltäsi",
     "DESCRIPTIONS": [
       "Huomiosi kiinnittyy pylväässä löysästi istuvaan tiileen.",
       "Löydät sen takaa taitetun lapun ja #ykortin sen välissä. Siinä lukee, NL \"Sydän odottaa.\" NL NL Tämä on sinun käsialaasi.",
