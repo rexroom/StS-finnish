@@ -117,14 +117,14 @@
   },
   "Bite": {
     "NAME": "Puraisu",
-    "DESCRIPTION": "Tee !D! vauriota. NL Paranna !M! OP:tä."
+    "DESCRIPTION": "Tee !D! vauriota. NL Parane !M! OP:tä."
   },
   "Blade Dance": {
     "NAME": "Terätanssi",
     "DESCRIPTION": "Lisää !M! *Puukkoa käteesi."
   },
   "Blaster": {
-    "NAME": "Blaster",
+    "NAME": "Räjäytin",
     "DESCRIPTION": "vanhentunut"
   },
   "Blind": {
@@ -155,7 +155,7 @@
     "DESCRIPTION": "Tee !D! vauriota."
   },
   "Blur": {
-    "NAME": "Sumenna",
+    "NAME": "Sumennus",
     "DESCRIPTION": "Saa !B! Suojaa. NL Suojaa ei poisteta seuraavan vuorosi alussa."
   },
   "Body Slam": {
@@ -419,7 +419,7 @@
     "DESCRIPTION": "Ei-pelattava. NL Saa vuorosi lopussa 1 Heikkouden."
   },
   "Dramatic Entrance": {
-    "NAME": "Dramaattinen tulo",
+    "NAME": "Räjähtävä alku",
     "DESCRIPTION": "Luontainen. NL Tee !D! vauriota KAIKILLE vihollisille. NL Kuluta."
   },
   "Dropkick": {
