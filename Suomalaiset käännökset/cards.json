@@ -1363,7 +1363,7 @@
   },
   "Calm": {
     "NAME": "Tyyni",
-    "DESCRIPTION": "Kun poistut Tyyneydestä, saa [W] [W]."
+    "DESCRIPTION": "Kun poistut Tyynestä, saa [W] [W]."
   },
   "Polymath": {
     "NAME": "VANHENTUNUT Yleisnero",
@@ -1408,7 +1408,7 @@
     "UPGRADE_DESCRIPTION": "Sekoita !M! *Ihmettä+ nostopinoosi. NL Kuluta."
   },
   "LetFateDecide": {
-    "NAME": "VANHENTUNUT Anna kohtalon määrittää",
+    "NAME": "VANHENTUNUT Kohtalon oma",
     "DESCRIPTION": "Pelaa X nostopinosi päällimmäistä korttia. Jos X on 3 tai enemmän, Säilytä X korttia."
   },
   "RetreatingHand": {
@@ -1502,12 +1502,12 @@
     "UPGRADE_DESCRIPTION": ""
   },
   "ReachHeaven": {
-    "NAME": "Yllä taivaaseen",
-    "DESCRIPTION": "Tee !D! vauriota. NL Sekoita *Väkivalloin nostopinoosi.",
+    "NAME": "Pyri taivaaseen",
+    "DESCRIPTION": "Tee !D! vauriota. NL Sekoita *Väkisin nostopinoosi.",
 	"UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
-    "NAME": "Väkivalloin",
+    "NAME": "Väkisin",
     "DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Kuluta."
   },
   "Clarity": {
