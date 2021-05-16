@@ -1288,7 +1288,7 @@
     "DESCRIPTION": "Tee !D! vauriota. NL Jos Kuolettava, saa !M! kultaa."
   },
   "Violence": {
-    "NAME": "Väkivaltaa",
+    "NAME": "Väkivalta",
     "DESCRIPTION": "Ota !M! satunnaista Hyökkäystä nostopinostasi käteesi. NL Kuluta."
   },
   "Impatience": {
@@ -1502,12 +1502,12 @@
     "UPGRADE_DESCRIPTION": ""
   },
   "ReachHeaven": {
-    "NAME": "Pyri taivaaseen",
-    "DESCRIPTION": "Tee !D! vauriota. NL Sekoita *Väkisin nostopinoosi.",
+    "NAME": "Saavuta taivas",
+    "DESCRIPTION": "Tee !D! vauriota. NL Sekoita *Voimakeinoin nostopinoosi.",
 	"UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
-    "NAME": "Väkisin",
+    "NAME": "Voimakeinoin",
     "DESCRIPTION": "Säilytä. NL Tee !D! vauriota. NL Kuluta."
   },
   "Clarity": {
